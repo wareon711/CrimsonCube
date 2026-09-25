@@ -1,0 +1,387 @@
+{
+  "enabled": true,
+  "mod_name": "Kaleidoscope Cookery",
+  "mod_id": "kaleidoscope_cookery",
+  "achievements": {
+    "caterpillar": {
+      "display_name": "¡Oruga!",
+      "original_name": "¡Oruga!",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:caterpillar",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "add_oil": {
+      "display_name": "¡Añade Aceite!",
+      "original_name": "¡Añade Aceite!",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:oil",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "dough": {
+      "display_name": "La La La La La La Fideos",
+      "original_name": "La La La La La La Fideos",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:raw_dough",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "make_soup": {
+      "display_name": "¡Haz Sopa!",
+      "original_name": "¡Haz Sopa!",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:stockpot_lid",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iron_hoe": {
+      "display_name": "Agricultura Intensiva",
+      "original_name": "Agricultura Intensiva",
+      "enabled": true,
+      "icon": "minecraft:iron_hoe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "burn_hand_soup": {
+      "display_name": "¡Caliente! ¡Caliente! ¡Caliente!",
+      "original_name": "¡Caliente! ¡Caliente! ¡Caliente!",
+      "enabled": true,
+      "icon": "minecraft:flint_and_steel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "burn_hand": {
+      "display_name": "¡Auch!",
+      "original_name": "¡Auch!",
+      "enabled": true,
+      "icon": "minecraft:flint_and_steel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "netherite_knife": {
+      "display_name": "Solo el Mejor Acero para la Hoja",
+      "original_name": "Solo el Mejor Acero para la Hoja",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:netherite_kitchen_knife",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "apprentice_chef": {
+      "display_name": "Aprendiz de Chef",
+      "original_name": "Aprendiz de Chef",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:borscht",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "dangerous_chef": {
+      "display_name": "¡Un Chef Peligroso!",
+      "original_name": "¡Un Chef Peligroso!",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:oil",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "transmutation_lunch_bag": {
+      "display_name": "¡Bolsa de Almuerzo!",
+      "original_name": "¡Bolsa de Almuerzo!",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:transmutation_lunch_bag",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nitrogen_3000": {
+      "display_name": "Emisión en Órbita Baja",
+      "original_name": "Emisión en Órbita Baja",
+      "enabled": true,
+      "icon": "minecraft:feather",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "feed_chicken": {
+      "display_name": "Proteína de Alta Calidad",
+      "original_name": "Proteína de Alta Calidad",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:caterpillar",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "rice_panicle": {
+      "display_name": "Sueños Bajo el Arroz",
+      "original_name": "Sueños Bajo el Arroz",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:rice_panicle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "flower_straw_hat": {
+      "display_name": "Recuperando la Cordura...",
+      "original_name": "Recuperando la Cordura...",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:straw_hat_flower",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "millstone": {
+      "display_name": "996",
+      "original_name": "996",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:millstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "dual_chili": {
+      "display_name": "Doble Chile",
+      "original_name": "Doble Chile",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:red_chili",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nitrogen_100": {
+      "display_name": "Aceleración de Nitrógeno",
+      "original_name": "Aceleración de Nitrógeno",
+      "enabled": true,
+      "icon": "minecraft:feather",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "chopping_board": {
+      "display_name": "¡Corta! ¡Corta! ¡Corta!",
+      "original_name": "¡Corta! ¡Corta! ¡Corta!",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:chopping_board",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "tomato_seed": {
+      "display_name": "Proyecto Semilla",
+      "original_name": "Proyecto Semilla",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:tomato_seed",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "baozi": {
+      "display_name": "\"Los bollos de carne lanzados a un perro no regresan.\"",
+      "original_name": "\"Los bollos de carne lanzados a un perro no regresan.\"",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:baozi",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "steamer": {
+      "display_name": "Primeros Pasos del Vapor",
+      "original_name": "Primeros Pasos del Vapor",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:steamer",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "fish_rice": {
+      "display_name": "Simbiosis Pez-Arroz",
+      "original_name": "Simbiosis Pez-Arroz",
+      "enabled": true,
+      "icon": "minecraft:salmon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "stockpot": {
+      "display_name": "Primeros Pasos de la Elaboración de Sopas",
+      "original_name": "Primeros Pasos de la Elaboración de Sopas",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:stockpot",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nitrogen_300": {
+      "display_name": "Rompe Nubes",
+      "original_name": "Rompe Nubes",
+      "enabled": true,
+      "icon": "minecraft:feather",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "stove": {
+      "display_name": "Calienta el Wok",
+      "original_name": "Calienta el Wok",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:stove",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "root": {
+      "display_name": "Cocina Kaleidoscope",
+      "original_name": "Cocina Kaleidoscope",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:pot",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "oil": {
+      "display_name": "Aceite en la Hoja",
+      "original_name": "Aceite en la Hoja",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:oil",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "straw_hat": {
+      "display_name": "¡Conviértete en el Rey de los Piratas!",
+      "original_name": "¡Conviértete en el Rey de los Piratas!",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:straw_hat",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "stir_fry": {
+      "display_name": "¡Saltea!",
+      "original_name": "¡Saltea!",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:kitchen_shovel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "scarecrow": {
+      "display_name": "Vigilante del Campo",
+      "original_name": "Vigilante del Campo",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:scarecrow",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "dark_cuisine": {
+      "display_name": "Cocina Oscura",
+      "original_name": "Cocina Oscura",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:suspicious_stir_fry_rice_bowl",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iron_knife": {
+      "display_name": "Hasta un Maestro de Kung Fu Temerá el Cuchillo de Cocina",
+      "original_name": "Hasta un Maestro de Kung Fu Temerá el Cuchillo de Cocina",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:iron_kitchen_knife",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "farmer_set": {
+      "display_name": "La Alegría de un Granjero",
+      "original_name": "La Alegría de un Granjero",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:farmer_chest_plate",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "pot": {
+      "display_name": "Primeros Pasos del Salteado",
+      "original_name": "Primeros Pasos del Salteado",
+      "enabled": true,
+      "icon": "kaleidoscope_cookery:pot",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nitrogen_1000": {
+      "display_name": "Cuerpo Celeste Retrógrado",
+      "original_name": "Cuerpo Celeste Retrógrado",
+      "enabled": true,
+      "icon": "minecraft:feather",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "scarecrow_head": {
+      "display_name": "El Arte del Injerto",
+      "original_name": "El Arte del Injerto",
+      "enabled": true,
+      "icon": "minecraft:skeleton_skull",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "add_broth": {
+      "display_name": "¡Añade Caldo!",
+      "original_name": "¡Añade Caldo!",
+      "enabled": true,
+      "icon": "minecraft:lava_bucket",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

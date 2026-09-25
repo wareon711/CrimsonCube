@@ -1,0 +1,25 @@
+filename = 'aaa_particles-neoforge-1.21.1-2.2.3.jar'
+name = 'AAA Particles'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'aaa_particles-neoforge-1.21.1-2.2.3.jar'
+
+[download]
+hash = '05c06223740c63c19b63aaa555573547c998b8cc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8402817
+project-id = 979809
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'EMBEDDED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238086'
+type = 'OPTIONAL'

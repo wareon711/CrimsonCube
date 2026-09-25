@@ -1,0 +1,18 @@
+filename = 'EquipmentCompare-1.21.1-neoforge-1.3.13.jar'
+name = 'Equipment Compare [Neo/Forge]'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'EquipmentCompare-1.21.1-neoforge-1.3.13.jar'
+
+[download]
+hash = 'fff2c71ff62d7c74bf9e73754536706cdf4893d1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6375501
+project-id = 502561

@@ -1,0 +1,25 @@
+filename = 'EternalNether-v21.1.3-1.21.1-NeoForge.jar'
+name = 'Eternal Nether'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NEOFORGE] [1.21.1] EternalNether-v21.1.3'
+
+[download]
+hash = '3460532417842063306c5a12428b3c877e18d073'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6751611
+project-id = 1252482
+
+[[x-prismlauncher-dependencies]]
+addonId = '495476'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '544048'
+type = 'OPTIONAL'

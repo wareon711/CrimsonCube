@@ -1,0 +1,28 @@
+{
+  "id": "vaedric",
+  "name": "Vaedric!",
+  "icon": "armageddon_mod:wanderers_fallen_shard",
+  "description": "Fabrica el /bWanderer\u0027s fallen shard/x e invoca a /oVaedric, the fallen wanderer!/x en el /pEND!/x\n\nCon esto conseguiras /bVoiderite,/x te servira para muchos crafteos!",
+  "category": "armageddon",
+  "sub-category": "progresion",
+  "optional": false,
+  "repeatable": false,
+  "hiddenUnderDependency": false,
+  "dependencies": "elvenite",
+  "completion": {
+    "complete": [
+      {
+        "collect": "armageddon_mod:wanderers_fallen_shard",
+        "count": 1
+      },
+      {
+        "kill": "armageddon_mod:vaedricthe_fallen_wanderer",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "exp": "points",
+    "count": 800
+  }
+}

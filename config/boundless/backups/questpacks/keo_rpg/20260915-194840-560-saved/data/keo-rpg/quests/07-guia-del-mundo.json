@@ -1,0 +1,38 @@
+{
+  "id": "guia-del-mundo",
+  "name": "Guia del mundo",
+  "icon": "naturescompass:naturescompass",
+  "description": "Fabrica la /bNature\u0027s Compass/x ´, la /bStructure Compass/x y la /bTraveler\u0027s compass/x para encontrar biomas y estructuras, objetos etc.",
+  "category": "guia-keo-rpg",
+  "sub-category": "3-era-de-hierro",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "la-primera-vez",
+  "completion": {
+    "complete": [
+      {
+        "collect": "naturescompass:naturescompass",
+        "count": 1
+      },
+      {
+        "collect": "explorerscompass:explorerscompass",
+        "count": 1
+      },
+      {
+        "collect": "travelerscompass:travelerscompass",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "confluence:night_owl_potion",
+        "count": 2
+      }
+    ]
+  }
+}

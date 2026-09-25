@@ -1,0 +1,21 @@
+filename = 'fangs_n_claws-1.2.4.jar'
+name = "Fangs 'n Claws"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'fangs_n_claws-1.2.4.jar'
+
+[download]
+hash = 'ef035bf4aef85bbb778bef0f58e4d3d233de3a69'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8625562
+project-id = 1551870
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'

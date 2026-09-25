@@ -1,0 +1,30 @@
+{
+  "id": "skill-tree",
+  "name": "Arbol de habilidades!",
+  "icon": "skill_tree_rpgs:orb_of_oblivion",
+  "description": "Al combatir subiras de nivel permitiendote mejorar habilidades con /b/lCTRL + K./x\n\nsiempre puedes craftear el /oorbe de olbivion/x para resetear tus puntos en el arbol de habilidades y probar otra /obuild/x, /pesto unicamente en las/l class skills/x",
+  "category": "guia-keo-rpg",
+  "sub-category": "2-era-de-piedra",
+  "optional": false,
+  "repeatable": true,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "la-primera-vez",
+  "completion": {
+    "complete": [
+      {
+        "xp": "levels",
+        "count": 30
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "skill_tree_rpgs:orb_of_oblivion",
+        "count": 1
+      }
+    ]
+  }
+}

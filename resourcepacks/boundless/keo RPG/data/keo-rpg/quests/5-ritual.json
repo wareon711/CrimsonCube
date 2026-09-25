@@ -1,0 +1,23 @@
+{
+  "id": "ritual",
+  "name": "Ritual?",
+  "icon": "confluence:golden_tombstone",
+  "description": "Encontraras /otumbas/x a lo largo de tu aventura.\n\nNecesitaras una /bbrújula de meteorito,/x la cual podras fabricar en un /baltar!/x\n\nAl usar la /bbrújula en la tumba/x conseguiras una /obrújula de mazmorra./x",
+  "category": "confluence",
+  "sub-category": "introduccion",
+  "optional": false,
+  "repeatable": false,
+  "hiddenUnderDependency": false,
+  "completion": {
+    "complete": [
+      {
+        "collect": "confluence:meteor_compass",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "exp": "points",
+    "count": 200
+  }
+}

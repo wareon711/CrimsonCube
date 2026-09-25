@@ -1,0 +1,18 @@
+filename = 'perf_tweaks-neoforge-1.21.1-1.3.0.jar'
+name = 'Performance Tweaks'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'perf_tweaks-neoforge-1.21.1-1.3.0'
+
+[download]
+hash = 'd6ea16d30e4d0a3d1d8ebaf4f66de65534059fff'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8260168
+project-id = 1194310

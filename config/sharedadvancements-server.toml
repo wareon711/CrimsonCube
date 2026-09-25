@@ -1,0 +1,4 @@
+#Enables the Shared Advancements mod
+enabled = true
+#If set to false you only share advancements with your team instead of all players
+broadcast_advancements = true

@@ -1,0 +1,317 @@
+{
+  "enabled": true,
+  "mod_name": "Nova Structures",
+  "mod_id": "nova_structures",
+  "achievements": {
+    "adventure/find_shrine": {
+      "display_name": "A Major Trial Of Strengh",
+      "original_name": "A Major Trial Of Strengh",
+      "enabled": true,
+      "icon": "minecraft:polished_deepslate",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/find_piglins": {
+      "display_name": "Hog Hunt",
+      "original_name": "Hog Hunt",
+      "enabled": true,
+      "icon": "minecraft:piglin_head",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/find_illager_mansion": {
+      "display_name": "Deep in the Dark Woodland",
+      "original_name": "Deep in the Dark Woodland",
+      "enabled": true,
+      "icon": "minecraft:dark_oak_door",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/find_toxic_lair": {
+      "display_name": "Poison Swamp Enjoyer Rejoice",
+      "original_name": "Poison Swamp Enjoyer Rejoice",
+      "enabled": true,
+      "icon": "minecraft:slime_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/powder_snow_keep": {
+      "display_name": "Cool Off",
+      "original_name": "Cool Off",
+      "enabled": true,
+      "icon": "minecraft:powder_snow_bucket",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/find_tavern": {
+      "display_name": "Safe Haven",
+      "original_name": "Safe Haven",
+      "enabled": true,
+      "icon": "minecraft:smoker",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/find_port": {
+      "display_name": "Port o\u0027 Magma",
+      "original_name": "Port o\u0027 Magma",
+      "enabled": true,
+      "icon": "minecraft:red_nether_bricks",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/kill_guardian_boss": {
+      "display_name": "Abysmally Ancient",
+      "original_name": "Abysmally Ancient",
+      "enabled": true,
+      "icon": "minecraft:prismarine_shard",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/find_piglin_outpost": {
+      "display_name": "Vault Breaker",
+      "original_name": "Vault Breaker",
+      "enabled": true,
+      "icon": "minecraft:gilded_blackstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "end/find_end_lighthouse": {
+      "display_name": "The Light at the End of the Game",
+      "original_name": "The Light at the End of the Game",
+      "enabled": true,
+      "icon": "minecraft:end_rod",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "end/find_end_castle": {
+      "display_name": "Spied Eye",
+      "original_name": "Spied Eye",
+      "enabled": true,
+      "icon": "minecraft:end_portal_frame",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/kill_all_minibosses": {
+      "display_name": "Dungeon Master",
+      "original_name": "Dungeon Master",
+      "enabled": true,
+      "icon": "minecraft:diamond_sword",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/loot_illager_hideout": {
+      "display_name": "Hide And Seek",
+      "original_name": "Hide And Seek",
+      "enabled": true,
+      "icon": "minecraft:deepslate_emerald_ore",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/find_lone_citadel": {
+      "display_name": "Frozen Remnants",
+      "original_name": "Frozen Remnants",
+      "enabled": true,
+      "icon": "minecraft:packed_ice",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "end/kill_phantom_boss": {
+      "display_name": "Afraid of Heights?",
+      "original_name": "Afraid of Heights?",
+      "enabled": true,
+      "icon": "minecraft:phantom_membrane",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/tavern_quest": {
+      "display_name": "Call for Adventure",
+      "original_name": "Call for Adventure",
+      "enabled": true,
+      "icon": "minecraft:map",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "end/find_end_ship": {
+      "display_name": "In Transit",
+      "original_name": "In Transit",
+      "enabled": true,
+      "icon": "minecraft:shulker_box",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/kill_breeze_boss": {
+      "display_name": "Freezing Breeze",
+      "original_name": "Freezing Breeze",
+      "enabled": true,
+      "icon": "minecraft:breeze_rod",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/find_illager_manor": {
+      "display_name": "Mind Your Manors",
+      "original_name": "Mind Your Manors",
+      "enabled": true,
+      "icon": "minecraft:iron_axe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/find_keep": {
+      "display_name": "Concrete Halls",
+      "original_name": "Concrete Halls",
+      "enabled": true,
+      "icon": "minecraft:chiseled_nether_bricks",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/conquer_miner_outpost": {
+      "display_name": "Miner Inconvenience",
+      "original_name": "Miner Inconvenience",
+      "enabled": true,
+      "icon": "minecraft:iron_pickaxe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/find_witch_villa": {
+      "display_name": "Trouble is Brewing",
+      "original_name": "Trouble is Brewing",
+      "enabled": true,
+      "icon": "minecraft:cauldron",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/kill_cave_spider_boss": {
+      "display_name": "Detoxing the Toxic Lair",
+      "original_name": "Detoxing the Toxic Lair",
+      "enabled": true,
+      "icon": "minecraft:spider_eye",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/find_hamlet": {
+      "display_name": "The Learned Piglins",
+      "original_name": "The Learned Piglins",
+      "enabled": true,
+      "icon": "minecraft:polished_blackstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/find_all_illager_structures": {
+      "display_name": "The Ill Manored",
+      "original_name": "The Ill Manored",
+      "enabled": true,
+      "icon": "minecraft:dark_oak_log",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/find_nether_skeleton": {
+      "display_name": "Skull Collector",
+      "original_name": "Skull Collector",
+      "enabled": true,
+      "icon": "minecraft:skeleton_skull",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/find_donjon": {
+      "display_name": "Bastion of Bastions",
+      "original_name": "Bastion of Bastions",
+      "enabled": true,
+      "icon": "minecraft:chiseled_polished_blackstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/find_swamp_village": {
+      "display_name": "Bewitched",
+      "original_name": "Bewitched",
+      "enabled": true,
+      "icon": "minecraft:glass_bottle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/find_skeleton_tower": {
+      "display_name": "Bone Crusher",
+      "original_name": "Bone Crusher",
+      "enabled": true,
+      "icon": "minecraft:bone_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/find_pillager_outpost": {
+      "display_name": "Intruder Alert",
+      "original_name": "Intruder Alert",
+      "enabled": true,
+      "icon": "minecraft:crossbow",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/find_trident_trial_monument": {
+      "display_name": "Breathtaking",
+      "original_name": "Breathtaking",
+      "enabled": true,
+      "icon": "minecraft:trident",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

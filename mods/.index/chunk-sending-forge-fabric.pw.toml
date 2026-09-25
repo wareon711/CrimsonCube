@@ -1,0 +1,21 @@
+filename = 'chunksending-1.21-3.7.jar'
+name = 'Chunk Sending'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'chunksending-1.21-3.7.jar'
+
+[download]
+hash = 'ab8beeb5287e4e88bddb0408d1f404833e83f969'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8608702
+project-id = 831663
+
+[[x-prismlauncher-dependencies]]
+addonId = '326652'
+type = 'REQUIRED'

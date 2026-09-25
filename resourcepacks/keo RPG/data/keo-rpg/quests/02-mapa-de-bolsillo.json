@@ -1,0 +1,14 @@
+{
+  "id": "mapa-de-bolsillo",
+  "name": "¿y el mapa?",
+  "icon": "minecraft:map",
+  "description": "Presiona /b\"M\"/x para abrir el mapa y registrar tu aventura.\n\nSiempre puedes añadir el minimapa con /l/octrl+Y/x  activando la primera opcion",
+  "category": "guia-keo-rpg",
+  "sub-category": "1-el-despertar",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "el-primer-tajo"
+}

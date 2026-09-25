@@ -1,0 +1,35 @@
+{
+  "id": "nuevas-mesas",
+  "name": "Nuevas mesas!",
+  "icon": "confluence:heavy_work_bench",
+  "description": "Tendras /bnuevas mesas de fabricacion/x para conseguir distintas herramientas para avanzar en tu aventura! \n\n/oEste es un listado de algunas de las mesas que puedes conseguir./x otras tendras que tradearlas con los /bnpc!/x",
+  "category": "confluence",
+  "sub-category": "introduccion",
+  "optional": false,
+  "repeatable": false,
+  "hiddenUnderDependency": false,
+  "completion": {
+    "complete": [
+      {
+        "collect": "confluence:heavy_work_bench",
+        "count": 1
+      },
+      {
+        "collect": "confluence:sawmill",
+        "count": 1
+      },
+      {
+        "collect": "confluence:cooking_pot",
+        "count": 1
+      },
+      {
+        "collect": "confluence:keg",
+        "count": 1
+      },
+      {
+        "collect": "confluence:loom",
+        "count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "create",
+  "name": "Create!",
+  "icon": "create:wrench",
+  "description": "Podras crear /ogranjas/x y /omaquinas/x que te ayudaran mucho en tu aventura!\n\n/l/rDe momento el añadido de este mod es una /lprueba, deberia de funcionar perfectamente /lpero en caso de encontrar errores hazmelo /lsaber al discord!",
+  "category": "guia-keo-rpg",
+  "sub-category": "3-era-de-hierro",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "la-primera-vez",
+  "completion": {
+    "complete": [
+      {
+        "collect": "create:potato_cannon",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "create:rotation_speed_controller",
+        "count": 1
+      }
+    ]
+  }
+}

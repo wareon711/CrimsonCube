@@ -1,0 +1,87 @@
+{
+  "enabled": true,
+  "mod_name": "AdventureDungeons",
+  "mod_id": "adventuredungeons",
+  "achievements": {
+    "adventuredungeons/checkpoint": {
+      "display_name": "Checkpoint",
+      "original_name": "Checkpoint",
+      "enabled": true,
+      "icon": "minecraft:oak_planks",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventuredungeons/swamp_fever": {
+      "display_name": "Swamp Fever",
+      "original_name": "Swamp Fever",
+      "enabled": true,
+      "icon": "minecraft:packed_mud",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventuredungeons/unexpected_visitor": {
+      "display_name": "Unexpected Visitor",
+      "original_name": "Unexpected Visitor",
+      "enabled": true,
+      "icon": "minecraft:skeleton_skull",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventuredungeons/place_from_the_past": {
+      "display_name": "Place From the Past",
+      "original_name": "Place From the Past",
+      "enabled": true,
+      "icon": "minecraft:mossy_cobblestone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventuredungeons/adventure_only_begins": {
+      "display_name": "Adventure Only Begins",
+      "original_name": "Adventure Only Begins",
+      "enabled": true,
+      "icon": "minecraft:leather_boots",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventuredungeons/ruinification": {
+      "display_name": "Ruinification",
+      "original_name": "Ruinification",
+      "enabled": true,
+      "icon": "minecraft:brush",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventuredungeons/ruins_past": {
+      "display_name": "Storyteller",
+      "original_name": "Storyteller",
+      "enabled": true,
+      "icon": "minecraft:cobblestone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventuredungeons/test_your_skills": {
+      "display_name": "Test Your Skills",
+      "original_name": "Test Your Skills",
+      "enabled": true,
+      "icon": "minecraft:mud_bricks",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

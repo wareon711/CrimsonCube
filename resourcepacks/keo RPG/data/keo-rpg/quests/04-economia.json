@@ -1,0 +1,14 @@
+{
+  "id": "economia",
+  "name": "Economia!",
+  "icon": "numismaticoverhaul:gold_coin",
+  "description": "Se añadio un sistema de /b/leconomia /xbasado e matar pillagers! /oencontraras muchas dungeons repletos de ellos!/x\n\nPuedes usarlas para tradear con /b/laldeanos/x, me gustaria añadir una /atienda totalmente personalizada, si tienes sugerencias de items que podria añadir, puedes decirmelo por discord!",
+  "category": "guia-keo-rpg",
+  "sub-category": "2-era-de-piedra",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "mochilas"
+}

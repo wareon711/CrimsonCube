@@ -1,0 +1,147 @@
+{
+  "enabled": true,
+  "mod_name": "Regions Unexplored",
+  "mod_id": "regions_unexplored",
+  "achievements": {
+    "eternal_expedition": {
+      "display_name": "Expedición Eterna",
+      "original_name": "Expedición Eterna",
+      "enabled": true,
+      "icon": "regions_unexplored:brimwood_sapling",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "spelunker": {
+      "display_name": "Espeleólogo",
+      "original_name": "Espeleólogo",
+      "enabled": true,
+      "icon": "regions_unexplored:dropleaf",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "this_tree_bleeds_red": {
+      "display_name": "Este Árbol Sangra Rojo",
+      "original_name": "Este Árbol Sangra Rojo",
+      "enabled": true,
+      "icon": "regions_unexplored:socotra_log",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "got_wood": {
+      "display_name": "¿Tienes Madera?",
+      "original_name": "¿Tienes Madera?",
+      "enabled": true,
+      "icon": "regions_unexplored:redwood_log",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "from_the_tree_tops": {
+      "display_name": "Desde las Copas de los Árboles",
+      "original_name": "Desde las Copas de los Árboles",
+      "enabled": true,
+      "icon": "regions_unexplored:kapok_vines",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "every_bit_of_the_rainbow": {
+      "display_name": "Cada Tono del Arcoíris",
+      "original_name": "Cada Tono del Arcoíris",
+      "enabled": true,
+      "icon": "regions_unexplored:white_snowbelle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "regions_explored": {
+      "display_name": "Regiones Exploradas",
+      "original_name": "Regiones Exploradas",
+      "enabled": true,
+      "icon": "minecraft:leather_boots",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "pioneer": {
+      "display_name": "Pionero",
+      "original_name": "Pionero",
+      "enabled": true,
+      "icon": "regions_unexplored:hibiscus",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "mycologist": {
+      "display_name": "Micólogo",
+      "original_name": "Micólogo",
+      "enabled": true,
+      "icon": "regions_unexplored:blue_bioshroom",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "light_as_a_frog": {
+      "display_name": "Ligero como una Rana",
+      "original_name": "Ligero como una Rana",
+      "enabled": true,
+      "icon": "regions_unexplored:flowering_lily_pad",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "downer": {
+      "display_name": "Bajón",
+      "original_name": "Bajón",
+      "enabled": true,
+      "icon": "regions_unexplored:dorcel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "light_snack": {
+      "display_name": "Merienda Ligera",
+      "original_name": "Merienda Ligera",
+      "enabled": true,
+      "icon": "regions_unexplored:hanging_earlight_fruit",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "blind_as_a_bat": {
+      "display_name": "Ciego como un Murciélago",
+      "original_name": "Ciego como un Murciélago",
+      "enabled": true,
+      "icon": "regions_unexplored:duskmelon_slice",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "ancient_specimens": {
+      "display_name": "Especímenes Antiguos",
+      "original_name": "Especímenes Antiguos",
+      "enabled": true,
+      "icon": "regions_unexplored:blue_bioshroom_stem",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "economia",
+  "name": "Economia!",
+  "icon": "confluence:gold_coin",
+  "description": "Ahora al matar enemigos soltaran /omonedas,/x estas podras usarlas con los /bnpc/x que apareceran a lo largo de tu aventura!\n/brecomiendo hacerles cuartos comodos/x \n\n/oArriba de tu inventario veras un icono de arbol, al darle clik veras el inventario de este mod.",
+  "category": "confluence",
+  "sub-category": "introduccion",
+  "optional": false,
+  "repeatable": false,
+  "hiddenUnderDependency": false,
+  "completion": {
+    "complete": [
+      {
+        "collect": "confluence:silver_coin",
+        "count": 25
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "confluence:gold_coin",
+        "count": 1
+      }
+    ]
+  }
+}

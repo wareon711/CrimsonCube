@@ -1,0 +1,455 @@
+	[Progession.is_progression_activate]
+		#When false it will delete the progression lock of the mod (unbreakable ores blocks until [...], unusable tools etc...). Default = true
+		is_progression_activate = true
+
+	[Progession.is_nether_blocked]
+		#If true the nether will be blocked until Eldorath is defeated. Default = true
+		is_nether_blocked = true
+
+	[Progession.are_enchanted_tools_blocked]
+		#If true the enchanted tools will not be usable until Eldorath's death. Default = true
+		are_enchanted_tools_blocked = true
+
+["Colored Tooltip (items name and border color)"]
+	#When true, it will activate the colored tooltip in inventory. You disable that if you encounter some issues with it. (Default = true)
+	colored_tooltip = true
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Blocks".iron_tier_blocks_restricted_addition]
+			#You can add in this list the registry name (ID) of any block that will be blocked until The Iron Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			iron_tier_blocks_restricted_addition = ["minecraft:iron_ore", "minecraft:iron_block"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Blocks".gold_tier_blocks_restricted_addition]
+			#You can add in this list the registry name (ID) of any block that will be blocked until The Gold Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			gold_tier_blocks_restricted_addition = ["minecraft:gold_ore", "minecraft:gold_block"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Blocks".emerald_tier_blocks_restricted_addition]
+			#You can add in this list the registry name (ID) of any block that will be blocked until The Emerald Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			emerald_tier_blocks_restricted_addition = ["minecraft:emerald_ore", "minecraft:emerald_block"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Blocks".diamond_tier_blocks_restricted_addition]
+			#You can add in this list the registry name (ID) of any block that will be blocked until The Diamond Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			diamond_tier_blocks_restricted_addition = ["minecraft:diamond_ore", "minecraft:diamond_block"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Blocks".netherite_tier_blocks_restricted_addition]
+			#You can add in this list the registry name (ID) of any block that will be blocked until The Netherite Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			netherite_tier_blocks_restricted_addition = ["minecraft:netherite_ore", "minecraft:netherite_block"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Blocks".elvenite_tier_blocks_restricted_addition]
+			#You can add in this list the registry name (ID) of any block that will be blocked until The Elvenite Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			elvenite_tier_blocks_restricted_addition = ["armageddon_mod:elvenite_ore", "armageddon_mod:elvenite_block"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Blocks".voiderite_tier_blocks_restricted_addition]
+			#You can add in this list the registry name (ID) of any block that will be blocked until The Voiderite Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			voiderite_tier_blocks_restricted_addition = ["armageddon_mod:voiderite_ore", "armageddon_mod:voiderite_block"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Blocks".cataclysmic_tier_blocks_restricted_addition]
+			#You can add in this list the registry name (ID) of any block that will be blocked until The Calamities are defeated. Two examples are inserted by default, they can be changed. 
+			cataclysmic_tier_blocks_restricted_addition = ["blank"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Blocks".bloody_tier_blocks_restricted_addition]
+			#You can add in this list the registry name (ID) of any block that will be blocked until The Blood Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			bloody_tier_blocks_restricted_addition = ["armageddon_mod:bloody_ore", "armageddon_mod:bloody_block"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Blocks".sun_tier_blocks_restricted_addition]
+			#You can add in this list the registry name (ID) of any block that will be blocked until The Sun Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			sun_tier_blocks_restricted_addition = ["armageddon_mod:helionite_ore", "armageddon_mod:helionite_block"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Blocks".shadow_tier_blocks_restricted_addition]
+			#You can add in this list the registry name (ID) of any block that will be blocked until The Shadow Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			shadow_tier_blocks_restricted_addition = ["blank"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Tools".iron_tier_tools_restricted_addition]
+			#You can add in this list the registry name (ID) of any tools that will be blocked until The Iron Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			iron_tier_tools_restricted_addition = ["minecraft:iron_sword", "minecraft:iron_pickaxe"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Tools".gold_tier_tools_restricted_addition]
+			#You can add in this list the registry name (ID) of any tools that will be blocked until The Gold Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			gold_tier_tools_restricted_addition = ["minecraft:gold_sword", "minecraft:gold_pickaxe"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Tools".emerald_tier_tools_restricted_addition]
+			#You can add in this list the registry name (ID) of any tools that will be blocked until The Emerald Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			emerald_tier_tools_restricted_addition = ["minecraft:emerald_sword", "minecraft:emerald_pickaxe"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Tools".diamond_tier_tools_restricted_addition]
+			#You can add in this list the registry name (ID) of any tools that will be blocked until The Diamond Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			diamond_tier_tools_restricted_addition = ["minecraft:diamond_sword", "minecraft:diamond_pickaxe"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Tools".netherite_tier_tools_restricted_addition]
+			#You can add in this list the registry name (ID) of any tools that will be blocked until The Netherite Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			netherite_tier_tools_restricted_addition = ["minecraft:netherite_sword", "minecraft:netherite_pickaxe"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Tools".elvenite_tier_tools_restricted_addition]
+			#You can add in this list the registry name (ID) of any tools that will be blocked until The Elvenite Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			elvenite_tier_tools_restricted_addition = ["armageddon_mod:elvenite_sword", "armageddon_mod:elvenite_pickaxe"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Tools".voiderite_tier_tools_restricted_addition]
+			#You can add in this list the registry name (ID) of any tools that will be blocked until The Voiderite Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			voiderite_tier_tools_restricted_addition = ["armageddon_mod:voiderite_sword", "armageddon_mod:voiderite_pickaxe"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Tools".cataclysmic_tier_tools_restricted_addition]
+			#You can add in this list the registry name (ID) of any tools that will be blocked until The Calamities are defeated. Two examples are inserted by default, they can be changed. 
+			cataclysmic_tier_tools_restricted_addition = ["armageddon_mod:the_chaosphere_blade", "armageddon_mod:the_rift_piercer"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Tools".bloody_tier_tools_restricted_addition]
+			#You can add in this list the registry name (ID) of any tools that will be blocked until The Bloody Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			bloody_tier_tools_restricted_addition = ["armageddon_mod:bloody_sword", "armageddon_mod:bloody_pickaxe"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Tools".sun_tier_tools_restricted_addition]
+			#You can add in this list the registry name (ID) of any tools that will be blocked until The Sun Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			sun_tier_tools_restricted_addition = ["armageddon_mod:helionite_sword", "armageddon_mod:helionite_pickaxe"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Tools".shadow_tier_tools_restricted_addition]
+			#You can add in this list the registry name (ID) of any tools that will be blocked until The Shadow Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			shadow_tier_tools_restricted_addition = ["blank"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Armors".iron_tier_armors_restricted_addition]
+			#You can add in this list the registry name (ID) of any armor parts that will be blocked until The Iron Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			iron_tier_armors_restricted_addition = ["minecraft:iron_chestplate", "minecraft:iron_boots"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Armors".gold_tier_armors_restricted_addition]
+			#You can add in this list the registry name (ID) of any armor parts that will be blocked until The Gold Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			gold_tier_armors_restricted_addition = ["minecraft:gold_chestplate", "minecraft:gold_boots"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Armors".emerald_tier_armors_restricted_addition]
+			#You can add in this list the registry name (ID) of any armor parts that will be blocked until The Emerald Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			emerald_tier_armors_restricted_addition = ["minecraft:emerald_chestplate", "minecraft:emerald_boots"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Armors".diamond_tier_armors_restricted_addition]
+			#You can add in this list the registry name (ID) of any armor parts that will be blocked until The Diamond Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			diamond_tier_armors_restricted_addition = ["minecraft:diamond_chestplate", "minecraft:diamond_boots"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Armors".netherite_tier_armors_restricted_addition]
+			#You can add in this list the registry name (ID) of any armor parts that will be blocked until The Netherite Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			netherite_tier_armors_restricted_addition = ["minecraft:netherite_chestplate", "minecraft:netherite_boots"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Armors".elvenite_tier_armors_restricted_addition]
+			#You can add in this list the registry name (ID) of any armor parts that will be blocked until The Elvenite Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			elvenite_tier_armors_restricted_addition = ["minecraft:elvenite_chestplate", "minecraft:elvenite_boots"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Armors".voiderite_tier_armors_restricted_addition]
+			#You can add in this list the registry name (ID) of any armor parts that will be blocked until The Voiderite Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			voiderite_tier_armors_restricted_addition = ["minecraft:voiderite_chestplate", "minecraft:voiderite_boots"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Armors".cataclysmic_tier_armors_restricted_addition]
+			#You can add in this list the registry name (ID) of any armor parts that will be blocked until The Cataclymic Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			cataclysmic_tier_armors_restricted_addition = ["minecraft:calamitous_chestplate", "minecraft:calamitous_boots"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Armors".bloody_tier_armors_restricted_addition]
+			#You can add in this list the registry name (ID) of any armor parts that will be blocked until The Bloody Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			bloody_tier_armors_restricted_addition = ["minecraft:bloody_chestplate", "minecraft:bloody_boots"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Armors".sun_tier_armors_restricted_addition]
+			#You can add in this list the registry name (ID) of any armor parts that will be blocked until The Sun Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			sun_tier_armors_restricted_addition = ["minecraft:helionite_chestplate", "minecraft:helionite_boots"]
+
+		["Blocked Blocks, Items, Armors Customisation"."Blocked Armors".shadow_tier_armors_restricted_addition]
+			#You can add in this list the registry name (ID) of any armor parts that will be blocked until The Shadow Keeper is defeated. Two examples are inserted by default, they can be changed. 
+			shadow_tier_armors_restricted_addition = ["blank"]
+
+	["Bosses Health"."Iron Colossus Bonus Health"]
+		#This value affects the life of the chosen boss and is added to its base health. When playing in multiplayer, the boss gains extra health for each additional player (by default), and one half of this value is added to the final amount. Default = 0
+		iron_colossus_health_bonus = 0.0
+
+	["Bosses Health"."Golbin Lord Bonus Health"]
+		#This value affects the life of the chosen boss and is added to its base health. When playing in multiplayer, the boss gains extra health for each additional player (by default), and one half of this value is added to the final amount. Default = 0
+		goblin_lord_health_bonus = 0.0
+
+	["Bosses Health"."Arion Bonus Health (works for each phase)"]
+		#This value affects the life of the chosen boss and is added to its base health. When playing in multiplayer, the boss gains extra health for each additional player (by default), and one half of this value is added to the final amount. Default = 0
+		arion_health_bonus = 0.0
+
+	["Bosses Health"."Eldorath Bonus Health"]
+		#This value affects the life of the chosen boss and is added to its base health. When playing in multiplayer, the boss gains extra health for each additional player (by default), and one half of this value is added to the final amount. Default = 0
+		eldorath_health_bonus = 0.0
+
+	["Bosses Health"."Zoranth Bonus Health"]
+		#This value affects the life of the chosen boss and is added to its base health. When playing in multiplayer, the boss gains extra health for each additional player (by default), and one half of this value is added to the final amount. Default = 0
+		zoranth_health_bonus = 0.0
+
+	["Bosses Health"."Elvenite Paladin Bonus Health"]
+		#This value affects the life of the chosen boss and is added to its base health. When playing in multiplayer, the boss gains extra health for each additional player (by default), and one half of this value is added to the final amount. Default = 0
+		elvenite_paladin_health_bonus = 0.0
+
+	["Bosses Health"."Vaedric Bonus Health"]
+		#This value affects the life of the chosen boss and is added to its base health. When playing in multiplayer, the boss gains extra health for each additional player (by default), and one half of this value is added to the final amount. Default = 0
+		vaedric_health_bonus = 0.0
+
+	["Bosses Health"."Bringer Of Doom Bonus Health (works for each phase)"]
+		#This value affects the life of the chosen boss and is added to its base health. When playing in multiplayer, the boss gains extra health for each additional player (by default), and one half of this value is added to the final amount. Default = 0
+		bod_health_bonus = 0.0
+
+	["Bosses Health"."Calamities Bonus Health (for each)"]
+		#This value affects the life of the chosen boss and is added to its base health. When playing in multiplayer, the boss gains extra health for each additional player (by default), and one half of this value is added to the final amount. Default = 0
+		calamities_health_bonus = 0.0
+
+	["Bosses Health"."Sanghor Bonus Health (works for each phase)"]
+		#This value affects the life of the chosen boss and is added to its base health. When playing in multiplayer, the boss gains extra health for each additional player (by default), and one half of this value is added to the final amount. Default = 0
+		sanghor_health_bonus = 0.0
+
+	["Bosses Health"."Zoranth Zenith Bonus Health"]
+		#This value affects the life of the chosen boss and is added to its base health. When playing in multiplayer, the boss gains extra health for each additional player (by default), and one half of this value is added to the final amount. Default = 0
+		zoranthzenith_health_bonus = 0.0
+
+	["Bosses Health"."Nyxaris Bonus Health"]
+		#This value affects the life of the chosen boss and is added to its base health. When playing in multiplayer, the boss gains extra health for each additional player (by default), and one half of this value is added to the final amount. Default = 0
+		nyxaris_health_bonus = 0.0
+
+	["Bosses Armor Modifier"."Iron Colossus Bonus Armor"]
+		#This value affects the armor of the chosen boss and is added to its base armor. Default = 0
+		iron_colossus_armor_bonus = 0.0
+
+	["Bosses Armor Modifier"."Golbin Lord Bonus Armor"]
+		#This value affects the armor of the chosen boss and is added to its base armor. Default = 0
+		goblin_lord_armor_bonus = 0.0
+
+	["Bosses Armor Modifier"."Arion Bonus Armor (works for each phase)"]
+		#This value affects the armor of the chosen boss and is added to its base armor. Default = 0
+		arion_armor_bonus = 0.0
+
+	["Bosses Armor Modifier"."Eldorath Bonus Armor"]
+		#This value affects the armor of the chosen boss and is added to its base armor. Default = 0
+		eldorath_armor_bonus = 0.0
+
+	["Bosses Armor Modifier"."Zoranth Bonus Armor"]
+		#This value affects the armor of the chosen boss and is added to its base armor. Default = 0
+		zoranth_armor_bonus = 0.0
+
+	["Bosses Armor Modifier"."Elvenite Paladin Bonus Armor"]
+		#This value affects the armor of the chosen boss and is added to its base armor. Default = 0
+		elvenite_paladin_armor_bonus = 0.0
+
+	["Bosses Armor Modifier"."Vaedric Bonus Armor"]
+		#This value affects the armor of the chosen boss and is added to its base armor. Default = 0
+		vaedric_armor_bonus = 0.0
+
+	["Bosses Armor Modifier"."Bringer Of Doom Bonus Armor (works for each phase)"]
+		#This value affects the armor of the chosen boss and is added to its base armor. Default = 0
+		bod_armor_bonus = 0.0
+
+	["Bosses Armor Modifier"."Calamities Bonus Armor (for each)"]
+		#This value affects the armor of the chosen boss and is added to its base armor. Default = 0
+		calamities_armor_bonus = 0.0
+
+	["Bosses Armor Modifier"."Sanghor Bonus Armor (works for each phase)"]
+		#This value affects the armor of the chosen boss and is added to its base armor. Default = 0
+		sanghor_armor_bonus = 0.0
+
+	["Bosses Armor Modifier"."Zoranth Zenith Bonus Armor"]
+		#This value affects the armor of the chosen boss and is added to its base armor. Default = 0
+		zoranthzenith_armor_bonus = 0.0
+
+	["Bosses Armor Modifier"."Nyxaris Bonus Armor"]
+		#This value affects the armor of the chosen boss and is added to its base armor. Default = 0
+		nyxaris_armor_bonus = 0.0
+
+	["Bosses Damage Multiplier"."Iron Colossus Damage Multiplier"]
+		#This value affects the damage of the chosen boss and is multiplied to its attack damage. Default = 1
+		iron_colossus_dmg_multiplier = 1.0
+
+	["Bosses Damage Multiplier"."Goblin Lord Damage Multiplier"]
+		#This value affects the damage of the chosen boss and is multiplied to its attack damage. Default = 1
+		goblin_lord_dmg_multiplier = 1.0
+
+	["Bosses Damage Multiplier"."Arion Damage Multiplier (works for each phase)"]
+		#This value affects the damage of the chosen boss and is multiplied to its attack damage. Default = 1
+		arion_dmg_multiplier = 1.0
+
+	["Bosses Damage Multiplier"."Eldorath Damage Multiplier"]
+		#This value affects the damage of the chosen boss and is multiplied to its attack damage. Default = 1
+		eldorath_dmg_multiplier = 1.0
+
+	["Bosses Damage Multiplier"."Zoranth Damage Multiplier"]
+		#This value affects the damage of the chosen boss and is multiplied to its attack damage. Default = 1
+		zoranth1_dmg_multiplier = 1.0
+
+	["Bosses Damage Multiplier"."Elvenite Paladin Damage Multiplier"]
+		#This value affects the damage of the chosen boss and is multiplied to its attack damage. Default = 1
+		elvenite_paladin_dmg_multiplier = 1.0
+
+	["Bosses Damage Multiplier"."Vaedric Damage Multiplier"]
+		#This value affects the damage of the chosen boss and is multiplied to its attack damage. Default = 1
+		vaedric_dmg_multiplier = 1.0
+
+	["Bosses Damage Multiplier"."BoD Damage Multiplier (works for each phase)"]
+		#This value affects the damage of the chosen boss and is multiplied to its attack damage. Default = 1
+		bod_dmg_multiplier = 1.0
+
+	["Bosses Damage Multiplier"."Calamities Damage Multiplier (for each)"]
+		#This value affects the damage of the chosen boss and is multiplied to its attack damage. Default = 1
+		calamities_dmg_multiplier = 1.0
+
+	["Bosses Damage Multiplier"."Sanghor Damage Multiplier (works for each phase)"]
+		#This value affects the damage of the chosen boss and is multiplied to its attack damage. Default = 1
+		sanghor_dmg_multiplier = 1.0
+
+	["Bosses Damage Multiplier"."Zoranth Zenith Damage Multiplier"]
+		#This value affects the damage of the chosen boss and is multiplied to its attack damage. Default = 1
+		zoranth2_dmg_multiplier = 1.0
+
+	["Bosses Damage Multiplier"."Nyxaris Damage Multiplier"]
+		#This value affects the damage of the chosen boss and is multiplied to its attack damage. Default = 1
+		nyxaris_dmg_multiplier = 1.0
+
+	["Bosses Misc & co".are_bosses_despawning_if_a_player_is_killed]
+		#If false, bosses will stop despawning if someone is killed ! Default = true
+		are_bosses_despawning_if_a_player_is_killed = true
+
+	["Bosses Misc & co".are_weapons_and_artifacts_drop_from_treasurebags]
+		#When false this will disable the loot of weapons and artifacts from the treasure bags of every bosses! Default = true
+		are_weapons_and_artifacts_drop_from_treasurebags = true
+
+	["Bosses Misc & co".are_ores_dropping_from_treasurebags]
+		#When false this will disable the loot of ores from the treasure bags of every bosses! Default = true
+		are_ores_dropping_from_treasurebags = true
+
+	["Bosses Misc & co".are_lorescrolls_dropping]
+		#When false this will disable the loot of Lore Scrolls of every bosses! Default = true
+		are_lorescrolls_dropping = true
+
+	["Bosses Misc & co".block_destruction_when_spawned]
+		#Active or not the block destructionn when the bosses spawn, used to prevent cheesing them. Default = true
+		block_destruction_when_spawned = true
+
+	["Bosses Misc & co".can_bosses_change_time]
+		#Bosses like Zoranth Zenith and the BoD phase 2 can set the time to day/night when true. Default = true
+		can_bosses_change_time = true
+
+		["Bosses Misc & co"."Bosses Xp".iron_clossus_xp_drop_amount]
+			#You can set the value to an amount of XP (in orbs not in levels) that the selected boss will drop upon death! Default = 250
+			iron_clossus_xp_drop_amount = 250.0
+
+		["Bosses Misc & co"."Bosses Xp".goblin_lord_xp_drop_amount]
+			#You can set the value to an amount of XP (in orbs not in levels) that the selected boss will drop upon death! Default = 350
+			goblin_lord_xp_drop_amount = 350.0
+
+		["Bosses Misc & co"."Bosses Xp".arion_xp_drop_amount]
+			#You can set the value to an amount of XP (in orbs not in levels) that the selected boss will drop upon death! Default = 500
+			arion_xp_drop_amount = 500.0
+
+		["Bosses Misc & co"."Bosses Xp".eldorath_xp_drop_amount]
+			#You can set the value to an amount of XP (in orbs not in levels) that the selected boss will drop upon death! Default = 700
+			eldorath_xp_drop_amount = 700.0
+
+		["Bosses Misc & co"."Bosses Xp".zoranth_xp_drop_amount]
+			#You can set the value to an amount of XP (in orbs not in levels) that the selected boss will drop upon death! Default = 1000
+			zoranth_xp_drop_amount = 1000.0
+
+		["Bosses Misc & co"."Bosses Xp".elvenite_paladin_xp_drop_amount]
+			#You can set the value to an amount of XP (in orbs not in levels) that the selected boss will drop upon death! Default = 1250
+			elvenite_paladin_xp_drop_amount = 1250.0
+
+		["Bosses Misc & co"."Bosses Xp".vaedric_xp_drop_amount]
+			#You can set the value to an amount of XP (in orbs not in levels) that the selected boss will drop upon death! Default = 1550
+			vaedric_xp_drop_amount = 1550.0
+
+		["Bosses Misc & co"."Bosses Xp".bod_xp_drop_amount]
+			#You can set the value to an amount of XP (in orbs not in levels) that the selected boss will drop upon death! Default = 1750
+			bod_xp_drop_amount = 1750.0
+
+		["Bosses Misc & co"."Bosses Xp".cal_xp_drop_amount]
+			#You can set the value to an amount of XP (in orbs not in levels) that the selected boss will drop upon death! Default = 1950
+			cal_xp_drop_amount = 1950.0
+
+		["Bosses Misc & co"."Bosses Xp".sanghor_xp_drop_amount]
+			#You can set the value to an amount of XP (in orbs not in levels) that the selected boss will drop upon death! Default = 2000
+			sanghor_xp_drop_amount = 2000.0
+
+		["Bosses Misc & co"."Bosses Xp".zoranth2_xp_drop_amount]
+			#You can set the value to an amount of XP (in orbs not in levels) that the selected boss will drop upon death! Default = 2000
+			zoranth2_xp_drop_amount = 2000.0
+
+		["Bosses Misc & co"."Bosses Xp".nyxaris_xp_drop_amount]
+			#You can set the value to an amount of XP (in orbs not in levels) that the selected boss will drop upon death! Default = 2000
+			nyxaris_xp_drop_amount = 2000.0
+
+	["Bosses Misc & co".block_destruction_when_hit]
+		#Active or not the block destructionn when the bosses is hit, used to prevent cheesing them. Default = true
+		block_destruction_when_hit = true
+
+		["Status Effects".Resilient."Resilient Base Duration"]
+			#This controls the base duration of the Resilient effect when a Statut Effect reaches 10 levels, in ticks. Default = 160
+			resilient_base_duration = 200.0
+
+		["Status Effects".Bleeding."Weapons Inflicting Bleeding"]
+			#You can add in this list the registry name (ID) of any weapons that will inflict Bleeding. Two examples are inserted by default, they can be changed. 
+			bleeding_weapons = ["armageddon_mod:bloody_sword"]
+
+		["Status Effects"."Cosmic Sickness"."Weapons Inflicting Cosmic Sickness"]
+			#You can add in this list the registry name (ID) of any weapons that will inflict Cosmic Sickness. Two examples are inserted by default, they can be changed. 
+			cosmic_sickness_weapons = ["armageddon_mod:indomita_furia"]
+
+		["Status Effects"."Solar Sear"."Weapons Inflicting Solar Sear"]
+			#You can add in this list the registry name (ID) of any weapons that will inflict Solar Sear. Two examples are inserted by default, they can be changed. 
+			solar_sear_weapons = ["armageddon_mod:helionite_sword"]
+
+	[Spirits.dread_mobs_addition]
+		#You can add in this list the registry name (ID) of any entity that will drop Dread Spirit after defeating The Calamities. Two examples are inserted by default, they can be changed. 
+		dread_mobs_addition = ["minecraft:phantom", "minecraft:skeleton"]
+
+	[Spirits.chaos_mobs_addition]
+		#You can add in this list the registry name (ID) of any entity that will drop Chaos Spirit after defeating The Calamities. Two examples are inserted by default, they can be changed. 
+		chaos_mobs_addition = ["minecraft:blaze", "minecraft:vex"]
+
+	[Spirits.despair_mobs_addition]
+		#You can add in this list the registry name (ID) of any entity that will drop Despair Spirit after defeating The Calamities. Two examples are inserted by default, they can be changed. 
+		despair_mobs_addition = ["minecraft:creeper", "minecraft:ghast"]
+
+		[Accessories."Accessory Slot Default Number".accessory_slot_default_addition]
+			#Upon first join, the player can get more Accessory Slots if you want. Default = (+)0
+			accessory_slot_default_addition = "0"
+
+		[Accessories.Boots.boots_particles]
+			#When equipped some boots (accessory) will make some cool particles. You can turn that off. Default = true
+			boots_particles = true
+
+		[Accessories."Heart of the Beloved".hotb_accessory_slot_addition]
+			#This defines the number of slot you want to add after the Hardmode with the Heart of the Beloved. Default =1
+			hotb_accessory_slot_addition = "1"
+
+		[Accessories."Heart of the Non-Beloved".hotnb_accessory_slot_addition]
+			#This accessory is primarily intended for modpack creators; it isn't available as a drop in the base mod, but it can be fully customized to add new slots wherever you want in your adventure. Default = 1
+			hotnb_accessory_slot_addition = "1"
+
+		[Accessories."Heart of the Non-Beloved".hotnb_reset]
+			#If you want it to be used more than once. Default = false
+			hotnb_reset = false
+
+		[Accessories."Heart of the Non-Beloved".hotnb_name]
+			#Name of the Accessory.
+			"Heart of the Non-Beloved" = "Heart of the Non-Beloved"
+
+		[Accessories."Heart of the Non-Beloved".hotnb_desactivate_tooltip]
+			#It will make the creative tooltip in purple when true. Default = false
+			hotnb_desactivate_tooltip = false
+
+	[Hardmode.is_hardmode_activate]
+		#When false it will desactivate the harmode after beating the Ender Dragon (entities will have more health -> you can add your own entities with tags)  Default = true
+		is_hardmode_activate = true
+
+	[Hardmode.hardmode_health_modifier]
+		#This number increases the life of entities when entering hardmode troughout a multiplication. Default = 2.5 and don't forget the number and the dot
+		hardmode_health_modifier = 2.5
+
+	[Hardmode.hardmode_damage_modifier]
+		#This number increases the damages of entities when entering hardmode troughout a multiplication. Default = 2.0 and don't forget the number and the dot
+		hardmode_damage_modifier = 2.0
+
+	[Hardmode.hardmode_blacklisted_mobs]
+		#You can add in this list the registry name (ID) of any entity that will not be affected by Hardmode. Two examples are inserted by default, they can be changed. 
+		hardmode_blacklisted_mobs = ["minecraft:warden"]
+
+	["Gapple Sickness".is_gapple_sickness_active]
+		#This logic active or not the Gapple Sickness Effect. Default = false
+		is_gapple_sickness_active = false
+
+	["Prevention Messages".are_prevention_messages_showing]
+		#This logic let you choose if the pop-up messages/ preventions messages are shown. Default = true
+		are_prevention_messages_showing = true
+
+	["Prevention Messages".is_prevention_messages_showing_into_actionbar]
+		#This logic let you choose if the pop-up messages/ preventions messages are shown in the chat or in the action bar. True = action bar, False = Chat.  Default = true
+		is_prevention_messages_showing_into_actionbar = true
+
+	[Weapons.Scythes]
+		#You can add in this list the registry name (ID) of any weapons that will be considered as a Scythe. Two examples are inserted by default, they can be changed. 
+		is_scythe = ["armageddon_mod:elvenite_scythe"]

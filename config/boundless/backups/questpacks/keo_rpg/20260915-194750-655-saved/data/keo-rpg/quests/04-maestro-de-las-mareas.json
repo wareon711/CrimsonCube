@@ -1,0 +1,30 @@
+{
+  "id": "maestro-de-las-mareas",
+  "name": "Maestro de las Mareas",
+  "icon": "starcatcher:starcatcher_rod",
+  "description": "Fabrica una /bVara de cazador de estrellas/x y empieza tu coleccion de peces con /o/lstarcatcher/x",
+  "category": "guia-keo-rpg",
+  "sub-category": "2-era-de-piedra",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "mochilas",
+  "completion": {
+    "complete": [
+      {
+        "collect": "starcatcher:starcatcher_rod",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "starcatcher:worm",
+        "count": 15
+      }
+    ]
+  }
+}

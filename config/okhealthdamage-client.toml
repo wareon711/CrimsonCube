@@ -1,0 +1,368 @@
+[damage_numbers]
+	#Default: Yes
+	showDamageNumbers = true
+	#Default: Yes
+	showHealNumbers = false
+
+	[damage_numbers.dmgColorTitle]
+		#Default: #FFFFFF
+		dmgColorNormal = "#FFFFFF"
+		#Default: #FFD400
+		dmgColorCrit = "#FFD400"
+		#Default: #FF1100
+		dmgColorKill = "#FF1100"
+		#Default: #FF1100
+		dmgColorCritKill = "#FF1100"
+		#Default: #3BFF6C
+		dmgColorHeal = "#00FF88"
+		#Default: {d}
+		dmgCustomTextNormal = "{d}"
+		#Default: {d}♢
+		dmgCustomTextCrit = "{d}♢"
+		#Default: {d}☠
+		dmgCustomTextKill = "{d}☠"
+		#Default: {d}♢☠
+		dmgCustomTextCritKill = "{d}♢☠"
+		#Default: +{d}
+		dmgCustomTextHeal = "+{d}"
+		#Default: Minecraft
+		#Allowed Values: MINECRAFT, SQUARE, SMALL
+		dmgStyleFont = "SMALL"
+		#Default: No
+		dmgStyleBold = false
+		#Default: No
+		dmgStyleItalic = false
+		#Default: No
+		dmgStyleUnderlined = false
+		#Default: 1.0
+		# Default: 1.0
+		# Range: 0.01 ~ 3.0
+		dmgScale = 1.0
+
+	[damage_numbers.dmgShadowTitle]
+		#Default: Shadow
+		#Allowed Values: OFF, SHADOW, OUTLINE
+		dmgShadowMode = "OUTLINE"
+		#Default: #000000
+		dmgShadowColor = "#000000"
+		#Default: 50%
+		# Default: 65
+		# Range: 0 ~ 100
+		dmgShadowOpacity = 65
+
+	[damage_numbers.miscTitle]
+		#Default: Yes
+		dmgDecimalShow = true
+		#Dealing damage below this value will show decimals (if enabled). Default: 10
+		# Default: 10.0
+		# Range: -1.0 ~ 1.7976931348623157E308
+		dmgDecimalThreshold = 10.0
+		#Show decimals if the number ends in '.0'. Default: No
+		dmgDecimalShowZeros = false
+		#Should multiple numbers of the same attack be merged into one? (e.g. Shotguns or Multishot enchantment). Default: Yes
+		dmgMergeNumbers = true
+		#In ticks. Default: 13 ticks (0.65s)
+		# Default: 13
+		# Range: 1 ~ 80
+		dmgLifetime = 13
+		#Default: Always Limit
+		#Allowed Values: DONT_LIMIT, LIMIT_MAX, ALWAYS_LIMIT
+		dmgSpawnDistanceMode = "ALWAYS_LIMIT"
+		#This has no effect without Shaders. Set to -1 to use vanilla world lighting. Default: 15
+		# Default: 15
+		# Range: -1 ~ 15
+		dmgBrightness = 15
+
+	[damage_numbers.dmgOffsetTitle]
+		#Default: 0
+		# Default: 0.0
+		# Range: 0.0 ~ 3.0
+		dmgOffsetX = 0.0
+		#Default: 0.375
+		# Default: 0.375
+		# Range: 0.0 ~ 3.0
+		dmgOffsetY = 0.375
+		#Default: 0
+		# Default: 0.0
+		# Range: 0.0 ~ 3.0
+		dmgOffsetZ = 0.0
+		#Range from negative to positive. Default: 0.10
+		# Default: 0.1
+		# Range: 0.0 ~ 3.0
+		dmgRandomX = 0.1
+		#Range from negative to positive. Default: 0
+		# Default: 0.0
+		# Range: 0.0 ~ 3.0
+		dmgRandomY = 0.0
+		#Range from negative to positive. Default: 0
+		# Default: 0.0
+		# Range: 0.0 ~ 3.0
+		dmgRandomZ = 0.0
+
+	[damage_numbers.dmgAnimationTitle]
+		#Default: Yes
+		dmgAnimationEnabled = true
+		#Animation drift upon spawning. Range from negative to positive. Default: 0.25
+		# Default: 0.25
+		# Range: 0.0 ~ 5.0
+		dmgRandomDriftX = 0.25
+		#Animation drift upon spawning. Range from negative to positive. Default: 0
+		# Default: 0.0
+		# Range: 0.0 ~ 5.0
+		dmgRandomDriftY = 0.0
+		#Animation drift upon spawning. Range from negative to positive. Default: 0
+		# Default: 0.0
+		# Range: 0.0 ~ 5.0
+		dmgRandomDriftZ = 0.0
+		#Scale at Peak of Animation. Default: 1.65
+		# Default: 1.65
+		# Range: 0.0 ~ 5.0
+		dmgAnimationPunchPeak = 1.65
+		#Scale at End of Animation. Default: 1.0
+		# Default: 1.0
+		# Range: 0.0 ~ 5.0
+		dmgAnimationPunchEnd = 1.0
+
+[health_bars]
+	#Default: Yes
+	showHealthBars = true
+
+	[health_bars.miscTitle]
+		#Default: 0
+		# Default: 0
+		# Range: > -2147483648
+		healthBarOffsetX = 0
+		#Default: 64
+		# Default: 64
+		# Range: > -2147483648
+		healthBarOffsetY = 125
+		#Default: TRAIL
+		#Allowed Values: OFF, SMOOTH, TRAIL
+		healthAnimationMode = "TRAIL"
+		#Default: #FFFFFF
+		healthAnimationTrailColor = "#FFFFFF"
+		#Default: 76.0
+		# Default: 76.0
+		# Range: 0.01 ~ 256.0
+		healthEntityTargetRange = 5.0
+
+	[health_bars.healthStyleTitle]
+		#Default: SCI-FI
+		#Allowed Values: SCI_FI, SHINY_BASIC, MODERN_SLANTED, FLAT, DITHERED, PILL, OUTLINE_FILLED, OUTLINE_HOLLOW, VIGNETTE, BEVEL, RIM_LIGHT, GRADIENT_A, GRADIENT_B, SLIDER_SLANTED_SIMPLE, SLIDER_SLANTED_SHADED, SLIDER_HEART, SLIDER_VANILLA
+		healthBarStyle = "SLIDER_SLANTED_SHADED"
+		#Default: DEFAULT
+		#Allowed Values: DEFAULT, CUSTOM, MOB_EGG, MOB_EGG_INVERT
+		healthBarColorMode = "DEFAULT"
+		#Default: #0D86FF
+		healthBarColor = "#0D86FF"
+		#Default: 100%
+		# Default: 100
+		# Range: 0 ~ 100
+		healthBarOpacity = 100
+		#Default: #231242
+		healthBarBgColor = "#231242"
+		#Default: 85%
+		# Default: 85
+		# Range: 0 ~ 100
+		healthBarBgOpacity = 85
+
+	[health_bars.healthSegmentsTitle]
+		#Default: Yes
+		healthSegmentsShow = true
+		#Default: 4
+		# Default: 4
+		# Range: 2 ~ 16
+		healthSegmentsCount = 4
+		#Default: 1
+		# Default: 1
+		# Range: 1 ~ 16
+		healthSegmentsThickness = 1
+		#Default: 4
+		# Default: 4
+		# Range: 1 ~ 12
+		healthSegmentsHeight = 4
+		#Default: #000000
+		healthSegmentsColor = "#000000"
+		#Default: 65%
+		# Default: 65
+		# Range: 0 ~ 100
+		healthSegmentsOpacity = 65
+
+	[health_bars.healthMobHealthTitle]
+		#Default: Yes
+		healthEntityNameTextShow = true
+		#Default: Minecraft
+		#Allowed Values: MINECRAFT, SQUARE, SMALL
+		healthEntityNameTextFont = "MINECRAFT"
+		#Default: No
+		healthEntityNameStyleBold = false
+		#Default: No
+		healthEntityNameStyleItalic = false
+		#Default: No
+		healthEntityNameStyleUnderlined = false
+		#Default: Middle
+		#Allowed Values: LEFT, MIDDLE, RIGHT
+		healthEntityNameStyleAlignX = "LEFT"
+		#Default: Middle
+		#Allowed Values: ABOVE, CENTER, BELOW
+		healthEntityNameStyleAlignY = "BELOW"
+		#Default: Normal
+		#Allowed Values: NORMAL, UPPERCASE, LOWERCASE
+		healthEntityNameStyleCasing = "NORMAL"
+
+	[health_bars.healthMobHealthTitle2]
+		#Default: OFF
+		#Allowed Values: OFF, MIN_MAX, PERCENTAGE
+		healthEntityHealthTextShow = "OFF"
+		#Default: No
+		healthEntityHealthTextShowArmor = false
+		#Default: Minecraft
+		#Allowed Values: MINECRAFT, SQUARE, SMALL
+		healthEntityHealthTextFont = "SMALL"
+		#Default: No
+		healthEntityHealthStyleBold = false
+		#Default: No
+		healthEntityHealthStyleItalic = false
+		#Default: No
+		healthEntityHealthStyleUnderlined = false
+		#Default: Middle
+		#Allowed Values: LEFT, MIDDLE, RIGHT
+		healthEntityHealthStyleAlignX = "RIGHT"
+		#Default: Below
+		#Allowed Values: ABOVE, CENTER, BELOW
+		healthEntityHealthStyleAlignY = "ABOVE"
+
+	[health_bars.healthBossTitle]
+		#Default: Yes
+		bossOverrideEnabled = false
+		#YES: Will share some TEXT STYLE configs with normal health bar. NO: The configs below will be fully respected. Default: No
+		bossInheritConfigText = false
+		#YES: Will share COLOR configs with normal health bar. NO: The configs below will be fully respected. Default: Yes
+		bossInheritConfigColorAndBarStyle = true
+		#YES: Will share SEGMENT configs with normal health bar. NO: The configs below will be fully respected. Default: Yes
+		bossInheritConfigSegments = true
+
+		[health_bars.healthBossTitle.miscBossTitle]
+			#Default: 0
+			# Default: 0
+			# Range: > -2147483648
+			bossBarOffsetX = 0
+			#Default: 16
+			# Default: 16
+			# Range: > -2147483648
+			bossBarOffsetY = 16
+			#Default: SIDE BY SIDE
+			#Allowed Values: OFF, VERTICAL, SIDE_BY_SIDE
+			bossBarStackMode = "SIDE_BY_SIDE"
+			#Default: 4
+			# Default: 4
+			# Range: 1 ~ 8
+			bossBarStackMax = 4
+			#How much the bars shrink per stack in side-by-side stacking mode. Default: 10%
+			# Default: 10
+			# Range: 0 ~ 40
+			bossBarStackSideBySideScaleStep = 10
+
+		[health_bars.healthBossTitle.healthBossStyleTitle]
+			#Default: SCI-FI
+			#Allowed Values: SCI_FI, SHINY_BASIC, MODERN_SLANTED, FLAT, DITHERED, PILL, OUTLINE_FILLED, OUTLINE_HOLLOW, VIGNETTE, BEVEL, RIM_LIGHT, GRADIENT_A, GRADIENT_B, SLIDER_SLANTED_SIMPLE, SLIDER_SLANTED_SHADED, SLIDER_HEART, SLIDER_VANILLA
+			bossBarStyle = "SCI_FI"
+			#Default: DEFAULT
+			#Allowed Values: DEFAULT, CUSTOM, MOB_EGG, MOB_EGG_INVERT
+			bossBarColorMode = "DEFAULT"
+			#Default: #0D86FF
+			bossBarColor = "#0D86FF"
+			#Default: 100%
+			# Default: 100
+			# Range: 0 ~ 100
+			bossBarOpacity = 100
+			#Default: #231242
+			bossBarBgColor = "#231242"
+			#Default: 85%
+			# Default: 85
+			# Range: 0 ~ 100
+			bossBarBgOpacity = 85
+
+		[health_bars.healthBossTitle.bossSegmentsTitle]
+			#Default: Yes
+			bossSegmentsShow = true
+			#Default: 4
+			# Default: 4
+			# Range: 2 ~ 16
+			bossSegmentsCount = 4
+			#Default: 1
+			# Default: 1
+			# Range: 1 ~ 16
+			bossSegmentsThickness = 1
+			#Default: 12
+			# Default: 12
+			# Range: 1 ~ 24
+			bossSegmentsHeight = 12
+			#Default: #000000
+			bossSegmentsColor = "#000000"
+			#Default: 65%
+			# Default: 65
+			# Range: 0 ~ 100
+			bossSegmentsOpacity = 65
+
+		[health_bars.healthBossTitle.bossMobHealthTitle]
+			#Default: Yes
+			bossBarNameTextShow = true
+			#Default: Minecraft
+			#Allowed Values: MINECRAFT, SQUARE, SMALL
+			bossBarNameTextFont = "MINECRAFT"
+			#Default: Yes
+			bossBarNameStyleBold = true
+			#Default: No
+			bossBarNameStyleItalic = false
+			#Default: No
+			bossBarNameStyleUnderlined = false
+			#Default: MIDDLE
+			#Allowed Values: LEFT, MIDDLE, RIGHT
+			bossBarNameTextAlignX = "MIDDLE"
+			#Default: MIDDLE
+			#Allowed Values: ABOVE, CENTER, BELOW
+			bossBarNameTextAlignY = "BELOW"
+			#Default: Normal
+			#Allowed Values: NORMAL, UPPERCASE, LOWERCASE
+			bossBarNameStyleCasing = "NORMAL"
+
+		[health_bars.healthBossTitle.bossMobHealthTitle2]
+			#Default: MIN/MAX
+			#Allowed Values: OFF, MIN_MAX, PERCENTAGE
+			bossBarHealthTextShow = "MIN_MAX"
+			#Default: No
+			bossBarHealthTextShowArmor = false
+			#Default: Minecraft
+			#Allowed Values: MINECRAFT, SQUARE, SMALL
+			bossBarHealthTextFont = "SMALL"
+			#Default: No
+			bossBarHealthStyleBold = false
+			#Default: No
+			bossBarHealthStyleItalic = false
+			#Default: No
+			bossBarHealthStyleUnderlined = false
+			#Default: MIDDLE
+			#Allowed Values: LEFT, MIDDLE, RIGHT
+			bossBarHealthTextAlignX = "MIDDLE"
+			#Default: MIDDLE
+			#Allowed Values: ABOVE, CENTER, BELOW
+			bossBarHealthTextAlignY = "ABOVE"
+
+		[health_bars.healthBossTitle.healthBossDetectTitle]
+			#Detect mobs as bosses by their internal 'bosses' Tag. Default: True
+			bossDetectByTag = true
+			#Detect mobs as bosses if they have a custom name. Default: False
+			bossDetectByCustomName = false
+			#Detect mobs as bosses by their max health (equal or higher than this value). Set to -1 to ignore this setting. Default: 100
+			# Default: 100.0
+			# Range: -1.0 ~ 1.7976931348623157E308
+			bossDetectByHealth = 100.0
+			#Mobs in this list will NEVER be detected as Bosses. Format: mod_id:entity_name. Default: minecraft:iron_golem
+			bossDetectBlacklist = ["minecraft:iron_golem"]
+			#Mobs in this list will ALWAYS be detected as Bosses. Format: mod_id:entity_name. Default: minecraft:elder_guardian
+			bossDetectWhitelist = ["minecraft:elder_guardian"]
+			#Range at which a Boss's health bar will start to render. Default: 96
+			# Default: 96.0
+			# Range: 1.0 ~ 216.0
+			bossBarShowRange = 96.0

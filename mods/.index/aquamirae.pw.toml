@@ -1,0 +1,25 @@
+filename = 'aquamirae-neoforge-1.21.1-7.2.3.jar'
+name = 'Aquamirae [Neo/Forge Edition]'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Aquamirae 7.2.3'
+
+[download]
+hash = 'e3fc7bc15c8b117008df68017a192181483784f4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8728350
+project-id = 536254
+
+[[x-prismlauncher-dependencies]]
+addonId = '1123977'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'

@@ -1,0 +1,51 @@
+	[Stages."Iron Keeper"]
+		#This text variable determines which boss is the Iron Keeper, boss that unlock the Iron. Default = armageddon_mod:iron_colossus 
+		iron_keeper_boss = "armageddon_mod:the_iron_colossus"
+
+	[Stages."Gold Keeper"]
+		#This text variable determines which boss is the Gold Keeper, boss that unlock the Gold. Default = armageddon_mod:the_gobelin_lord 
+		gold_keeper_boss = "armageddon_mod:the_gobelin_lord"
+
+	[Stages."Emerald Keeper"]
+		#This text variable determines which boss is the Emerald Keeper, boss that unlock the Emerald. Default = armageddon_mod:arion_tyrant_of_the_emerald_wrath_soldat
+		emerald_keeper_boss = "armageddon_mod:arion_tyrant_of_the_emerald_wrath_soldat"
+
+	[Stages."Diamond Keeper"]
+		#This text variable determines which boss is the Diamond Keeper, boss that unlock the Diamond. Default = armageddon_mod:eldoraththe_ancient_builder
+		diamond_keeper_boss = "armageddon_mod:eldoraththe_ancient_builder"
+
+	[Stages."Nether Keeper"]
+		#This text variable determines which boss is the Netherr, boss that unlock the Nether. Default = armageddon_mod:eldoraththe_ancient_builder
+		nether_keeper_boss = "armageddon_mod:eldoraththe_ancient_builder"
+
+	[Stages."Netherite Keeper"]
+		#This text variable determines which boss is the Netherite Keeper, boss that unlock the Netherite. Default = armageddon_mod:zoranththe_forgotten_one
+		netherite_keeper_boss = "armageddon_mod:zoranththe_forgotten_one"
+
+	[Stages."Elvenite Keeper"]
+		#This text variable determines which boss is the Elvenite Keeper, boss that unlock the Elvenite. Default = armageddon_mod:the_elvenite_paladin
+		elvenite_keeper_boss = "armageddon_mod:the_elvenite_paladin"
+
+	[Stages."Voiderite Keeper"]
+		#This text variable determines which boss is the Voiderite Keeper, boss that unlock the Voiderite. Default = armageddon_mod:vaedricthe_fallen_wanderer
+		voiderite_keeper_boss = "armageddon_mod:vaedricthe_fallen_wanderer"
+
+	[Stages."Calamitous Keeper"]
+		#This text variable determines which boss is the Calamitous Keeper, boss that unlock the souls (better not be changed). Default = armageddon_mod:the_discord
+		calamitous_keeper_boss = "armageddon_mod:the_discord"
+
+	[Stages."Blood Keeper"]
+		#This text variable determines which boss is the Blood Keeper, boss that unlock the Blood?. Default = armageddon_mod:sanghor_lord_of_bloodp_2
+		blood_keeper_boss = "armageddon_mod:sanghor_lord_of_bloodp_2"
+
+	[Stages."Sun Keeper"]
+		#This text variable determines which boss is the Sun Keeper, boss that unlock the Helionite. Default = armageddon_mod:zoranth_newborn_of_the_zenith
+		sun_keeper_boss = "armageddon_mod:zoranth_newborn_of_the_zenith"
+
+	[Stages."Shadow Keeper"]
+		#This text variable determines which boss is the Shadow Keeper, boss that unlock the.  Default = armageddon_mod:nyxaris_the_veil_of_oblivion
+		shadow_keeper_boss = "armageddon_mod:nyxaris_the_veil_of_oblivion"
+
+	[Stages."Hardmode Keeper"]
+		#This text variable determines which boss is the one activating the Hardmode. Careful its WORLD SIDE. Default = minecraft:ender_dragon
+		hardmode_boss = "minecraft:ender_dragon"

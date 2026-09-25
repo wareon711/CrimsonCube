@@ -1,0 +1,18 @@
+filename = 'Chunky-NeoForge-1.4.23.jar'
+name = 'Chunky (Forge/NeoForge)'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Chunky 1.4.23'
+
+[download]
+hash = 'ab0c74743a653020fe2dfc4986b43e893947f3e9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6383261
+project-id = 485681

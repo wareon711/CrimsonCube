@@ -1,0 +1,187 @@
+{
+  "enabled": true,
+  "mod_name": "Myths \u0026 Legends",
+  "mod_id": "mythsandlegends",
+  "achievements": {
+    "the_stonewall": {
+      "display_name": "El Muro de Piedra",
+      "original_name": "El Muro de Piedra",
+      "enabled": true,
+      "icon": "mythsandlegends:stony_shield",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "bound_by_darkness": {
+      "display_name": "Atado por la Oscuridad",
+      "original_name": "Atado por la Oscuridad",
+      "enabled": true,
+      "icon": "mythsandlegends:ironshade_helmet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "echo_in_the_frost": {
+      "display_name": "Eco en la escarcha",
+      "original_name": "Eco en la escarcha",
+      "enabled": true,
+      "icon": "mythsandlegends:karakondjul_horn",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "master_of_the_blade": {
+      "display_name": "Maestro de la Hoja",
+      "original_name": "Maestro de la Hoja",
+      "enabled": true,
+      "icon": "mythsandlegends:gargoyle_axe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "howl_of_the_lonely_end": {
+      "display_name": "Aullido del Final Solitario",
+      "original_name": "Aullido del Final Solitario",
+      "enabled": true,
+      "icon": "mythsandlegends:amarok_essence",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "shard_collector": {
+      "display_name": "Coleccionista de Esquirlas",
+      "original_name": "Coleccionista de Esquirlas",
+      "enabled": true,
+      "icon": "mythsandlegends:gargoyle_shard",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "frozen_heart": {
+      "display_name": "Corazón Congelado",
+      "original_name": "Corazón Congelado",
+      "enabled": true,
+      "icon": "mythsandlegends:frozen_heart",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "aegis_of_the_damned": {
+      "display_name": "Égida de los Condenados",
+      "original_name": "Égida de los Condenados",
+      "enabled": true,
+      "icon": "mythsandlegends:maledictum_shield",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "ars_lapidem": {
+      "display_name": "Ars Lapidem",
+      "original_name": "Ars Lapidem",
+      "enabled": true,
+      "icon": "mythsandlegends:gargoyle_effigy",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "fragment_of_power": {
+      "display_name": "Fragmento de Poder",
+      "original_name": "Fragmento de Poder",
+      "enabled": true,
+      "icon": "mythsandlegends:gargoyle_fragment",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "forged_in_inferno": {
+      "display_name": "Forjado en el Inferno",
+      "original_name": "Forjado en el Inferno",
+      "enabled": true,
+      "icon": "mythsandlegends:infernum_warplate_chestplate",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "bound_soul_ingot": {
+      "display_name": "Lingote de Alma Vinculada",
+      "original_name": "Lingote de Alma Vinculada",
+      "enabled": true,
+      "icon": "mythsandlegends:bound_soul_ingot",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "warborn_conqueror": {
+      "display_name": "Conquistador de la Guerra",
+      "original_name": "Conquistador de la Guerra",
+      "enabled": true,
+      "icon": "mythsandlegends:infernum_warplate_helmet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "reliquary_of_the_northern_spirit": {
+      "display_name": "Relicario del Espíritu del Norte",
+      "original_name": "Relicario del Espíritu del Norte",
+      "enabled": true,
+      "icon": "mythsandlegends:necklace_of_torngarsuk",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "rider_of_the_shadows": {
+      "display_name": "Jinete de las Sombras",
+      "original_name": "Jinete de las Sombras",
+      "enabled": true,
+      "icon": "mythsandlegends:soulbinder_amulet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "relic_of_the_forge_god": {
+      "display_name": "Reliquia del Dios Herrero",
+      "original_name": "Reliquia del Dios Herrero",
+      "enabled": true,
+      "icon": "mythsandlegends:svarogs_ring",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "heart_of_fire": {
+      "display_name": "Corazón de Fuego",
+      "original_name": "Corazón de Fuego",
+      "enabled": true,
+      "icon": "mythsandlegends:fire_heart",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "cursed_power": {
+      "display_name": "Poder Maldito",
+      "original_name": "Poder Maldito",
+      "enabled": true,
+      "icon": "mythsandlegends:cursed_core",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

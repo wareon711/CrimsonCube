@@ -1,0 +1,21 @@
+filename = 'letsdo-lilis_lucky_lures-neoforge-1.1.3.jar'
+name = "[Let's Do] Lili's Lucky Lures"
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "Lili's Lucky Lures - 1.1.3 - NEOFORGE - 1.21.1"
+
+[download]
+hash = 'e10609e98c57b7ed1fa77e62a8e9fc99ce4a8fac'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7535965
+project-id = 1197637
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'

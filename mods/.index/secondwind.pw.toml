@@ -1,0 +1,29 @@
+filename = 'secondwind-neoforge-1.21.1-1.1.1.jar'
+name = 'Second Wind!'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'secondwind-neoforge-1.21.1-1.1.1.jar'
+
+[download]
+hash = '8818975d853e623d3e4e6606ed417b1154dd2055'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8665964
+project-id = 1540107
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '532610'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1542666'
+type = 'REQUIRED'

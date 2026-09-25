@@ -1,0 +1,18 @@
+filename = 'sweety_archaeology-1.0.9b-neoforge-1.21.1.jar'
+name = "Sweety's Archaeology"
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v1.0.9b [1.21.1]'
+
+[download]
+hash = '4281fd830d5bf740e41d03d0839e1081fc6feea8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6922114
+project-id = 1138355

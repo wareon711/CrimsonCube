@@ -1,0 +1,27 @@
+{
+  "id": "nuevos-minerales",
+  "name": "Nuevos minerales!",
+  "icon": "confluence:hellstone_ingot",
+  "description": "Encontraras distintos /bminerales/x con una progresion parecida a la de minecraft normal.\n\nPero una vez derrotes al /rMuro de carne,/x Conseguiras /oEl marillo dorado/x con el que podras destruir /baltares/x para conseguir minerales mas fuertes que la netherita!",
+  "category": "confluence",
+  "sub-category": "introduccion",
+  "optional": false,
+  "repeatable": false,
+  "hiddenUnderDependency": false,
+  "completion": {
+    "complete": [
+      {
+        "collect": "confluence:golden_hammer",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "confluence:cobalt_ingot",
+        "count": 9
+      }
+    ]
+  }
+}

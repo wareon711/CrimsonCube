@@ -1,0 +1,8 @@
+{
+  "id": "1-el-despertar",
+  "category": "guia-keo-rpg",
+  "name": "El Despertar",
+  "icon": "minecraft:grass_block",
+  "order": 1,
+  "default_open": true
+}

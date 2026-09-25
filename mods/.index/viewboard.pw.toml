@@ -1,0 +1,18 @@
+filename = 'viewboard-neoforge-1.21.1-1.2.3.jar'
+name = 'ViewBoard'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ViewBoard 1.2.3 for neoforge-1.21.1-1.21.3'
+
+[download]
+hash = '23b738da5bcc04bf393db6f79ce0dde2cbd014cc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8356150
+project-id = 1485396

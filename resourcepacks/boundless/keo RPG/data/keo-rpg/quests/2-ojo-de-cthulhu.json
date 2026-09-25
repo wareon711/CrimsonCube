@@ -1,0 +1,23 @@
+{
+  "id": "ojo-de-cthulhu",
+  "name": "Ojo de Cthulhu",
+  "icon": "confluence:suspicious_looking_eye",
+  "description": "Consigue /b4 lente/x\nusa un /oAltar demoniaco!/x para conseguir el /bojo de aspecto sospechoso/x y combatir contra el ojo de cthulhu!",
+  "category": "confluence",
+  "sub-category": "jefes",
+  "optional": false,
+  "repeatable": false,
+  "hiddenUnderDependency": false,
+  "completion": {
+    "complete": [
+      {
+        "kill": "terra_entity:eye_of_cthulhu",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "exp": "points",
+    "count": 200
+  }
+}

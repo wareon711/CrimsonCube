@@ -1,0 +1,30 @@
+{
+  "id": "emerald-pouch",
+  "name": "sacos de esmeraldas",
+  "icon": "emeraldpouch:light_blue_pouch",
+  "description": "Si consigues muchas /l/gesmeraldas/x puedes craftear un /l/oemerald pouch /xpara guardarlas, asi ocuparan menos espacio podras comerciar con aldeanos facilmente",
+  "category": "guia-keo-rpg",
+  "sub-category": "2-era-de-piedra",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "la-primera-vez",
+  "completion": {
+    "complete": [
+      {
+        "collect": "#emeraldpouch:pouches",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 15
+      }
+    ]
+  }
+}

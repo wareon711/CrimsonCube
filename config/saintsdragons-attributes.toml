@@ -1,0 +1,381 @@
+#Cindervane Dragon Attributes
+[cindervane]
+	#Core Attributes
+	# Default: 80.0
+	# Range: 1.0 ~ 100000.0
+	max_health = 80.0
+	# Default: 4.0
+	# Range: 0.0 ~ 100000.0
+	armor = 4.0
+	# Default: 0.6
+	# Range: 0.0 ~ 2.0
+	flying_speed = 0.6
+	# Default: 1.0
+	# Range: 0.05 ~ 10.0
+	wild_flying_speed_multiplier = 1.0
+	#Ability Damage
+	# Default: 12.0
+	# Range: 0.0 ~ 100000.0
+	bite_damage = 12.0
+	# Default: 20.0
+	# Range: 0.0 ~ 100000.0
+	magma_volley_damage = 20.0
+	# Default: 3.0
+	# Range: 0.0 ~ 100000.0
+	fire_body_damage = 3.0
+	#Taming Chances (lower = easier)
+	# Default: 4.0
+	# Range: 1.0 ~ 20.0
+	taming_chance_base = 4.0
+	# Default: 3.0
+	# Range: 1.0 ~ 20.0
+	taming_chance_chicken = 3.0
+	# Default: 2.0
+	# Range: 1.0 ~ 20.0
+	taming_chance_hearty = 2.0
+	#Eggs (1 in N chance per random tick)
+	# Default: 2.0
+	# Range: 1.0 ~ 200.0
+	egg_hatch_chance_normal = 2.0
+	#Egg drop chance (0-1)
+	# Default: 0.12
+	# Range: 0.0 ~ 1.0
+	egg_drop_chance = 0.12
+	#Direct blast damage on Fire Body crash impact
+	# Default: 200.0
+	# Range: 0.0 ~ 100000.0
+	fire_body_explosion_damage = 200.0
+	#Self-damage applied to Cindervane after Fire Body crash impact
+	# Default: 40.0
+	# Range: 0.0 ~ 1000.0
+	fire_body_self_damage_on_crash = 40.0
+	#Aggressive wild behavior
+	aggressive_wild = false
+	#Allow this dragon to damage/destroy blocks with abilities and movement
+	griefing_enabled = true
+	#Reactive terrain clearing (requires mobGriefing)
+	reactive_terrain_clearing_on_damage = true
+	reactive_terrain_clearing_on_damage_tamed = false
+
+#Raevyx Dragon Attributes
+[raevyx]
+	#Core Attributes
+	# Default: 180.0
+	# Range: 1.0 ~ 100000.0
+	max_health = 180.0
+	# Default: 8.0
+	# Range: 0.0 ~ 100000.0
+	armor = 8.0
+	# Default: 1.0
+	# Range: 0.0 ~ 2.0
+	flying_speed = 1.0
+	# Default: 1.0
+	# Range: 0.05 ~ 10.0
+	wild_flying_speed_multiplier = 1.0
+	#Ability Damage
+	# Default: 15.0
+	# Range: 0.0 ~ 100000.0
+	bite_damage = 15.0
+	# Default: 35.0
+	# Range: 0.0 ~ 100000.0
+	lightning_beam_damage = 35.0
+	# Default: 15.0
+	# Range: 0.0 ~ 100000.0
+	horn_gore_damage = 15.0
+	# Default: 10.0
+	# Range: 0.0 ~ 100000.0
+	dash_damage = 10.0
+	#Beam Energy Tuning
+	# Default: 0.014
+	# Range: 0.0 ~ 1.0
+	beam_drain_per_tick = 0.014
+	# Default: 0.0025
+	# Range: 0.0 ~ 1.0
+	beam_regen_per_tick = 0.0025
+	#Summon Storm Tuning
+	# Default: 4800.0
+	# Range: 20.0 ~ 120000.0
+	summon_storm_cooldown_ticks = 4800.0
+	# Default: 1200.0
+	# Range: 20.0 ~ 120000.0
+	summon_storm_supercharge_ticks = 1200.0
+	# Default: 2.0
+	# Range: 0.0 ~ 100.0
+	summon_storm_supercharge_damage_multiplier = 2.0
+	# Default: 1200.0
+	# Range: 20.0 ~ 120000.0
+	summon_storm_duration_ticks = 1200.0
+	#Taming Chances (lower = easier)
+	# Default: 5.0
+	# Range: 1.0 ~ 20.0
+	taming_chance_base = 5.0
+	# Default: 3.0
+	# Range: 1.0 ~ 20.0
+	taming_chance_hearty = 3.0
+	#Taming stun health threshold (HP)
+	# Default: 60.0
+	# Range: 0.0 ~ 1000.0
+	taming_stun_health = 60.0
+	#Legacy taming (true = simple food taming, false = special mechanics)
+	legacy_taming = false
+	#Eggs (1 in N chance per random tick)
+	# Default: 2.0
+	# Range: 1.0 ~ 200.0
+	egg_hatch_chance_normal = 2.0
+	# Default: 1.0
+	# Range: 1.0 ~ 200.0
+	egg_hatch_chance_thunder = 1.0
+	#1 in N chance to instantly hatch when placed during a storm
+	# Default: 100.0
+	# Range: 1.0 ~ 10000.0
+	egg_storm_instant_chance = 100.0
+	#Egg loot chances (0-1)
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	egg_loot_pillager_outpost = 0.2
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	egg_loot_shipwreck_treasure = 0.15
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	egg_loot_ancient_city = 0.15
+	#Egg drop chance (0-1)
+	# Default: 0.12
+	# Range: 0.0 ~ 1.0
+	egg_drop_chance = 0.12
+	#Aggressive wild behavior
+	aggressive_wild = false
+	#Reactive terrain clearing (requires mobGriefing)
+	reactive_terrain_clearing_on_damage = true
+	reactive_terrain_clearing_on_damage_tamed = false
+
+#Nulljaw Dragon Attributes
+[nulljaw]
+	#Core Attributes
+	# Default: 250.0
+	# Range: 1.0 ~ 100000.0
+	max_health = 250.0
+	# Default: 8.0
+	# Range: 0.0 ~ 100000.0
+	armor = 8.0
+	# Default: 1.45
+	# Range: 0.1 ~ 5.0
+	swim_speed = 1.45
+	#Ability Damage
+	# Default: 40.0
+	# Range: 0.0 ~ 100000.0
+	bite_phase1_damage = 40.0
+	# Default: 50.0
+	# Range: 0.0 ~ 100000.0
+	bite_phase2_damage = 50.0
+	# Default: 8.0
+	# Range: 0.0 ~ 100000.0
+	tail_attack_damage = 8.0
+	# Default: 14.0
+	# Range: 0.0 ~ 100000.0
+	dash_tail_swipe_damage = 14.0
+	# Default: 16.0
+	# Range: 0.0 ~ 100000.0
+	dash_claw_damage = 16.0
+	# Default: 16.0
+	# Range: 0.0 ~ 100000.0
+	horn_gore_phase1_damage = 16.0
+	# Default: 20.8
+	# Range: 0.0 ~ 100000.0
+	horn_gore_phase2_damage = 20.8
+	#Taming Chance (lower = easier)
+	# Default: 6.0
+	# Range: 1.0 ~ 20.0
+	taming_chance = 6.0
+	# Default: 4.0
+	# Range: 1.0 ~ 20.0
+	taming_chance_tropical = 4.0
+	#Legacy taming (true = simple food taming, false = special mechanics)
+	legacy_taming = false
+	#Eggs (1 in N chance per random tick)
+	# Default: 3.0
+	# Range: 1.0 ~ 200.0
+	egg_hatch_chance_normal = 3.0
+	#Egg drop chance (0-1)
+	# Default: 0.12
+	# Range: 0.0 ~ 1.0
+	egg_drop_chance = 0.12
+	#Aggressive wild behavior
+	aggressive_wild = false
+	#Allow this dragon to damage/destroy blocks with abilities and movement
+	griefing_enabled = true
+	#Reactive terrain clearing (requires mobGriefing)
+	reactive_terrain_clearing_on_damage = true
+	reactive_terrain_clearing_on_damage_tamed = false
+
+#Ignivorus Dragon Attributes
+[ignivorus]
+	#Core Attributes
+	# Default: 300.0
+	# Range: 1.0 ~ 100000.0
+	max_health = 300.0
+	# Default: 4.0
+	# Range: 0.0 ~ 100000.0
+	armor = 4.0
+	# Default: 0.4
+	# Range: 0.0 ~ 2.0
+	flying_speed = 0.4
+	# Default: 1.0
+	# Range: 0.05 ~ 10.0
+	wild_flying_speed_multiplier = 1.0
+	#Ability Damage
+	# Default: 50.0
+	# Range: 0.0 ~ 100000.0
+	bite_damage = 50.0
+	# Default: 40.0
+	# Range: 0.0 ~ 100000.0
+	body_slam_damage = 40.0
+	# Default: 50.0
+	# Range: 0.0 ~ 100000.0
+	leap_slam_damage = 50.0
+	# Default: 80.0
+	# Range: 0.0 ~ 100000.0
+	fire_breath_damage = 80.0
+	# Default: 70.0
+	# Range: 0.0 ~ 100000.0
+	fireball_damage = 70.0
+	# Default: 18.0
+	# Range: 0.0 ~ 100000.0
+	magma_pillar_damage = 18.0
+	# Default: 15.0
+	# Range: 0.0 ~ 100000.0
+	wing_swipe_damage = 15.0
+	# Default: 18.0
+	# Range: 0.0 ~ 100000.0
+	stomp_damage = 18.0
+	# Default: 10.0
+	# Range: 0.0 ~ 100000.0
+	bulldoze_damage = 10.0
+	# Default: 200.0
+	# Range: 0.0 ~ 100000.0
+	ultimate_damage = 200.0
+	#Ultimate ability health penalty
+	# Default: 50.0
+	# Range: 1.0 ~ 10000.0
+	ultimate_penalty_health = 50.0
+	#Fire Breath Tuning
+	# Default: 0.00625
+	# Range: 0.0 ~ 1.0
+	fire_breath_drain_per_tick = 0.00625
+	# Default: 0.0025
+	# Range: 0.0 ~ 1.0
+	fire_breath_regen_per_tick = 0.0025
+	# Default: 1.0
+	# Range: 0.0 ~ 5.0
+	fire_breath_flame_spawn_multiplier = 1.0
+	# Default: 1.0
+	# Range: 0.0 ~ 5.0
+	fire_breath_flame_speed_multiplier = 1.0
+	# Default: 1.0
+	# Range: 0.0 ~ 5.0
+	fire_breath_flame_lifetime_multiplier = 1.0
+	# Default: 1.0
+	# Range: 0.0 ~ 1.0
+	fire_breath_ignite_block_chance = 1.0
+	#AI Phase 2 behavior (grounded-only switching)
+	# Default: 0.85
+	# Range: 0.0 ~ 1.0
+	phase2_toggle_on_chance = 0.85
+	# Default: 0.05
+	# Range: 0.0 ~ 1.0
+	phase2_toggle_off_chance = 0.05
+	# Default: 60.0
+	# Range: 1.0 ~ 1200.0
+	phase2_decision_min_ticks = 60.0
+	# Default: 120.0
+	# Range: 1.0 ~ 1200.0
+	phase2_decision_max_ticks = 120.0
+	#Taming Chances (lower = easier)
+	# Default: 7.0
+	# Range: 1.0 ~ 20.0
+	taming_chance_base = 7.0
+	# Default: 5.0
+	# Range: 1.0 ~ 20.0
+	taming_chance_beef = 5.0
+	# Default: 4.0
+	# Range: 1.0 ~ 20.0
+	taming_chance_hearty = 4.0
+	#Taming stun health threshold (HP)
+	# Default: 100.0
+	# Range: 0.0 ~ 1000.0
+	taming_stun_health = 100.0
+	#Legacy taming (true = simple food taming, false = special mechanics)
+	legacy_taming = false
+	#Eggs (1 in N chance per random tick)
+	# Default: 9.0
+	# Range: 1.0 ~ 300.0
+	egg_hatch_chance_normal = 9.0
+	#Egg loot chances (0-1)
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	egg_loot_bastion_treasure = 0.15
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	egg_loot_nether_bridge = 0.15
+	# Default: 0.1
+	# Range: 0.0 ~ 1.0
+	egg_loot_ancient_city = 0.1
+	#Egg drop chance (0-1)
+	# Default: 0.12
+	# Range: 0.0 ~ 1.0
+	egg_drop_chance = 0.12
+	#Aggressive wild behavior
+	aggressive_wild = false
+	#Allow this dragon to damage/destroy blocks with abilities and movement
+	griefing_enabled = true
+	#Reactive terrain clearing (requires mobGriefing)
+	reactive_terrain_clearing_on_damage = true
+	reactive_terrain_clearing_on_damage_tamed = false
+
+#Stegonaut Dragon Attributes
+[stegonaut]
+	#Core Attributes
+	# Default: 100.0
+	# Range: 1.0 ~ 100000.0
+	max_health = 100.0
+	# Default: 15.0
+	# Range: 0.0 ~ 100000.0
+	armor = 15.0
+	#Ability Damage
+	# Default: 5.0
+	# Range: 0.0 ~ 100000.0
+	bite_damage = 5.0
+	# Default: 8.0
+	# Range: 0.0 ~ 100000.0
+	chin_slam_damage = 8.0
+	# Default: 10.0
+	# Range: 0.0 ~ 100000.0
+	ground_eating_damage = 10.0
+	#Taming Chances (lower = easier)
+	# Default: 1.0
+	# Range: 1.0 ~ 20.0
+	taming_chance_base = 1.0
+	# Default: 1.0
+	# Range: 1.0 ~ 20.0
+	taming_chance_hearty = 1.0
+	#Eggs (1 in N chance per random tick)
+	# Default: 2.0
+	# Range: 1.0 ~ 200.0
+	egg_hatch_chance_normal = 2.0
+	#Egg drop chance (0-1)
+	# Default: 0.12
+	# Range: 0.0 ~ 1.0
+	egg_drop_chance = 0.12
+	#Aggressive wild behavior
+	aggressive_wild = false
+	#Reactive terrain clearing (requires mobGriefing)
+	reactive_terrain_clearing_on_damage = true
+	reactive_terrain_clearing_on_damage_tamed = false
+
+#Other Configuration (NPCs, etc.)
+[others]
+	#Ivy the Dragon Merchant
+	#Ticks between Ivy's trade restocks (20 ticks = 1 second, 24000 = 20 minutes)
+	# Default: 24000
+	# Range: 20 ~ 72000
+	ivy_restock_interval = 24000

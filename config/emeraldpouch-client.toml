@@ -1,0 +1,22 @@
+#Controls where the pouch HUD indicator renders.
+#POSITION_1 = beside armor/health (left side).
+#POSITION_2 = beside hunger/air bar (right side).
+#POSITION_3 = beside hotbar and flips with active main-hand side.
+#Allowed Values: POSITION_1, POSITION_2, POSITION_3
+hudPosition = "POSITION_1"
+#Controls where the pouch inventory indicator renders in the player inventory screen.
+#POSITION_1 = under crafting.
+#POSITION_2 = one slot above the offhand slot.
+#POSITION_3 = across from the helmet slot (same column as offhand).
+#Allowed Values: POSITION_1, POSITION_2, POSITION_3
+inventoryPosition = "POSITION_1"
+#Controls where the pouch indicator renders in the villager trading screen.
+#POSITION_1 = default position under crafting.
+#POSITION_2 = centered between the trade output slot and the right edge of the container.
+#Allowed Values: POSITION_1, POSITION_2
+merchantPosition = "POSITION_1"
+#Render total pouch count centered on top of the pouch HUD icon.
+showBundleCountOverlay = false
+#Choose which pouch color to render for HUD and inventory indicators.
+#Allowed Values: EMERALD, BLACK, BLUE, BROWN, CYAN, GRAY, GREEN, LIGHT_BLUE, LIGHT_GRAY, LIME, MAGENTA, ORANGE, PINK, PURPLE, RED, WHITE, YELLOW
+hudIconColor = "EMERALD"

@@ -1,0 +1,47 @@
+{
+  "enabled": true,
+  "mod_name": "Paraglider",
+  "mod_id": "paraglider",
+  "achievements": {
+    "paraglider": {
+      "display_name": "Medio vuelo",
+      "original_name": "Medio vuelo",
+      "enabled": true,
+      "icon": "paraglider:paraglider",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "statues_bargain": {
+      "display_name": "La estatua maligna",
+      "original_name": "La estatua maligna",
+      "enabled": true,
+      "icon": "paraglider:horned_statue",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "pray_to_the_goddess": {
+      "display_name": "Reza a la diosa",
+      "original_name": "Reza a la diosa",
+      "enabled": true,
+      "icon": "paraglider:goddess_statue",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "all_vessels": {
+      "display_name": "Héroe de Hyrule",
+      "original_name": "Héroe de Hyrule",
+      "enabled": true,
+      "icon": "paraglider:heart_container",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

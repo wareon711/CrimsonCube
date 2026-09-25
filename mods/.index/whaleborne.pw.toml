@@ -1,0 +1,18 @@
+filename = 'whaleborne-1.21.1-1.2.4.jar'
+name = 'Whaleborne'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'whaleborne-1.21.1-1.2.4.jar'
+
+[download]
+hash = '9326babec0b2c7ac9c0d3a6d9254578e3bf89ab2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8628963
+project-id = 1272075

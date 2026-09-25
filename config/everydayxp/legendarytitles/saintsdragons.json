@@ -1,0 +1,67 @@
+{
+  "enabled": true,
+  "mod_name": "Saint\u0027s Dragons",
+  "mod_id": "saintsdragons",
+  "achievements": {
+    "tame_ignivorus": {
+      "display_name": "Que Comience la Destrucción",
+      "original_name": "Que Comience la Destrucción",
+      "enabled": true,
+      "icon": "minecraft:netherite_ingot",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "tame_raevyx": {
+      "display_name": "Rayo Sangrante",
+      "original_name": "Rayo Sangrante",
+      "enabled": true,
+      "icon": "minecraft:salmon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "tame_nulljaw": {
+      "display_name": "Profundidades del Terror",
+      "original_name": "Profundidades del Terror",
+      "enabled": true,
+      "icon": "minecraft:salmon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "why": {
+      "display_name": "¿Por qué?",
+      "original_name": "¿Por qué?",
+      "enabled": true,
+      "icon": "minecraft:egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "tame_stegonaut": {
+      "display_name": "Mi Fiel Amigo",
+      "original_name": "Mi Fiel Amigo",
+      "enabled": true,
+      "icon": "minecraft:stone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "tame_cindervane": {
+      "display_name": "Protocolo de Tierra Quemada",
+      "original_name": "Protocolo de Tierra Quemada",
+      "enabled": true,
+      "icon": "minecraft:magma_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dificultad",
+  "name": "Dificultad!",
+  "icon": "powerscale:heart_crystal",
+  "description": "Mientras pase el tiempo /r/lmas dificil sera /ltodo;/x Los enemigos haran mas /odaño y tendran mas vida./x\n\nPara ello podras conseguir /bcorazon de cristal  y cristal de poder para hacerte mas fuerte!/x\n\nPara ello necesitaras un /o/lconjunto de /lalquimia/x para fabricar tónicos potenciador",
+  "category": "guia-keo-rpg",
+  "sub-category": "2-era-de-piedra",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "mochilas",
+  "completion": {
+    "complete": [
+      {
+        "collect": "powerscale:alchemy_set",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "powerscale:health_booster_tonic",
+        "count": 1
+      }
+    ]
+  }
+}

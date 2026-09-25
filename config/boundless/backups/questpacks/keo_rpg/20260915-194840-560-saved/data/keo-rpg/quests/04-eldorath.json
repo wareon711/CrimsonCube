@@ -1,0 +1,26 @@
+{
+  "id": "eldorath",
+  "name": "Eldorath!",
+  "icon": "armageddon_mod:builder_stone",
+  "description": "Para conseguir /bDiamante/x usar /bencantamientos/x e ir al /bnether/x necesitas matar /oELDORATH/x, para ello tendras que invocarlo con el /bBuidler stone!/x",
+  "category": "armageddon",
+  "sub-category": "progresion",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "arion",
+  "completion": {
+    "complete": [
+      {
+        "collect": "armageddon_mod:builder_stone",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "exp": "points",
+    "count": 600
+  }
+}

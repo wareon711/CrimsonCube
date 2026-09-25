@@ -1,0 +1,41 @@
+filename = 'emeraldpouch-neoforge-1.21.1-1.1.0.jar'
+name = 'Emerald Pouch'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'emeraldpouch-neoforge-1.21.1-1.1.0.jar'
+
+[download]
+hash = 'a5dbe88c285d603d379de4f7b097964f25c53f79'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8178636
+project-id = 1521881
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '315811'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '341284'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '938917'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1542666'
+type = 'REQUIRED'

@@ -1,0 +1,25 @@
+filename = 'item_descriptions-2.8.0+1.21.1-neoforge.jar'
+name = 'Item Descriptions'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Item Descriptions 2.8.0 for 1.21.1 Neoforge'
+
+[download]
+hash = 'fd8df1a7398539d66ecbcf406d22b8408d2d4808'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8228839
+project-id = 1101501
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '308702'
+type = 'OPTIONAL'

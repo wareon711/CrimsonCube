@@ -1,0 +1,41 @@
+{
+  "id": "mowizies-mobs",
+  "name": "Mowizies mobs!",
+  "icon": "mowziesmobs:wrought_helmet",
+  "description": "/b/lEn mowizies mobs tendras 4 jefes a /lderrotar!/x\n\nPuedes usar la brújula de exploración para encontrarlos\n\n/lEstos estaran en:\n/o-frostmaw spawn\n-monastery\n-umvuthana grove\n-wrouht chamber/x",
+  "category": "jefes",
+  "sub-category": "otros-jefes",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "completion": {
+    "complete": [
+      {
+        "collect": "mowziesmobs:wrought_helmet",
+        "count": 1
+      },
+      {
+        "collect": "mowziesmobs:sol_visage",
+        "count": 1
+      },
+      {
+        "collect": "mowziesmobs:ice_crystal",
+        "count": 1
+      },
+      {
+        "collect": "mowziesmobs:earthrend_gauntlet",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "numismaticoverhaul:gold_coin",
+        "count": 100
+      }
+    ]
+  }
+}

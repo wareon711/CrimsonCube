@@ -1,0 +1,27 @@
+# Beginner's Delight server configuration.
+# Changes can be applied while the server is running with:
+# /beginnersdelight config reload
+
+schema_version = 2
+
+[village]
+# Size of each village plot in blocks (grid spacing). Changing this only affects
+# newly placed houses; the existing plot layout is not recalculated.
+plot_size = 20
+# Maximum terrain height difference (in blocks) allowed within a plot for it to be
+# considered buildable.
+max_height_difference = 10
+# If true, dirt paths are generated to connect houses and decorations.
+generate_paths = true
+# If true, players who have no bed respawn at their village house instead of the
+# world spawn.
+respawn_at_house = true
+
+[starter_house]
+# Default value of the "beginnersdelight:generate_starter_house" game rule for newly
+# created worlds. When true, new worlds generate the starter house at spawn (the
+# classic behavior). Set to false to make new worlds skip it by default; you can
+# still enable it per world from the "Game Rules" screen when creating a world, or
+# with: /gamerule beginnersdelight:generate_starter_house true
+# This does not affect worlds that already exist.
+auto_generate = true

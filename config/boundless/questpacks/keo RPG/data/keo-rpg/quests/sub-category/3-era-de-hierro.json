@@ -1,0 +1,8 @@
+{
+  "id": "3-era-de-hierro",
+  "category": "guia-keo-rpg",
+  "name": "Era de hierro",
+  "icon": "minecraft:iron_block",
+  "order": 3,
+  "default_open": true
+}

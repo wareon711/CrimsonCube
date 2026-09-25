@@ -1,0 +1,32 @@
+{
+  "id": "stardew-valley",
+  "name": "stardew valley?",
+  "icon": "kaleidoscope_cookery:straw_hat",
+  "description": "Si quieres cultivar plantas exoticas necesitaras fabricar un /b/lsombrero de paja/x del mod /okaleidoscope/x\n\nte otorga la destreza necesaria para /lencontrar semillas/x especiales al romper la hierba del mundo.",
+  "category": "guia-keo-rpg",
+  "sub-category": "2-era-de-piedra",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "mochilas",
+  "completion": {
+    "complete": [
+      {
+        "collect": "kaleidoscope_cookery:straw_hat",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "kaleidoscope_cookery:iron_kitchen_knife",
+        "count": 1
+      }
+    ],
+    "exp": "points",
+    "count": 150
+  }
+}

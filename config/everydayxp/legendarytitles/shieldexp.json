@@ -1,0 +1,27 @@
+{
+  "enabled": true,
+  "mod_name": "Shield Expansion",
+  "mod_id": "shieldexp",
+  "achievements": {
+    "get_netherite_shield": {
+      "display_name": "Objeto inamovible",
+      "original_name": "Objeto inamovible",
+      "enabled": true,
+      "icon": "shieldexp:netherite_shield",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "get_diamond_shield": {
+      "display_name": "El diamante es irrompible",
+      "original_name": "El diamante es irrompible",
+      "enabled": true,
+      "icon": "shieldexp:diamond_shield",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

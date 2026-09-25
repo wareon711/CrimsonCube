@@ -1,0 +1,29 @@
+filename = 'reliable_gliders-neoforge-1.21.1-1.4.1.jar'
+name = 'Reliable Gliders'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Reliable Gliders Neoforge 1.21.1 - 1.4.1'
+
+[download]
+hash = '899219e59e9ec861d200ceef43e77c5ab8d71ea7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8648583
+project-id = 1528600
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '667299'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '341284'
+type = 'OPTIONAL'

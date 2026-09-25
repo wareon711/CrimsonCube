@@ -1,0 +1,47 @@
+{
+  "enabled": true,
+  "mod_name": "Hominid",
+  "mod_id": "hominid",
+  "achievements": {
+    "adventure/fossilised": {
+      "display_name": "Devuélveme la losa",
+      "original_name": "Devuélveme la losa",
+      "enabled": true,
+      "icon": "hominid:remains_armor_trim_smithing_template",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/gasoline": {
+      "display_name": "Gasolina Increíble",
+      "original_name": "Gasolina Increíble",
+      "enabled": true,
+      "icon": "hominid:gasoline_tank",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/hematoma": {
+      "display_name": "Flujo de Drácula",
+      "original_name": "Flujo de Drácula",
+      "enabled": true,
+      "icon": "hominid:music_disc_hematoma",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/hungry": {
+      "display_name": "¿Qué tan hambriento...?",
+      "original_name": "¿Qué tan hambriento...?",
+      "enabled": true,
+      "icon": "minecraft:beef",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

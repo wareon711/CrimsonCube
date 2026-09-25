@@ -1,0 +1,29 @@
+{
+  "id": "devorador-de-mundos",
+  "name": "devorador de mundos!",
+  "icon": "terra_entity:worm_food",
+  "description": "Tendras probabilidad de conseguir la /bcomida para lombrices matando diferentes mobs!\n\n/rCon esta podras invocar al devorador de mundos!\n\n/oTambien la puedes tradear con el guia!",
+  "category": "jefes",
+  "sub-category": "terraria",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "completion": {
+    "complete": [
+      {
+        "collect": "terra_entity:worm_food",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "numismaticoverhaul:silver_coin",
+        "count": 40
+      }
+    ]
+  }
+}

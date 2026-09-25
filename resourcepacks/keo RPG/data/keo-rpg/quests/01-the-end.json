@@ -1,0 +1,90 @@
+{
+  "id": "the-end",
+  "name": "¿The end?",
+  "icon": "minecraft:ender_eye",
+  "description": "Ahora Para entrar al /b/lEND/x tendras que recolectar /b/l12/x de los /b/l16/x ojos que encontraras repartidos en distintas /lestructuras y bosses /ovanilla/x",
+  "category": "guia-keo-rpg",
+  "sub-category": "3-era-de-hierro",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "the-goblin-lord",
+  "completion": {
+    "complete": [
+      {
+        "collect": "endrem:black_eye",
+        "count": 1
+      },
+      {
+        "collect": "endrem:cold_eye",
+        "count": 1
+      },
+      {
+        "collect": "endrem:corrupted_eye",
+        "count": 1
+      },
+      {
+        "collect": "endrem:cryptic_eye",
+        "count": 1
+      },
+      {
+        "collect": "endrem:cursed_eye",
+        "count": 1
+      },
+      {
+        "collect": "endrem:evil_eye",
+        "count": 1
+      },
+      {
+        "collect": "endrem:exotic_eye",
+        "count": 1
+      },
+      {
+        "collect": "endrem:guardian_eye",
+        "count": 1
+      },
+      {
+        "collect": "endrem:lost_eye",
+        "count": 1
+      },
+      {
+        "collect": "endrem:magical_eye",
+        "count": 1
+      },
+      {
+        "collect": "endrem:nether_eye",
+        "count": 1
+      },
+      {
+        "collect": "endrem:old_eye",
+        "count": 1
+      },
+      {
+        "collect": "endrem:rogue_eye",
+        "count": 1
+      },
+      {
+        "collect": "endrem:undead_eye",
+        "count": 1
+      },
+      {
+        "collect": "endrem:witch_eye",
+        "count": 1
+      },
+      {
+        "collect": "endrem:wither_eye",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "arsenal:unique_sickle_1",
+        "count": 1
+      }
+    ]
+  }
+}

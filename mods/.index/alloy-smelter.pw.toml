@@ -1,0 +1,18 @@
+filename = 'alloy_smelter-neoforge-1.21.1-1.2.1.jar'
+name = 'Alloy Smelter'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Alloy Smelter 1.2.1 (1.21.1)'
+
+[download]
+hash = 'cc41170c37982a4d04dc4618414b5ba55ef512a3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7335117
+project-id = 1313083

@@ -1,0 +1,68 @@
+#Max unique messages tracked per thread
+max_buffer_size = 500
+#Disables deduplication for troubleshooting
+debug_mode = false
+#Show suppression count after N additional duplicates
+show_count_after = 100
+#Master switch to enable/disable deduplication
+enabled = true
+
+[stacktraces]
+	#Max stack depth (0 = unlimited)
+	max_depth = 0
+	#Remove duplicate stack frames
+	clean = true
+	#Remove framework frames
+	remove_common_frames = false
+
+[output]
+	#Show 'suppressed N times' messages
+	show_suppression_message = true
+
+[time_windows]
+	#Window for coordinate spam (ms)
+	coordinates_ms = 100
+	#Window for general spam (ms)
+	general_ms = 2000
+	#Window for chunk operation spam (ms)
+	chunk_ms = 500
+
+[thresholds]
+	#Duplicates allowed before suppressing WARN
+	warn = 10
+	#Duplicates allowed before suppressing DEBUG/TRACE
+	debug = 3
+	#Duplicates allowed before suppressing ERROR/FATAL
+	error = 5
+	#Duplicates allowed before suppressing INFO
+	info = 20
+
+[normalization]
+	#Normalize memory addresses
+	memory_addresses = true
+	#Normalize coordinates in messages
+	coordinates = true
+	#Normalize timing values
+	timings = true
+	#Normalize UUIDs in messages
+	uuids = true
+
+[similarity]
+	#Match similar messages with different numbers
+	fuzzy_matching = true
+	#Similarity threshold 0-100 (higher = stricter)
+	threshold = 85
+
+[filters]
+	#Completely suppress these loggers
+	blacklist = []
+	#Only deduplicate these loggers (empty = all)
+	whitelist = []
+
+[system_streams]
+	#Max time between lines of same message
+	multiline_timeout_ms = 50
+	#Group multi-line messages together
+	detect_multiline = true
+	#Deduplicate System.out/err
+	enabled = true

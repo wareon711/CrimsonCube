@@ -1,0 +1,18 @@
+filename = 'fragmentum-neoforge-1.21.1-2.4.4.jar'
+name = 'Fragmentum [NeoForge Edition]'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Fragmentum 2.4.4'
+
+[download]
+hash = '09995d8f0da787acdf5df590defc8dd38cf69884'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8707553
+project-id = 1123977

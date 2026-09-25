@@ -1,0 +1,7 @@
+["leather armor buff"]
+	#If enabled, taking damage while wearing Leather armor grants a temporary Speed effect (boolean, default = true)
+	leather_buff = true
+
+["chainmail armor buff"]
+	#If enabled, taking damage while wearing Chainmail armor grants a temporary Absorption effect (boolean, default = true)
+	chainmail_buff = true

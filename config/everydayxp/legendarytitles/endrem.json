@@ -1,0 +1,167 @@
+{
+  "enabled": true,
+  "mod_name": "End Remastered",
+  "mod_id": "endrem",
+  "achievements": {
+    "main/exotic_eye": {
+      "display_name": "¿Dónde está Atlantis?",
+      "original_name": "¿Dónde está Atlantis?",
+      "enabled": true,
+      "icon": "endrem:exotic_eye",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/wither_eye": {
+      "display_name": "Wither Quieras o No",
+      "original_name": "Wither Quieras o No",
+      "enabled": true,
+      "icon": "endrem:wither_eye",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/nether_eye": {
+      "display_name": "Mira al Desesperación",
+      "original_name": "Mira al Desesperación",
+      "enabled": true,
+      "icon": "endrem:nether_eye",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/old_eye": {
+      "display_name": "Buscador de Fortuna",
+      "original_name": "Buscador de Fortuna",
+      "enabled": true,
+      "icon": "endrem:old_eye",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/evil_eye": {
+      "display_name": "Una Verdadera Bendición",
+      "original_name": "Una Verdadera Bendición",
+      "enabled": true,
+      "icon": "endrem:evil_eye",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/witch_eye": {
+      "display_name": "¿Truco o Trato?",
+      "original_name": "¿Truco o Trato?",
+      "enabled": true,
+      "icon": "endrem:witch_eye",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/black_eye": {
+      "display_name": "¡Arghh, ¿Dónde está mi barco?!",
+      "original_name": "¡Arghh, ¿Dónde está mi barco?!",
+      "enabled": true,
+      "icon": "endrem:black_eye",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/guardian_eye": {
+      "display_name": "¿Quién Vigila el Templo Ahora?",
+      "original_name": "¿Quién Vigila el Templo Ahora?",
+      "enabled": true,
+      "icon": "endrem:guardian_eye",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/corrupted_eye": {
+      "display_name": "Cúbreme de Esmeraldas",
+      "original_name": "Cúbreme de Esmeraldas",
+      "enabled": true,
+      "icon": "endrem:corrupted_eye",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/undead_eye": {
+      "display_name": "El Espejo del Alma",
+      "original_name": "El Espejo del Alma",
+      "enabled": true,
+      "icon": "endrem:undead_eye",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/rogue_eye": {
+      "display_name": "Bienvenido a la Jungla",
+      "original_name": "Bienvenido a la Jungla",
+      "enabled": true,
+      "icon": "endrem:rogue_eye",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/magical_eye": {
+      "display_name": "Hechicero Caído",
+      "original_name": "Hechicero Caído",
+      "enabled": true,
+      "icon": "endrem:magical_eye",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/lost_eye": {
+      "display_name": "¿Necesitas un Mapa?",
+      "original_name": "¿Necesitas un Mapa?",
+      "enabled": true,
+      "icon": "endrem:lost_eye",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/cryptic_eye": {
+      "display_name": "La Paciencia es el Camino a la Sabiduría",
+      "original_name": "La Paciencia es el Camino a la Sabiduría",
+      "enabled": true,
+      "icon": "endrem:cryptic_eye",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/cold_eye": {
+      "display_name": "Una Mirada Agradable",
+      "original_name": "Una Mirada Agradable",
+      "enabled": true,
+      "icon": "endrem:cold_eye",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/cursed_eye": {
+      "display_name": "Un Nuevo Protector...",
+      "original_name": "Un Nuevo Protector...",
+      "enabled": true,
+      "icon": "endrem:cursed_eye",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

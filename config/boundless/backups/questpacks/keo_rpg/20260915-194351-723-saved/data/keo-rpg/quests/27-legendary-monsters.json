@@ -1,0 +1,65 @@
+{
+  "id": "legendary-monsters",
+  "name": "Legendary Monsters!",
+  "icon": "legendary_monsters:guard_summoner",
+  "description": "Este mod /l/oañade 12 jefes nuevos/x y para encontrarlos tendras que usar estos 12 ojos, al matar estos jefes conseguiras mucho loot util!",
+  "category": "jefes",
+  "sub-category": "otros-jefes",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "completion": {
+    "complete": [
+      {
+        "collect": "legendary_monsters:eye_of_soul",
+        "count": 1
+      },
+      {
+        "collect": "legendary_monsters:eye_of_shulker",
+        "count": 1
+      },
+      {
+        "collect": "legendary_monsters:eye_of_sandstorm",
+        "count": 1
+      },
+      {
+        "collect": "legendary_monsters:eye_of_moss",
+        "count": 1
+      },
+      {
+        "collect": "legendary_monsters:eye_of_many_ribs",
+        "count": 1
+      },
+      {
+        "collect": "legendary_monsters:eye_of_magma",
+        "count": 1
+      },
+      {
+        "collect": "legendary_monsters:eye_of_ghost",
+        "count": 1
+      },
+      {
+        "collect": "legendary_monsters:eye_of_frost",
+        "count": 1
+      },
+      {
+        "collect": "legendary_monsters:eye_of_chorus",
+        "count": 1
+      },
+      {
+        "collect": "legendary_monsters:eye_of_bones",
+        "count": 1
+      },
+      {
+        "collect": "legendary_monsters:eye_of_annihilation",
+        "count": 1
+      },
+      {
+        "collect": "legendary_monsters:eye_of_air",
+        "count": 1
+      }
+    ]
+  }
+}

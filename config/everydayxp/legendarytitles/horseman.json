@@ -1,0 +1,17 @@
+{
+  "enabled": true,
+  "mod_name": "Horseman",
+  "mod_id": "horseman",
+  "achievements": {
+    "husbandry/summon_horse": {
+      "display_name": "Honk If You Like Horses",
+      "original_name": "Honk If You Like Horses",
+      "enabled": true,
+      "icon": "horseman:copper_horn",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

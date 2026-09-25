@@ -1,0 +1,4 @@
+{
+  "documentation": "Add rarities in priority order. The first matching item ID or item tag wins.",
+  "rarities": []
+}

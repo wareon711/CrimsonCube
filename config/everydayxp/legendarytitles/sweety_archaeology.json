@@ -1,0 +1,77 @@
+{
+  "enabled": true,
+  "mod_name": "Sweety\u0027s Archaeology",
+  "mod_id": "sweety_archaeology",
+  "achievements": {
+    "display_on_podium": {
+      "display_name": "¡Esto pertenece a un Museo!",
+      "original_name": "¡Esto pertenece a un Museo!",
+      "enabled": true,
+      "icon": "sweety_archaeology:red_tuff_podium",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "eat_primordial_stew": {
+      "display_name": "Sabor Evolucionado",
+      "original_name": "Sabor Evolucionado",
+      "enabled": true,
+      "icon": "sweety_archaeology:primordial_stew",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_fossil_egg": {
+      "display_name": "Huevo Caducado",
+      "original_name": "Huevo Caducado",
+      "enabled": true,
+      "icon": "sweety_archaeology:fossilised_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_climbing_axe": {
+      "display_name": "Algo Nuevo",
+      "original_name": "Algo Nuevo",
+      "enabled": true,
+      "icon": "sweety_archaeology:climbing_axe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "use_broken_clock": {
+      "display_name": "La Última Resistencia",
+      "original_name": "La Última Resistencia",
+      "enabled": true,
+      "icon": "sweety_archaeology:broken_clock",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "use_weather_idol": {
+      "display_name": "Ritual del Hacedor de Lluvia",
+      "original_name": "Ritual del Hacedor de Lluvia",
+      "enabled": true,
+      "icon": "sweety_archaeology:weather_idol_sun",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "drink_expired_brew": {
+      "display_name": "Mezcla Caótica",
+      "original_name": "Mezcla Caótica",
+      "enabled": true,
+      "icon": "sweety_archaeology:miner_brew",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

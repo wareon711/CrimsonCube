@@ -1,0 +1,21 @@
+filename = 'archaion-1.21.1-1.4.3.jar'
+name = 'Archaion: Echoes of the Fallen'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'archaion-1.21.1-1.4.3'
+
+[download]
+hash = '5e42a64f308d920d389743ac7411f067c3d83fbc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8784992
+project-id = 1620396
+
+[[x-prismlauncher-dependencies]]
+addonId = '979809'
+type = 'REQUIRED'

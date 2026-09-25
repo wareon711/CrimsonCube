@@ -1,0 +1,89 @@
+{
+  "id": "introduccion",
+  "name": "Introduuccion",
+  "icon": "armageddon_mod:cosmos_shard",
+  "description": "/oPara empezar estas misiones, primero completa \u0027/l¿Y el hierro?\u0027 y \u0027The Goblin Lord\u0027./x\n\n/bOlvídate de la progresión normal./x\nPara conseguir hierro, diamante, encantamientos o entrar al Nether, tendrás que derrotar a los jefes de Armageddon en orden.\n\n/oSolo así conseguirás equipo más poderoso que la netherita./x",
+  "category": "armageddon",
+  "sub-category": "progresion",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "completion": {
+    "complete": [
+      {
+        "collect": "armageddon_mod:iron_colossus_relic",
+        "count": 1
+      },
+      {
+        "collect": "armageddon_mod:goblin_lord_relic",
+        "count": 1
+      },
+      {
+        "collect": "armageddon_mod:arion_relic",
+        "count": 1
+      },
+      {
+        "collect": "armageddon_mod:elvenite_paladin_relic",
+        "count": 1
+      },
+      {
+        "collect": "armageddon_mod:zoranth_relic",
+        "count": 1
+      },
+      {
+        "collect": "armageddon_mod:bringer_of_doom_relic",
+        "count": 1
+      },
+      {
+        "collect": "armageddon_mod:vaedric_the_fallen_wanderer_relic",
+        "count": 1
+      },
+      {
+        "collect": "armageddon_mod:the_calamities_relic_1",
+        "count": 1
+      },
+      {
+        "collect": "armageddon_mod:sanghor_lord_of_the_blood_relic",
+        "count": 1
+      },
+      {
+        "collect": "armageddon_mod:zoranth_newborn_of_the_zenith_relic",
+        "count": 1
+      },
+      {
+        "collect": "armageddon_mod:nyxaris_the_veil_of_oblivion_relic",
+        "count": 1
+      },
+      {
+        "collect": "armageddon_mod:ender_dragon_relic",
+        "count": 1
+      },
+      {
+        "collect": "armageddon_mod:warden_relics",
+        "count": 1
+      },
+      {
+        "collect": "armageddon_mod:wither_relic",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:nether_star",
+        "count": 1
+      },
+      {
+        "item": "minecraft:diamond",
+        "count": 64
+      },
+      {
+        "item": "arsenal:unique_glaive_1",
+        "count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+	"secondWind": {
+		"downedTimerSeconds": 12,
+		"minimumDownedTimerSeconds": 3,
+		"timerPenaltyPerDown": 2,
+		"downedSlownessLevel": 3,
+		"forceCrawlingPose": true,
+		"downedDamageReducesTimer": true,
+		"downedDamageCooldownTicks": 30,
+		"downedDamageRegisters": false,
+		"downedDamagePlaysHitSound": true,
+		"downedDamageAppliesKnockback": true,
+		"blockHealingWhileDowned": true,
+		"blockEatingWhileDowned": true,
+		"reviveHealthHalfHearts": 12,
+		"reviveRegenerationSeconds": 3,
+		"postReviveInvulnerabilitySeconds": 2,
+		"cooldownMode": "TIMED",
+		"cooldownDurationSeconds": 300,
+		"resetCooldownOnDeath": true
+	},
+	"multiplayerRevive": {
+		"multiplayerRevive": true,
+		"reviveChannelSeconds": 2.0,
+		"reviveDistance": 2.5,
+		"reviveInterruptOnDamage": true
+	},
+	"killRules": {
+		"allowPassiveKills": false,
+		"allowPlayerKills": true,
+		"allowPetKills": false,
+		"allowVoidSecondWind": false
+	},
+	"clientFeedback": {
+		"enableDownedVignette": true,
+		"enableDesaturation": true,
+		"enableDownedBloom": true,
+		"enableSounds": true,
+		"enableChatMessages": true,
+		"localizeChatMessages": true,
+		"enableSecondWindPopup": true,
+		"useSimpleDownedTimer": false
+	}
+}

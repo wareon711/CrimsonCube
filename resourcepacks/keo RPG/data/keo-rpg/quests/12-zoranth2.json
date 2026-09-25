@@ -1,0 +1,22 @@
+{
+  "id": "zoranth2",
+  "name": "Zoranth!",
+  "icon": "armageddon_mod:the_sun_emblem",
+  "description": "Tradea con un /ocartografo/x de nivel /omaestro/x para conseguir /bthe sun emblem/x para invocar a zoranth!\n\nConseguiras el /bhelionite/x, el mineral mas fuerte!",
+  "category": "armageddon",
+  "sub-category": "progresion",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "sanghor",
+  "completion": {
+    "complete": [
+      {
+        "collect": "armageddon_mod:the_sun_emblem",
+        "count": 1
+      }
+    ]
+  }
+}

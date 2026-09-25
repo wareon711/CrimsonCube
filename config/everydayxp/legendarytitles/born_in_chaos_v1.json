@@ -1,0 +1,617 @@
+{
+  "enabled": true,
+  "mod_name": "Born in Chaos ",
+  "mod_id": "born_in_chaos_v1",
+  "achievements": {
+    "charm_collector": {
+      "display_name": "Charm Collector",
+      "original_name": "Charm Collector",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:all_charm",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "big_boy": {
+      "display_name": "Big Boy",
+      "original_name": "Big Boy",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:fangofthe_hound_leader",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "fighting_nightmares": {
+      "display_name": "Fighting Nightmares",
+      "original_name": "Fighting Nightmares",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:nightmare_stalker_skull",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "dark_metallurgy": {
+      "display_name": "Dark Metallurgy",
+      "original_name": "Dark Metallurgy",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:pieceofdarkmetal",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "bonk": {
+      "display_name": "Bonk!",
+      "original_name": "Bonk!",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:skullbreaker_hammer",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "good_demoman": {
+      "display_name": "Good Demoman",
+      "original_name": "Good Demoman",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:good_demoman_icon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "infernal_hatman": {
+      "display_name": "Infernal Musketeer",
+      "original_name": "Infernal Musketeer",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:lord_pumpkinheads_hat_helmet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "squireofthe_dark_lord": {
+      "display_name": "Squire of the Dark Lord",
+      "original_name": "Squire of the Dark Lord",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:squireofthedarklordicon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "double_trouble": {
+      "display_name": "Double Trouble",
+      "original_name": "Double Trouble",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:double_troubleicon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "junior_summoner": {
+      "display_name": "Junior Summoner",
+      "original_name": "Junior Summoner",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:shattered_skull",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "hat_for_dark_deeds": {
+      "display_name": "Hat for dark affairs",
+      "original_name": "Hat for dark affairs",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:missionary_hat_helmet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "rampage": {
+      "display_name": "RAMPAGE!",
+      "original_name": "RAMPAGE!",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:great_reaper_axe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "bury_them_all": {
+      "display_name": "Bury Them All",
+      "original_name": "Bury Them All",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:burythemall_icon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "trickor_treat": {
+      "display_name": "Trick or Treat",
+      "original_name": "Trick or Treat",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:holiday_candy",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "pumpkin_lord": {
+      "display_name": "Last Night",
+      "original_name": "Last Night",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:lord_pumpkinhead_icon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "transmutalogy": {
+      "display_name": "Transmutalogy",
+      "original_name": "Transmutalogy",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:transmuting_elixir",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "my_size": {
+      "display_name": "My Size!",
+      "original_name": "My Size!",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:darkwarblade",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "guidetothenextworld": {
+      "display_name": "The day of the Dead",
+      "original_name": "The day of the Dead",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:spirit_guideicon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "exorcism": {
+      "display_name": "Exorcism",
+      "original_name": "Exorcism",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:exorcism_icon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "dark_blacksmith": {
+      "display_name": "Dark Blacksmith",
+      "original_name": "Dark Blacksmith",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:sharpened_dark_metal_sword",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "protectedby_darkness": {
+      "display_name": "Protected by Darkness",
+      "original_name": "Protected by Darkness",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:dark_atrium",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "shell_warrior": {
+      "display_name": "Shell Warrior",
+      "original_name": "Shell Warrior",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:spiny_shell_armor_chestplate",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "wrong_santa": {
+      "display_name": "Wrong Santa",
+      "original_name": "Wrong Santa",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:krampuss_bag",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "compact_necromancy": {
+      "display_name": "Compact Necromancy",
+      "original_name": "Compact Necromancy",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:bonescaller_staff",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "yoursatietywillbe_eternal": {
+      "display_name": "Your satiety will be Eternal!",
+      "original_name": "Your satiety will be Eternal!",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:eternal_candy",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "freshen_your_breath": {
+      "display_name": "Freshen Your Breath",
+      "original_name": "Freshen Your Breath",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:mint_candy",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "arachnophobes_nightmare": {
+      "display_name": "Arachnophobe\u0027s Nightmare",
+      "original_name": "Arachnophobe\u0027s Nightmare",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:spider_mandible",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "dismantledto_bones": {
+      "display_name": "Senior Summoner",
+      "original_name": "Senior Summoner",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:orbofthe_summoner",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "spider_warlord": {
+      "display_name": "Spider Warlord",
+      "original_name": "Spider Warlord",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:spider_bite_sword",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "cultural_attribute": {
+      "display_name": "Cultural Attribute",
+      "original_name": "Cultural Attribute",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:spiritual_guide_sombrero_helmet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "unitywith_darknessachievement": {
+      "display_name": "Unity with Darkness",
+      "original_name": "Unity with Darkness",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:nightmare_mantleofthe_night_helmet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "hatman": {
+      "display_name": "Hatman",
+      "original_name": "Hatman",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:hats",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "heart_thief": {
+      "display_name": "Heart Thief",
+      "original_name": "Heart Thief",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:elixir_of_vampirism",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "dark_forging": {
+      "display_name": "Dark Forging",
+      "original_name": "Dark Forging",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:dark_metal_ingot",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "one_explosion_is_good_two_is_better": {
+      "display_name": "Double Bang",
+      "original_name": "Double Bang",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:phantom_bomb",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "scarecrow": {
+      "display_name": "Scarecrow",
+      "original_name": "Scarecrow",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:pumpkin_spirit_icon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "chaos_knight": {
+      "display_name": "Chaos Knight",
+      "original_name": "Chaos Knight",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:dark_metal_armor_helmet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "food_fight": {
+      "display_name": "Food Fight",
+      "original_name": "Food Fight",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:monster_flesh",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "symphonyof_chaos": {
+      "display_name": "Symphony of Chaos",
+      "original_name": "Symphony of Chaos",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:serpumpkinhead_m",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "grave_ravager": {
+      "display_name": "Grave Ravager",
+      "original_name": "Grave Ravager",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:gravestone_icon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "dark_creator": {
+      "display_name": "Dark Creator",
+      "original_name": "Dark Creator",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:missionaryicon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_wind_darkening": {
+      "display_name": "The Wind Darkening",
+      "original_name": "The Wind Darkening",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:dark_charge",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "excessive_fly_swatter": {
+      "display_name": "Excessive Fly Swatter",
+      "original_name": "Excessive Fly Swatter",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:excessflyswattericon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lifeturnedouttobeacomedy": {
+      "display_name": "Life turned out to be a comedy",
+      "original_name": "Life turned out to be a comedy",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:lifeturnedouttobeacomedyicon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "sweet_battle": {
+      "display_name": "Sweet Battle",
+      "original_name": "Sweet Battle",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:sweet_sword",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "horror_underthe_mantle": {
+      "display_name": "Horror Under the Mantle",
+      "original_name": "Horror Under the Mantle",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:lifestealer_bone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "insect_repellent": {
+      "display_name": "Insect Repellent",
+      "original_name": "Insect Repellent",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:elixirof_insect_protection",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "explosive_temper": {
+      "display_name": "Explosive Temper",
+      "original_name": "Explosive Temper",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:damned_demomans_hat_helmet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "bypassingthe_expiration_date": {
+      "display_name": "Bypassing the Expiration Date",
+      "original_name": "Bypassing the Expiration Date",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:smoked_flesh",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "deceived_hopes": {
+      "display_name": "Deceived Hopes",
+      "original_name": "Deceived Hopes",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:deceived_hopes_icon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "infernal_medicine": {
+      "display_name": "Infernal Medicine",
+      "original_name": "Infernal Medicine",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:infernal_medicine_icon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "soul_eater": {
+      "display_name": "Soul Eater",
+      "original_name": "Soul Eater",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:ethereal_spirit",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "waste_recycler": {
+      "display_name": "Waste Recycler",
+      "original_name": "Waste Recycler",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:spiny_shell",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "pumpkin_sir": {
+      "display_name": "Pumpkin Sir",
+      "original_name": "Pumpkin Sir",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:pumpkinhead_icon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "shakeand_mix": {
+      "display_name": "Shake and Mix",
+      "original_name": "Shake and Mix",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:shakeand_mixicon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "unlucky_hunter": {
+      "display_name": "Unlucky Hunter",
+      "original_name": "Unlucky Hunter",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:hound_trap",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "naughty_child": {
+      "display_name": "Naughty Child",
+      "original_name": "Naughty Child",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:spiritual_gingerbread",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "spruce_cowboyinthe_moonlight": {
+      "display_name": "Spruce Cowboy In The Moonlight",
+      "original_name": "Spruce Cowboy In The Moonlight",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:spruce_cowboy_in_the_moonlighticon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "horrorofthe_depths": {
+      "display_name": "Horror of the Depths",
+      "original_name": "Horror of the Depths",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:sea_terror_eye",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "mr_decoction": {
+      "display_name": "Mr. Decoction",
+      "original_name": "Mr. Decoction",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:intoxicatind_bomb",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "disgusting_lootbox": {
+      "display_name": "Disgusting Lootbox",
+      "original_name": "Disgusting Lootbox",
+      "enabled": true,
+      "icon": "born_in_chaos_v1:sea_terror_stomach",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

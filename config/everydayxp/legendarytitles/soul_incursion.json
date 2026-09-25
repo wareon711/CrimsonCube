@@ -1,0 +1,67 @@
+{
+  "enabled": true,
+  "mod_name": "Soul Incursion",
+  "mod_id": "soul_incursion",
+  "achievements": {
+    "haunted_moon_ritual": {
+      "display_name": "Ritual de la Luna Embrujada",
+      "original_name": "Ritual de la Luna Embrujada",
+      "enabled": true,
+      "icon": "soul_incursion:soul_altar",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "survive_the_haunted_moon": {
+      "display_name": "Sobrevive a la Luna Embrujada",
+      "original_name": "Sobrevive a la Luna Embrujada",
+      "enabled": true,
+      "icon": "minecraft:iron_sword",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "soul_church_advancement": {
+      "display_name": "Descubre la Iglesia de Almas",
+      "original_name": "Descubre la Iglesia de Almas",
+      "enabled": true,
+      "icon": "minecraft:chiseled_tuff_bricks",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "new_exp_method_advancement": {
+      "display_name": "¡Estofado Nuevo!",
+      "original_name": "¡Estofado Nuevo!",
+      "enabled": true,
+      "icon": "soul_incursion:soul_stew",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "new_soul_equipment": {
+      "display_name": "Nuevo Equipo de Almas",
+      "original_name": "Nuevo Equipo de Almas",
+      "enabled": true,
+      "icon": "soul_incursion:spectral_ingot",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "a_useful_lantern": {
+      "display_name": "Un Farol Útil",
+      "original_name": "Un Farol Útil",
+      "enabled": true,
+      "icon": "soul_incursion:sanctuary_lantern",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

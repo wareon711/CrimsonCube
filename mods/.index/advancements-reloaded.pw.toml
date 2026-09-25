@@ -1,0 +1,21 @@
+filename = 'advancements_reloaded-0.6.1-neoforge-1.21.1.jar'
+name = 'Advancements Reloaded'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Advancements Reloaded NeoForge v0.6.1 (1.21.x)'
+
+[download]
+hash = 'ee735f92df88e6535ab71b744599c4820fc990c5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5835520
+project-id = 1113876
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'REQUIRED'

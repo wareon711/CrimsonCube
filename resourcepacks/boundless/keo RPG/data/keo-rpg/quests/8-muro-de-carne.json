@@ -1,0 +1,23 @@
+{
+  "id": "muro-de-carne",
+  "name": "Muro de carne!",
+  "icon": "confluence:guide_voodoo_doll",
+  "description": "Consigue el /bMuñeco vudú del guía/x y tiralo a la /olava./x  Invocaras al /rmuro de carne!\n\nHaz esto cuando estes preparado!/x",
+  "category": "confluence",
+  "sub-category": "jefes",
+  "optional": false,
+  "repeatable": false,
+  "hiddenUnderDependency": false,
+  "completion": {
+    "complete": [
+      {
+        "kill": "terra_entity:wall_of_flesh",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "exp": "points",
+    "count": 1000
+  }
+}

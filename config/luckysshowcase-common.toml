@@ -1,0 +1,4 @@
+#This is an example int property
+exampleInt = 1234
+#This is an example string list property
+exampleStringList = ["Hello", "World"]

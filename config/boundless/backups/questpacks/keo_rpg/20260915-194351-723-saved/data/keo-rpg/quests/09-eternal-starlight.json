@@ -1,0 +1,22 @@
+{
+  "id": "eternal-starlight",
+  "name": "Eternal starlight",
+  "icon": "eternal_starlight:nightfall_grass_block",
+  "description": "/bEternal starlight/x, encontraras muchos portales a esta dimension en la superficie, para entrar tendras que derrotar a su guardian el cual soltara una /oorbe/x con la que podras abrir el portal.\n\nEn esta dimension hay /bminerales, bosses, enemigos, dungeons/x y mas!\n\n/oTu curiosidad marcara el limite de tu aventura/x",
+  "category": "guia-keo-rpg",
+  "sub-category": "3-era-de-hierro",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "the-goblin-lord",
+  "completion": {
+    "complete": [
+      {
+        "collect": "eternal_starlight:orb_of_prophecy",
+        "count": 1
+      }
+    ]
+  }
+}

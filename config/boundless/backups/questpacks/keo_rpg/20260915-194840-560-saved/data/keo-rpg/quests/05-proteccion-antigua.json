@@ -1,0 +1,44 @@
+{
+  "id": "proteccion-antigua",
+  "name": "Proteccion antigua",
+  "icon": "minecraft:copper_ingot",
+  "description": "/lEl hierro aún se encuentra fuera de tu /lalcance;\n\n/x/o/lArmate con cobre, /xSolo cuando estés protegido, podrás enfrentar al primer gran desafío",
+  "category": "guia-keo-rpg",
+  "sub-category": "1-el-despertar",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "el-primer-tajo",
+  "completion": {
+    "complete": [
+      {
+        "collect": "caverns_and_chasms:copper_helmet",
+        "count": 1
+      },
+      {
+        "collect": "caverns_and_chasms:copper_chestplate",
+        "count": 1
+      },
+      {
+        "collect": "caverns_and_chasms:copper_leggings",
+        "count": 1
+      },
+      {
+        "collect": "caverns_and_chasms:copper_boots",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:iron_ingot",
+        "count": 4
+      }
+    ],
+    "exp": "points",
+    "count": 200
+  }
+}

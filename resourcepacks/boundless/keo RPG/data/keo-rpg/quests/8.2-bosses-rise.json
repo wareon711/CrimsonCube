@@ -1,0 +1,40 @@
+{
+  "id": "bosses-rise",
+  "name": "Bosses\u0027Rise",
+  "icon": "block_factorys_bosses:dragon_skull",
+  "description": "Utiliza el /bExplorer\u0027s Compass/x para encontrar las diferentes estructuras\n/rEste mod puede tener algunos errores, pero aun asi es muy disfrutable!/x\n/o-Dragon tower\n-Sandworm nest\n-Underworld arena\n-Yeti hideout",
+  "category": "keo-rpg",
+  "sub-category": "era-de-hierro",
+  "optional": false,
+  "repeatable": false,
+  "hiddenUnderDependency": false,
+  "dependencies": "the-goblin-lord",
+  "completion": {
+    "complete": [
+      {
+        "collect": "block_factorys_bosses:ice_gauntlet",
+        "count": 1
+      },
+      {
+        "collect": "block_factorys_bosses:dragon_skull",
+        "count": 1
+      },
+      {
+        "collect": "block_factorys_bosses:sandworm_gauntlet",
+        "count": 1
+      },
+      {
+        "collect": "block_factorys_bosses:knight_sword",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "paraglider:spirit_orb",
+        "count": 5
+      }
+    ]
+  }
+}

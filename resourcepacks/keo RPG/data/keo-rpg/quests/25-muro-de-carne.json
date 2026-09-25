@@ -1,0 +1,29 @@
+{
+  "id": "muro-de-carne",
+  "name": "Muro de carne!",
+  "icon": "terra_entity:guide_voodoo_doll_wall",
+  "description": "Tendras un /o20%/x probabilidad de conseguir el /bguia de pared de muñecos vudu matando demonio vudu! /xestos aparecen en el nether!\n\n/rCon esta podras invocar al muro de carne, si lo pones en una mesa de crafteo conseguiras el invocador de la montaña de carne!",
+  "category": "jefes",
+  "sub-category": "terraria",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "completion": {
+    "complete": [
+      {
+        "collect": "terra_entity:guide_voodoo_doll_wall",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "numismaticoverhaul:silver_coin",
+        "count": 100
+      }
+    ]
+  }
+}

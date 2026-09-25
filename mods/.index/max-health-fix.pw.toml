@@ -1,0 +1,25 @@
+filename = 'maxhealthfix-neoforge-1.21.1-21.1.4.jar'
+name = 'Max Health Fix'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'maxhealthfix-neoforge-1.21.1-21.1.4.jar'
+
+[download]
+hash = '56243df705c150933642f7108b0d882322147d63'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5824111
+project-id = 492246
+
+[[x-prismlauncher-dependencies]]
+addonId = '228525'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1023259'
+type = 'REQUIRED'

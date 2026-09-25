@@ -1,0 +1,23 @@
+{
+  "id": "terraria",
+  "name": "¿Terraria?",
+  "icon": "confluence:gel",
+  "description": "/oConfluence/x es un mod que mete gran parte del contenido de /gterraria/x /b(minerales, armaduras, jefes, magia, biomas, etc)/x\n\nEl apartado de logros es una buena guia para explorar totalmente este mod.\n\nSiempre puedes saber que los usos de un item con la /o\u0027\u0027U\u0027\u0027/x y sus recetas con la /o\u0027\u0027R\u0027\u0027/x",
+  "category": "confluence",
+  "sub-category": "introduccion",
+  "optional": false,
+  "repeatable": false,
+  "hiddenUnderDependency": false,
+  "completion": {
+    "complete": [
+      {
+        "xp": "levels",
+        "count": 5
+      }
+    ]
+  },
+  "reward": {
+    "exp": "levels",
+    "count": 5
+  }
+}

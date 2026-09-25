@@ -1,0 +1,21 @@
+filename = 'hideexperimentalwarning-1.21.1-1.2.jar'
+name = 'Hide Experimental Warning'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Fabric/Forge/Neo] 1.21.1-1.2 | Hide Experimental Warning'
+
+[download]
+hash = '11498f7f2aaf659b8f63ce718b7b4218ef5d97ff'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5609644
+project-id = 1009556
+
+[[x-prismlauncher-dependencies]]
+addonId = '342584'
+type = 'REQUIRED'

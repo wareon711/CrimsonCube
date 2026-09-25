@@ -1,0 +1,21 @@
+filename = 'toucanlib-neoforge-1.21.1-0.5.0.jar'
+name = 'toucanLib'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'toucanlib-neoforge-1.21.1-0.5.0.jar'
+
+[download]
+hash = '6d2324ef489e9e49b732770800f40b9c3235233f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8665762
+project-id = 1542666
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'

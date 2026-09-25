@@ -1,0 +1,157 @@
+{
+  "enabled": true,
+  "mod_name": "Galosphere",
+  "mod_id": "galosphere",
+  "achievements": {
+    "adventure/watchfly": {
+      "display_name": "¿Watchfly?",
+      "original_name": "¿Watchfly?",
+      "enabled": true,
+      "icon": "galosphere:bottle_of_spectre",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/eye_for_eye": {
+      "display_name": "Ojo por Ojo",
+      "original_name": "Ojo por Ojo",
+      "enabled": true,
+      "icon": "galosphere:spectre_bound_spyglass",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/opalising": {
+      "display_name": "¿Oh...palo?",
+      "original_name": "¿Oh...palo?",
+      "enabled": true,
+      "icon": "galosphere:opal_flakes",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/find_forgotten_ruins": {
+      "display_name": "Encuentro Pétreo",
+      "original_name": "Encuentro Pétreo",
+      "enabled": true,
+      "icon": "minecraft:infested_cracked_stone_bricks",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/rebrushing": {
+      "display_name": "Volver a Cepillar",
+      "original_name": "Volver a Cepillar",
+      "enabled": true,
+      "icon": "minecraft:brush",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/edible_air": {
+      "display_name": "Aire Comestible",
+      "original_name": "Aire Comestible",
+      "enabled": true,
+      "icon": "galosphere:lichen_cordyceps",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "husbandry/attached_sterling_horse": {
+      "display_name": "¡Qué gusto verte por aquí!",
+      "original_name": "¡Qué gusto verte por aquí!",
+      "enabled": true,
+      "icon": "galosphere:sterling_horse_armor",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "husbandry/lumiere_compost": {
+      "display_name": "Fragilidad de la Luz",
+      "original_name": "Fragilidad de la Luz",
+      "enabled": true,
+      "icon": "galosphere:lumiere_shard",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/saltbound_kill_evoker": {
+      "display_name": "Por fin un Oponente Digno",
+      "original_name": "Por fin un Oponente Digno",
+      "enabled": true,
+      "icon": "galosphere:saltbound_tablet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/light_the_way": {
+      "display_name": "¡Ilumina el Camino!",
+      "original_name": "¡Ilumina el Camino!",
+      "enabled": true,
+      "icon": "galosphere:lichen_moss",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "husbandry/coarse_dirt_compost": {
+      "display_name": "Solución Salina",
+      "original_name": "Solución Salina",
+      "enabled": true,
+      "icon": "galosphere:pink_salt_shard",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/attached_sterling": {
+      "display_name": "¡Te ves bien, socio!",
+      "original_name": "¡Te ves bien, socio!",
+      "enabled": true,
+      "icon": "galosphere:sterling_helmet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/questful": {
+      "display_name": "En Busca de Aventuras",
+      "original_name": "En Busca de Aventuras",
+      "enabled": true,
+      "icon": "galosphere:mining_pouch",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/find_pink_salt_shrine": {
+      "display_name": "Revolución Pacífica",
+      "original_name": "Revolución Pacífica",
+      "enabled": true,
+      "icon": "galosphere:pink_salt_bricks",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/summon_berserker": {
+      "display_name": "Reinado del Terror",
+      "original_name": "Reinado del Terror",
+      "enabled": true,
+      "icon": "galosphere:preserved_flesh",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

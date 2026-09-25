@@ -1,0 +1,18 @@
+﻿# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.old
+*.crash
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local updater state
+manifest_local.json

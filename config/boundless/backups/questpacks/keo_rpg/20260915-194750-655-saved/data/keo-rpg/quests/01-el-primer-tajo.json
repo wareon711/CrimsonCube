@@ -1,0 +1,29 @@
+{
+  "id": "el-primer-tajo",
+  "name": "El Primer Tajo",
+  "icon": "minecraft:iron_axe",
+  "description": "Recoge madera y construye una /lmesa de /lcrafteo.",
+  "category": "guia-keo-rpg",
+  "sub-category": "1-el-despertar",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:crafting_table",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:cooked_beef",
+        "count": 5
+      }
+    ]
+  }
+}

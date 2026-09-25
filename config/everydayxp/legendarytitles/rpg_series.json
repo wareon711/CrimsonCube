@@ -1,0 +1,317 @@
+{
+  "enabled": true,
+  "mod_name": "Rpg Series",
+  "mod_id": "rpg_series",
+  "achievements": {
+    "spell_master_priest": {
+      "display_name": "Sirviente del Ori",
+      "original_name": "Sirviente del Ori",
+      "enabled": true,
+      "icon": "paladins:holy_staff",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_wizard_robes": {
+      "display_name": "Un Mago Nunca Llega Tarde",
+      "original_name": "Un Mago Nunca Llega Tarde",
+      "enabled": true,
+      "icon": "wizards:wizard_robe_chest",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "trade_arms": {
+      "display_name": "Arms Deal",
+      "original_name": "Arms Deal",
+      "enabled": true,
+      "icon": "rogues:iron_double_axe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "spell_novice_rogue": {
+      "display_name": "Intenciones Siniestas",
+      "original_name": "Intenciones Siniestas",
+      "enabled": true,
+      "icon": "rogues:iron_dagger",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "spell_master_rogue": {
+      "display_name": "Maestro del Engaño",
+      "original_name": "Maestro del Engaño",
+      "enabled": true,
+      "icon": "rogues:diamond_sickle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "spell_novice_paladin": {
+      "display_name": "Ardent Defender",
+      "original_name": "Ardent Defender",
+      "enabled": true,
+      "icon": "paladins:iron_mace",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "spell_master_archer": {
+      "display_name": "Experto en Balística",
+      "original_name": "Experto en Balística",
+      "enabled": true,
+      "icon": "archers:royal_longbow",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "spell_master_fire": {
+      "display_name": "Piromaniaco",
+      "original_name": "Piromaniaco",
+      "enabled": true,
+      "icon": "wizards:staff_netherite_fire",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "path_choose_fire": {
+      "display_name": "Path of Fire",
+      "original_name": "Path of Fire",
+      "enabled": true,
+      "icon": "spell_engine:spell_book",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "enchant_spell_infinity": {
+      "display_name": "Energía Libre",
+      "original_name": "Energía Libre",
+      "enabled": true,
+      "icon": "minecraft:enchanted_book",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "path_choose_archer": {
+      "display_name": "Path of Archery",
+      "original_name": "Path of Archery",
+      "enabled": true,
+      "icon": "spell_engine:spell_book",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "path_choose_frost": {
+      "display_name": "Path of Frost",
+      "original_name": "Path of Frost",
+      "enabled": true,
+      "icon": "spell_engine:spell_book",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "spell_novice_archer": {
+      "display_name": "Lethal Shots",
+      "original_name": "Lethal Shots",
+      "enabled": true,
+      "icon": "archers:composite_longbow",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "path_choose_priest": {
+      "display_name": "Path of Light",
+      "original_name": "Path of Light",
+      "enabled": true,
+      "icon": "spell_engine:spell_book",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "spell_novice_priest": {
+      "display_name": "Promise of Ascension",
+      "original_name": "Promise of Ascension",
+      "enabled": true,
+      "icon": "paladins:holy_wand",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "path_choose_paladin": {
+      "display_name": "Path of Justice",
+      "original_name": "Path of Justice",
+      "enabled": true,
+      "icon": "spell_engine:spell_book",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "spell_novice_fire": {
+      "display_name": "Playing with fire",
+      "original_name": "Playing with fire",
+      "enabled": true,
+      "icon": "wizards:staff_fire",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "spell_novice_arcane": {
+      "display_name": "Magic Attunement",
+      "original_name": "Magic Attunement",
+      "enabled": true,
+      "icon": "wizards:staff_arcane",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "spell_master_warrior": {
+      "display_name": "¡Furia Desatada!",
+      "original_name": "¡Furia Desatada!",
+      "enabled": true,
+      "icon": "rogues:netherite_double_axe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "spell_master_arcane": {
+      "display_name": "Flujos Arcanos",
+      "original_name": "Flujos Arcanos",
+      "enabled": true,
+      "icon": "wizards:staff_netherite_arcane",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "spell_novice_frost": {
+      "display_name": "Keep it cool",
+      "original_name": "Keep it cool",
+      "enabled": true,
+      "icon": "wizards:staff_frost",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "path_choose_warrior": {
+      "display_name": "Camino de la Fuerza",
+      "original_name": "Camino de la Fuerza",
+      "enabled": true,
+      "icon": "spell_engine:spell_book",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "spell_master_frost": {
+      "display_name": "Venas Heladas",
+      "original_name": "Venas Heladas",
+      "enabled": true,
+      "icon": "wizards:staff_netherite_frost",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "trade_monk": {
+      "display_name": "Healers Exchange",
+      "original_name": "Healers Exchange",
+      "enabled": true,
+      "icon": "runes:healing_stone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "path_choose_arcane": {
+      "display_name": "Path of Arcane",
+      "original_name": "Path of Arcane",
+      "enabled": true,
+      "icon": "spell_engine:spell_book",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "trade_archery": {
+      "display_name": "Archery Sale",
+      "original_name": "Archery Sale",
+      "enabled": true,
+      "icon": "minecraft:arrow",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "spell_novice_warrior": {
+      "display_name": "Gusto por la Sangre",
+      "original_name": "Gusto por la Sangre",
+      "enabled": true,
+      "icon": "rogues:stone_double_axe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "spell_master_paladin": {
+      "display_name": "Tiempo del Juicio",
+      "original_name": "Tiempo del Juicio",
+      "enabled": true,
+      "icon": "paladins:golden_great_hammer",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "classes": {
+      "display_name": "Elige tu camino",
+      "original_name": "Elige tu camino",
+      "enabled": true,
+      "icon": "minecraft:book",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "trade_wizard": {
+      "display_name": "Magic Sale",
+      "original_name": "Magic Sale",
+      "enabled": true,
+      "icon": "runes:fire_stone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "path_choose_rogue": {
+      "display_name": "Camino de los Trucos",
+      "original_name": "Camino de los Trucos",
+      "enabled": true,
+      "icon": "spell_engine:spell_book",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

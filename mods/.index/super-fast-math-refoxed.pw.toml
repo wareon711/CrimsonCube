@@ -1,0 +1,18 @@
+filename = 'superfastmath-0.0.5-1.21.1.jar'
+name = 'Super Fast Math-ReFoxed'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'superfastmath-0.0.5-1.21.1.jar'
+
+[download]
+hash = '804883d28105e4b34acb0a8900149db15d966a03'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8750814
+project-id = 1670741

@@ -1,0 +1,167 @@
+#[Safety] Keep emergency creature snapshots before risky removal/death operations. Recommended: true.
+enableVault = true
+#[Safety] Maximum emergency creature snapshots kept per player.
+# Default: 30
+# Range: 1 ~ 200
+vaultCapacity = 30
+#[Safety] Periodically back up each player's Find me lists. Recommended: true.
+enableAutoBackups = true
+#[Safety] Minutes between automatic player list backups.
+# Default: 30
+# Range: 1 ~ 1440
+backupIntervalMinutes = 30
+#[Safety] Maximum full-list backups kept per player.
+# Default: 6
+# Range: 1 ~ 48
+backupCapacity = 6
+#[Safety] Invulnerability seconds given to players and pets after forced teleport/rescue.
+# Default: 1.5
+# Range: 0.0 ~ 30.0
+postTeleportInvulnerabilitySeconds = 1.5
+#[Safety] If true, bound mounts and companions do not drop inventory/equipment items when they die. FindMe still keeps its death snapshot for revival, preventing duplicate saddles, armor, or modded equipment.
+preventBoundCreatureDeathDrops = true
+#[Binding] Automatically recognize owned creatures and add them to Find me lists. Disabled by default; use Name Paper for manual contracts.
+enableAutoBinding = false
+#[Binding] Play the Name Paper contract ceremony animation before manual binding completes. Disable to bind immediately.
+enableContractAnimation = true
+#[Binding] Use the temporary side-view cinematic camera during the Name Paper ceremony. If false, effects play from the player's normal view.
+enableContractCinematicCamera = true
+#[Debug] Write FindMe diagnostic logs for contact boxes, multipart detection, summon/cinematic handoff, and other compatibility checks. Disabled by default; enable only while testing.
+debugDiagnostics = false
+#[Revive] Allows dead companions to return when a player wakes up.
+enableSleepRevive = true
+#[Revive] Minutes between sleep revive attempts per player.
+# Default: 10
+# Range: 0 ~ 10080
+sleepReviveCooldownMinutes = 10
+#[Revive] Chance that sleep revives one dead companion.
+# Default: 0.7
+# Range: 0.0 ~ 1.0
+sleepReviveChance = 0.7
+#[Revive] If true, sleep revive tries to place the creature nearby. Disable for packs with destructive large mobs.
+sleepReviveSpawnEntity = true
+#[Summon] Normal mount summon cooldown in ticks.
+# Default: 60
+# Range: 0 ~ 1200
+mountCooldownTicks = 60
+#[Summon] Companion summon cooldown in ticks.
+# Default: 40
+# Range: 0 ~ 1200
+companionCooldownTicks = 40
+#[Summon] Mount summon cooldown in ticks while the player is in combat.
+# Default: 40
+# Range: 0 ~ 1200
+combatMountCooldownTicks = 40
+#[Summon] Short cooldown after returning a pet to its saved origin.
+# Default: 40
+# Range: 0 ~ 1200
+returnCooldownTicks = 40
+#[Summon] If the player is falling at least this many blocks, rescue summon can trigger.
+# Default: 5
+# Range: 0 ~ 128
+rescueMinFallDistance = 5
+#[Summon] Radius used to look for a safe teleport or revive landing spot.
+# Default: 12
+# Range: 1 ~ 64
+safeSearchRadius = 12
+#[Audio] Play the summoned creature's own voice when summon or rescue is accepted.
+enableCreatureArrivalVoice = true
+#[Audio] Volume for summoned creature voice. 1.0 is full volume; default is 40%.
+# Default: 0.4
+# Range: 0.0 ~ 2.0
+creatureArrivalVoiceVolume = 0.4
+#[Audio] Volume for FindMe magic effects such as circles, storage, summon, rescue, and contract ceremony sounds. 1.0 is full volume; default is 65%.
+# Default: 0.65
+# Range: 0.0 ~ 2.0
+magicEffectVolume = 0.65
+#[Combat] Allows summon while the player has recently hurt or been hurt by another player.
+enablePvpSummon = true
+#[Combat] Gives a short movement speed boost after mounting during combat.
+enableCombatSpeedBoost = true
+#[Combat] Movement speed boost strength after mounting during combat.
+# Default: 0.2
+# Range: 0.0 ~ 2.0
+combatSpeedBoostPercent = 0.2
+#[Combat] Movement speed boost duration in ticks.
+# Default: 60
+# Range: 0 ~ 1200
+combatSpeedBoostTicks = 60
+#[Visual] Opacity for wheel GUI 2D elements. Does not affect 3D entity previews.
+# Default: 1.0
+# Range: 0.05 ~ 1.0
+guiOpacity = 1.0
+#[Visual] Advanced: GUI preview scale overrides, formatted as entity_id=scale. Example: dragonmounts:dragon=0.75
+previewScaleOverrides = []
+#[Compatibility] Advanced: entity ids that should always be considered rideable mounts.
+customMounts = []
+#[Compatibility] Advanced: entity ids that should always be considered non-rideable companions.
+customCompanions = []
+#[Compatibility] Preferred movement override format: entity_id=walk, entity_id=fly, or entity_id=swim.
+customMoveTypes = []
+#[Compatibility] Legacy movement override. Prefer customMoveTypes for new configs.
+customFlying = []
+#[Compatibility] Legacy movement override. Prefer customMoveTypes for new configs.
+customSwimming = []
+#[Compatibility] Legacy movement override. Prefer customMoveTypes for new configs.
+customWalking = []
+
+#[Dialogue] Editable summon, rescue, storage, and warning subtitle lines. Entries use first line|second line. Either side may be spoken by the player or creature. A blank first line such as |reply makes only the second line appear.
+[dialogue]
+	#[Dialogue] Show FindMe's flavor subtitle dialogue. Disabled by default; players who like roleplay-style lines can enable it.
+	enableDialogue = false
+	#[Flavor] Random action-bar lines shown after a normal summon. Use {name} for the creature name. Clear this list to disable.
+	summonLines = ["dialogue.find_me.legacy_summon.0", "dialogue.find_me.legacy_summon.1", "dialogue.find_me.legacy_summon.2", "dialogue.find_me.legacy_summon.3", "dialogue.find_me.legacy_summon.4"]
+	#[Flavor] Random action-bar lines shown after a rescue summon. Use {name} for the creature name. Clear this list to disable.
+	rescueLines = ["dialogue.find_me.legacy_rescue.0", "dialogue.find_me.legacy_rescue.1", "dialogue.find_me.legacy_rescue.2", "dialogue.find_me.legacy_rescue.3", "dialogue.find_me.legacy_rescue.4"]
+	#[Flavor] Random action-bar lines shown when a companion is called against a nearby threat. Use {name} for the creature name. Clear this list to disable.
+	combatRescueLines = ["dialogue.find_me.legacy_combat_rescue.0", "dialogue.find_me.legacy_combat_rescue.1", "dialogue.find_me.legacy_combat_rescue.2", "dialogue.find_me.legacy_combat_rescue.3"]
+	#[Flavor] Title/subtitle dialogue after a mount appears. Format: first line|second line. Supports {player} and {name}. Clear to disable.
+	mountSummonDialogueLines = ["dialogue.find_me.mount_summon.0.call|dialogue.find_me.mount_summon.0.reply", "dialogue.find_me.mount_summon.1.call|dialogue.find_me.mount_summon.1.reply", "dialogue.find_me.mount_summon.2.call|dialogue.find_me.mount_summon.2.reply", "dialogue.find_me.mount_summon.3.call|dialogue.find_me.mount_summon.3.reply", "dialogue.find_me.mount_summon.4.call|dialogue.find_me.mount_summon.4.reply", "dialogue.find_me.mount_summon.5.call|dialogue.find_me.mount_summon.5.reply"]
+	#[Flavor] Title/subtitle dialogue after a companion appears. Format: first line|second line. Supports {player} and {name}. Clear to disable.
+	companionSummonDialogueLines = ["dialogue.find_me.companion_summon.0.call|dialogue.find_me.companion_summon.0.reply", "dialogue.find_me.companion_summon.1.call|dialogue.find_me.companion_summon.1.reply", "dialogue.find_me.companion_summon.2.call|dialogue.find_me.companion_summon.2.reply", "dialogue.find_me.companion_summon.3.call|dialogue.find_me.companion_summon.3.reply", "dialogue.find_me.companion_summon.4.call|dialogue.find_me.companion_summon.4.reply", "dialogue.find_me.companion_summon.5.call|dialogue.find_me.companion_summon.5.reply"]
+	#[Flavor] Title/subtitle dialogue after a mount rescue appears. Format: first line|second line. Supports {player} and {name}. Clear to disable.
+	mountRescueDialogueLines = ["dialogue.find_me.mount_rescue.0.call|dialogue.find_me.mount_rescue.0.reply", "dialogue.find_me.mount_rescue.1.call|dialogue.find_me.mount_rescue.1.reply", "dialogue.find_me.mount_rescue.2.call|dialogue.find_me.mount_rescue.2.reply", "dialogue.find_me.mount_rescue.3.call|dialogue.find_me.mount_rescue.3.reply", "dialogue.find_me.mount_rescue.4.call|dialogue.find_me.mount_rescue.4.reply", "dialogue.find_me.mount_rescue.5.call|dialogue.find_me.mount_rescue.5.reply"]
+	#[Flavor] Title/subtitle dialogue after a companion appears against a threat. Format: first line|second line. Supports {player} and {name}. Clear to disable.
+	companionCombatRescueDialogueLines = ["dialogue.find_me.companion_combat_rescue.0.call|dialogue.find_me.companion_combat_rescue.0.reply", "dialogue.find_me.companion_combat_rescue.1.call|dialogue.find_me.companion_combat_rescue.1.reply", "dialogue.find_me.companion_combat_rescue.2.call|dialogue.find_me.companion_combat_rescue.2.reply", "dialogue.find_me.companion_combat_rescue.3.call|dialogue.find_me.companion_combat_rescue.3.reply", "dialogue.find_me.companion_combat_rescue.4.call|dialogue.find_me.companion_combat_rescue.4.reply", "dialogue.find_me.companion_combat_rescue.5.call|dialogue.find_me.companion_combat_rescue.5.reply"]
+	#[Flavor] Title/subtitle dialogue when storing a creature. Format: first line|second line. Supports {player} and {name}. Clear to disable.
+	storageDialogueLines = ["dialogue.find_me.storage.0.call|dialogue.find_me.storage.0.reply", "dialogue.find_me.storage.1.call|dialogue.find_me.storage.1.reply", "dialogue.find_me.storage.2.call|dialogue.find_me.storage.2.reply", "dialogue.find_me.storage.3.call|dialogue.find_me.storage.3.reply"]
+	#[Flavor] Title/subtitle dialogue when a creature with a home is summoned. Format: first line|second line. Supports {player} and {name}. Clear to disable.
+	homeSummonDialogueLines = ["dialogue.find_me.home_summon.0.call|dialogue.find_me.home_summon.0.reply", "dialogue.find_me.home_summon.1.call|dialogue.find_me.home_summon.1.reply", "dialogue.find_me.home_summon.2.call|dialogue.find_me.home_summon.2.reply", "dialogue.find_me.home_summon.3.call|dialogue.find_me.home_summon.3.reply"]
+	#[Flavor] Title/subtitle dialogue when storing a creature that has a home. Format: first line|second line. Supports {player} and {name}. Clear to disable.
+	homeStorageDialogueLines = ["dialogue.find_me.home_storage.0.call|dialogue.find_me.home_storage.0.reply", "dialogue.find_me.home_storage.1.call|dialogue.find_me.home_storage.1.reply", "dialogue.find_me.home_storage.2.call|dialogue.find_me.home_storage.2.reply", "dialogue.find_me.home_storage.3.call|dialogue.find_me.home_storage.3.reply"]
+	#[Flavor] Dialogue when setting a creature's home. Format: first line|second line. Supports {player} and {name}. Clear to disable.
+	homeSetDialogueLines = ["dialogue.find_me.home_set.0.call|dialogue.find_me.home_set.0.reply", "dialogue.find_me.home_set.1.call|dialogue.find_me.home_set.1.reply"]
+	#[Flavor] Dialogue when clearing a creature's home. Format: first line|second line. Supports {player} and {name}. Clear to disable.
+	homeClearDialogueLines = ["dialogue.find_me.home_clear.0.call|dialogue.find_me.home_clear.0.reply", "dialogue.find_me.home_clear.1.call|dialogue.find_me.home_clear.1.reply"]
+	#[Flavor] Dialogue when a creature is registered into FindMe. Format: first line|second line. Supports {player} and {name}. Clear to disable.
+	registeredDialogueLines = ["dialogue.find_me.registered.0.call|dialogue.find_me.registered.0.reply", "dialogue.find_me.registered.1.call|dialogue.find_me.registered.1.reply"]
+	#[Flavor] Dialogue when sleep revives and places a creature nearby. Format: first line|second line. Supports {player} and {name}. Clear to disable.
+	sleepReviveDialogueLines = ["dialogue.find_me.sleep_revive.0.call|dialogue.find_me.sleep_revive.0.reply", "dialogue.find_me.sleep_revive.1.call|dialogue.find_me.sleep_revive.1.reply"]
+	#[Flavor] Dialogue when sleep revives a creature but stores it because nearby space is unsafe. Format: first line|second line. Supports {player} and {name}. Clear to disable.
+	sleepReviveStoredDialogueLines = ["dialogue.find_me.sleep_revive_stored.0.call|dialogue.find_me.sleep_revive_stored.0.reply", "dialogue.find_me.sleep_revive_stored.1.call|dialogue.find_me.sleep_revive_stored.1.reply"]
+	#[Flavor] Title/subtitle dialogue when summon/rescue was answered but space is blocked. Format: first line|second line. Supports {player} and {name}. Clear to disable.
+	blockedDialogueLines = ["dialogue.find_me.blocked.0.call|dialogue.find_me.blocked.0.reply", "dialogue.find_me.blocked.1.call|dialogue.find_me.blocked.1.reply"]
+	#[Flavor] Title/subtitle dialogue when the previous summon/storage animation is still closing. Format: first line|second line. Supports {player} and {name}. Clear to disable.
+	busyDialogueLines = ["dialogue.find_me.busy.0.call|dialogue.find_me.busy.0.reply", "dialogue.find_me.busy.1.call|dialogue.find_me.busy.1.reply"]
+	#[Flavor] Dialogue when summon is still on cooldown. Format: first line|second line. Supports {player}, {name}, and {seconds}.
+	cooldownDialogueLines = ["dialogue.find_me.cooldown.0.call|dialogue.find_me.cooldown.0.reply", "dialogue.find_me.cooldown.1.call|dialogue.find_me.cooldown.1.reply"]
+	#[Flavor] Dialogue when no creature is registered for this key. Format: first line|second line. Supports {player} and {name}.
+	noRegisteredDialogueLines = ["dialogue.find_me.no_registered.0.call|dialogue.find_me.no_registered.0.reply", "dialogue.find_me.no_registered.1.call|dialogue.find_me.no_registered.1.reply"]
+	#[Flavor] Dialogue when the selected creature cannot be found or restored. Format: first line|second line. Supports {player} and {name}.
+	unavailableDialogueLines = ["dialogue.find_me.unavailable.0.call|dialogue.find_me.unavailable.0.reply", "dialogue.find_me.unavailable.1.call|dialogue.find_me.unavailable.1.reply"]
+	#[Flavor] Dialogue when PvP summon is disabled. Format: first line|second line. Supports {player} and {name}.
+	pvpDisabledDialogueLines = ["dialogue.find_me.pvp_disabled.0.call|dialogue.find_me.pvp_disabled.0.reply"]
+	#[Flavor] Dialogue when the player is already riding the selected mount. Format: first line|second line. Supports {player} and {name}.
+	alreadyRidingDialogueLines = ["dialogue.find_me.already_riding.0.call|dialogue.find_me.already_riding.0.reply", "dialogue.find_me.already_riding.1.call|dialogue.find_me.already_riding.1.reply", "dialogue.find_me.already_riding.2.call|dialogue.find_me.already_riding.2.reply", "dialogue.find_me.already_riding.3.call|dialogue.find_me.already_riding.3.reply", "|dialogue.find_me.already_riding.4.reply", "|dialogue.find_me.already_riding.5.reply", "|dialogue.find_me.already_riding.6.reply", "|dialogue.find_me.already_riding.7.reply", "|dialogue.find_me.already_riding.8.reply"]
+	#[Flavor] Dialogue when the selected creature is occupied by another passenger. Format: first line|second line. Supports {player} and {name}.
+	occupiedDialogueLines = ["dialogue.find_me.occupied.0.call|dialogue.find_me.occupied.0.reply"]
+	#[Flavor] Dialogue when a companion cannot appear safely at the player's height. Format: first line|second line. Supports {player} and {name}.
+	tooHighDialogueLines = ["dialogue.find_me.too_high.0.call|dialogue.find_me.too_high.0.reply", "dialogue.find_me.too_high.1.call|dialogue.find_me.too_high.1.reply"]
+	#[Flavor] Dialogue when a swimming creature has no nearby water. Format: first line|second line. Supports {player} and {name}.
+	noWaterDialogueLines = ["dialogue.find_me.no_water.0.call|dialogue.find_me.no_water.0.reply"]
+	#[Flavor] Dialogue when a non-flying mount cannot be summoned over the void. Format: first line|second line. Supports {player} and {name}.
+	voidMountUnsafeDialogueLines = ["dialogue.find_me.void_mount_unsafe.0.call|dialogue.find_me.void_mount_unsafe.0.reply", "dialogue.find_me.void_mount_unsafe.1.call|dialogue.find_me.void_mount_unsafe.1.reply", "dialogue.find_me.void_mount_unsafe.2.call|dialogue.find_me.void_mount_unsafe.2.reply"]
+	#[Flavor] Dialogue when a companion cannot be summoned over the void. Format: first line|second line. Supports {player} and {name}.
+	voidCompanionUnsafeDialogueLines = ["dialogue.find_me.void_companion_unsafe.0.call|dialogue.find_me.void_companion_unsafe.0.reply", "dialogue.find_me.void_companion_unsafe.1.call|dialogue.find_me.void_companion_unsafe.1.reply", "dialogue.find_me.void_companion_unsafe.2.call|dialogue.find_me.void_companion_unsafe.2.reply"]
+	#[Flavor] Dialogue when a flying mount answers directly over the void. Format: first line|second line. Supports {player} and {name}.
+	voidFlyingMountDialogueLines = ["dialogue.find_me.void_flying_mount.0.call|dialogue.find_me.void_flying_mount.0.reply", "dialogue.find_me.void_flying_mount.1.call|dialogue.find_me.void_flying_mount.1.reply", "dialogue.find_me.void_flying_mount.2.call|dialogue.find_me.void_flying_mount.2.reply", "dialogue.find_me.void_flying_mount.3.call|dialogue.find_me.void_flying_mount.3.reply"]

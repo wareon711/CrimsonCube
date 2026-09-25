@@ -1,0 +1,29 @@
+{
+  "id": "ojo-de-cthulhu",
+  "name": "Ojo de cthulhu!",
+  "icon": "terra_entity:suspicious_looking_eye",
+  "description": "Tendras un /o5%/x de probabilidad de conseguir el /bojo de mirada sospechosa matando ojos demoniacos!/x\n\n/rCon esta podras invocar al Ojo de cthulhu!\n\n/oTambien la puedes tradear con el guia y el comerciante!",
+  "category": "jefes",
+  "sub-category": "terraria",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "completion": {
+    "complete": [
+      {
+        "collect": "terra_entity:suspicious_looking_eye",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "numismaticoverhaul:silver_coin",
+        "count": 30
+      }
+    ]
+  }
+}

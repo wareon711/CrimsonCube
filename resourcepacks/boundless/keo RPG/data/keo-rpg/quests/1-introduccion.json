@@ -1,0 +1,73 @@
+{
+  "id": "introduccion",
+  "name": "Introduuccion",
+  "icon": "armageddon_mod:cosmos_shard",
+  "description": "/oPara desbloquear estas misiones, primero completa \u0027¿Y el hierro?\u0027 y \u0027The Goblin Lord\u0027./x\n\n/bOlvídate de la progresión normal./x\nPara conseguir hierro, diamante o entrar al Nether, tendrás que derrotar a los jefes de Armageddon en orden.\n\n/oSolo así conseguirás equipo más poderoso que la netherita./x",
+  "category": "armageddon",
+  "sub-category": "progresion",
+  "optional": false,
+  "repeatable": false,
+  "hiddenUnderDependency": false,
+  "completion": {
+    "complete": [
+      {
+        "kill": "armageddon_mod:arion_tyrantofthe_emerald_wrath_ravager",
+        "count": 1
+      },
+      {
+        "kill": "armageddon_mod:eldoraththe_ancient_builder",
+        "count": 1
+      },
+      {
+        "kill": "armageddon_mod:zoranththe_forgotten_one",
+        "count": 1
+      },
+      {
+        "kill": "minecraft:ender_dragon",
+        "count": 1
+      },
+      {
+        "kill": "armageddon_mod:elvenite_paladin",
+        "count": 1
+      },
+      {
+        "kill": "armageddon_mod:vaedricthe_fallen_wanderer",
+        "count": 1
+      },
+      {
+        "kill": "armageddon_mod:bringer_of_doom_p_2",
+        "count": 1
+      },
+      {
+        "kill": "armageddon_mod:the_discord",
+        "count": 1
+      },
+      {
+        "kill": "armageddon_mod:sanghor_lord_of_bloodp_2",
+        "count": 1
+      },
+      {
+        "kill": "armageddon_mod:zoranth_newborn_of_the_zenith",
+        "count": 1
+      },
+      {
+        "kill": "armageddon_mod:nyxaris_the_veil_of_oblivion",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:nether_star",
+        "count": 1
+      },
+      {
+        "item": "minecraft:diamond",
+        "count": 64
+      }
+    ],
+    "exp": "levels",
+    "count": 30
+  }
+}

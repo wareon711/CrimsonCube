@@ -1,0 +1,20 @@
+#Whether a to render Sunburst rays behind items
+render_sunburst_rays = true
+#How many Sunburst rays to render
+# Default: 10
+# Range: 1 ~ 64
+sunburst_ray_count = 10
+#How long should each Sunburst ray be
+# Default: 0.75
+# Range: 0.01 ~ 10.0
+sunburst_ray_length = 0.75
+#Whether a to render Sunburst rays behind items
+# Default: 0.2
+# Range: 0.01 ~ 1.0
+sunburst_ray_width = 0.2
+#Whether a keybind is required to show the Rarity
+require_keybind_to_show_rarity = false
+#Whether a keybind is required to show additional Stats
+require_keybind_to_show_stats = true
+#Whether the Item's name should be colored by its Rarity
+color_item_name_with_rarity = true
