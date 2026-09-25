@@ -57,8 +57,23 @@ IGNORAR_EXTENSIONES = {".tmp", ".crash", ".log", ".bak", ".old"}
 IGNORAR_ARCHIVOS = {".DS_Store", "Thumbs.db", "desktop.ini"}
 
 
+TEXT_EXTENSIONS = {
+    ".txt", ".toml", ".json", ".mcmeta", ".cfg", ".properties",
+    ".yaml", ".yml", ".snbt", ".html", ".md", ".pw.toml", ".ini",
+}
+
+
 def sha256_de_archivo(ruta: Path) -> str:
-    """Devuelve el hash SHA-256 (hex lowercase) de un archivo."""
+    """Devuelve el hash SHA-256 (hex lowercase) de un archivo, normalizando fin de línea en texto a LF."""
+    ext = ruta.suffix.lower()
+    if ruta.name.endswith(".pw.toml"):
+        ext = ".pw.toml"
+
+    if ext in TEXT_EXTENSIONS:
+        with open(ruta, "rb") as f:
+            data = f.read().replace(b"\r\n", b"\n")
+        return hashlib.sha256(data).hexdigest()
+
     h = hashlib.sha256()
     with open(ruta, "rb") as f:
         for bloque in iter(lambda: f.read(1024 * 1024), b""):

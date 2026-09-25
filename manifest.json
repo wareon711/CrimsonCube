@@ -159,7 +159,7 @@
     },
     {
       "Path": "config/aaa_particles-client.toml",
-      "Hash": "d6971f9b2cce72a341abe5c586f0c04a160a75a8dc67f4c68e2a6c061fe83061"
+      "Hash": "894f4b723c9fdd39010174fd5ab0bd5b5121759da8d5ae5c214a81d88fc3ba74"
     },
     {
       "Path": "config/abridged.json",
@@ -175,15 +175,15 @@
     },
     {
       "Path": "config/achiopt-common.toml",
-      "Hash": "e9247671f56b0e448914785063aef58cc1277f7a4b7b084334e06117efd8cd67"
+      "Hash": "379c4b808db3b8bbe4afbd359680120ab9e7af86859c0880f527be0623b2f18b"
     },
     {
       "Path": "config/advancements_reloaded.toml",
-      "Hash": "d32b76a96618e793d49d3a4f85ce845412935a5a90996f37cdfa85c479602d64"
+      "Hash": "19a25d6b1aa0921f5a6e18c6ac82312b058eb2d84bbb3d8ba4d3e77da578b6b5"
     },
     {
       "Path": "config/aiimprovements-common.toml",
-      "Hash": "99113ed20833ab95be2a9ca46ffc88e3427b066d4b02646873cdebe2203fd622"
+      "Hash": "16eb2dc098fab4a2b7192cb87522640bdd87d39a97ad13ac081aca206f2706b2"
     },
     {
       "Path": "config/ali/ali_common.json",
@@ -191,7 +191,7 @@
     },
     {
       "Path": "config/alloy_smelter-common.toml",
-      "Hash": "84c4451b238f803d622bbd00db0684752d6d026ea4529daa1e0aa144c2cadea5"
+      "Hash": "57dc305b0c45007b13e90e1c02bc11f9e9ca6d12cb24998507e1c26edf2048c8"
     },
     {
       "Path": "config/alltheleaks.json",
@@ -203,19 +203,19 @@
     },
     {
       "Path": "config/antarchy/antarchy_misc.toml",
-      "Hash": "76a65c17de5adf6b07e63b21c049135c534b314cd74aa56ed3a93fb2649552ef"
+      "Hash": "fd8e2b3325886cd12b8f406e6a7672a992a4077cab114ec0fbf4add4a01bc7f5"
     },
     {
       "Path": "config/antarchy/antarchy_mobs.toml",
-      "Hash": "4eadd14b66651475ed80e9e955b9ad8a5ea0aab6e7428907bd9f961a80aeb2c4"
+      "Hash": "43d46db75b6d4e12fe72a0c663a4420dcded6b9b6f5de1e999ed86f2b7e7ce19"
     },
     {
       "Path": "config/antarchy/antarchy_tools.toml",
-      "Hash": "59a0251795a8179a8ed6f6f13fd76706deeee666e964cd1d267f6ae994dabe3e"
+      "Hash": "8daf8f11bf29696e4e68f6295d52e5cbb6b843140ef85a88bfe018f21ef0eed2"
     },
     {
       "Path": "config/appleskin-client.toml",
-      "Hash": "7127a276c7305371397053cd8d0833e6825c828850626e4067b9fed1430ed217"
+      "Hash": "6a3624ed584e6d2c4323957c3ca3d17bf2c01c7bbb73b9ee487378ff69d88aba"
     },
     {
       "Path": "config/archers/effects.json",
@@ -239,11 +239,11 @@
     },
     {
       "Path": "config/armageddon_mod_config.toml",
-      "Hash": "91d2119db6100cac827b8af3b1c2444946a6fea2d75c6f5fe85e6a501c4f4b0c"
+      "Hash": "196f6817a7326e71f0c774fb21141be9174acbe354f13daf240832b2fa61e3a0"
     },
     {
       "Path": "config/armageddon_mod_keeper_config.toml",
-      "Hash": "530dcea7d451b8ba97daf7ab89b3c10bbf20949f8e77cb5960942116b378b9c8"
+      "Hash": "9aa5a2e5188debf0773be8bdd6d06b5c716200b33b31e9cc3a89310440ee1022"
     },
     {
       "Path": "config/armor_hud.json",
@@ -251,19 +251,19 @@
     },
     {
       "Path": "config/ars_nouveau-client.toml",
-      "Hash": "442e7d4aa8f85dc37e8bfa29a71126b1757056a82cb825e606fae4470a814a56"
+      "Hash": "85a8ed1de9b7395b8d6c7eb896856b177c8aed27bdd13de5ec534dbfd4d311e3"
     },
     {
       "Path": "config/ars_nouveau-common.toml",
-      "Hash": "027bdab2329e2e71cc2546871f3eca724cd97a0667a623c9de7fc7c4e9dfd9b4"
+      "Hash": "93efce754a15471f25b26853e2b3e21041e35feebf38ec1de2f2f141964bd8d6"
     },
     {
       "Path": "config/ars_nouveau-server.toml",
-      "Hash": "ec5b705efcce221d6f4669031d284b469ba89b1ce7505a3dbbe8bd0e9b443b5f"
+      "Hash": "8193eb0f4d97ab0dc5be4b00184540a7dc457c2f387ad0cd9b1f646d575aae70"
     },
     {
       "Path": "config/ars_nouveau-startup.toml",
-      "Hash": "0d44fbcf1c1b361b833e1e0da847d5c5d1ca38f927a55b057e14e13e30ae85fb"
+      "Hash": "2aa496dd80c233f52444d6431222c3454e75a7ddc0f8233d2f2201d131540f5c"
     },
     {
       "Path": "config/ars_nouveau/doc_data.json",
@@ -271,339 +271,339 @@
     },
     {
       "Path": "config/ars_nouveau/glyph_accelerate.toml",
-      "Hash": "a31f5889f63fe0dbf691ee7dd7206899a57deef186b3b2b46d7efa628c4c9d80"
+      "Hash": "1a00f7fa7cdb3667f85dd61f913d1a57455f6688f506cf5b90b854e4a33411ad"
     },
     {
       "Path": "config/ars_nouveau/glyph_amplify.toml",
-      "Hash": "1f08cedc144ec201d890842b5073d9c5f7a9b061274a472b29ca564b4ba819cf"
+      "Hash": "6d744796480f2d66754efffe376472caea02274b3af8798c90f67d34f6465ec0"
     },
     {
       "Path": "config/ars_nouveau/glyph_animate_block.toml",
-      "Hash": "0fb48deefa414eb5b2df9f519ae8e8df8253f8d26565a41c275b9b8a54254fc4"
+      "Hash": "fe0da1597d3924940ecf447eff2c001da5deb6a8fe8b168ee764e04f427aaeac"
     },
     {
       "Path": "config/ars_nouveau/glyph_aoe.toml",
-      "Hash": "6067cc16ce094c79c33841a718a5b9af9ecfaddb56f186b0901df50e76b7c0ab"
+      "Hash": "2e47c6efedb37a1614b72517fb09ca513180fcc1bc7e9aa668f356cec750d2f4"
     },
     {
       "Path": "config/ars_nouveau/glyph_blink.toml",
-      "Hash": "b1be9bd915365b3abbe81b327dab17f7f26bb43f3ad11ea6bb4bfea35d091b28"
+      "Hash": "e46b59271dd1d9d4aa026b4530c3bbd096adae063c0b6676511c25a7b55b0603"
     },
     {
       "Path": "config/ars_nouveau/glyph_bounce.toml",
-      "Hash": "62447efc5276f8069a2ea44a1627c59a92e260fea86cf3ba8b617cca3509e1d2"
+      "Hash": "d544b36881d1a1e73b90de303c1a33267bdd00e32df0f73e6723cf6d777ba322"
     },
     {
       "Path": "config/ars_nouveau/glyph_break.toml",
-      "Hash": "ad9edccc148cb07d3134acb4a4ece9a77c38cad6e5ef2ca9bb11ca25ae5ef05e"
+      "Hash": "b206a82522c979ed96897854d1763475122d5323aa830123d73895fd7df29089"
     },
     {
       "Path": "config/ars_nouveau/glyph_bubble.toml",
-      "Hash": "92fc53b20e893fcf59264d4804f875936ba78e4e593591fef16e095e094fb70a"
+      "Hash": "a594309f6f98deb6a41bc439f5bbf6aa450236fd36ee07cfbee97f797a9c8923"
     },
     {
       "Path": "config/ars_nouveau/glyph_burst.toml",
-      "Hash": "78ab4ac2f8e4b1509226075249774feb048851007aa5b6bd1dde6132f68bfed1"
+      "Hash": "7143356e93ad47762c4d5c0381aa8257ad370a011d818458a25f1d2d57388dfc"
     },
     {
       "Path": "config/ars_nouveau/glyph_cold_snap.toml",
-      "Hash": "228b1ac24a26b16c65ea1e40d7cb6adc912e17e319f741ceb6fe025cbcd988c6"
+      "Hash": "38afcc32cea2dd984b7f980feb83cbb0f4cfbc2b399ec6c9b22bba4d5b8d895e"
     },
     {
       "Path": "config/ars_nouveau/glyph_conjure_water.toml",
-      "Hash": "8c09b754d12127b13e3b5c4b1ca02f833480e5b17ea5c30407fff2bf2437bbc6"
+      "Hash": "43137435d5ba37db7bf1408ce0986d0f2d1f0580163b9b69e42fe45b92e10c2d"
     },
     {
       "Path": "config/ars_nouveau/glyph_craft.toml",
-      "Hash": "a816b622f7f5f854eab26acc5482df2b3899ac5347552bbfa4fd9d9c0463c85c"
+      "Hash": "d47e80f91c8c630c9bc1d94db62a988cb2d465a57e7757b66c843e87120abce7"
     },
     {
       "Path": "config/ars_nouveau/glyph_crush.toml",
-      "Hash": "14eb1329449f03ac7941a6eea6e74fd1fea8b47e42a250ce2099e00e3ee4988d"
+      "Hash": "ab830f97b0840f8791eb9aefc929c11058c83eccedec33998dce4a18edb5182a"
     },
     {
       "Path": "config/ars_nouveau/glyph_cut.toml",
-      "Hash": "b8415cea74a8a393207ff5246ddb8e1834eff5f6bd23c7bc410c60c1611e9d83"
+      "Hash": "5d0226e1a709a45a7f36e0975f56d423ccf84cdc0746a2de1db5e6547a1f6811"
     },
     {
       "Path": "config/ars_nouveau/glyph_dampen.toml",
-      "Hash": "dd21ec3899d06bff70793eeefbdc372e0b93b3842bf1e1c8a15f7e0b0f8e5f7f"
+      "Hash": "526371ec6a6012cc7671ec633d6a686a173082ad74ce55a0ba45945297db15e3"
     },
     {
       "Path": "config/ars_nouveau/glyph_decelerate.toml",
-      "Hash": "b5990e67e62d60837508ef900955ba274ed580aa865cd377379ddf69762cdc85"
+      "Hash": "5d1b1f1f648e4618bfe5f104cc0dcd8c5a48f7dc9152b3c1f28b38beb3812b66"
     },
     {
       "Path": "config/ars_nouveau/glyph_delay.toml",
-      "Hash": "64b39a22cd33e19c245dbec70e14da76da09368a16e346e42bd95cce5fd91e54"
+      "Hash": "ca69d25cbdfd4a4e1495e766ddf24664096c455f64d60436394b3dcfd4fa4a13"
     },
     {
       "Path": "config/ars_nouveau/glyph_dispel.toml",
-      "Hash": "0526dbfce1d8351539200857e343455871cc811a025f43568217d360e335413a"
+      "Hash": "8c8a8748076d9ca77aee9ea2e1c056c578f90c80c77b4eece0596f07d3d334d3"
     },
     {
       "Path": "config/ars_nouveau/glyph_duration_down.toml",
-      "Hash": "102d57868ed836487c5e9d1060027211f86eea12cc95db7c8650fe8c4bf1239b"
+      "Hash": "5782cfd9f26599d253253abc81c9a1cc7488707eaf97261926c7625d2e0063b2"
     },
     {
       "Path": "config/ars_nouveau/glyph_ender_inventory.toml",
-      "Hash": "2a1fcb27cfcdf2ae95bafe7b485977cd22b64ff593a9a0034827858e47bd935b"
+      "Hash": "83517866ee58eeaa5207853b1df9f48fe1e6002d3d4ac9316685826e102f741e"
     },
     {
       "Path": "config/ars_nouveau/glyph_evaporate.toml",
-      "Hash": "a816b622f7f5f854eab26acc5482df2b3899ac5347552bbfa4fd9d9c0463c85c"
+      "Hash": "d47e80f91c8c630c9bc1d94db62a988cb2d465a57e7757b66c843e87120abce7"
     },
     {
       "Path": "config/ars_nouveau/glyph_exchange.toml",
-      "Hash": "2a1fcb27cfcdf2ae95bafe7b485977cd22b64ff593a9a0034827858e47bd935b"
+      "Hash": "83517866ee58eeaa5207853b1df9f48fe1e6002d3d4ac9316685826e102f741e"
     },
     {
       "Path": "config/ars_nouveau/glyph_explosion.toml",
-      "Hash": "beacf60540f77b97b4bc12e4aa722c425893bf6d22745c8e6c935b8d85d90aba"
+      "Hash": "9f292ff65812c4658eb32d8d1cf9c0439f1a77f070462048c439bce7375fcd10"
     },
     {
       "Path": "config/ars_nouveau/glyph_extend_time.toml",
-      "Hash": "a31f5889f63fe0dbf691ee7dd7206899a57deef186b3b2b46d7efa628c4c9d80"
+      "Hash": "1a00f7fa7cdb3667f85dd61f913d1a57455f6688f506cf5b90b854e4a33411ad"
     },
     {
       "Path": "config/ars_nouveau/glyph_extract.toml",
-      "Hash": "558434e11f6a82855a8e43c6bf4896bcc86677aed0f6a06827295c0c1d33fbe7"
+      "Hash": "2923b972473f84e569639a661792bc2bd8bb9f1bf7122d0da628f312f48a58a0"
     },
     {
       "Path": "config/ars_nouveau/glyph_fangs.toml",
-      "Hash": "4cc4c94639da07abb843d2f0e213c7e00e6f97ac25f4d9bd47ec592f25f4a022"
+      "Hash": "3f2ce40f6b2a4c804a0ef4faa21f55533450a581f6595208a64f569807e01e7a"
     },
     {
       "Path": "config/ars_nouveau/glyph_fell.toml",
-      "Hash": "2d63e4dab44c445888035153f016535a471b45a5b63cb5060727dbcdd4eb4e41"
+      "Hash": "0bb273e77ecfb966d8f4f00336a7483e30cbac46b92ed43a6f874a03c811dd6f"
     },
     {
       "Path": "config/ars_nouveau/glyph_firework.toml",
-      "Hash": "8e7fbe8d06d9e7fdfe4e191f9a1ad699813eee2e41e1ba3ecec22392925591e7"
+      "Hash": "a2bea05f322b1102860b50c92d485c4624035d33c082dbb62f524f4eaef79c5e"
     },
     {
       "Path": "config/ars_nouveau/glyph_flare.toml",
-      "Hash": "61e5c27ed697fb87fb693aaf0f1dd0e7d40081a589c59c00bb2b004aa2a743ea"
+      "Hash": "475a5099fd400281ab1aeb5b38e4b95065e107ef856682bec6a6261e9c24e390"
     },
     {
       "Path": "config/ars_nouveau/glyph_fortune.toml",
-      "Hash": "a1b14281c77dc0588771af4e235d03912b17b73090d68a2f4106b6a0d3ff4fd5"
+      "Hash": "6545a7af2dfa4de29ddc11b4ce893f09f3d347fa28b93b00abd14d95ca508b76"
     },
     {
       "Path": "config/ars_nouveau/glyph_freeze.toml",
-      "Hash": "cd7351df30eadfd4a5583dee4882fac2f76fef2e0d1f7e3cd7a9b9a354d61e65"
+      "Hash": "04d635e42fda5056cafa24fd498e971275aac31862ba7f142192ed36d0ea3144"
     },
     {
       "Path": "config/ars_nouveau/glyph_glide.toml",
-      "Hash": "ea07f2419ded616ff01c33cb04c81cdc1eff77ca681eb16b2351e0a7aa41fbb1"
+      "Hash": "999f9cc0d2772f6c8c4c113b6d423507a0f5aa7c6ff9612fed4494951aba93ae"
     },
     {
       "Path": "config/ars_nouveau/glyph_gravity.toml",
-      "Hash": "db83e5fb8ce9e8fb19e25655a233c3a6800f8437f8e776c9e3cca78875cda12c"
+      "Hash": "8475981cbf4a153c7e619200884d1bfd02b6e5c97fc7219af9ad9c46569143a1"
     },
     {
       "Path": "config/ars_nouveau/glyph_grow.toml",
-      "Hash": "8cb26465bdad2ecee54319f83445a41ba2bbf26a7071eac93131812ea0af3e53"
+      "Hash": "16196c2bfc1df9823079d6b80f820e7231ac96070adbe93e980ee3acb6fac008"
     },
     {
       "Path": "config/ars_nouveau/glyph_gust.toml",
-      "Hash": "9f60447a11660f62afafcf56c295faa78208fc83df991a4ccde07ce9cd9f28d0"
+      "Hash": "29d609f56b64275ad70cca667792fb0eb3f52507e72aaac6863f17293d84ade6"
     },
     {
       "Path": "config/ars_nouveau/glyph_harm.toml",
-      "Hash": "e132dad7db10594ae4c4f421300194e66d242b3c12017b5bd878cc6d17c0c781"
+      "Hash": "f9fdc6c6f8e5a994e4b6f9f9cf0965267f9c135e0ddadd90673886c26fab3954"
     },
     {
       "Path": "config/ars_nouveau/glyph_harvest.toml",
-      "Hash": "63274ce775cae15a45124a0e8cb84021aa4e3f228a48cc3e88157c90f3aaf84b"
+      "Hash": "6512b369f02e92b6ff2749541497b53c8abd71a4172b38299efa3ce9cd38b6ee"
     },
     {
       "Path": "config/ars_nouveau/glyph_heal.toml",
-      "Hash": "8973781972472014a1b81e4107734c482ef9cc268ddb08d73901838503b776a7"
+      "Hash": "09623cd93bde087fa5355cb2ec2b88dc263e1b978c76da2a5638fa37c88fa1f3"
     },
     {
       "Path": "config/ars_nouveau/glyph_hex.toml",
-      "Hash": "4169a17c968a70aed11b64fab82f61c19d9d07f0fcc569365ff212008da64c12"
+      "Hash": "67e4e66aeda634742bf3af2aa8537636475b24ec6e22edf858b0ff5d98a2ffb8"
     },
     {
       "Path": "config/ars_nouveau/glyph_ignite.toml",
-      "Hash": "a8063898d4c718297aa4862f68d4174a6f0d384e05e7b7b55f48fbc01de4c8e2"
+      "Hash": "8d11fde6e7b881456fd9eac472b2e49ee7c21996941b70ef3befaf7d412ee5f7"
     },
     {
       "Path": "config/ars_nouveau/glyph_infuse.toml",
-      "Hash": "06aa8cd35dea1dd11468c882d121365ef4f786eba6a3cd3eb6687e7715fc1449"
+      "Hash": "2654b2da2bd530785867b1aeeec450b43a8b5bc4e649b6fd7263cdd61cc86b25"
     },
     {
       "Path": "config/ars_nouveau/glyph_intangible.toml",
-      "Hash": "be5aca1382603d2de080205417d063e09602018ce910ec789cdb47da87f8e46f"
+      "Hash": "3db36c0ebc07fd8842313c30ce3981132f04a6ec862a76397b1ab237affd0ca6"
     },
     {
       "Path": "config/ars_nouveau/glyph_interact.toml",
-      "Hash": "07b250690cc61289a015440fd7b3e97764157b12625ce69f857bc57bc131373f"
+      "Hash": "1d5551a16a0612d67420c6bb777f320afbc83016edf64eda20fdf93a2137522e"
     },
     {
       "Path": "config/ars_nouveau/glyph_invisibility.toml",
-      "Hash": "cad5a54db1c8515614c12f0aae81de81db83a52d4803463f46a998adaaf1c533"
+      "Hash": "70875b8e70361d9e520418568a49abf298671f063f71b79a7da2be73611ef476"
     },
     {
       "Path": "config/ars_nouveau/glyph_launch.toml",
-      "Hash": "3982b1d34b2ca9665699e3c14bf9919c9e82da79e27cbe0b084b9b578f7ab125"
+      "Hash": "55d87daf100d881544e27cb79f8f64ab45bf0f029a95f65533b0053c1471011b"
     },
     {
       "Path": "config/ars_nouveau/glyph_leap.toml",
-      "Hash": "3f2a6124981a7a360867e319cfd3731c493d449083239a02560ae8ffaa3d284f"
+      "Hash": "baac5add5570f00c76b16382d478b6a1b294e8752479eff61b0df9ad77bbabd8"
     },
     {
       "Path": "config/ars_nouveau/glyph_light.toml",
-      "Hash": "bd0bc89ccb0ba38c181596a4378a323e578805bd89e1ba980b2fb3781e2d1d64"
+      "Hash": "477cf53d7df336dc8005a67189472ce8efa69a82b0f38d224168614a679a40e8"
     },
     {
       "Path": "config/ars_nouveau/glyph_lightning.toml",
-      "Hash": "0177b63a5fcb9e0b50523bb39c5babfd8a6fdf1c6d11b736d337254d5fa4e57a"
+      "Hash": "e4b8be6bd7614eb592b8dd84098c7057f3b1f7581311a96e6573de60345c4d14"
     },
     {
       "Path": "config/ars_nouveau/glyph_linger.toml",
-      "Hash": "a7c281c535969659ba1578598eeaa0d7751c94081acf09f6953bff5b76cf4756"
+      "Hash": "caf577865e0234d9fe327fdcdd2883a1e462fda5317f3b3941a8188c98b67331"
     },
     {
       "Path": "config/ars_nouveau/glyph_name.toml",
-      "Hash": "bb76094a2602e94a1b04703879c154b9c7e785e028c06bc48f3c5c377d664070"
+      "Hash": "ff738a5089fa9261efe843e37bb736ea260e52c735b5358beda912fe60d8cdda"
     },
     {
       "Path": "config/ars_nouveau/glyph_orbit.toml",
-      "Hash": "2c62e6e7d96d7bbe5cb9e67af0d0f2003c6021c0a18bfff0de65e2371cf8fae2"
+      "Hash": "cc6826ea137cd8a61acfc9d968eb87309fc6a106a0192078e49171b0c5722442"
     },
     {
       "Path": "config/ars_nouveau/glyph_pantomime.toml",
-      "Hash": "59279368035dd965e62431da2d189d417ae78371668b49f8bd6b1c1e325047bd"
+      "Hash": "87e0fa71d54f11c99c165d95e2fa361fb5e4f8ef341313eedca2178766fdb983"
     },
     {
       "Path": "config/ars_nouveau/glyph_phantom_block.toml",
-      "Hash": "595b43d01cdd6aa3b878f032f3e4c240559fba498f0c135ea6e2bdb2e05349cc"
+      "Hash": "a29ef51f5d01b46c7fe1659a0313002a65ef95ab9e73fbf9bb6e61590b83b0dd"
     },
     {
       "Path": "config/ars_nouveau/glyph_pickup.toml",
-      "Hash": "63274ce775cae15a45124a0e8cb84021aa4e3f228a48cc3e88157c90f3aaf84b"
+      "Hash": "6512b369f02e92b6ff2749541497b53c8abd71a4172b38299efa3ce9cd38b6ee"
     },
     {
       "Path": "config/ars_nouveau/glyph_pierce.toml",
-      "Hash": "a514cd3b7a903a483ae2dacc7ed00cfeb9b2e0663997d4821acb6343a2a19958"
+      "Hash": "3df19f4771ba80f902f704908120eaf9cabfa34f47d063cb2025519c4c62134c"
     },
     {
       "Path": "config/ars_nouveau/glyph_place_block.toml",
-      "Hash": "53883e24d2ec0a7a86d0246ec373e74b252476d3a8aed44a9697b5d61eeb9b62"
+      "Hash": "2ba37ee883c6482f3d5a0f36c5fd04549cb52ae6a4effc790735565921421309"
     },
     {
       "Path": "config/ars_nouveau/glyph_prestidigitation.toml",
-      "Hash": "dce9b819f6078583fe575c1f465b0c1bcda44e64edb02d367728512adf65fafe"
+      "Hash": "c4d0396bb7394dbd63a9a77fb20889341e375d4090e825bfb3cc2d916d7d82a7"
     },
     {
       "Path": "config/ars_nouveau/glyph_projectile.toml",
-      "Hash": "75e67c910beb7a4ac4a20d929fa0075ff3430642b337bd0e59a472b6921e0424"
+      "Hash": "ac31cb9304eb71f0c69ae28d5f2e2b64faff33bef8fcbecff8e7701d647c4878"
     },
     {
       "Path": "config/ars_nouveau/glyph_pull.toml",
-      "Hash": "94f4318b159b004eb17817aa60a0d25fa38e6994e48704ec4e82582010480de9"
+      "Hash": "4b4203c95aa9aa1c9af99868aef83b538ba402b0d0a7050d5e0d0ec1f4c797c0"
     },
     {
       "Path": "config/ars_nouveau/glyph_randomize.toml",
-      "Hash": "1fbef113921700cb95768f8c25cd28c03ef3814c146592cac08567319169cc4c"
+      "Hash": "422149dc77ea5f8c78d9357722dbca5e02b98db4c21523a6d5d769ce15fa722b"
     },
     {
       "Path": "config/ars_nouveau/glyph_redstone_signal.toml",
-      "Hash": "fcc34d8f285896bb7bdacbd05a7ead8f70ce95b0b11834ac75eb9d267c526b63"
+      "Hash": "b6bf3273656f9ac4e2ed21622e56d142406ff86fcfe52c3e552ed2e316607ed0"
     },
     {
       "Path": "config/ars_nouveau/glyph_rotate.toml",
-      "Hash": "ab29558b612a2aae5770be84688c7a363874fe3a97662fda1558328b72afd595"
+      "Hash": "68fbbb0a64f5f79ead0b969541533c98a4e842ce0c48f2ca172bb72884b8256f"
     },
     {
       "Path": "config/ars_nouveau/glyph_rune.toml",
-      "Hash": "d97f22e6a2dda9ad91f1dab25b2a700ed87a4d91a9420e576e9516c8476603f4"
+      "Hash": "2a6cdb9050080e2c86a7d1b67df0921e0c3470694500f561b33cc1bbb00fcca8"
     },
     {
       "Path": "config/ars_nouveau/glyph_self.toml",
-      "Hash": "1e88e21e1251b0ec88e73df02fa317ce62b744eaaebc42b1d17349e2b716df73"
+      "Hash": "9558b37ec6c6d6390a70ea540b7b03e7fab5b0401a8d9533650aae7d123d2f33"
     },
     {
       "Path": "config/ars_nouveau/glyph_sense_magic.toml",
-      "Hash": "944f91fb6ea9d469f2ab8ec81d908af0ff86a2d1d93098d3bcd3fd517046cab7"
+      "Hash": "90a76d94272fb2e9e8a33f76e2e360e15cef274d8e641e79a5274b4d85d8de79"
     },
     {
       "Path": "config/ars_nouveau/glyph_sensitive.toml",
-      "Hash": "3bfc7fe9767892cf8d9e8d9622eaa0885e19813bb286c8ce65c18be244a7755a"
+      "Hash": "d7cbfaa21678bdd9517ec4ef82194df43444426cf45c56dbe50c08b1180f42a8"
     },
     {
       "Path": "config/ars_nouveau/glyph_slowfall.toml",
-      "Hash": "cad5a54db1c8515614c12f0aae81de81db83a52d4803463f46a998adaaf1c533"
+      "Hash": "70875b8e70361d9e520418568a49abf298671f063f71b79a7da2be73611ef476"
     },
     {
       "Path": "config/ars_nouveau/glyph_smelt.toml",
-      "Hash": "b3319285867d0e5cf609e171e9d0d1c8a2b3a8706bb26c798ca8a10cbe273cea"
+      "Hash": "e8e3bbd8f4d9e69818a6f77e53f616cae184f486d7f1a96a82cf18bb90ec85ef"
     },
     {
       "Path": "config/ars_nouveau/glyph_snare.toml",
-      "Hash": "bcc530d2c08046256cd0ceadca6369826157b6dd9d571f7661e60e5e16ce3a79"
+      "Hash": "504c9ae0f7654926f8b03ecf5b19c80e0291f0ab794f1ad3d944f2e743728d4f"
     },
     {
       "Path": "config/ars_nouveau/glyph_split.toml",
-      "Hash": "084c274c075eca508a74685b21c066eea0b14d816652152cd3cc75e6b4f692e8"
+      "Hash": "52c42e61b03534889af34c74a4afbf3fd9534152633e98a2bc6ad392ae2bfb7f"
     },
     {
       "Path": "config/ars_nouveau/glyph_summon_decoy.toml",
-      "Hash": "1bdadb76d582d01fb61ece1415abcc684cd37502c759e153c39af3768536a014"
+      "Hash": "08b390b9dc3f9cff82bdcbdbf4046f0f1caae224e07cdd1697a9fffa4fe94eb5"
     },
     {
       "Path": "config/ars_nouveau/glyph_summon_steed.toml",
-      "Hash": "14d04da5fa4e1230b4a0ec76bb55cc5d39d1d7d6ecfbec806add2b5eef2b1d7d"
+      "Hash": "237b9dfa9c110da43d561e87362b92fa7a3a32ebd5d45f1445f72372e7f2a25d"
     },
     {
       "Path": "config/ars_nouveau/glyph_summon_undead.toml",
-      "Hash": "15786295b7aa1295bff15d52139baefbb0ba532ffa67a9b5a265e664ad7c4d98"
+      "Hash": "80aae6754a1c8c1290bfa9c55c3c19ad0de55e0c7527eb2619556e75f6767982"
     },
     {
       "Path": "config/ars_nouveau/glyph_summon_vex.toml",
-      "Hash": "15786295b7aa1295bff15d52139baefbb0ba532ffa67a9b5a265e664ad7c4d98"
+      "Hash": "80aae6754a1c8c1290bfa9c55c3c19ad0de55e0c7527eb2619556e75f6767982"
     },
     {
       "Path": "config/ars_nouveau/glyph_summon_wolves.toml",
-      "Hash": "afc91de685aa8e4a619443ff158a55392fc6f300c45aaa83c46cf097c26cd6fa"
+      "Hash": "935d953295955d0101d1cb1424b25dded8892b3cfb8eecd680c46587a0d328a6"
     },
     {
       "Path": "config/ars_nouveau/glyph_toss.toml",
-      "Hash": "63274ce775cae15a45124a0e8cb84021aa4e3f228a48cc3e88157c90f3aaf84b"
+      "Hash": "6512b369f02e92b6ff2749541497b53c8abd71a4172b38299efa3ce9cd38b6ee"
     },
     {
       "Path": "config/ars_nouveau/glyph_touch.toml",
-      "Hash": "a1f827f53981ec72d2f356b6e92ef32d40caf0aeb26c8ee5130d20f51b6c3ca4"
+      "Hash": "b8bbd2c7b5d7744bc48f1b431e25209bd3ad7d92ebf206059386aed59714bf84"
     },
     {
       "Path": "config/ars_nouveau/glyph_underfoot.toml",
-      "Hash": "6a92f02f8b006e0053d10f27dbc80da9bfa36d0203f52d364b736033c0eaad14"
+      "Hash": "e1eec53c901be4a05b07bc49b56217982b90819fea17fab20fb0a370a3be347b"
     },
     {
       "Path": "config/ars_nouveau/glyph_wall.toml",
-      "Hash": "da7512f154f9718e3c431a095b10bc87da01196897e4c70d85988794e680f2aa"
+      "Hash": "b17d23ad6304cc473e3cab4ff353ec8c95700ec0f435703c9433cc79ef451500"
     },
     {
       "Path": "config/ars_nouveau/glyph_wind_burst.toml",
-      "Hash": "bba5f0fcca3ed14efcc274b040d300419c6055f0773ead64ef2e56a3b536dc5f"
+      "Hash": "eac41dee3c88074dc995bd9d138fe65aeb1d12b05d44017cda1b9b3a2e4feb28"
     },
     {
       "Path": "config/ars_nouveau/glyph_wind_shear.toml",
-      "Hash": "7aa97b266a9a8af07db4803bd61aeba15e8f6e3e059b562faa3c40bc8da31dd4"
+      "Hash": "a1d305436a2af427091dc79c817ad5f19aabeca97be1297ddbffb4ed6977e4bd"
     },
     {
       "Path": "config/ars_nouveau/glyph_wither.toml",
-      "Hash": "4169a17c968a70aed11b64fab82f61c19d9d07f0fcc569365ff212008da64c12"
+      "Hash": "67e4e66aeda634742bf3af2aa8537636475b24ec6e22edf858b0ff5d98a2ffb8"
     },
     {
       "Path": "config/ars_nouveau/reset.toml",
-      "Hash": "dce9b819f6078583fe575c1f465b0c1bcda44e64edb02d367728512adf65fafe"
+      "Hash": "c4d0396bb7394dbd63a9a77fb20889341e375d4090e825bfb3cc2d916d7d82a7"
     },
     {
       "Path": "config/ars_nouveau/rewind.toml",
-      "Hash": "927983e00266b0b3af2d78c1d5c10e791ed052e3cd8e525cc1bdb773845e921e"
+      "Hash": "cfba46b855cf3bef2c4792b313eb9bdfc28ecdf29792ab8996fb44840d8b3009"
     },
     {
       "Path": "config/ars_nouveau/search_index/_a.cfe",
@@ -627,7 +627,7 @@
     },
     {
       "Path": "config/ars_nouveau/wololo.toml",
-      "Hash": "d97f22e6a2dda9ad91f1dab25b2a700ed87a4d91a9420e576e9516c8476603f4"
+      "Hash": "2a6cdb9050080e2c86a7d1b67df0921e0c3470694500f561b33cc1bbb00fcca8"
     },
     {
       "Path": "config/arsenal/effects.json",
@@ -647,19 +647,19 @@
     },
     {
       "Path": "config/artifacts/client.toml",
-      "Hash": "9948a11f761ce7af2a09fc3f7f01eb3ee14c2f8b764dc2c66c76cddb7cd14d73"
+      "Hash": "6809a4dedade297c2413bc6276098f39aa068347e73500caa30abefda0067921"
     },
     {
       "Path": "config/artifacts/general.toml",
-      "Hash": "b73793e634d1a441c12ed1c3d02ec074b2f19a24766512f78ff0b9d83cf9768b"
+      "Hash": "f262c61f4f63bfd3c3e2fa5ed30176b9d447755725ff0dfe08b84df26faca607"
     },
     {
       "Path": "config/artifacts/items.toml",
-      "Hash": "81f54356cde5e9f2ddefd24803c779eec06981bc075a4a71e24951d73cf9e17a"
+      "Hash": "aa966b9fa4eb2199e118693625f21306e348d28a3518797d942197948df8c797"
     },
     {
       "Path": "config/asynclogger.toml",
-      "Hash": "e0804713763b355f2d434ae1c930dd9fe5e720db313ca68fad3ea32c208b1d59"
+      "Hash": "b9c172ad2e5bfcd14ea96421a6c38844bee7aad97485956fb771d176ccda13fc"
     },
     {
       "Path": "config/asynclogger/default.toml",
@@ -667,7 +667,7 @@
     },
     {
       "Path": "config/asyncparticles/asyncparticles-mixin.properties",
-      "Hash": "9cb58e09ddd3c9f30a36a167b75c47e8488d9fdefc1559e4f88c32531b6f45ef"
+      "Hash": "1e9eeb107b5f6a6d5965bd32e451af9222d7e19d9774b391b3790f1e9efda511"
     },
     {
       "Path": "config/asyncparticles/asyncparticles.json",
@@ -1627,7 +1627,7 @@
     },
     {
       "Path": "config/better_looting.toml",
-      "Hash": "0884321ddedaf41f5468ce7c9ec7561500e542ae41285a5501e3a822e4f62834"
+      "Hash": "c64cc60f0a9d69fec182e871a3cd117ed7811411b504ffee6a57dc9a39b95b3a"
     },
     {
       "Path": "config/better_looting/skins/README.txt",
@@ -1635,11 +1635,11 @@
     },
     {
       "Path": "config/better_starting_armors.toml",
-      "Hash": "ece564097b3cff0717fa96677c6fa76494b6f2db97144abc36f7ab60d27af116"
+      "Hash": "6f6c9cd368a7d570741e09a82733e9ec7a198890236de0c777591989207e9eb1"
     },
     {
       "Path": "config/betteradvancements-client.toml",
-      "Hash": "38e88509078026a5a660e00947e5a6db74a3c374c8c7978ef64c360167f84db9"
+      "Hash": "5b965898d5b13c5557b603c68ed4ac79a4f850f3a7205eb3dbfc6116f2caf19a"
     },
     {
       "Path": "config/bettercombat/client.json5",
@@ -1659,31 +1659,31 @@
     },
     {
       "Path": "config/betterendisland-neoforge-1_21.toml",
-      "Hash": "ffe069fd52a22a7967f4d012382dca670f585635cb721c2190f0595969b662af"
+      "Hash": "9f967435aa86ab5959ee76a215cde5176bee106fae08df3b6e440c77a823867a"
     },
     {
       "Path": "config/betterfpsdist.json",
-      "Hash": "9a60e8278389e5230e4f8b45cba6f42d8d52e63469b98fff29f2e1cb9921b9f3"
+      "Hash": "a2476d597c9178e500343b4b3f8c536802c2f062fe64c6109435a9c98a9e68cd"
     },
     {
       "Path": "config/block_factorys_bosses-client.toml",
-      "Hash": "1ff86fe2d701ae9ee1cd775c077b9f6edb6184144c3505ffc6312f3d71e9658c"
+      "Hash": "7141ee94f52289bcf62d3568411435530dab414fbc75141de9fb4292bd32248b"
     },
     {
       "Path": "config/block_factorys_bosses-server.toml",
-      "Hash": "2e6624ed2974729727702aa11e9064c2b72a12e3e65488e09e2f44191354b403"
+      "Hash": "ae622dc4e9971b6d47b51ede2458a31a89750eb1454d6a51365de2ea72694b4d"
     },
     {
       "Path": "config/blockbox-common.toml",
-      "Hash": "ab37f9110e6316a603b929c449a14bbb71166708850fb0def569a6c76644e885"
+      "Hash": "78acd4dce87e6ce161e94bc42dec899a30863c4773c714d6cacd0e83bcebc88a"
     },
     {
       "Path": "config/blueprint-client.toml",
-      "Hash": "2459dd80f64e56da7a6259b6a68e29f00130ada136c28c834ba01ecd3485f012"
+      "Hash": "cf742e2b9b3d16a1a9cb448b47f2434f7c7148b6af74192d59a4006c19ddc557"
     },
     {
       "Path": "config/blueprint-common.toml",
-      "Hash": "251f732f07620eab2bb5e56eb068e39e6d651d26aaa7094f59d090d9ce82ede7"
+      "Hash": "fd498503a74d6c82561869da4e86d8fb886dc2ac182a2086886314aca26bb7be"
     },
     {
       "Path": "config/boss_checklist/boss_checklist-client.json",
@@ -1699,11 +1699,11 @@
     },
     {
       "Path": "config/bosses_rise_config.client.toml",
-      "Hash": "01798d134f654511347da8111ffa58a9aae6e58940d20079c6fca140288bba2f"
+      "Hash": "1a0018c2ae22df00ade78adc80f3f85b634296ecb4f35ef55459b849a912f380"
     },
     {
       "Path": "config/bosses_rise_config.toml",
-      "Hash": "18bb9749f794217affd192d1f16761e40b701bb7772ed00ae73bd419b3d9daaa"
+      "Hash": "d691c074802b04e6d89da8fcf430870ce3294578b78f84987a448836eea4e80a"
     },
     {
       "Path": "config/bossultimatum.json5",
@@ -1711,7 +1711,7 @@
     },
     {
       "Path": "config/boundless-common.toml",
-      "Hash": "79743d38b6d637dfc2e6ba4bff548af0e931cb38dd3b60020ffd399234febe65"
+      "Hash": "67b8c17aef4da07da22b27dee7259b6fc2765fde9a47b10f3c1ad751e422443b"
     },
     {
       "Path": "config/boundless/backups/questpacks/keo_rpg/20260915-194351-723-saved/data/keo-rpg/quests/01-el-primer-tajo.json",
@@ -3199,39 +3199,39 @@
     },
     {
       "Path": "config/buffmobs.toml",
-      "Hash": "da72ca5d9297bfee05e47e60afcffb585aebdbe2d32b66b7476fe1f4a8ebfdbf"
+      "Hash": "a6b0b26f225ef99d06c9b2ceb7f6ef1edf401214445aed018403c1a8325cfe89"
     },
     {
       "Path": "config/c2me.toml",
-      "Hash": "2e40055788c7add00e8ff427742e2cf222ed4f5eca046bdcd069cb4348b873de"
+      "Hash": "9bf280006a7e92b18ee21744b3ef30c647182f54d9a2eafe547ace914402fee8"
     },
     {
       "Path": "config/cataclysm-client.toml",
-      "Hash": "a83db10f4450e21761559465b75388c115d3f0d899b368e1124f380d49b737a8"
+      "Hash": "60a93fbbdd17a6775241f8227b34dbfa71da706bc905444fc3f8c6de0dcbaa4c"
     },
     {
       "Path": "config/cataclysm-common.toml",
-      "Hash": "61926b9ce81d6d44ac25e367b67e5642235fa026e6dddd6be54e0c2965570cc7"
+      "Hash": "31dc938bcb1455ad20589f3083ed03dc74b0df260d1fa61d451407c9ff97dce6"
     },
     {
       "Path": "config/caverns_and_chasms-client.toml",
-      "Hash": "66401848556fac6b3a987ea287198926e5894447425d9e8b589aa895292a67b9"
+      "Hash": "389586c52c8d728d741c0745ee0ed39bbd5b39f58cafa9951dca9b25f09a7fb2"
     },
     {
       "Path": "config/caverns_and_chasms-common.toml",
-      "Hash": "fa2e5b5e2849107e3393ac5407f3bd61c956a7eba33b2e5067e4dab8be5a26c9"
+      "Hash": "90dc4d6ff6025946a893f42802a344fc18a8b4196d44b1032cf83bf85c4bfe29"
     },
     {
       "Path": "config/chalk-client.toml",
-      "Hash": "84ad7a97ce3eb6394291614a1971ee8f6e0d4ef4c5d7622d64a55c42c972856c"
+      "Hash": "d7d0885227ab18e7224e7ef1f9457479927a8efa0d2bae9f11e70e8a91872fab"
     },
     {
       "Path": "config/chalk-common.toml",
-      "Hash": "d37d407a7c8435cccfec40e54deb4f6b677f4ccc8eb923b883edffd07ecf86e9"
+      "Hash": "ddffc62f36091414df4b0fde5b3f3876535d1dd6a5fb8006d2ff88a695383427"
     },
     {
       "Path": "config/chalk-server.toml",
-      "Hash": "909e29f99ae34f6f68d86ba27926852bdb207a88dcc102c54b05261316e23a9e"
+      "Hash": "2e80d55e73a90b7eb450317450335a3200f18d34f87f1bd2c7b866ee50513bc7"
     },
     {
       "Path": "config/chestdna.json",
@@ -3251,7 +3251,7 @@
     },
     {
       "Path": "config/chunksending.json",
-      "Hash": "ec70574cc59a60d759a3b71c33f88919846db6f62ae0f63038efc968b799d707"
+      "Hash": "59adb30570364221ad359b2d20e8632acf5fd2b90673a30d7d3dae81259d73ae"
     },
     {
       "Path": "config/chunky/config.json",
@@ -3263,7 +3263,7 @@
     },
     {
       "Path": "config/cinematiczoom-client.toml",
-      "Hash": "bcd8799d88bbb34f48fe56ac8eb51b66a2d3e0214ac9427c052f78f8dcfeb025"
+      "Hash": "8104a0b1abcbed0aa8ad2fe6213c2135573b36b0138a9522eb76249b05426653"
     },
     {
       "Path": "config/clientsort-server.json",
@@ -3275,11 +3275,11 @@
     },
     {
       "Path": "config/clutternomore/client.toml",
-      "Hash": "507a869b304d22a3dedbf71e5a4cb7a665818793d08f29794d569e7b41a0c7f3"
+      "Hash": "6618f88c1ad67fd03d6206b99e200febb05db36c99f6fcf8cfcd73034650ed96"
     },
     {
       "Path": "config/clutternomore/startup.toml",
-      "Hash": "edcf50724b9c69e925a2b6491a4e30acff6923a23ccd62c810b1c04733693d9d"
+      "Hash": "ac40d1502f8e12ff7ae30bbb770274d255ceb6284259debceb40cc573ab3c7f6"
     },
     {
       "Path": "config/collective.json5",
@@ -3287,11 +3287,11 @@
     },
     {
       "Path": "config/colorwheel-client.toml",
-      "Hash": "aa78495b059b36ae8603b628eb93bc9b21934460aaa1754f0332cc2cbe4ffff3"
+      "Hash": "7eab617461d620df8eb4b853b4253fb4f6cb7c09f759614cfc8ee14eb4a80425"
     },
     {
       "Path": "config/companions.toml",
-      "Hash": "c74cf00a6c2c1e60551ced82b775f6116a3a0a2b1d13d28536c6182cb252ed3b"
+      "Hash": "a63ae9056097d720765f98d07bc0202d33df3d3b449617ab6ecb6cebd62799a1"
     },
     {
       "Path": "config/configured-client.properties",
@@ -3299,19 +3299,19 @@
     },
     {
       "Path": "config/confluence-client.toml",
-      "Hash": "82b856a3e9804cf0d05282fc1a683dbdc68273262fe4a4cb7628f3bc763a88d1"
+      "Hash": "c67a8b1ecef0a5f48d4e1e61c1b0dc069d0c5161e4e985071a1a4348cfd8ff07"
     },
     {
       "Path": "config/confluence-common.toml",
-      "Hash": "36173f0f0ebdaf5b9699a638b991fbbd6e42dd1752283a464114fcb64c6ff045"
+      "Hash": "ded4c2daaf7e01e1c36947f63e1aba7923fae8d5453a4dc4f98cb10ad6bc5db3"
     },
     {
       "Path": "config/confluence-startup.toml",
-      "Hash": "5e6e9a9c0112b9efd65407e133d97ffc8999b2f22f2d3565a36510a1d8e9a80b"
+      "Hash": "3f0de5bf8d369da0c00d4408dd14cb7ecfe714076223b3a2c304a06f22f2162a"
     },
     {
       "Path": "config/confluence_magic_lib-startup.toml",
-      "Hash": "dba5f880c3631bb6174e3e3d594aa8767c48a5c321af0aaea31e6ab1abf90c70"
+      "Hash": "2fd0537e515151a7e64649544bdb40109e4be949c04bf691d02bd59c7a89acca"
     },
     {
       "Path": "config/connectivity.json",
@@ -3323,15 +3323,15 @@
     },
     {
       "Path": "config/corpse-server.toml",
-      "Hash": "806dc2002f95b1bcd16dec843051abc513576a1986ea1931d8c2cc82aef201c7"
+      "Hash": "ccca6ca427eb813e81abe951caac1c37c8acc3fc55ba848eaef6bd2b303730c1"
     },
     {
       "Path": "config/corpsecurioscompat-common.toml",
-      "Hash": "1af8c038af488d4d2f98afc93306cc97a3e7149100c184929980db642abbb89d"
+      "Hash": "067560f2da682722e831b15c64cee6e0efaf4adc2523a53a0eb91aa9182534d3"
     },
     {
       "Path": "config/crash_assistant/config.toml",
-      "Hash": "d118a0233e1ce7c0e77174916aec73f36d9d4ca76997c11e6596647bd385616f"
+      "Hash": "54244892c4608c5a95dc6722104bd2de8395626b7c0debcd12378ae14c228cff"
     },
     {
       "Path": "config/crash_assistant/crash_assistant_localization_overrides/README.md",
@@ -3347,27 +3347,27 @@
     },
     {
       "Path": "config/create-client.toml",
-      "Hash": "1294948463b268551548b987c80e1b1fe63f5974ce1dd7de2a8954fa59d1d7c3"
+      "Hash": "be83cb6b78d8960f7c76386a71a1b4cc412c4579f64f489b36ac06c463d5c00b"
     },
     {
       "Path": "config/create-common.toml",
-      "Hash": "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140"
+      "Hash": "1c632f62c30f4e1223669267196d2ff1a2c03e400bf565ff4fe81e20c7cd2bdf"
     },
     {
       "Path": "config/create-server.toml",
-      "Hash": "36216a05f3ed63106ba587c8c24ed6315385829e7f3dae695dcf545aba41a270"
+      "Hash": "f1a3edd31cdcf2b602b7d51d1fe8ba5e88d6403580ba382ba4cbfab1ecb3a365"
     },
     {
       "Path": "config/create-stuff-additions.toml",
-      "Hash": "e4a3988ff64923d8e08952951186cc6a67a5a04427766f5322c8e0a67077c5e5"
+      "Hash": "d6cb54312eaf10821b8fdbd0d07cb1f5bcce1c5fa26482495e3ca116e52718c1"
     },
     {
       "Path": "config/createadvancedoptimization-server.toml",
-      "Hash": "c6ccad4d057ec94648358e18645c877e3cb5700337bbdd353731b6088897a254"
+      "Hash": "8ac79f61bee0f73db8c58e21a5deac9f9e4934f7fe593170dc22625f5b0a9761"
     },
     {
       "Path": "config/ctm.toml",
-      "Hash": "b406070e0bc87961c211c5bb62b2754ed3bdba70cdf6975ecf64aff351b8d68e"
+      "Hash": "38f577900c2255b3dcf5a5e320ac641757304ee3bb7823589beaded342a2965e"
     },
     {
       "Path": "config/cupboard.json",
@@ -3375,15 +3375,15 @@
     },
     {
       "Path": "config/curios-client.toml",
-      "Hash": "8af475d222d452c40b548db89c8956f3e4d1e2aaf729464e3065f029936b3e0d"
+      "Hash": "f1e31eed2ff11e1c6eda6517dc8b24dabd5b752ba1f8a3503c5ce750af1fc7b4"
     },
     {
       "Path": "config/curios-common.toml",
-      "Hash": "9f00a6b9904cf63a36c0c72f8346642962d538aaa78b59943b9de60dda82e6d0"
+      "Hash": "16c71790deac2bbdea0099e39cdf8eb47b3dd7ef6337b69ba9fce793a1bf9674"
     },
     {
       "Path": "config/curios-server.toml",
-      "Hash": "1a3bee95a96f082b8e97cccbce30c1efe1352b616c78e06d5884fd4475668add"
+      "Hash": "3c34cf9f7918c6a9ec15b14a87aa4570a751c1688f8ac01cb2e9acfb9392a734"
     },
     {
       "Path": "config/cycletitlescreensplash.json5",
@@ -3391,31 +3391,31 @@
     },
     {
       "Path": "config/darkerdepths-common.toml",
-      "Hash": "74af336d1ea46a533692f11601bcb37b984b29305afe540c5895cfb48dab22e3"
+      "Hash": "0c7d9cf802b24ba09b139a3d2e154daaafc5b2685c3b97b3140adea2fcca1f2e"
     },
     {
       "Path": "config/databank-client.toml",
-      "Hash": "458b1021022143ad3213af9bd7ea7ac1b1ef5f10e811ef2df5081719ec5791f5"
+      "Hash": "f81175924941621df32734377dcf9701d13b0f5b7ef9d86bc5d3b64dc2eaf766"
     },
     {
       "Path": "config/deeperdarker-common.toml",
-      "Hash": "216cba34f4b7bb6f75ac414c98bea3ec02765adaa369f3d681c3b01ee62faaf5"
+      "Hash": "6fc0146c17f0e2c53509f79dd77a6d1d8e6a50a122ceee0bd0cd24befc4e2e26"
     },
     {
       "Path": "config/defaultoptions-common.toml",
-      "Hash": "c66415e4ab330ab9621233c00c54a6600771cd928d53950108cc61918a6c0f99"
+      "Hash": "e5cf7301b06441e226aad574303ad2f526aae13120f9d6b4ff6ea4121d9d37ef"
     },
     {
       "Path": "config/defaultoptions/keybindings.txt",
-      "Hash": "815e048fd659cf359e246e68a650251d932ce4f3c4775c90045fddf3fdcfdf8a"
+      "Hash": "b9acc19da1029280c83e088e55ad7c8eacfc11888aaf3a37b495c5bb4d45ecf9"
     },
     {
       "Path": "config/defaultoptions/options.txt",
-      "Hash": "a9338c6f68cab8d9cdc0db42875c800b8b6146d2bf9e8690b293a2f61c2fbd54"
+      "Hash": "fa5f6ec07f791dffdb0a5a4a4785daa83f6dbc8145897f4802b207599d2fa86c"
     },
     {
       "Path": "config/despawntweaker-server.toml",
-      "Hash": "e751e83d44ec724b80c28d649d92ed6cb794e970c8f8f38ee6f389b2b7424fb5"
+      "Hash": "bf0fab3f6e0030cfaee4f4f5c459316888e6c2308c1fa1f76ef8780198bf0524"
     },
     {
       "Path": "config/dragonfight.json",
@@ -3423,27 +3423,27 @@
     },
     {
       "Path": "config/easy_mob_spawn_control-client.toml",
-      "Hash": "26a10c879afa48a44f1e84aae0f989213c9be6849f328e6be506ae06ddb262aa"
+      "Hash": "3e75cbfc46a7172fcae305b1459cc3b48c6880156e356567bc75bb51e208124b"
     },
     {
       "Path": "config/easy_mob_spawn_control-common.toml",
-      "Hash": "afe4ea5bbfdd1c7fb57657939a9bbdec7532786e8e63077b5c03ce3d1f5191ec"
+      "Hash": "ae49d78945958dc6cb155e9960ff850a9b8994f5e92e8f107af39fa446fb5293"
     },
     {
       "Path": "config/elysium_api-common.toml",
-      "Hash": "16f20138c12aa11227fccc5bd370bd25eaee5e18e611f8a49fc06ed9b59dc6bf"
+      "Hash": "35ffac9cb8bde80d72fb78a6400a3d956d8368938e15010335807d9878243e6c"
     },
     {
       "Path": "config/emberstextapi-client.toml",
-      "Hash": "07e4e5ade69d6a127dc3b48258a2c9bb90a2b5de39313b6984192a2598920d58"
+      "Hash": "4994f49166ea26527277ad343ded9fc9959c4e8085b75b400ba0ec24ba9cc1ee"
     },
     {
       "Path": "config/emberstextapi-common.toml",
-      "Hash": "9926f7a654fad8ac82ecf3194ce9605294a5c98d2848a024d49df5508a7b070f"
+      "Hash": "0fdfec047d11588d202ff11ce91eec01cb8ebb569e9cbd853d1d937c90ec421f"
     },
     {
       "Path": "config/emeraldpouch-client.toml",
-      "Hash": "12c65e62a8ab0e25f4ac5aa452813efbbdb20ef09b346dc2f3e17817e841ae15"
+      "Hash": "a8844d1d3a5b9a7072c24b605bce0cdb8b632331176e64f48d8b4f5bfc8c7381"
     },
     {
       "Path": "config/emi.css",
@@ -3451,7 +3451,7 @@
     },
     {
       "Path": "config/emixx/emixx-client.toml",
-      "Hash": "10a40e7d6fc1772bfdbd1dc44fba7c8a7aed4d8c1472e53b38dbe598dcae4b0c"
+      "Hash": "1ca83afce17b2546161a3096807fd079b8dafe7fe9f8d909737ce80b1cda1f67"
     },
     {
       "Path": "config/enchdesc.json",
@@ -3459,7 +3459,7 @@
     },
     {
       "Path": "config/ender_trigon_unofficial-common.toml",
-      "Hash": "92e41361d061a2888a0612a6f4f583ddd1a7ebe2d1df855806849c05faf03260"
+      "Hash": "0e99802a0a6123f299bd05045ff101bdeed3ca3decd1bd8ac6326e5047829168"
     },
     {
       "Path": "config/enderscape.json5",
@@ -3479,7 +3479,7 @@
     },
     {
       "Path": "config/equipmentcompare.toml",
-      "Hash": "3cd6496878bf79cc2ab094f0c2d4736c7a11be1dc2812b62b0236bb35785a286"
+      "Hash": "21646bc3e152458dc4edba1bc180b9f48abb2bf53c1004f279dec01ba602a038"
     },
     {
       "Path": "config/eternal_starlight.json",
@@ -3639,15 +3639,15 @@
     },
     {
       "Path": "config/explorerscompass-client.toml",
-      "Hash": "7d005b7e0bbbff0724725b6d801d6d6155b6c76720d14a08ababf6244b9c5661"
+      "Hash": "482c9f241c7ba0f1492ee80ad7161a39eb93367a39fe6ff4d7d4be328ddce1ad"
     },
     {
       "Path": "config/explorerscompass-common.toml",
-      "Hash": "4067e50c6833df6619e511f2bc09630f16fa22e61cf250a8abbf3354afbe14f0"
+      "Hash": "a0867628abd6f9e052a618e61cab635a2fc04f8b2cbf93419857ba8ecec21e25"
     },
     {
       "Path": "config/fabric/indigo-renderer.properties",
-      "Hash": "219ab64479af0c7e88ef9154adc24856731c0b5caccc181f7a789ffd24f84136"
+      "Hash": "cce5d108fb7825fd4a5aeff693631cde728ecedb6becd571c4986f44c0d48d26"
     },
     {
       "Path": "config/fancymenu/assets/keo_rpg.png",
@@ -3727,23 +3727,23 @@
     },
     {
       "Path": "config/fangs_n_claws-common.toml",
-      "Hash": "8fd762a683ceb69f36f0f0013b9b1432977d5f5cfae6308c55d6a119a21f62e8"
+      "Hash": "09b397b255dfabf9e0bde65b4e89b823833de8c0a4091225e5d40ca27c56742b"
     },
     {
       "Path": "config/fangs_n_claws-server.toml",
-      "Hash": "69a36bd1b5b9c6ff9d7d693a2f08d32d8a8e278b133b0171fcbf5a1c5766d730"
+      "Hash": "84cb3ba1bfa3a9911fe623d4c398e96048dcd07d7910915a7a85600fe7ffb530"
     },
     {
       "Path": "config/farsight.json",
-      "Hash": "82b546c65a2521849254b920c7e18c444a1f39f559f831fbf32d5147d6347165"
+      "Hash": "0ba1330707c5a5e4b576b3f65911273d84bfc4521c31ab2ab5fa97ddb712a0cb"
     },
     {
       "Path": "config/fastpaintings-common.toml",
-      "Hash": "d0b4c0e85822735c3cc9800108204225e1f8e4fd17a17fff9ecfd4ab045e5f03"
+      "Hash": "eae90793a2b7d3b5e632ffd83c0bd82864d0aa048745fcd02ac2169c0d7469d5"
     },
     {
       "Path": "config/ferritecore-mixin.toml",
-      "Hash": "1356f9d52b2dcb2afa5a593e53c286d9c1c3778a6f8b1cf761953b185b7dce78"
+      "Hash": "b6c85cb392f799ed932ffe8d6051f48a283a0df3f8674acf4f8d89341836e686"
     },
     {
       "Path": "config/fieldguide-client.json",
@@ -3755,11 +3755,11 @@
     },
     {
       "Path": "config/find_me-common.toml",
-      "Hash": "0a600d3218487df1c270f69e1a241e8066fac149ace618e8a2981ebc2f4ef8e3"
+      "Hash": "a0f7bc00735b8cfa8f99773eaa6354f1133ce51d20065b987fd87704c7ebc8aa"
     },
     {
       "Path": "config/fixmyspawnr-server.toml",
-      "Hash": "9779220012b58167a040fd8c6602ec1cb120e9022cc587a66294a16e4701af5c"
+      "Hash": "94c6b89f42b89522858d361000a877208e9a218dc5d4a0cc6552dfbf70e735d7"
     },
     {
       "Path": "config/flerovium.json",
@@ -3767,11 +3767,11 @@
     },
     {
       "Path": "config/flywheel-client.toml",
-      "Hash": "398730a2a216dfdae9aa7e2a8f54040f85e2a7f8faaedf9db09c28914555df5a"
+      "Hash": "2d638762ed93ec7e266ae0ebd5331e53728a1277d212b5a13f31db78c200edff"
     },
     {
       "Path": "config/fml.toml",
-      "Hash": "1ac1fd9694773ef1ec8af42c9cc8a908a1b618fa6fb6031c27305383e97f70c7"
+      "Hash": "447b3d485260d07ecfab53d4852aed108b87bd21b3abb02ac8390b9889b76f44"
     },
     {
       "Path": "config/focus-config.json5",
@@ -3803,7 +3803,7 @@
     },
     {
       "Path": "config/galosphere-common.toml",
-      "Hash": "4706a7735c4cba493cea8dcfd868ced71c6cc3126c349bf35553ad0a7d5d00f7"
+      "Hash": "2b72da735472d2ad98ee9c4e7a97ce91eeae95a6fc1c7d688fb3a8e7841bd020"
     },
     {
       "Path": "config/gbf.json",
@@ -3811,7 +3811,7 @@
     },
     {
       "Path": "config/getittogetherdrops-server.toml",
-      "Hash": "2fa0c89699e3fbed21958660229b0674abdfa5de399754223cd885f721c0b339"
+      "Hash": "3cb23de518cf455b3c811d651405513ce61cac1529caf104fb4c0a7e1d908f2e"
     },
     {
       "Path": "config/gnetum.json",
@@ -3823,31 +3823,31 @@
     },
     {
       "Path": "config/guardvillagers-client.toml",
-      "Hash": "8a29fd7537bbc20e2b9fae3da4e23b23a50f33aabfbefe934ffa50d83643c62c"
+      "Hash": "82951ac04a431320011e494cdfce9c6cd08f3bb13c26735b60ddfc092a93c43d"
     },
     {
       "Path": "config/guardvillagers-common.toml",
-      "Hash": "53e4eb8d95f37fd088f30ba9c506349e6657b46ba6f81a48d478b3232c988d00"
+      "Hash": "663d69b9ec26e699bcceea296b0bd6c4383f9bed0b1fb1bcf603428a2347b5a8"
     },
     {
       "Path": "config/guardvillagers-startup.toml",
-      "Hash": "02941cb74d4016b874dc5a907fd26a8c3053387ad070c2eadeaa33e45926a1bb"
+      "Hash": "2f5602a6b087b162e6b0977884c7663f072a9621f6131f1d369510bddb6fa8c7"
     },
     {
       "Path": "config/hominid-common.toml",
-      "Hash": "4502bef407cdfb04f45ac1da3516bdc52014420e80fbc44b195ff061332cd953"
+      "Hash": "d640c77b9cbb56c6ca4bd3bf4194ad5fa6dd3572cd22934e29c547d9d8942632"
     },
     {
       "Path": "config/horseman-client.toml",
-      "Hash": "7f0ed7c16f3403958ceb089b233a8add81581c65fe033b26d8d012bb176d374e"
+      "Hash": "cb9b8a17ab36bd9aa759c25edf0d20e9869bfc5679c0e9c2c36e4eee6f4b95fa"
     },
     {
       "Path": "config/horseman-common.toml",
-      "Hash": "416edc95699d475b533e25ccd80d0a3e7587a0e30c7b8ca2b6ba1111afe83b8d"
+      "Hash": "b23c64c9986bf0bb6d805756933095c46edd42d16d4b4de0ff89e2c2b38711c2"
     },
     {
       "Path": "config/horseman-server.toml",
-      "Hash": "c510fbd596116bab2ccde0e10b1b7924d58c4b93ff04595377661773aec36ea2"
+      "Hash": "cc03ad56105363f737a55e820d6a7db9720d54f5e0c89cf1200791f3f21a0a90"
     },
     {
       "Path": "config/hyrule_terrors.json5",
@@ -3863,7 +3863,7 @@
     },
     {
       "Path": "config/immersivelanterns-client.toml",
-      "Hash": "1a2a564890db1595ce7dc41040581bfe3a5a2e573c3411d5cf52f936097f4faf"
+      "Hash": "2ab383821f5a58649a0fceefcc5127dbd19b8917077bf833c0e4cb1f9edd49f7"
     },
     {
       "Path": "config/immersiveoverlays.json",
@@ -3875,15 +3875,15 @@
     },
     {
       "Path": "config/iris.properties",
-      "Hash": "faa0b6578a992e00ad228ef02fb729ad7231b091e796474480389f14eeca576e"
+      "Hash": "ee2b0b4157f826b342c17f381390e8be650dfd450a7e6b201421be99429347b1"
     },
     {
       "Path": "config/irons_spellbooks-client.toml",
-      "Hash": "6beb668c942a607fd602e65ebec4281939eb0122c4fff02f01336bb47d257963"
+      "Hash": "0eb35dca70dcf2a8b9184fe378be5b129ff3ee1fd755edb48e133aa9cfabd794"
     },
     {
       "Path": "config/irons_spellbooks-server.toml",
-      "Hash": "60433b671b895f0de388c1baa7aeb7c1dcd2dbd93622e0f3d7128b77daf8be11"
+      "Hash": "d03bccc6ba88c41354e7050111dd029f315ce42873b48c5a811218b06e4c5717"
     },
     {
       "Path": "config/irons_spellbooks_spell_config/global_config.json",
@@ -3895,27 +3895,27 @@
     },
     {
       "Path": "config/item_descriptions.toml",
-      "Hash": "e4793f56c4a47bf5f3d7db4f13bb55fe0a61a129d0c235dc26e45f69c8a97ead"
+      "Hash": "80ed2db7a79afcb7f44f350ae78f122c0a700aeb957ccd484ff555179316444c"
     },
     {
       "Path": "config/iteminteractions-client.toml",
-      "Hash": "4f0a6f90652668b77a29f2629150f67d155ad3a65d7e344046b3494f6cd191a2"
+      "Hash": "9b103676394b63103bcbfc391dca66e65693ac788f7cfbc63a1940d8c61d96db"
     },
     {
       "Path": "config/iteminteractions-server.toml",
-      "Hash": "36b5a856aa405c89ef00a366ed8d8c5acae1e38fe58ee4788b5e007a32201436"
+      "Hash": "bc5fad4a890fa9300b4ea355881c455f693e11ab14115653be94eef9bcb8a816"
     },
     {
       "Path": "config/ixeris.toml",
-      "Hash": "6670075f5a197ad07155acc99568ce9f9d4a45c1c451f4d482f06dfafb7ebf74"
+      "Hash": "fb01aa8a788bec8b6d54aeb36290dbdf4f627cc64dbb8db76e3021a5d803791b"
     },
     {
       "Path": "config/jaams/weaponry/jaams_weaponry_client.toml",
-      "Hash": "c8e01979272eeb8d090d56339a3a0aa52c24a8554850380f84d61cd41f5af2ec"
+      "Hash": "f14f2e7b4cb652513de36be831617247e1e7756a178972273e0850ca664bacdd"
     },
     {
       "Path": "config/jaams/weaponry/jaams_weaponry_common.toml",
-      "Hash": "713beefb91528c8cf20e6524a7cc9c1689ec13e56bc75b6309f0392992a9f006"
+      "Hash": "d27070f1b91e8e5b4659ada1618ea2f38c1f18ba656e4bbbc695e440b7e85af6"
     },
     {
       "Path": "config/jade/hide-blocks.json",
@@ -3939,11 +3939,11 @@
     },
     {
       "Path": "config/jasione.toml",
-      "Hash": "0222b38fa9b12b0ba887133208bd5386079f4ae01413bec813c9b43a6e415265"
+      "Hash": "7104cf88817bbc77abde7fc5763a6c9e9d3c828c13c77951ba523a92b7529394"
     },
     {
       "Path": "config/jei-server.toml",
-      "Hash": "702acd04d99445bce659d04fcc488e1a98c8a803983c31ae262b0f3a47fdc8d3"
+      "Hash": "57d741871716e29b3a318b625e740d590598f001c362b6a4a95e3ee628c5cbc3"
     },
     {
       "Path": "config/jei/blacklist.json",
@@ -3951,31 +3951,31 @@
     },
     {
       "Path": "config/jei/client/default/jei-client.ini",
-      "Hash": "4ad538c79f2c7e65107f564d43e79fe1ed11e14562bd69fa6f55ac876a634eb8"
+      "Hash": "7fa42caa8ec9bb7d2bf684049481bde2e035cfa32b62c4474854e1648ea3a45d"
     },
     {
       "Path": "config/jei/client/default/jei-colors.ini",
-      "Hash": "c6d4ae48280627d04a7ae2b6d3db65e71d73670a72732f5aed9f4cfaac3837c7"
+      "Hash": "1372b094bf8f1d444f04cf4da7f9dc05c445d7ab5b3f73ecd7cfbef79ccad1d7"
     },
     {
       "Path": "config/jei/client/default/jei-debug.ini",
-      "Hash": "376cc883cac002d07792f209f7bc1915ea7fa8822effc67734f1589bab9bb806"
+      "Hash": "6fbae6db21c604fa008d2e4a696789c1fd2fccdbc741194c8fdfb3f1cd8bdc05"
     },
     {
       "Path": "config/jei/client/default/jei-mod-id-format.ini",
-      "Hash": "2e5119684366f75bc8a6df871381c6094a812cadd0d5ed0547405b5f1353f9e1"
+      "Hash": "e64349cae34367965848d7fb390dcd6a52d23c012c4711005a70084d958cee67"
     },
     {
       "Path": "config/jei/client/recipe-category-sort-order.ini",
-      "Hash": "5696b553643b55cb7a3d078b5af2f9725555da7d7dc49d5c32998b343d6e4e84"
+      "Hash": "8824ef216b0e0e0000df90fdfd96256ed8abbd733a0916093f288d6f37731609"
     },
     {
       "Path": "config/jeioptimizer-client.toml",
-      "Hash": "cec7223a042307a60383acc626556d5aa4083abf9d0e6ac9a5cfde351feda4c7"
+      "Hash": "1053f16a92095ffc0551ee77fba8bf61f43ff1f86becbde1e2f8745f9ff0cedb"
     },
     {
       "Path": "config/jeremyseqsdamageindicators-client.toml",
-      "Hash": "5a869034d8b2c6fc20a3ba17b420bd7bd103091c737bbff73bbd64311d41ddd9"
+      "Hash": "f601615bfb3edad0fe902a91838e2372ee7983d7f876959fd433029158eb9580"
     },
     {
       "Path": "config/jewelry/items_v8.json",
@@ -3991,11 +3991,11 @@
     },
     {
       "Path": "config/kaleidoscope_cookery-client.toml",
-      "Hash": "5b178027fc7d507ef3634d91b42bfa2b9dc1340c5a4fa2d9cfa2ba374202840f"
+      "Hash": "1bd47fc7b41a718d64e96ad9019f20f2606f56b3bbf3fe52e46db2b4c6cf67d0"
     },
     {
       "Path": "config/kaleidoscope_cookery-common.toml",
-      "Hash": "ec8de5b9f43a3ffce2978f2150cd00b818fdfca8be892d0c591e99e4b4b62fb5"
+      "Hash": "1338a20f63b2035f56d3ee4743c6ca71f1252c696cd1873cd2c405b1c162af04"
     },
     {
       "Path": "config/kerria.json",
@@ -4003,15 +4003,15 @@
     },
     {
       "Path": "config/kingsandmonsters-client.toml",
-      "Hash": "c8b326c700432ae6c67b42d117e44fa41445d9292e4a79685e75e8afa65cc271"
+      "Hash": "6fe7022d3eb6b77360a5431ef99eac34c5985e15021d3dade64bd0a94fbc8315"
     },
     {
       "Path": "config/kingsandmonsters-server.toml",
-      "Hash": "aa409f6aef30d8b8d3e2678c9f240184e3fca037936fd3cbb196735d078432bb"
+      "Hash": "195970fde3e9ecc9e7b9da01931cf1a84755facacb58c5d85625d0ed45523d71"
     },
     {
       "Path": "config/knightlib.toml",
-      "Hash": "98eba404d0b4eb6b4b92a1c66bda64617a050fa8e8952cbae73f4ba35deaec29"
+      "Hash": "f34fcd88ba2c19ed2ae714e3f67e2233288104c47b90853007125db00bd6915c"
     },
     {
       "Path": "config/konkrete/locals/de_de.local",
@@ -4035,27 +4035,27 @@
     },
     {
       "Path": "config/labels-client.toml",
-      "Hash": "8fbb905749c743adaaaaced314682c2b3f67a7cc977ca34eac2f3459402c025e"
+      "Hash": "c50dc7a616e00da93b906ae3fa65c9872c6bc925e8bb1358ab6e6cbd5cbaed25"
     },
     {
       "Path": "config/lambdynlights.toml",
-      "Hash": "be9db0160401b73bfe3ff0459999ca84fb85bb1cb7a143143ddb0ac868ad425c"
+      "Hash": "ff530a89e0bd901ece4d62934f9730d1b495309f63f320df462413e3723d7f73"
     },
     {
       "Path": "config/legendary_monsters-common.toml",
-      "Hash": "ff747cc96bd386b6e23300ccda51cbdd3d3bff2bfb142cafedcaa9d8570740aa"
+      "Hash": "afb1fa21a1ff70c87e5f9a332636ab062363652003a3e054d4480a3d73e02468"
     },
     {
       "Path": "config/legendarytitles-client.toml",
-      "Hash": "74d7e845583100ae27706bdcdfc89c655b9a0ecee95e14f3de25a7d569305cf3"
+      "Hash": "35a5721952d194dfebea8cc0363ca8f7262d4cfa8f88765065bcd80a1e4fac12"
     },
     {
       "Path": "config/legendarytooltips.toml",
-      "Hash": "3ee86b7d3db0c11d9e4288110804777e598f49a8445fa63d7fbec00f74a0f92f"
+      "Hash": "ba2cce41d2777d8462be391f5c99763cca383beff9b91e6d0c844ad56a26feb3"
     },
     {
       "Path": "config/libtooltips-client.toml",
-      "Hash": "b90a09ce702d52ad990f483562fbd915c8662dda5e1352c687e61e0cf237b98b"
+      "Hash": "204e54f8e5d7a2bc103af276e69950a8d3bdc548ba39896dc267d629bed3794e"
     },
     {
       "Path": "config/limitedchunks.json",
@@ -4075,11 +4075,11 @@
     },
     {
       "Path": "config/loaderoptimization-common.toml",
-      "Hash": "67cbea945f8c7ae58d12b00f402363ffbaae2cfd5acf7cb452a6fff925cd83f9"
+      "Hash": "84a9c469cc52c5acdd43e54d8ab4f49f63d634da225276690103bc877fb032b3"
     },
     {
       "Path": "config/lodestone-client.toml",
-      "Hash": "c088a5e2ac97282375f0c346ced0647f0b76d09e62f0e37342b52dcba17f43c3"
+      "Hash": "964c94d1f00b084d2b017641d3182a8af4846d602db0a26911ec0fdae72f8c43"
     },
     {
       "Path": "config/lodged.json5",
@@ -4087,19 +4087,19 @@
     },
     {
       "Path": "config/log_deduplicator.toml",
-      "Hash": "d8e7559838acbfc27f42b721c1440d02f2e353894725d4b58c863246210a0b96"
+      "Hash": "fa03322d77bade2447dcdc843719a88e77fa1b7b365b8cd433e2a25ce5383166"
     },
     {
       "Path": "config/lootr-client.toml",
-      "Hash": "bce9fa3bdca56a3472f8538651ea0de1637340feffbaf6673d49f746c7ee6109"
+      "Hash": "d84013b201cf2ecbfa91655e38441f323063a440fb95b00c06cc3339bb177078"
     },
     {
       "Path": "config/lootr-common.toml",
-      "Hash": "46f41bc157ac77f9a96b4a89a7652668cf910885e4fe868d46b42221377d4d35"
+      "Hash": "54dd510c16b8f992a206803a21a7c903f341b0d399e4a89a7f4b88da54e3d16a"
     },
     {
       "Path": "config/luckysshowcase-common.toml",
-      "Hash": "cd3dc917c5cf211e9ad509231157404da46f8989924e1afb0a6be8892b3efd63"
+      "Hash": "4eb4b2a483ef7fd1d9742c3c7e717b4223aabfe17c8c5e06785f3564ff6db68f"
     },
     {
       "Path": "config/majruszsdifficulty/bleeding.json",
@@ -4143,11 +4143,11 @@
     },
     {
       "Path": "config/metalbundles-server.toml",
-      "Hash": "6594d73fa4a68d71bc9588a77841c697d29b17d59b77a70fcd8b11268b75d84f"
+      "Hash": "2e8df6078aec2dc712a9fe643796dec3601f293c0be803a0c3808b7a6fec8b5b"
     },
     {
       "Path": "config/mezz_config/client/default/settings.ini",
-      "Hash": "1febf6ff1d35f4ffe34d6e5444e3c9496155a6abf3f49eb4ef5650d102645249"
+      "Hash": "1ea4410cacf1baa6ee372daf59d4c5989ad944c0eaf26f043d702f13bad204b1"
     },
     {
       "Path": "config/minecraft-cursor.json",
@@ -4159,7 +4159,7 @@
     },
     {
       "Path": "config/modernfix-common.toml",
-      "Hash": "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
+      "Hash": "ee24e2b1bc100942a1c605f996255742cd6a5bb3662877aa906bc301100ccf27"
     },
     {
       "Path": "config/modernfix-mixins.properties",
@@ -4167,23 +4167,23 @@
     },
     {
       "Path": "config/modified-client.toml",
-      "Hash": "2dd6bd943549ecb2011ea0d00bae4dc4560cdf320859f426bc0f44db03e71adc"
+      "Hash": "c680a2c2463bd8073bedbf70ffd51eb4913a31c2665ea7e0ac3193dcfef96998"
     },
     {
       "Path": "config/modified-common.toml",
-      "Hash": "af6c37356e2d199dc195216dda948ac9ec18147b5f53c9046fc239d5c1d0c48c"
+      "Hash": "b47378ab1cd66188b82bd563ff725c3c08a3d07cf665bc71df325a736729976e"
     },
     {
       "Path": "config/modonomicon-client.toml",
-      "Hash": "f7301ac5c174fd4958b6a7bbca7d6211da2f4ac83f85ef87e55461a2110f9044"
+      "Hash": "0249260b8d14a9341be9a512be7eddacf6f2b2b8b8461fb80793cee1f09bf8b9"
     },
     {
       "Path": "config/moonlight-client.toml",
-      "Hash": "dce19661acd04241ac6d04fd2baa02c5a59cf1672c52ec07cfeeccd9a4e7ea62"
+      "Hash": "71966bc6f963b429b0c5fd4529bd07951256934313a023f7a3478f85fff79b5d"
     },
     {
       "Path": "config/moonlight-common.toml",
-      "Hash": "a6d5e783dc1469e925d4cf62f17a94ee2dff4ff025d9ed9e61b129581019cdf3"
+      "Hash": "ce17e22174f8d796e792c87dbe7c2cff8360686edfb59080adf905e26df144ea"
     },
     {
       "Path": "config/more_rpg_classes/effects_v4.json",
@@ -4203,23 +4203,23 @@
     },
     {
       "Path": "config/mowziesmobs-client.toml",
-      "Hash": "06947297f3c51ce24601dca44f19e89bc2aac5c0aadc2cb40eb30ade4f2194c5"
+      "Hash": "a22a8cf21927e7031e9860c3df89526aaf3db9183c439be217e0578ee5e98c0d"
     },
     {
       "Path": "config/mowziesmobs-common.toml",
-      "Hash": "0bb285aebae71e1711258b0e80c49e9e23ea68b9c86386d192f2c9274aceff1e"
+      "Hash": "55984be8a03604dd95446a84769854c5a42b064146db05dafa16c2ecba7a0971"
     },
     {
       "Path": "config/mythsandlegends-common.toml",
-      "Hash": "bc94fa5b273d53bc6f6e170f7d7783a3912d0c129d4764007deb1726a0d54413"
+      "Hash": "58ff7fc6b9c0377f6738165e6e56bd7d5870438e694ab8f4ca2a2623cc0f334d"
     },
     {
       "Path": "config/naturescompass-client.toml",
-      "Hash": "a5d664ed8aeecd77bd09611cba93d5f8e3194da8140666d3e97a0c4973dd0981"
+      "Hash": "52155f5707537443156b47499d98b96dcdbf48ad0ed4ce8cfdf53cef7ffb8a9c"
     },
     {
       "Path": "config/naturescompass-common.toml",
-      "Hash": "e769b3fba5d717bc42a38043aee9b08070af87e22700d07a5f6e69c3efca4a31"
+      "Hash": "e5bdd793b356a733dbb217de068c31fc8b06f43e36dd3db405a85178c0ef6a05"
     },
     {
       "Path": "config/necronomicon.json5",
@@ -4227,43 +4227,43 @@
     },
     {
       "Path": "config/neoforge-client.toml",
-      "Hash": "d58d93e2c429410d0abf25507d1679f732e1023b03bb52414348efcf5cf3ddb0"
+      "Hash": "a5f0eb38f8daf8574f7672a8393a0ab5c668d6ec6e7ae43fc8669e928786929d"
     },
     {
       "Path": "config/neoforge-common.toml",
-      "Hash": "fe878a2717a145cd890621eac5b3be1e1fd656f7ff9abc6e8d53f670d37474c4"
+      "Hash": "e6f7578cf8c11ade0a47e36bf3863fc96f84cdf4bb679c0fceabb1e8a2f42399"
     },
     {
       "Path": "config/neoforge-server.toml",
-      "Hash": "b1e3b38d612295f8d9dfa0fbdb538a992b7a1a3b7a766c491b4e9fdf3823396f"
+      "Hash": "0f1415d7fef6d7f6194275501d500b633dd3310aea40d64128edd1b096372f60"
     },
     {
       "Path": "config/netherexp-common.toml",
-      "Hash": "f5d69b088b3a7f2e646960dd8a045cc83ad17723c7f8f26c9409236fe584b2b7"
+      "Hash": "64c4f61801e0cde38c8fde9ffe551e6d0ce9d4e54811f82641b656b2f43b23bc"
     },
     {
       "Path": "config/netherexp-startup.toml",
-      "Hash": "6b8e2669ef04a5b275efe708f070612adda8d9fccd2b483ccbbd3ed4573d878c"
+      "Hash": "9ddf6a43948d34860833aef68258bfebf954f47dd95756e6a26ec53c5f3dbbb0"
     },
     {
       "Path": "config/netherman-common.toml",
-      "Hash": "230242c301b72f48072d8b4ec9737b25dda84a1a53ec1cec64c5ef55958389e4"
+      "Hash": "4b7bc63f3a9cc393ea699acfab0967d4908fa75d5fa857d4b798aa2db88125e7"
     },
     {
       "Path": "config/numismaticoverhaul-client.toml",
-      "Hash": "61f338e721cbaf46bad68a1ed1deffbb0cdba18d9598be51c12ee11d9616bd48"
+      "Hash": "69b791d5bab4d96d9b10afd3b1f62f2306b79b612a0dae992af1e2988bdf32ed"
     },
     {
       "Path": "config/numismaticoverhaul-startup.toml",
-      "Hash": "3fd163017a992dff81379a764bdee3fb85b052108e2712f93ee109f63098768f"
+      "Hash": "f1c4dff3ba4c295a81f4b27aae08193b495ceeaef9fc4e157a26485802602e53"
     },
     {
       "Path": "config/obscuria/aquamirae-client.toml",
-      "Hash": "e5810dff812f19681fd66c5b0348c4312e9f07e4a18741ec62b94eced2b498ea"
+      "Hash": "052a7c7dcd2003c1eaf95b5750199584897fdd5e7c1f3d544e44e0bfe26778be"
     },
     {
       "Path": "config/obscuria/aquamirae-common.toml",
-      "Hash": "7173a1ed86e8471730efe3e2a2bbdbd0111c8c87f73d81ab8631f43be3a8e4ae"
+      "Hash": "d27849b34a7e0ac1dd6ed69adeade44a686b46df849959c2ec976bb56a4d0c96"
     },
     {
       "Path": "config/obscuria/aquamirae-early.json",
@@ -4275,19 +4275,19 @@
     },
     {
       "Path": "config/obscuria/loot_journal-client.toml",
-      "Hash": "450cb900ba1fa4d9a3cf2321efff8b0188f5e683914a3f1ea83562803ed0e7cf"
+      "Hash": "ff1378eac277cdb03e1f52f902fa44e8ebb286604a9a6303ecdeb95594bb3ab8"
     },
     {
       "Path": "config/ohmenu-client.toml",
-      "Hash": "f02d07dcbfc4b567d6aa06dbc24d7a66872a70b7c89ab410f8777e4266ec20c8"
+      "Hash": "3cea30645427c9022d5cb0aedef1faf25940ec1d2bcfd6fa4e945878c2461ad6"
     },
     {
       "Path": "config/okhealthdamage-client.toml",
-      "Hash": "3f6ba99c3a1895f6835e65a651fbf13562417a7be0231a745720be09e1744a99"
+      "Hash": "2191b0580c70db6624afdd8b353d50331e52893626b9ec3e0d334653dd3994d7"
     },
     {
       "Path": "config/olympus.toml",
-      "Hash": "c6d0139832d68c71c913bf2f5766e2720ca3a8fa8642cdd4878e2321fcf0092a"
+      "Hash": "3deb19b276612f3b02a4a89f87910672d0e87c2afb948c7f1761ec3bc366850c"
     },
     {
       "Path": "config/openloader/options.json",
@@ -4299,11 +4299,11 @@
     },
     {
       "Path": "config/overflowingbars-client.toml",
-      "Hash": "9037e801784c5d10420d23445e1086e8ac39480bce15eef4b73d9b519a373561"
+      "Hash": "37bbb8df722f5abbd7305048007cc0ca5e0a9b84d3229d983a6753f7dbcfae80"
     },
     {
       "Path": "config/packetfixer.properties",
-      "Hash": "3993e7b529b1a07fd64ddfb6d2d5640a1f551909b35383650aa3f14a9c2946d3"
+      "Hash": "7edd6656cb9f371f1ca62443f9ae7fa216e9ac7bfbacfbfa04b19f8cc97512a4"
     },
     {
       "Path": "config/paladins/effects.json",
@@ -4331,15 +4331,15 @@
     },
     {
       "Path": "config/paraglider-common.toml",
-      "Hash": "e93dd2a534776ec2c7dbcadc1d865441bb72d68cc2d90cc672263f1b2d12a26b"
+      "Hash": "b2088aad035fd55ebe4f539685043cf11f5a07f251096cffcf9b6a3a86e57807"
     },
     {
       "Path": "config/paraglider-player-states.toml",
-      "Hash": "5b5d04980f4459e32ff654d8da2a692533ec5dea34b5d412bd7bc82dac49dfb0"
+      "Hash": "7d315bf5ee0f736da0f4906605e5697c89b8d2bd3158aff8476ad84a99d82221"
     },
     {
       "Path": "config/paraglider-server.toml",
-      "Hash": "6e846f966bb462a682cfbd90804fa5067813db760a000d48214ae56e9a2557e4"
+      "Hash": "d940f6de37c3f5828e7994bf18751d5d7e51f7b4f6fff14bdb71946385cb4b1e"
     },
     {
       "Path": "config/particle_core_config.toml",
@@ -4351,7 +4351,7 @@
     },
     {
       "Path": "config/particlestorm-common.toml",
-      "Hash": "46ddf5b70d0346bcdbd63bd299d12d5b4731af47f71174187b7d612dc070762f"
+      "Hash": "4bf34341d8e094801d7ce34045dbf5b1d92f05a140c88334f00cf2d403c0a175"
     },
     {
       "Path": "config/pastel.json5",
@@ -4359,7 +4359,7 @@
     },
     {
       "Path": "config/patchouli-client.toml",
-      "Hash": "d9a6d7cadb6d473cf087602d9866840d2bb7f2c16915267eb3f6fbf68d5d774d"
+      "Hash": "af6a2ac2c40095993ccdc76bb8c74dd72ed4dd216276e39f5e835a87c1ab6e27"
     },
     {
       "Path": "config/perf_tweaks/perf_tweaks.json",
@@ -4367,11 +4367,11 @@
     },
     {
       "Path": "config/pickloot-client.toml",
-      "Hash": "92e8802ea812094915f5c51404601457e3cf082cfe0bb06912494c7747e0d682"
+      "Hash": "bc8f170b78885a25937a0442531a59813010f39584ed4f681519ffbbd8c1c440"
     },
     {
       "Path": "config/pickloot-crops.json",
-      "Hash": "a9f7db5fa8726c300d6e3447a6e942b751ae7b2c68b8788102a791ab62764c84"
+      "Hash": "f7397d7292c16bef18547df55a4ebf6a99ff905deb6e7bf45af6539d66f7e5bc"
     },
     {
       "Path": "config/pickloot-filters.json",
@@ -4383,23 +4383,23 @@
     },
     {
       "Path": "config/pickloot-state.properties",
-      "Hash": "d0a5a70a1b7c969fe076d0739ba2484c3537ed3363feb59e03c14de39d27e518"
+      "Hash": "fdeeca599218baa1e2a3ad22001852662b8e3afd0128b3b4098e2a82c4d45c18"
     },
     {
       "Path": "config/ponder-client.toml",
-      "Hash": "55affffe67e84dfe11e590769e235aee999b77f9484a3adf7ee8247a9f3d35ba"
+      "Hash": "57fe579bf4cdbcab6c6702dc0dad2727b899f07f28fea686bca1e4b25b20bbfb"
     },
     {
       "Path": "config/powerscale-common.toml",
-      "Hash": "0c506f6b380240978f16267e91c1c8e1c2977938b2a3351935b13d3718094a30"
+      "Hash": "838ed8eced81d9fd6c3859d1849d135f4fe4255576c5c0e53edb0e2e4f0526c2"
     },
     {
       "Path": "config/powerscale-server.toml",
-      "Hash": "899ef25fd92170f6351e7b5d6f3460df0b5c302fcae65737a79b32962b936963"
+      "Hash": "3632132bd64d95b0872c31735621a56bbc1bb6d04fb7f5f11b8e61be49c1012c"
     },
     {
       "Path": "config/primal-common.toml",
-      "Hash": "2d39de2b5c3ca640c3a8b04915486fad50ffb35709d7e9ae8cd66b8b13e3d440"
+      "Hash": "742592f2c5ecb51b670d6d9bc96a26c6b6e46498c6cead40e329682979895a20"
     },
     {
       "Path": "config/puffish_skills/config.json",
@@ -4483,23 +4483,23 @@
     },
     {
       "Path": "config/rpgtimeline-client.toml",
-      "Hash": "b32758e06f6d3fdefeb8cf896741282fd8cf6ab587c531dd55342aa09cb477a8"
+      "Hash": "30dfc71a684218bf9536019e181a19575fdd1ad3e4e10fa2b42b45329cc09596"
     },
     {
       "Path": "config/rpgtimeline-server.toml",
-      "Hash": "45761fa106e5ab1e8e451d10f31e70fd6d3c72a195d0ac38c51876147fa54c77"
+      "Hash": "bcc24878a5586c0333859b0e003b9454ae7071bce4acc0d07f5c5db7b1a94e68"
     },
     {
       "Path": "config/saintsdragons-attributes.toml",
-      "Hash": "9ee29e162bbeae1c91c0e04c4976018fe12c73a844ec0ed83de02b70e1401535"
+      "Hash": "1c9f20132610a23abee5e5e221aed37f791451cf23096428cc2fe281dcc5e692"
     },
     {
       "Path": "config/saintsdragonsspawning.toml",
-      "Hash": "b8f4159e70229e0403990bee1a243139305964b9d5f2478ece2c443e913a612d"
+      "Hash": "3b3d651388d1e2a1df5e985701f8f4168c13055c80783d60817f40d6cf73a871"
     },
     {
       "Path": "config/scalablelux.properties",
-      "Hash": "afb50f9bd7a883c870541c23e30d90b93720114e270abf073ad4105fc608a1d4"
+      "Hash": "de2f87653b700bb7a8562cafc1235cfe4d5ab47a4c3a1820ef1b88448f3e7943"
     },
     {
       "Path": "config/secondwind.json5",
@@ -4507,15 +4507,15 @@
     },
     {
       "Path": "config/selling_bin-client.toml",
-      "Hash": "638b02fb58f2a76cc7f281fd8e40129ff47f758ee9bc3e735b2fcfade03e204a"
+      "Hash": "cde57c7ac89e06d369a4aff23938e96e1f05f3a6eecdcf41230d0f5932b4ba9e"
     },
     {
       "Path": "config/selling_bin-server.toml",
-      "Hash": "4066c5339cd925118e1a307727a9e37386a325fd257bdbd8f9298655571c95cd"
+      "Hash": "cb30f5301d2c4306fe9516f95f88fa0922f2b6ade07a8982db5644e7d0da2360"
     },
     {
       "Path": "config/sharedadvancements-server.toml",
-      "Hash": "1c0c53142f2cbe566ce62f777a56ac8aa982e64c561707c0a502096b6a49c928"
+      "Hash": "a1728eaea85fdd434cc1ef922c55a346abc123e3fe6efc9278c4c2559766f530"
     },
     {
       "Path": "config/shieldexp-common.json",
@@ -4523,7 +4523,7 @@
     },
     {
       "Path": "config/shouldersurfing-client.toml",
-      "Hash": "b73576e06362009b8bbdf600b6fd7ceb2321a90f390ee40176cf3863020fae18"
+      "Hash": "3a5cb8b3a4e34a79a8ea70a598f985d0bbd8cba1afa0016643f1b7974eed716d"
     },
     {
       "Path": "config/simplemenu.json5",
@@ -4559,7 +4559,7 @@
     },
     {
       "Path": "config/sizeable_foliage.properties",
-      "Hash": "bba3eb42e98d6563c56f2f3a9cfc7f23cfd8b64190e6db96087d3c327b81b31f"
+      "Hash": "94b03682ccd5a33f20d6be97543a161ae44414af8d79839a9b2181eb524887fb"
     },
     {
       "Path": "config/skill_tree_rpgs/effects.json",
@@ -4567,11 +4567,11 @@
     },
     {
       "Path": "config/sleep_tight-client.toml",
-      "Hash": "bdf94c1ceea389db4c327c20b4e6389fa7ed0e4738edd3fa7a0ee6c2dce3a477"
+      "Hash": "08d50c31c34aad608547e5f1be0f5dae10d827f9ff927796be6404cdb0b96b44"
     },
     {
       "Path": "config/sleep_tight-common.toml",
-      "Hash": "f79218bb41cc5846faab670116e7da4bd065cca6d9ec8626b69d3d40338f885f"
+      "Hash": "d2980399c17c5bb59db2c3a24fa3b671c7fce4d426bc6760bd3101d005ca05d1"
     },
     {
       "Path": "config/smart_particles/config.json",
@@ -4583,7 +4583,7 @@
     },
     {
       "Path": "config/sodium-extra-options.json",
-      "Hash": "3ad7ccfa7bac66bc8814c414836b39b8f6eb2c29d34035d6a271d47366d4a553"
+      "Hash": "31dc163c4a85c3c6ba1687105c5e88fe06ca6f5da69bcc529c28f58557601ccf"
     },
     {
       "Path": "config/sodium-extra.properties",
@@ -4607,59 +4607,59 @@
     },
     {
       "Path": "config/sodiumdynamiclights-client.toml",
-      "Hash": "dd5477a40c73cc0afef9ce712eeeda64c412aac364ae458578c8648da9c62004"
+      "Hash": "1f42879d6045a613cc97404739bc22f479b8b08c7ac6c7af03b79bec7d22ea67"
     },
     {
       "Path": "config/sophisticatedbackpacks-common.toml",
-      "Hash": "390cb983090cdc5ba9013c0551fcde8ecf579040f970e33de5ecfc500841cb7f"
+      "Hash": "ce60ba4ebdbb1ba959f3ee6be206f84f2221b8dc436140c92cda412ef33f10e6"
     },
     {
       "Path": "config/sophisticatedbackpacks-server.toml",
-      "Hash": "5942628585df1637bd9b0c69c8dc3b3860781257cf15cb45b2f0f66b40c512be"
+      "Hash": "fecafd313b8094e1eaa2594e8266011d609fc1d5779e60661f0ba074b4a78b55"
     },
     {
       "Path": "config/sophisticatedcore-client.toml",
-      "Hash": "12f65a872b73c931b0a192d7e95c7d89f7ef7f1fd33f3ee7ff6bbda12fb8845f"
+      "Hash": "467c9ffc84322873121a2e109258245030ec4d0608b7181a739681ce685a63c9"
     },
     {
       "Path": "config/sophisticatedcore-common.toml",
-      "Hash": "c0923cedbee0082638cb940f7adb0892ab051f47253058f45d61d2e635b23950"
+      "Hash": "e7704f8b820c260d587ce5b43ba2fae1c3128d6af6ab7ab742dab15e71d6e2bf"
     },
     {
       "Path": "config/sophisticateditemactions-client.toml",
-      "Hash": "ffc8cccffbb3d5bfa3d2acdaf8883b658b2ad9ff3e043464e35c583fbbefe48b"
+      "Hash": "9f289dae10f392e539f95a45a59805e434d9b51b2dc009522575b358bd7508d1"
     },
     {
       "Path": "config/sophisticateditemactions-server.toml",
-      "Hash": "c07479f1052c3dc8fbd10a644dfcfd4283e5e49f2c134b7c5032f6e8557a8fea"
+      "Hash": "311ce99530d8091154cb3fa494406a308f1d77cd69caa0aa915bba5f4488200c"
     },
     {
       "Path": "config/sophisticatedstorage-client.toml",
-      "Hash": "45923fce3aebf26b0932687f1f06048fca5f716a865e98edf6066f5f2e99ec30"
+      "Hash": "dc326609de87d4077076e3769f248ac290ad0a4b289666ce37ba1aeea59bfa08"
     },
     {
       "Path": "config/sophisticatedstorage-common.toml",
-      "Hash": "0c721ecf8a9a6fba8402b7ce73bf8580acdd078e9ac9c3b37c42245ca6d8c4b0"
+      "Hash": "598a20e3ee0ab0a5914e6cfe3f963bf5a58a29218b30ae3af4f91449b8e93181"
     },
     {
       "Path": "config/sophisticatedstorage-server.toml",
-      "Hash": "2f181937fbf0ca95b6a838a5f5b41ea18bb8fa660cd7528d28047afbf8137fd9"
+      "Hash": "0a735556808b3eb534c960c62f527703efaea8532eaef9d30fe899c15e6ba75d"
     },
     {
       "Path": "config/sound_physics_remastered/occlusion.properties",
-      "Hash": "ebbac45fbb3ca01487b85ffee9601b213b71896e6606fb297bcb0f3ac9c30ffb"
+      "Hash": "cb08fad009eefaaf888bb4324c351ac426a49fb0db7cb75c4fddbcdcf8d8f414"
     },
     {
       "Path": "config/sound_physics_remastered/reflectivity.properties",
-      "Hash": "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
+      "Hash": "bc029afc200ba2fba522a27245d65c8e5db0f20cd0eddd5873a316054d962923"
     },
     {
       "Path": "config/sound_physics_remastered/sound_rates.properties",
-      "Hash": "fef8dcee558919f83d58422536e205e0fa42400a8064ec6c850cfeec6dc5373a"
+      "Hash": "5d2b043930f097154bcab0a4ab99fa48837dd4f6d5e5d379ea668643fbf32c87"
     },
     {
       "Path": "config/sound_physics_remastered/soundphysics.properties",
-      "Hash": "d29dede3f214ee4b1aa03314f92c3f973c21ee6e26d173eba3d01a2083237b6d"
+      "Hash": "9573c64dd047712ef1c7ec7f8e2a2b442906f7272eb0c0c73986fc876a3e6235"
     },
     {
       "Path": "config/sounds/chat.json",
@@ -4691,11 +4691,11 @@
     },
     {
       "Path": "config/spark/tmp-client/about.txt",
-      "Hash": "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
+      "Hash": "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
     },
     {
       "Path": "config/spark/tmp/about.txt",
-      "Hash": "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
+      "Hash": "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
     },
     {
       "Path": "config/sparsestructures.json5",
@@ -4731,11 +4731,11 @@
     },
     {
       "Path": "config/starcatcher-client.toml",
-      "Hash": "d841cc1f0bc2c8e1be8dd227af5c1c74fb24ef089d175971972497b027bd1a6b"
+      "Hash": "5e401a744b2db85216a858bc48e5ef52ce9ca6f16759d7d6417b1fafcd8cea6b"
     },
     {
       "Path": "config/starcatcher-server.toml",
-      "Hash": "7ab7638e993aa7d094bc0ec393bb2ea5dca6df24a1d599180a74aa61c0721db9"
+      "Hash": "28210b4451ab48b5ab5533a22d1c30cd17639e53783f19cfb6127b9420a91f84"
     },
     {
       "Path": "config/structure_layout_optimizer.jsonc",
@@ -4775,27 +4775,27 @@
     },
     {
       "Path": "config/sweety-archeo-config.toml",
-      "Hash": "74fa06993fc44c677b13dd1b7a53f6f84d6b9a2ef4c0d5bc021120153c0a93e7"
+      "Hash": "06646ff92591947b2953b3a36ab87ae9264e0ce581580c5edc34f9687bf072b0"
     },
     {
       "Path": "config/terra_curio-client.toml",
-      "Hash": "92f5f0eb23d4a7cb6b4c0277e8264426ca50b8cad2c32f7c4ac9509f764817b8"
+      "Hash": "61f3c9993938a6519af54ebeeb60724db9e29109af85561eb20842884e891042"
     },
     {
       "Path": "config/terra_curio-common.toml",
-      "Hash": "ec950440f0d0eb81257b5715ca161673952f7aede707f7bda0d2a3c62b64ed1b"
+      "Hash": "287ed4d41f714e96bf12d80702dc37e8ccea13d19cb34ed23209a2df38e68893"
     },
     {
       "Path": "config/terra_curio-startup.toml",
-      "Hash": "4e43ed1e1d8554704d41e1cd36a07f7c28c0cb83bd8047bba105376b87384ec7"
+      "Hash": "93a0dc0a43b7c35941020e352abf6cbdef921c507c0bf18dce927e0bda078a38"
     },
     {
       "Path": "config/terra_entity-client.toml",
-      "Hash": "29c1b70bddac73401f165068ee2c7be36c509817ee24614200c2fddf1f83bbe6"
+      "Hash": "bdcc2e14775ca5bb52ae38bf0b773fd135f90028c40a82d95b665ebb712e5e29"
     },
     {
       "Path": "config/terra_entity-server.toml",
-      "Hash": "f9fcec57e992adaf6425cd59686af5e206413030db7e74fd4d3261be053097af"
+      "Hash": "b7118c507e7e85daa64390e060007f94a7f32fac2f2d47551a45ea7a0fc663ee"
     },
     {
       "Path": "config/terra_entity/attribute_config.json",
@@ -4803,27 +4803,27 @@
     },
     {
       "Path": "config/terrablender.toml",
-      "Hash": "cff6a9a0d415b19b9852844c0ad5bb2b1cfdb9fce12e729e7228a6521fc95927"
+      "Hash": "499d188162ddcf7fcf450cdcdc96bd41ac582501ecad5ed4a74dd9ed6b01990a"
     },
     {
       "Path": "config/the_beyond-client.toml",
-      "Hash": "09cd138f32e5cdfb7d00d748417a36fa4d89b1c19a352be70e9fe47b80c6332e"
+      "Hash": "e9fbefa294fcca1ddd0815e327c4d0fba28d1320551165ca1051c55b963d144b"
     },
     {
       "Path": "config/the_beyond-common.toml",
-      "Hash": "7da9d9bbb0b8a87c50f59971f506e09e0bcc82dacacbbbd90eccb0d2a6d57672"
+      "Hash": "b7787792158d7ed10e2444dbfe4010d493c1361bc85f120859da542f30624f2f"
     },
     {
       "Path": "config/the_trackers-client.toml",
-      "Hash": "1031729edb44b24ba106bdd6376a1b5ddbdf42ca0a7afd6533fbdfbc52bee6e6"
+      "Hash": "6e7dbe211d36f28739b6e1cc22b012e9d6198dc4db4965e56058d6707723c801"
     },
     {
       "Path": "config/thr_dim_particle-client.toml",
-      "Hash": "c6896a39d5438bd27d8379224e6b1131478a3fba411ea03d0aa92ce55605a05d"
+      "Hash": "64a3a4dbf2c0ec80022a16943b3a5fed61387fe64573a2ae2a82247b5750e097"
     },
     {
       "Path": "config/tinymultiblocklib-client.toml",
-      "Hash": "8c0be51e3e3960b9fa912dd259ba408a39cdb09c3623b1a1fa4e8461b36885a0"
+      "Hash": "0f7f3d986bc911feb53f4eb86a1203a862be9b2c04192d308fd5b8831e252442"
     },
     {
       "Path": "config/too_many_bows.json",
@@ -4967,7 +4967,7 @@
     },
     {
       "Path": "config/tooltipoverhaul/tooltipoverhaul.toml",
-      "Hash": "0f9efbaff4b175c9896345d03fbe6aa344b95c97a10fba1d8774150b1beb27e6"
+      "Hash": "17406decb97d9f1591ca6100a68b000949746d770162e9b429f3336b83c31104"
     },
     {
       "Path": "config/transition.json",
@@ -4975,35 +4975,35 @@
     },
     {
       "Path": "config/trashslot-common.toml",
-      "Hash": "6cd3a10e6f7eaacf14aa46fa68dc141efbad30b32f3eabab8a82781fe96fea28"
+      "Hash": "e206fb54c03e7d6c3c4661cf2e01b7c704b3265f9200cb382e5ed6aba2c18fb3"
     },
     {
       "Path": "config/travelerscompass-common.toml",
-      "Hash": "3b99f1ce07bff1bab2c448c46e95b03285f6862e5eda8bd074648a5e3cd02504"
+      "Hash": "1bd0f4ea026db18540857518f47f685c7e60ec3c6b67c254602359e6629253bb"
     },
     {
       "Path": "config/travelerscompass-cost.toml",
-      "Hash": "720621bc523d2b97f7e675eeb42ffb7c0155eb75c785fcf0a2747f725cd56717"
+      "Hash": "52bcac3585d82f547fccd802d3ab06981c85320b1ea7733a870188a33be540f3"
     },
     {
       "Path": "config/travelerstitles-neoforge-1_21.toml",
-      "Hash": "57569110a12ea27fdb58856aff27d6d5b5a031d75fbdb5e70de0d9e0e9e3b0d6"
+      "Hash": "d6974a5b29dcd166bbeca5c6c3e885f3314c30d12eccb4f8a1841d92a5d1b630"
     },
     {
       "Path": "config/travelertoolbelt-client.toml",
-      "Hash": "47495a0d4cc8d446594df4722b769e76e6e3f05cd5d5ced5a0d8c44afa252639"
+      "Hash": "b94307d735abd41423b10fe8d951766b3f589723fb4147184901b01fc6fdf788"
     },
     {
       "Path": "config/travelertoolbelt-server.toml",
-      "Hash": "877fa4618eefeffd5884dd92ace8f8af1167ecb539bf31ed650ec4b58ca1eace"
+      "Hash": "acb6013362169982ba28c56972c322c585d70f47ff4f3b4ae5b0d6d6e7b508a5"
     },
     {
       "Path": "config/treechop-client.toml",
-      "Hash": "ffc1a7e9ff53a47a30ab571c536c78c77ad3899ebb81fe3bb736e1198c2027b8"
+      "Hash": "ff88a49fd10bc0f54a7068ada8ffb5e6158c85893ddc53d563610b1daa928862"
     },
     {
       "Path": "config/treechop-common.toml",
-      "Hash": "449c3f41e2e6b186c7053d7e6a7aae19882009ce5a10c84fcaefe8ec85491b58"
+      "Hash": "6367999149ba7ad0c8804ac9b22cf8e990ad8ceb918891b6de50749be532ce1c"
     },
     {
       "Path": "config/trender.json",
@@ -5011,19 +5011,19 @@
     },
     {
       "Path": "config/undergarden-client.toml",
-      "Hash": "ab5b1367d21e5da8d6fcd452fdd478c165c67bca3c89e1b1695f807a5a1530b8"
+      "Hash": "7ea8c2400eb5a2f886b74db8be3f7580a759a5ba399f0f0e91e6942783e6434c"
     },
     {
       "Path": "config/undergarden-common.toml",
-      "Hash": "cdb708c114ced82472ca08de297237dd3fe7022802ebc48abc577c56fec6bf78"
+      "Hash": "501fa0b51fcff8b66c53e71b014d2805d36adb2e086f594e00a67a5d15d40141"
     },
     {
       "Path": "config/unusualend-common.toml",
-      "Hash": "c76773dc830e590e6e44d63b5b491ad58036ccca9875d2cf895445d5fdac7b93"
+      "Hash": "0b661e04abc6ac5d3b91f0f2a6ec63c3a0619ab1284060182843365402406670"
     },
     {
       "Path": "config/villagerretaliation-client.properties",
-      "Hash": "8a0d958b3dbc5c4edd1501089d319a86e48cb463ceddc3f2e917cc7b598cf29b"
+      "Hash": "3f1845118047fad465778a8f5b155d0d9f614fb7e3ca29ccc9836b9b2cf6494c"
     },
     {
       "Path": "config/villagerretaliation.json5",
@@ -5039,35 +5039,35 @@
     },
     {
       "Path": "config/waystones-common.toml",
-      "Hash": "f60fea37f3d8404508b302a179219d20aa84f475dab350ef8fb909c529bb1a92"
+      "Hash": "503ac4a4f287f46695eb49736c798ecb4263911bf878a63f9275e0c006f25f0b"
     },
     {
       "Path": "config/weatherrefind-client.toml",
-      "Hash": "93c284ba0281667da501ac1f8c8c46aeb39d665a3f25635d8af7d81afcd2a654"
+      "Hash": "33a6acdaeaf1293d7e17ff85df4023f4eaa8729cd6fd55912a60709219c0b5de"
     },
     {
       "Path": "config/whaleborne-client.toml",
-      "Hash": "54cf4fe2911be7132a697040043a8636985ac124b39d634380d107a4071b8f4a"
+      "Hash": "f2d30f1c9f8d3e60392549654498b57ff13938aefa3889c30280c856ad756ba1"
     },
     {
       "Path": "config/whaleborne-server.toml",
-      "Hash": "a15ba2fb4d7e01e6547bb5755c786ed8ef1e21b0cec7dfaaafd7885b0ed11069"
+      "Hash": "ef677ceb823b683ece573426006970b0dfa28100b09381fbbc99f2d9a720e8b5"
     },
     {
       "Path": "config/wildernature-common.toml",
-      "Hash": "58fa0b63a78d7013a43eb193c45d22bd65ec04bd8448dec1140393d7f48fd73c"
+      "Hash": "3ac7c993c9b5f1333f970016f5369082406c3ede72718e71109ec2f3ff5bd5f2"
     },
     {
       "Path": "config/witherreincarnated/client.toml",
-      "Hash": "82c1ee827a0337e3348427e0cff1dff9df9983cd9a56f307ac7935f1514560c2"
+      "Hash": "d19139a9d7255854baef5849ab091edbe68150dcf96398124a3921d7ae1ca77a"
     },
     {
       "Path": "config/witherreincarnated/common.toml",
-      "Hash": "77ff4259974a548fe3b4d6dfbcc3d7eabf4d0e48b9150285b5649e3c5b0dd7bb"
+      "Hash": "346fed4bce5aac939f84e9288e2a790d4cee75f951378ed1e76669be899fc05a"
     },
     {
       "Path": "config/wizardmobs-server.toml",
-      "Hash": "5518691add9b0ede36b3573f434fd369f20144301cfce42eb89c148c5538c85c"
+      "Hash": "18a81bcd5b466bc17daf054f07d065c5d561ca1de48e3f424f355c0aa24ad211"
     },
     {
       "Path": "config/wizards/effects.json",
@@ -5159,7 +5159,7 @@
     },
     {
       "Path": "config/xaerohud.txt",
-      "Hash": "75fe354045b64c00644feb03e8927c5dee57f96170864bc49e37816775432c2b"
+      "Hash": "279ed632e9529c8465ea31720e05e2a09e4b23d817b62fdca6eab5504bcafc45"
     },
     {
       "Path": "config/xaeropatreon.txt",
@@ -7375,7 +7375,7 @@
     },
     {
       "Path": "options.txt",
-      "Hash": "ccf7a0113ae7541a808bed353b7404f8e4050014ec96ab32af26a551aa0a7afc"
+      "Hash": "9d7febde628d90c3afa746d2c9e8793899fef24e95190e9272c081558f030b18"
     },
     {
       "Path": "resourcepacks/Angel's_Font_v0.8.zip",
@@ -39059,7 +39059,7 @@
     },
     {
       "Path": "shaderpacks/Fantasy Shaders Reimagined v1.0.1.zip.txt",
-      "Hash": "236f9b01363178f6cc733798fbf0b25a7bd689db41ea7df9929e06eb99f63a7b"
+      "Hash": "583ae3cfaef0ad220560abbd05e0d4ff80f6adddf65e99d6778582af318ac3cb"
     },
     {
       "Path": "shaderpacks/I Like Vanilla v1.4.4.zip",
@@ -39075,7 +39075,7 @@
     },
     {
       "Path": "shaderpacks/Shrimple_v0.12.zip.txt",
-      "Hash": "968dd46f00405e83f8b1aa301a52ee19be794199e497f6bfbbbbf4b037772a65"
+      "Hash": "268cb478fc375cc3fbc1177dee7abec65d3ddf7e2605489b61fb106e354fb323"
     },
     {
       "Path": "shaderpacks/Solas Shader V3.7b.zip",
