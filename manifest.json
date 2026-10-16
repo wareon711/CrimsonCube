@@ -4782,6 +4782,10 @@
       "Hash": "06646ff92591947b2953b3a36ab87ae9264e0ce581580c5edc34f9687bf072b0"
     },
     {
+      "Path": "config/tablist.toml",
+      "Hash": "ae979b58a5366af500d84faa09d5410a9d1681a1a10983ae56d7d062bd7897a3"
+    },
+    {
       "Path": "config/terra_curio-client.toml",
       "Hash": "61f3c9993938a6519af54ebeeb60724db9e29109af85561eb20842884e891042"
     },
@@ -6362,6 +6366,10 @@
       "Hash": "22e2467892d3706f43d1cf2aa637785bb8601c20b0098a82ab956e6a8fc4d2ba"
     },
     {
+      "Path": "mods/BetterPingDisplay-1.21.1-1.1.jar",
+      "Hash": "f8388de4831ca70f3e94d98d4655278b514f8589234fa92df0d6b2ff1dff321b"
+    },
+    {
       "Path": "mods/BlockBox-1.21.1-0.1.3.jar",
       "Hash": "088a0515bba0948bd8acd37e23240d447ad55978aeee04b281ee7a90f0ca1360"
     },
@@ -7320,6 +7328,10 @@
     {
       "Path": "mods/sweety_archaeology-1.0.9b-neoforge-1.21.1.jar",
       "Hash": "3c224c81bf0c96d4ec4e625c56bbd7d5d65f5d83a9f889f3b880c9cd7caa3753"
+    },
+    {
+      "Path": "mods/tablist-neoforge-1.21.1-1.6.jar",
+      "Hash": "4441f16caeecdfcb7d397220ff58328f2feb2ce6cc1faef8b16fbfba283cef45"
     },
     {
       "Path": "mods/terrablenderfix-neoforge-1.21.1-0.0.1.jar",

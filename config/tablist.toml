@@ -1,0 +1,17 @@
+
+[server]
+	name = "&c&lCrimsonCube &8- &6&lKEO RPG"
+
+[appearance]
+	animation_interval = 40
+	header = [
+		"\n&c&l⚔ CrimsonCube &8- &6&lKEO RPG ⚔\n&7Mundo de Aventura, Magia & Jefes\n",
+		"\n&6&l⚔ CrimsonCube &8- &c&lKEO RPG ⚔\n&eMundo de Aventura, Magia & Jefes\n"
+	]
+	footer = [
+		"\n&fJugadores: &a#PLAYERCOUNT&7/&a#MAXPLAYERS &7| TPS: #CTPS &7| RAM: &#AA55FF#MEMORY\n&6Servidor: &e108.181.119.198:50153\n"
+	]
+	player_name_format = "{name} &7[{world}&7]"
+
+[metrics]
+	provider = "SPARK"
