@@ -4286,10 +4286,6 @@
       "Hash": "ff1378eac277cdb03e1f52f902fa44e8ebb286604a9a6303ecdeb95594bb3ab8"
     },
     {
-      "Path": "config/ohmenu-client.toml",
-      "Hash": "3cea30645427c9022d5cb0aedef1faf25940ec1d2bcfd6fa4e945878c2461ad6"
-    },
-    {
       "Path": "config/okhealthdamage-client.toml",
       "Hash": "2191b0580c70db6624afdd8b353d50331e52893626b9ec3e0d334653dd3994d7"
     },
@@ -4535,7 +4531,7 @@
     },
     {
       "Path": "config/simplemenu.json5",
-      "Hash": "ede23117e2c23c8fb560165a86848e4fa91e500770fe4c62676b455b3d2d2710"
+      "Hash": "868bc1d4a4cef3c9bb388c4f9495a3d3b74fac737f198e960e1e07e2e6d800e5"
     },
     {
       "Path": "config/simplemenu/background/background.png",
@@ -5052,6 +5048,10 @@
     {
       "Path": "config/voicechat/translations.properties",
       "Hash": "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
+    },
+    {
+      "Path": "config/voicechat/username-cache.json",
+      "Hash": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
     },
     {
       "Path": "config/voicechat/voicechat-client.properties",
@@ -6464,10 +6464,6 @@
     {
       "Path": "mods/Necronomicon-NeoForge-1.6.0+1.21.jar",
       "Hash": "63c3057fd28bf9e4a94ffe84f53dd20d9e7172b3e4afdf1b989213935d4aaf14"
-    },
-    {
-      "Path": "mods/OHMenu-NeoForge-1.21.1-1.0.0.jar",
-      "Hash": "eab8c823f9503ebf333fe2d19e9fef4c0408794af8ad62d9e829848ff685936d"
     },
     {
       "Path": "mods/OctoLib-NEOFORGE-0.6.2+1.21.jar",
@@ -39272,6 +39268,10 @@
     {
       "Path": "resourcepacks/§6PresenceFootsteps R9.zip",
       "Hash": "9e99f8fd962900ae056832fd7133ce7fce375a0b453540be6fad78409c987c83"
+    },
+    {
+      "Path": "servers.dat",
+      "Hash": "d087eea86a50f8b3938669ff366cee4b8b416c555d410c0664ee19efb43d8535"
     },
     {
       "Path": "shaderpacks/BSL_v10.1.1 + Clrwl_1.0.5.zip",

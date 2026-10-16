@@ -16,7 +16,7 @@
 	// Whether the Mods button's widtg should be expanded to match the singleplayer button width. Can be useful with 'hideMinecraftRealmsButton' disabled. Only applicable for Forge and NeoForge.
 	"expandModsButton": false,
 	// Whether the Minecraft Realms button should be replaced by a serverhosting promo button.
-	"enableServerPromoButton": true,
+	"enableServerPromoButton": false,
 	// The default server promo button text.
 	"serverPromoButtonTextDefault": "Haz tu server aqui!",
 	// The server promo button text shown when hovering it.
