@@ -1,0 +1,18 @@
+filename = 'majruszs-difficulty-neoforge-1.21.1-1.1.1.jar'
+name = "Majrusz's Progressive Difficulty Continued"
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'majruszs-difficulty-neoforge-1.21.1-1.1.1.jar'
+
+[download]
+hash = '585061bc27d132e45780325e34c393c052669dfd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8832468
+project-id = 1670460

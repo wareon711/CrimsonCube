@@ -1,0 +1,29 @@
+filename = 'kingsandmonsters1.2.2.jar'
+name = 'Kings & Monsters'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Kings & Monsters v1.2.2'
+
+[download]
+hash = 'c84ab64b845947ce53e46a3a7d6807102033b566'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8788347
+project-id = 1585531
+
+[[x-prismlauncher-dependencies]]
+addonId = '306770'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'

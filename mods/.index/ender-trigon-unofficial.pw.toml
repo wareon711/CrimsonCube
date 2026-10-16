@@ -1,0 +1,18 @@
+filename = 'ender_trigon_unofficial-1.0.0-1.21.1.jar'
+name = 'Ender Trigon Unofficial'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ender_trigon_unofficial-1.0.0-1.21.1.jar'
+
+[download]
+hash = '505177c05a0ec3fb971d5ac89080990e07583ec9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8535038
+project-id = 1630768

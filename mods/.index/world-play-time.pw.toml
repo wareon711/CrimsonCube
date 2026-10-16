@@ -1,0 +1,18 @@
+filename = 'worldplaytime-1.2.2-1.21-NEOFORGE.jar'
+name = 'World Play Time'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NeoForge] World Play Time 1.2.2 - 1.21'
+
+[download]
+hash = '1ee93dce6193ebeab41944e97d1f07e5d729bd96'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5430837
+project-id = 968891

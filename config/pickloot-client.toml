@@ -1,0 +1,107 @@
+[lootSelection]
+	#Permite seleccionar filas de loot con la rueda del ratón.
+	mouseWheelEnabled = true
+	#Exige mantener la tecla 'Modificador del scroll' para usar la rueda en el HUD.
+	scrollRequiresModifier = true
+	#Invierte la dirección de selección de la rueda.
+	invertScrollDirection = false
+	#Impide que la rueda cambie la hotbar cuando se usa para seleccionar loot.
+	captureMouseWheel = true
+	#Reproduce un sonido de interfaz al cambiar el objeto de loot seleccionado.
+	selectionSoundEnabled = true
+	#Volumen del sonido de selección. También respeta el volumen maestro del juego.
+	# Default: 70
+	# Range: 0 ~ 100
+	selectionSoundVolumePercent = 70
+	#Muestra una ayuda temporal con los controles al comenzar una sesión de juego.
+	showControlTutorial = true
+	#Tiempo de juego, en segundos, durante el que se muestra la ayuda. 300 = 5 minutos.
+	# Default: 300
+	# Range: 0 ~ 3600
+	controlTutorialSeconds = 300
+	#Texto personalizado del encabezado. Vacío = mostrar PickLoot.
+	customLootTitle = ""
+	#Cantidad máxima de tarjetas de objetos visibles al mismo tiempo.
+	# Default: 3
+	# Range: 1 ~ 10
+	maxVisibleItems = 3
+	#Escala independiente del panel de objetos. 61 = tamaño predeterminado.
+	# Default: 61
+	# Range: 45 ~ 120
+	hudScalePercent = 61
+	#Escala independiente del panel temporal de controles.
+	# Default: 57
+	# Range: 45 ~ 120
+	controlsScalePercent = 57
+	#Muestra únicamente la lista de objetos sin inclinación ni profundidad 3D.
+	flatItemList = true
+	#Muestra el recuadro de controles sin inclinación, independientemente de la lista de objetos.
+	flatControls = false
+	#Radio, en bloques, para detectar y recoger loot mientras se usa la primera persona.
+	# Default: 2
+	# Range: 1 ~ 8
+	firstPersonInteractionRadius = 2
+	#Radio, en bloques, para detectar y recoger loot mientras se usa la tercera persona.
+	# Default: 1
+	# Range: 1 ~ 8
+	thirdPersonInteractionRadius = 1
+	#Muestra objetos del suelo en PickLoot. Al desactivarlo vuelve la recogida vanilla por contacto.
+	enableItemPickup = true
+	#Muestra cultivos maduros en PickLoot y permite cosecharlos con los controles de recogida.
+	enableCropHarvesting = true
+	#Vuelve a plantar automáticamente los cultivos cosechados mediante PickLoot.
+	autoReplantCrops = true
+	#Si la cosecha no suelta semilla, usa una del inventario para replantar. Sin semillas se cosecha igualmente.
+	useInventorySeeds = true
+	#Cuando no se replanta, deja la tierra de cultivo completamente hidratada.
+	hydrateEmptyFarmland = true
+	#Color RGB de las tarjetas normales.
+	# Default: 2106670
+	# Range: 0 ~ 16777215
+	panelColor = 2106670
+	#Color RGB de la tarjeta seleccionada.
+	# Default: 2913234
+	# Range: 0 ~ 16777215
+	selectedPanelColor = 2913234
+	#Color RGB del indicador de selección.
+	# Default: 16760065
+	# Range: 0 ~ 16777215
+	accentColor = 16760065
+	#Usa los colores originales de los sprites del resource pack en lugar de teñirlos con la configuración.
+	useRarityTextureColors = false
+	#Color RGB del diamante para objetos de rareza normal.
+	# Default: 16777215
+	# Range: 0 ~ 16777215
+	rarityNormalColor = 16777215
+	#Color RGB del diamante para objetos de rareza común.
+	# Default: 16777215
+	# Range: 0 ~ 16777215
+	rarityCommonColor = 16777215
+	#Color RGB del diamante para objetos raros.
+	# Default: 2094847
+	# Range: 0 ~ 16777215
+	rarityRareColor = 2094847
+	#Color RGB del diamante para objetos épicos.
+	# Default: 15151871
+	# Range: 0 ~ 16777215
+	rarityEpicColor = 15151871
+	#Color RGB del diamante legendario, reservado para objetos encantados.
+	# Default: 16752896
+	# Range: 0 ~ 16777215
+	rarityLegendaryColor = 16752896
+	#Posición horizontal normalizada del HUD de loot. 0 = izquierda, 1000 = derecha.
+	# Default: 578
+	# Range: 0 ~ 1000
+	hudPositionX = 580
+	#Posición vertical normalizada del HUD de loot. 0 = arriba, 1000 = abajo.
+	# Default: 531
+	# Range: 0 ~ 1000
+	hudPositionY = 530
+	#Posición horizontal normalizada del panel de controles.
+	# Default: 607
+	# Range: 0 ~ 1000
+	controlsPositionX = 607
+	#Posición vertical normalizada del panel de controles.
+	# Default: 324
+	# Range: 0 ~ 1000
+	controlsPositionY = 324

@@ -1,0 +1,537 @@
+{
+  "enabled": true,
+  "mod_name": "Armageddon",
+  "mod_id": "armageddon_mod",
+  "achievements": {
+    "builder_stone_advancement": {
+      "display_name": "Piedra del Constructor",
+      "original_name": "Piedra del Constructor",
+      "enabled": true,
+      "icon": "armageddon_mod:builder_stone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_key_of_doom_advancement": {
+      "display_name": "La Llave de la Perdición",
+      "original_name": "La Llave de la Perdición",
+      "enabled": true,
+      "icon": "armageddon_mod:the_key_of_doom",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_iron_keeper": {
+      "display_name": "§eEl Guardián del Hierro",
+      "original_name": "§eEl Guardián del Hierro",
+      "enabled": true,
+      "icon": "armageddon_mod:the_iron_colossus_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_emerald_keeper": {
+      "display_name": "§eEl Guardián de la Esmeralda",
+      "original_name": "§eEl Guardián de la Esmeralda",
+      "enabled": true,
+      "icon": "armageddon_mod:arion_tyrantofthe_emerald_wrath_ravager_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "choups_ores_keeper_advancement": {
+      "display_name": "§e¡Armageddon Mod!",
+      "original_name": "§e¡Armageddon Mod!",
+      "enabled": true,
+      "icon": "armageddon_mod:the_iron_colossus_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_gold_keeper": {
+      "display_name": "§eEl Guardián del Oro",
+      "original_name": "§eEl Guardián del Oro",
+      "enabled": true,
+      "icon": "armageddon_mod:the_gobelin_lord_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_warden_relic": {
+      "display_name": "§eLa Reliquia del Warden",
+      "original_name": "§eLa Reliquia del Warden",
+      "enabled": true,
+      "icon": "armageddon_mod:warden_relics",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "cocoon_of_blood_advancement": {
+      "display_name": "El Capullo de Sangre",
+      "original_name": "El Capullo de Sangre",
+      "enabled": true,
+      "icon": "armageddon_mod:cocoon_of_blood",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_goblin_lord_treasure_bag_advancment": {
+      "display_name": "§eBolsa de Tesoro del Señor Goblin",
+      "original_name": "§eBolsa de Tesoro del Señor Goblin",
+      "enabled": true,
+      "icon": "armageddon_mod:goblin_lord_treasure_bag",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_calamities_treasure_bag_advancement": {
+      "display_name": "§eBolsa de Tesoro de las Calamidades",
+      "original_name": "§eBolsa de Tesoro de las Calamidades",
+      "enabled": true,
+      "icon": "armageddon_mod:the_calamities_treasure_bag",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "bringer_of_doom_relic_advcancement": {
+      "display_name": "§eReliquia del Portador de la Perdición",
+      "original_name": "§eReliquia del Portador de la Perdición",
+      "enabled": true,
+      "icon": "armageddon_mod:bringer_of_doom_relic",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "eldorath_treasure_bag_advancmenet": {
+      "display_name": "§eBolsa de Tesoro de Eldorath el Constructor Antiguo",
+      "original_name": "§eBolsa de Tesoro de Eldorath el Constructor Antiguo",
+      "enabled": true,
+      "icon": "armageddon_mod:eldorath_treasure_bag",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_blood_keeper": {
+      "display_name": "§eEl Guardián de la Sangre",
+      "original_name": "§eEl Guardián de la Sangre",
+      "enabled": true,
+      "icon": "armageddon_mod:sanghor_lord_of_blood_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "emerald_totem_avancement": {
+      "display_name": "Tótem Esmeralda",
+      "original_name": "Tótem Esmeralda",
+      "enabled": true,
+      "icon": "armageddon_mod:emerald_totem",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_shadow_keeper": {
+      "display_name": "§eEl Guardián de las Sombras",
+      "original_name": "§eEl Guardián de las Sombras",
+      "enabled": true,
+      "icon": "armageddon_mod:nyxaris_the_veil_of_oblivion_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "arion_relic_advancement": {
+      "display_name": "§eReliquia de Arion, Tirano de la Ira Esmeralda",
+      "original_name": "§eReliquia de Arion, Tirano de la Ira Esmeralda",
+      "enabled": true,
+      "icon": "armageddon_mod:arion_relic",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_end_of_the_prologue": {
+      "display_name": "§eEl Fin del Prólogo",
+      "original_name": "§eEl Fin del Prólogo",
+      "enabled": true,
+      "icon": "armageddon_mod:zoranths_hand",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_iron_colossus_treasure_bag_advancment": {
+      "display_name": "§eBolsa de Tesoro del Coloso de Hierro",
+      "original_name": "§eBolsa de Tesoro del Coloso de Hierro",
+      "enabled": true,
+      "icon": "armageddon_mod:iron_colossus_treasure_bag",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "titans_insigna_advancement": {
+      "display_name": "Insignia del Titán",
+      "original_name": "Insignia del Titán",
+      "enabled": true,
+      "icon": "armageddon_mod:titan_insigna",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_elvenite_keeper": {
+      "display_name": "§eEl Guardián de la Elvenita",
+      "original_name": "§eEl Guardián de la Elvenita",
+      "enabled": true,
+      "icon": "armageddon_mod:elvenite_paladin_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "fiery_wither_skull_advancment": {
+      "display_name": "Cráneo de Wither Ardiente",
+      "original_name": "Cráneo de Wither Ardiente",
+      "enabled": true,
+      "icon": "armageddon_mod:fiery_wither_skull",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_ender_dragon_relic": {
+      "display_name": "§eReliquia del Ender Dragon",
+      "original_name": "§eReliquia del Ender Dragon",
+      "enabled": true,
+      "icon": "armageddon_mod:ender_dragon_relic",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "eldorath_relic_advancement": {
+      "display_name": "§eReliquia de Eldorath el Constructor Antiguo",
+      "original_name": "§eReliquia de Eldorath el Constructor Antiguo",
+      "enabled": true,
+      "icon": "armageddon_mod:eldorath_relic",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_goblin_lord_relic": {
+      "display_name": "§eLa Reliquia del Señor Goblin",
+      "original_name": "§eLa Reliquia del Señor Goblin",
+      "enabled": true,
+      "icon": "armageddon_mod:goblin_lord_relic",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "bringer_od_doom_advancement": {
+      "display_name": "§eEl Comienzo del Fin",
+      "original_name": "§eEl Comienzo del Fin",
+      "enabled": true,
+      "icon": "armageddon_mod:bringer_of_doom_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_elvenite_paladin_treasure_bag_advancment": {
+      "display_name": "§eBolsa del Tesoro del Paladín Elvenita",
+      "original_name": "§eBolsa del Tesoro del Paladín Elvenita",
+      "enabled": true,
+      "icon": "armageddon_mod:elvenite_paladin_treasure_bag",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_calamitiesrelic_advancement": {
+      "display_name": "§eLa Reliquia de las Calamidades",
+      "original_name": "§eLa Reliquia de las Calamidades",
+      "enabled": true,
+      "icon": "armageddon_mod:the_calamities_relic_1",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "elvenite_paladin_relic_advancement": {
+      "display_name": "§eReliquia del Paladín Elvenita",
+      "original_name": "§eReliquia del Paladín Elvenita",
+      "enabled": true,
+      "icon": "armageddon_mod:elvenite_paladin_relic",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_sun_emblem_advancement": {
+      "display_name": "El Emblema del Sol",
+      "original_name": "El Emblema del Sol",
+      "enabled": true,
+      "icon": "armageddon_mod:the_sun_emblem",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iron_colossus_relic_advancement": {
+      "display_name": "§eLa Reliquia del Coloso de Hierro",
+      "original_name": "§eLa Reliquia del Coloso de Hierro",
+      "enabled": true,
+      "icon": "armageddon_mod:iron_colossus_relic",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "zoranth_relic_advancment": {
+      "display_name": "§eReliquia de Zoranth, el Olvidado",
+      "original_name": "§eReliquia de Zoranth, el Olvidado",
+      "enabled": true,
+      "icon": "armageddon_mod:zoranth_relic",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "sanghor_treasure_bag_advancement": {
+      "display_name": "§eBolsa del Tesoro de Sanghor, Señor de la Sangre",
+      "original_name": "§eBolsa del Tesoro de Sanghor, Señor de la Sangre",
+      "enabled": true,
+      "icon": "armageddon_mod:sanghor_lord_of_blood_treasure_bag",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_corrupted_tear_advancement": {
+      "display_name": "La Lágrima Corrupta",
+      "original_name": "La Lágrima Corrupta",
+      "enabled": true,
+      "icon": "armageddon_mod:the_corrupted_tear",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_sun_keeper": {
+      "display_name": "§eEl Guardián del Sol",
+      "original_name": "§eEl Guardián del Sol",
+      "enabled": true,
+      "icon": "armageddon_mod:zoranth_newborn_of_the_zenith_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "bringer_of_doom_advancement": {
+      "display_name": "§eEl Comienzo del Fin",
+      "original_name": "§eEl Comienzo del Fin",
+      "enabled": true,
+      "icon": "armageddon_mod:bringer_of_doom_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "bringerof_doom_treasure_bag_advancement": {
+      "display_name": "§eBolsa del Tesoro del Portador de la Perdición",
+      "original_name": "§eBolsa del Tesoro del Portador de la Perdición",
+      "enabled": true,
+      "icon": "armageddon_mod:the_bringer_of_doom_treasure_bag",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "armageddon_mod_relics": {
+      "display_name": "§eArmageddon Mod: ¡Reliquias!",
+      "original_name": "§eArmageddon Mod: ¡Reliquias!",
+      "enabled": true,
+      "icon": "armageddon_mod:iron_colossus_relic",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_voiderite_keeper": {
+      "display_name": "§eEl Guardián de la Voiderita",
+      "original_name": "§eEl Guardián de la Voiderita",
+      "enabled": true,
+      "icon": "armageddon_mod:vaedricthe_fallen_wanderer_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iron_remote_advancement": {
+      "display_name": "Control Remoto de Hierro",
+      "original_name": "Control Remoto de Hierro",
+      "enabled": true,
+      "icon": "armageddon_mod:iron_remote",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_diamond_keeper": {
+      "display_name": "§eEl Guardián del Diamante",
+      "original_name": "§eEl Guardián del Diamante",
+      "enabled": true,
+      "icon": "armageddon_mod:eldoraththe_ancient_builder_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "vaedrics_treasure_bag_advancement": {
+      "display_name": "§eBolsa de Tesoro de Vaedric, el Vagabundo Caído",
+      "original_name": "§eBolsa de Tesoro de Vaedric, el Vagabundo Caído",
+      "enabled": true,
+      "icon": "armageddon_mod:vaedric_treasure_bag",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_sun_keeper_treasure_bag_advancement": {
+      "display_name": "§eBolsa de Tesoro de Zoranth, Recién Nacido del Zenith",
+      "original_name": "§eBolsa de Tesoro de Zoranth, Recién Nacido del Zenith",
+      "enabled": true,
+      "icon": "armageddon_mod:zoranth_newborn_of_the_zenith_treasure_bag",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "zoranth_newbornof_the_zzenith_treasure_bag_advancement": {
+      "display_name": "§eZoranth, Recién Nacido del Cenit Reliquia",
+      "original_name": "§eZoranth, Recién Nacido del Cenit Reliquia",
+      "enabled": true,
+      "icon": "armageddon_mod:zoranth_newborn_of_the_zenith_relic",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "sigil_of_calamity_advancement": {
+      "display_name": "Sigilo de la Calamidad",
+      "original_name": "Sigilo de la Calamidad",
+      "enabled": true,
+      "icon": "armageddon_mod:sigil_of_calamity",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "arion_tyrant_ofthe_emerald_wrath_advancemnt": {
+      "display_name": "§eBolsa de Tesoro de Arion, Tirano de la Ira Esmeralda",
+      "original_name": "§eBolsa de Tesoro de Arion, Tirano de la Ira Esmeralda",
+      "enabled": true,
+      "icon": "armageddon_mod:arion_treasurebag",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "voiderite_fragment_advancement": {
+      "display_name": "Fragmento Caído del Viajero",
+      "original_name": "Fragmento Caído del Viajero",
+      "enabled": true,
+      "icon": "armageddon_mod:wanderers_fallen_shard",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_calamities_death": {
+      "display_name": "§eLa Muerte de las Calamidades",
+      "original_name": "§eLa Muerte de las Calamidades",
+      "enabled": true,
+      "icon": "armageddon_mod:the_famine_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "gilded_coin_advancement": {
+      "display_name": "Moneda Extraña",
+      "original_name": "Moneda Extraña",
+      "enabled": true,
+      "icon": "armageddon_mod:strange_coin",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "vaedric_relic_advancement": {
+      "display_name": "§eReliquia de Vaedric, el Vagabundo Caído",
+      "original_name": "§eReliquia de Vaedric, el Vagabundo Caído",
+      "enabled": true,
+      "icon": "armageddon_mod:vaedric_the_fallen_wanderer_relic",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_netherite_keeper": {
+      "display_name": "§eEl Guardián del Netherite",
+      "original_name": "§eEl Guardián del Netherite",
+      "enabled": true,
+      "icon": "armageddon_mod:zoranththe_forgotten_one_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "overworld_conqueror": {
+      "display_name": "§4Conquistador del Overworld",
+      "original_name": "§4Conquistador del Overworld",
+      "enabled": true,
+      "icon": "minecraft:grass_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "zoranth_the_forgotten_one_treasure_bag_advancement": {
+      "display_name": "§eBolsa del Tesoro de Zoranth el Olvidado",
+      "original_name": "§eBolsa del Tesoro de Zoranth el Olvidado",
+      "enabled": true,
+      "icon": "armageddon_mod:zoranth_treasure_bag",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_wither_relic": {
+      "display_name": "§eLa Reliquia del Wither",
+      "original_name": "§eLa Reliquia del Wither",
+      "enabled": true,
+      "icon": "armageddon_mod:wither_relic",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

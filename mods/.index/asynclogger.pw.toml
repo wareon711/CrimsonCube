@@ -1,0 +1,18 @@
+filename = 'asynclogger-2.2.2+1.21.1-neoforge.jar'
+name = 'Async Logger'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Async Logger 2.2.2+1.21.1-neoforge'
+
+[download]
+hash = '7375313a17917e93c3ef7f4325c5e862d5acbffe'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8631010
+project-id = 1491426

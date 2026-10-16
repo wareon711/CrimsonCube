@@ -1,0 +1,82 @@
+[spawning]
+	#Dragon spawn configuration - control where and how often dragons spawn
+	#Note: spawn weights are relative per biome/category roll.
+	#Final spawn frequency also depends on each dragon's spawn predicate and placement checks.
+	#Raevyx spawn settings
+	# Default: 1
+	# Range: 0 ~ 5000
+	raevyxSpawnWeight = 1
+	# Default: 1
+	# Range: 1 ~ 10
+	raevyxMinGroupSize = 1
+	# Default: 2
+	# Range: 1 ~ 10
+	raevyxMaxGroupSize = 2
+	#Additional biome IDs or biome tags where Raevyx can spawn (e.g., "minecraft:desert", "terralith:volcanic_crater", "#c:is_overworld")
+	raevyxAdditionalBiomes = []
+	#Biome IDs or biome tags to exclude from default Raevyx spawns (e.g., "minecraft:plains", "#minecraft:is_ocean")
+	raevyxExcludedBiomes = []
+	#Stegonaut spawn settings (land-focused; broaden via additional biome IDs/tags as needed)
+	# Default: 5
+	# Range: 0 ~ 5000
+	stegonautSpawnWeight = 5
+	# Default: 1
+	# Range: 1 ~ 10
+	stegonautMinGroupSize = 1
+	# Default: 4
+	# Range: 1 ~ 10
+	stegonautMaxGroupSize = 4
+	#Additional biome IDs or biome tags where Stegonaut can spawn (e.g., "minecraft:desert", "terralith:volcanic_crater", "#c:is_overworld")
+	stegonautAdditionalBiomes = []
+	#Biome IDs or biome tags to exclude from default Stegonaut spawns (e.g., "minecraft:plains", "#minecraft:is_ocean")
+	stegonautExcludedBiomes = []
+	#Cindervane spawn settings
+	# Default: 3
+	# Range: 0 ~ 5000
+	cindervaneSpawnWeight = 3
+	# Default: 1
+	# Range: 1 ~ 10
+	cindervaneMinGroupSize = 1
+	# Default: 3
+	# Range: 1 ~ 10
+	cindervaneMaxGroupSize = 3
+	#Additional biome IDs or biome tags where Cindervane can spawn (e.g., "minecraft:desert", "terralith:volcanic_crater", "#c:is_overworld")
+	cindervaneAdditionalBiomes = []
+	#Biome IDs or biome tags to exclude from default Cindervane spawns (e.g., "minecraft:plains", "#minecraft:is_ocean")
+	cindervaneExcludedBiomes = []
+	#Whether Cindervane egg blocks generate in worldgen feature patches
+	cindervaneEggBlockWorldgen = true
+	#Nulljaw spawn settings (semi-aquatic; biome tags can massively expand coverage)
+	# Default: 2
+	# Range: 0 ~ 5000
+	nulljawSpawnWeight = 2
+	# Default: 1
+	# Range: 1 ~ 10
+	nulljawMinGroupSize = 1
+	# Default: 2
+	# Range: 1 ~ 10
+	nulljawMaxGroupSize = 2
+	#Additional biome IDs or biome tags where Nulljaw can spawn (e.g., "minecraft:desert", "terralith:volcanic_crater", "#c:is_overworld")
+	nulljawAdditionalBiomes = []
+	#Biome IDs or biome tags to exclude from default Nulljaw spawns (e.g., "minecraft:plains", "#minecraft:is_ocean")
+	nulljawExcludedBiomes = []
+	#Whether Nulljaw egg blocks generate in worldgen feature patches
+	nulljawEggBlockWorldgen = true
+	#Ignivorus spawn settings
+	# Default: 1
+	# Range: 0 ~ 5000
+	ignivorusSpawnWeight = 1
+	# Default: 1
+	# Range: 1 ~ 10
+	ignivorusMinGroupSize = 1
+	# Default: 2
+	# Range: 1 ~ 10
+	ignivorusMaxGroupSize = 2
+	#Additional biome IDs or biome tags where Ignivorus can spawn (e.g., "minecraft:desert", "terralith:volcanic_crater", "#c:is_overworld")
+	ignivorusAdditionalBiomes = []
+	#Biome IDs or biome tags to exclude from default Ignivorus spawns (e.g., "minecraft:plains", "#minecraft:is_ocean")
+	ignivorusExcludedBiomes = []
+
+[gameplay]
+	#Master switch for all dragon-caused block destruction/terrain griefing.
+	dragonGriefingEnabled = true

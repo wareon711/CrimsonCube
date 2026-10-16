@@ -1,0 +1,137 @@
+{
+  "enabled": true,
+  "mod_name": "Lootr",
+  "mod_id": "lootr",
+  "achievements": {
+    "1cart": {
+      "display_name": "Tesoros del Túnel",
+      "original_name": "Tesoros del Túnel",
+      "enabled": true,
+      "icon": "minecraft:chest_minecart",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "50loot": {
+      "display_name": "Half-Century",
+      "original_name": "Half-Century",
+      "enabled": true,
+      "icon": "minecraft:diamond_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "1barrel": {
+      "display_name": "Botín del Barril",
+      "original_name": "Botín del Barril",
+      "enabled": true,
+      "icon": "lootr:lootr_barrel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "pot_opened": {
+      "display_name": "Woe to the Pot",
+      "original_name": "Woe to the Pot",
+      "enabled": true,
+      "icon": "lootr:decorated_pot",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "archaeologist": {
+      "display_name": "That Was 90% Gravity",
+      "original_name": "That Was 90% Gravity",
+      "enabled": true,
+      "icon": "minecraft:brush",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "100loot": {
+      "display_name": "Centenario",
+      "original_name": "Centenario",
+      "enabled": true,
+      "icon": "minecraft:netherite_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "all_gravel": {
+      "display_name": "Brush It Off",
+      "original_name": "Brush It Off",
+      "enabled": true,
+      "icon": "lootr:suspicious_gravel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "1shulker": {
+      "display_name": "Caja de Recompensas",
+      "original_name": "Caja de Recompensas",
+      "enabled": true,
+      "icon": "lootr:lootr_shulker",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "social": {
+      "display_name": "Botín Socializado",
+      "original_name": "Botín Socializado",
+      "enabled": true,
+      "icon": "minecraft:enchanted_golden_apple",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "25loot": {
+      "display_name": "Cuartos Cercanos",
+      "original_name": "Cuartos Cercanos",
+      "enabled": true,
+      "icon": "minecraft:emerald_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "1chest": {
+      "display_name": "\u0027X\u0027 Marca el Lugar",
+      "original_name": "\u0027X\u0027 Marca el Lugar",
+      "enabled": true,
+      "icon": "lootr:lootr_chest",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "1frame": {
+      "display_name": "I was framed!",
+      "original_name": "I was framed!",
+      "enabled": true,
+      "icon": "minecraft:item_frame",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "10loot": {
+      "display_name": "Delightful Decade",
+      "original_name": "Delightful Decade",
+      "enabled": true,
+      "icon": "minecraft:gold_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

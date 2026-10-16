@@ -1,0 +1,29 @@
+{
+  "id": "abeja-reina",
+  "name": "Abeja Reina!",
+  "icon": "terra_entity:abeemination",
+  "description": "Tendras /o5%/x probabilidad de conseguir la /babeemination matando avispones!\n\n/rCon esta podras invocar a la abeja reina!\n\n/oTambien la puedes tradear con el guia!",
+  "category": "jefes",
+  "sub-category": "terraria",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "completion": {
+    "complete": [
+      {
+        "collect": "terra_entity:abeemination",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "numismaticoverhaul:silver_coin",
+        "count": 60
+      }
+    ]
+  }
+}

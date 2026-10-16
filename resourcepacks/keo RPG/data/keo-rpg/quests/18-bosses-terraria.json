@@ -1,0 +1,29 @@
+{
+  "id": "bosses-terraria",
+  "name": "Bosses del terraria",
+  "icon": "terra_entity:guide_spawn_egg",
+  "description": "Podras invocar diferentes /o/ljefes inspirados/x en /gterraria,/x desde el /brey slime hasta el muro de carne./x\n\nEncontraras muchos /o/lnpc/x en diferentes biomas con los que podras tradear, /ael mas importante es el /g/lguia que estara en el bosque/x, el te podra tradear lois diferentes objetos para /rinvocar a los jefes aunque no es la unica forma de invocarlos!",
+  "category": "jefes",
+  "sub-category": "terraria",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "completion": {
+    "complete": [
+      {
+        "collect": "terra_entity:terraprisma",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "numismaticoverhaul:gold_coin",
+        "count": 100
+      }
+    ]
+  }
+}

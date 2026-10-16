@@ -1,0 +1,18 @@
+filename = 'OHMenu-NeoForge-1.21.1-1.0.0.jar'
+name = 'OlimpoHosting Partner'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'OH 1.21.1 V1.0.0'
+
+[download]
+hash = '2265a3557b429e2d8cc1a4f80649e1b17c2f7de5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8832212
+project-id = 1666789

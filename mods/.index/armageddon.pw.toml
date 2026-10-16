@@ -1,0 +1,33 @@
+filename = 'Armageddon for NeoForge 1.21.1 (v3.2.0) - Polished.jar'
+name = 'Armageddon'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Armageddon for NeoForge 1.21.1 (v3.1.2) - Polished'
+
+[download]
+hash = '962e34b83ca29b8eed9a15de54e45e86aba47c4d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8854138
+project-id = 1110642
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '280510'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '639842'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'REQUIRED'

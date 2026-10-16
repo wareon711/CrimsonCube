@@ -1,0 +1,565 @@
+[general]
+	#Enable or disable the mod entirely
+	enabled = true
+	#Show visual particles for status effects
+	visualEffects = true
+
+[dayScaling]
+	#Enable day-based difficulty scaling
+	enabled = false
+	#Days between each scaling increase
+	# Default: 7
+	# Range: 1 ~ 365
+	interval = 7
+	#Multiplier added per interval
+	# Default: 0.1
+	# Range: 0.01 ~ 999999.0
+	multiplier = 0.1
+	#Maximum scaling multiplier
+	# Default: 5.0
+	# Range: 0.0 ~ 999999.0
+	maxMultiplier = 5.0
+	#Show day scaling notifications to players
+	showNotifications = true
+	#When to send notifications: EVERY_DAY or SCALING_INCREASE_ONLY
+	#Allowed Values: EVERY_DAY, SCALING_INCREASE_ONLY
+	notificationMode = "EVERY_DAY"
+
+[attributes]
+	#Health multiplier for mobs
+	# Default: 1.5
+	# Range: 0.1 ~ 999999.0
+	healthMultiplier = 1.5
+	#Damage multiplier for mobs
+	# Default: 1.5
+	# Range: 0.1 ~ 999999.0
+	damageMultiplier = 1.5
+	#Speed multiplier for mobs
+	# Default: 1.0
+	# Range: 0.1 ~ 999999.0
+	speedMultiplier = 1.0
+	#Attack speed multiplier for mobs
+	# Default: 1.0
+	# Range: 0.1 ~ 999999.0
+	attackSpeedMultiplier = 1.0
+	#Armor points added to mobs
+	# Default: 5.0
+	# Range: 0.0 ~ 999999.0
+	armorAddition = 5.0
+	#Armor toughness added to mobs
+	# Default: 0.0
+	# Range: 0.0 ~ 999999.0
+	armorToughnessAddition = 0.0
+
+[effects]
+	#Effect duration in seconds, -1 for infinite
+	# Default: -1
+	# Range: -1 ~ 7200
+	duration = -1
+	#Strength effect level (0 = disabled)
+	# Default: 0
+	# Range: 0 ~ 10
+	strengthAmplifier = 0
+	#Speed effect level (0 = disabled)
+	# Default: 0
+	# Range: 0 ~ 10
+	speedAmplifier = 0
+	#Resistance effect level (0 = disabled)
+	# Default: 0
+	# Range: 0 ~ 10
+	resistanceAmplifier = 0
+	#Regeneration effect level (0 = disabled, skipped for undead)
+	# Default: 0
+	# Range: 0 ~ 10
+	regenerationAmplifier = 0
+	#Absorption effect level (0 = disabled)
+	# Default: 0
+	# Range: 0 ~ 10
+	absorptionAmplifier = 0
+
+[harmfulEffects]
+	#Enable harmful effects applied to players on hit
+	enabled = true
+	#Chance of applying a harmful effect per hit (0.0-1.0)
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	chance = 0.15
+	#Poison duration in seconds
+	# Default: 5
+	# Range: 1 ~ 60
+	poisonDuration = 5
+	#Slowness duration in seconds
+	# Default: 3
+	# Range: 1 ~ 60
+	slownessDuration = 3
+	#Wither duration in seconds
+	# Default: 3
+	# Range: 1 ~ 60
+	witherDuration = 3
+
+[dimensionScaling]
+	#Select scaling mode: SCALING (multiply base attributes) or OVERRIDE (replace with fixed multipliers)
+	#Allowed Values: SCALING, OVERRIDE
+	mode = "SCALING"
+
+	[dimensionScaling.slot1]
+		#Dimension ID, e.g. minecraft:overworld
+		dimensionName = ""
+		#Health % multiplier (100 = 1x)
+		# Default: 100
+		# Range: 100 ~ 999999
+		healthMultiplier = 100
+		#Damage % multiplier (100 = 1x)
+		# Default: 100
+		# Range: 100 ~ 999999
+		damageMultiplier = 100
+		#Speed % multiplier (100 = 1x)
+		# Default: 100
+		# Range: 100 ~ 999999
+		speedMultiplier = 100
+		#Attack speed % multiplier (100 = 1x)
+		# Default: 100
+		# Range: 100 ~ 999999
+		attackSpeedMultiplier = 100
+		#Armor points added
+		# Default: 0
+		# Range: 0 ~ 999999
+		armorAddition = 0
+		#Armor toughness points added
+		# Default: 0
+		# Range: 0 ~ 999999
+		armorToughnessAddition = 0
+
+	[dimensionScaling.slot2]
+		#Dimension ID, e.g. minecraft:overworld
+		dimensionName = ""
+		#Health % multiplier (100 = 1x)
+		# Default: 100
+		# Range: 100 ~ 999999
+		healthMultiplier = 100
+		#Damage % multiplier (100 = 1x)
+		# Default: 100
+		# Range: 100 ~ 999999
+		damageMultiplier = 100
+		#Speed % multiplier (100 = 1x)
+		# Default: 100
+		# Range: 100 ~ 999999
+		speedMultiplier = 100
+		#Attack speed % multiplier (100 = 1x)
+		# Default: 100
+		# Range: 100 ~ 999999
+		attackSpeedMultiplier = 100
+		#Armor points added
+		# Default: 0
+		# Range: 0 ~ 999999
+		armorAddition = 0
+		#Armor toughness points added
+		# Default: 0
+		# Range: 0 ~ 999999
+		armorToughnessAddition = 0
+
+	[dimensionScaling.slot3]
+		#Dimension ID, e.g. minecraft:overworld
+		dimensionName = ""
+		#Health % multiplier (100 = 1x)
+		# Default: 100
+		# Range: 100 ~ 999999
+		healthMultiplier = 100
+		#Damage % multiplier (100 = 1x)
+		# Default: 100
+		# Range: 100 ~ 999999
+		damageMultiplier = 100
+		#Speed % multiplier (100 = 1x)
+		# Default: 100
+		# Range: 100 ~ 999999
+		speedMultiplier = 100
+		#Attack speed % multiplier (100 = 1x)
+		# Default: 100
+		# Range: 100 ~ 999999
+		attackSpeedMultiplier = 100
+		#Armor points added
+		# Default: 0
+		# Range: 0 ~ 999999
+		armorAddition = 0
+		#Armor toughness points added
+		# Default: 0
+		# Range: 0 ~ 999999
+		armorToughnessAddition = 0
+
+	[dimensionScaling.slot4]
+		#Dimension ID, e.g. minecraft:overworld
+		dimensionName = ""
+		#Health % multiplier (100 = 1x)
+		# Default: 100
+		# Range: 100 ~ 999999
+		healthMultiplier = 100
+		#Damage % multiplier (100 = 1x)
+		# Default: 100
+		# Range: 100 ~ 999999
+		damageMultiplier = 100
+		#Speed % multiplier (100 = 1x)
+		# Default: 100
+		# Range: 100 ~ 999999
+		speedMultiplier = 100
+		#Attack speed % multiplier (100 = 1x)
+		# Default: 100
+		# Range: 100 ~ 999999
+		attackSpeedMultiplier = 100
+		#Armor points added
+		# Default: 0
+		# Range: 0 ~ 999999
+		armorAddition = 0
+		#Armor toughness points added
+		# Default: 0
+		# Range: 0 ~ 999999
+		armorToughnessAddition = 0
+
+	[dimensionScaling.slot5]
+		#Dimension ID, e.g. minecraft:overworld
+		dimensionName = ""
+		#Health % multiplier (100 = 1x)
+		# Default: 100
+		# Range: 100 ~ 999999
+		healthMultiplier = 100
+		#Damage % multiplier (100 = 1x)
+		# Default: 100
+		# Range: 100 ~ 999999
+		damageMultiplier = 100
+		#Speed % multiplier (100 = 1x)
+		# Default: 100
+		# Range: 100 ~ 999999
+		speedMultiplier = 100
+		#Attack speed % multiplier (100 = 1x)
+		# Default: 100
+		# Range: 100 ~ 999999
+		attackSpeedMultiplier = 100
+		#Armor points added
+		# Default: 0
+		# Range: 0 ~ 999999
+		armorAddition = 0
+		#Armor toughness points added
+		# Default: 0
+		# Range: 0 ~ 999999
+		armorToughnessAddition = 0
+
+[mobFilter]
+	#If true, only mobs in the whitelist are buffed
+	useWhitelist = false
+	#Mob IDs to buff (used when useWhitelist = true)
+	whitelist = []
+	#Mob IDs to never buff
+	blacklist = ["minecraft:warden"]
+
+[modidFilter]
+	#If true, only mobs from whitelisted mods are buffed
+	useWhitelist = false
+	#Mod IDs to buff
+	whitelist = []
+	#Mod IDs to never buff
+	blacklist = []
+
+[dimensionFilter]
+	#If true, only buff mobs in whitelisted dimensions
+	useWhitelist = false
+	#Dimensions where mobs are buffed (useWhitelist = true)
+	whitelist = ["minecraft:overworld", "minecraft:the_nether", "minecraft:the_end"]
+	#Dimensions where mobs are never buffed
+	blacklist = []
+
+[rangedMeleeSwitching]
+	#Enable ranged mob close-range behavior
+	enabled = true
+	#MELEE: ranged mobs switch to sword when player is close.
+	#KITE:  ranged mobs run away to maintain distance.
+	#RANDOM: each mob randomly picks MELEE or KITE on spawn.
+	#Allowed Values: MELEE, KITE, RANDOM
+	behaviorMode = "RANDOM"
+	#Distance threshold that triggers the behavior
+	# Default: 4.0
+	# Range: 1.0 ~ 16.0
+	switchDistance = 4.0
+	#Speed multiplier when in melee mode
+	# Default: 0.9
+	# Range: 0.1 ~ 5.0
+	meleeSpeedMultiplier = 0.9
+	#Additional mob IDs treated as ranged
+	customRangedMobs = []
+	# Default: 0
+	# Range: 0 ~ 365
+	stoneSwordUnlockDay = 0
+	# Default: 7
+	# Range: 0 ~ 365
+	ironSwordUnlockDay = 7
+	# Default: 21
+	# Range: 0 ~ 365
+	diamondSwordUnlockDay = 21
+	# Default: 60
+	# Range: 0 ~ 365
+	netheriteSwordUnlockDay = 60
+	# Default: 0
+	# Range: 0 ~ 365
+	goldenAxeUnlockDay = 0
+	# Default: 14
+	# Range: 0 ~ 365
+	diamondAxeUnlockDay = 14
+	# Default: 45
+	# Range: 0 ~ 365
+	netheriteAxeUnlockDay = 45
+	#Enable enchantments on generated melee weapons
+	enchantmentsEnabled = true
+	# Default: 2
+	# Range: 1 ~ 4
+	maxEnchantmentsPerWeapon = 2
+	# Default: 7
+	# Range: 1 ~ 30
+	daysPerEnchantmentLevel = 7
+	# Default: 0
+	# Range: 0 ~ 365
+	sharpnessUnlockDay = 0
+	# Default: 5
+	# Range: 1 ~ 5
+	sharpnessMaxLevel = 5
+	# Default: 14
+	# Range: 0 ~ 365
+	fireAspectUnlockDay = 14
+	# Default: 2
+	# Range: 1 ~ 2
+	fireAspectMaxLevel = 2
+	# Default: 7
+	# Range: 0 ~ 365
+	knockbackUnlockDay = 7
+	# Default: 2
+	# Range: 1 ~ 2
+	knockbackMaxLevel = 2
+	# Default: 21
+	# Range: 0 ~ 365
+	sweepingEdgeUnlockDay = 21
+	# Default: 3
+	# Range: 1 ~ 3
+	sweepingEdgeMaxLevel = 3
+
+[combatDraft]
+	#Enable CombatDraft: hostile/neutral mobs drink a regeneration potion when low on health.
+	enabled = true
+	#HP fraction that triggers the potion (0.20 = 20% of max HP).
+	# Default: 0.2
+	# Range: 0.01 ~ 0.99
+	healthThreshold = 0.2
+	#Regeneration effect level (1 = Regen I, 4 = Regen IV). Default 4.
+	# Default: 4
+	# Range: 1 ~ 10
+	regenAmplifier = 4
+	#Regeneration duration in seconds.
+	# Default: 10
+	# Range: 1 ~ 120
+	regenDuration = 10
+	#Ticks before the mob can use CombatDraft again. Default 600 (30 s).
+	# Default: 600
+	# Range: 20 ~ 72000
+	cooldownTicks = 600
+	#Max times a mob can use CombatDraft per life. 0 = unlimited.
+	# Default: 0
+	# Range: 0 ~ 100
+	maxUses = 0
+	#If true, only mobs in 'whitelist' can use CombatDraft.
+	useWhitelist = false
+	#Mob IDs allowed to use CombatDraft (only when useWhitelist = true).
+	whitelist = []
+	#Mob IDs that cannot use CombatDraft (always applied). Slime, magma_cube and ghast are hardcoded.
+	blacklist = []
+
+[mobPresets]
+	#Enable per-mob stat presets
+	enabled = false
+	#If true, mobs that have a matching preset ignore dimensionScaling multipliers and only use the preset values.
+	overrideDimensionScaling = false
+	#Mob-to-preset mapping, format: modid:mob_id:preset_name
+	mobMapping = ["minecraft:zombie:default", "minecraft:skeleton:default", "minecraft:ender_dragon:boss", "minecraft:wither:boss"]
+
+	[mobPresets.preset1]
+		presetName = ""
+		# Default: 1.0
+		# Range: 0.01 ~ 999999.0
+		healthMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.01 ~ 999999.0
+		damageMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.01 ~ 999999.0
+		speedMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.01 ~ 999999.0
+		attackSpeedMultiplier = 1.0
+		# Default: 0.0
+		# Range: 0.0 ~ 999999.0
+		armorAddition = 0.0
+		# Default: 0.0
+		# Range: 0.0 ~ 999999.0
+		armorToughnessAddition = 0.0
+
+	[mobPresets.preset2]
+		presetName = ""
+		# Default: 3.0
+		# Range: 0.01 ~ 999999.0
+		healthMultiplier = 3.0
+		# Default: 2.5
+		# Range: 0.01 ~ 999999.0
+		damageMultiplier = 2.5
+		# Default: 1.2
+		# Range: 0.01 ~ 999999.0
+		speedMultiplier = 1.2
+		# Default: 1.5
+		# Range: 0.01 ~ 999999.0
+		attackSpeedMultiplier = 1.5
+		# Default: 10.0
+		# Range: 0.0 ~ 999999.0
+		armorAddition = 10.0
+		# Default: 5.0
+		# Range: 0.0 ~ 999999.0
+		armorToughnessAddition = 5.0
+
+	[mobPresets.preset3]
+		presetName = ""
+		# Default: 2.0
+		# Range: 0.01 ~ 999999.0
+		healthMultiplier = 2.0
+		# Default: 1.8
+		# Range: 0.01 ~ 999999.0
+		damageMultiplier = 1.8
+		# Default: 1.1
+		# Range: 0.01 ~ 999999.0
+		speedMultiplier = 1.1
+		# Default: 1.2
+		# Range: 0.01 ~ 999999.0
+		attackSpeedMultiplier = 1.2
+		# Default: 5.0
+		# Range: 0.0 ~ 999999.0
+		armorAddition = 5.0
+		# Default: 2.0
+		# Range: 0.0 ~ 999999.0
+		armorToughnessAddition = 2.0
+
+	[mobPresets.preset4]
+		presetName = ""
+		# Default: 0.5
+		# Range: 0.01 ~ 999999.0
+		healthMultiplier = 0.5
+		# Default: 0.5
+		# Range: 0.01 ~ 999999.0
+		damageMultiplier = 0.5
+		# Default: 0.9
+		# Range: 0.01 ~ 999999.0
+		speedMultiplier = 0.9
+		# Default: 0.8
+		# Range: 0.01 ~ 999999.0
+		attackSpeedMultiplier = 0.8
+		# Default: 0.0
+		# Range: 0.0 ~ 999999.0
+		armorAddition = 0.0
+		# Default: 0.0
+		# Range: 0.0 ~ 999999.0
+		armorToughnessAddition = 0.0
+
+	[mobPresets.preset5]
+		presetName = ""
+		# Default: 1.0
+		# Range: 0.01 ~ 999999.0
+		healthMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.01 ~ 999999.0
+		damageMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.01 ~ 999999.0
+		speedMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.01 ~ 999999.0
+		attackSpeedMultiplier = 1.0
+		# Default: 0.0
+		# Range: 0.0 ~ 999999.0
+		armorAddition = 0.0
+		# Default: 0.0
+		# Range: 0.0 ~ 999999.0
+		armorToughnessAddition = 0.0
+
+[passiveMobAggression]
+	#Passive mob aggression mode: OFF, NEUTRAL (retaliate), HOSTILE (actively attack)
+	#Allowed Values: OFF, NEUTRAL, HOSTILE
+	mode = "OFF"
+	#Base attack damage given to affected passive mobs
+	# Default: 3.0
+	# Range: 0.5 ~ 100.0
+	baseDamage = 3.0
+	#Add bonus damage based on the mob's max health
+	scaleWithHealth = false
+	#Scaling factor: totalDamage = baseDamage + (maxHealth * healthScaleFactor)
+	# Default: 0.1
+	# Range: 0.0 ~ 100.0
+	healthScaleFactor = 0.1
+	#Mob IDs affected (if non-empty, only these mobs are affected)
+	whitelist = []
+	#Mob IDs that are never affected
+	blacklist = []
+
+[zombieHandling]
+	#Strip the vanilla leader zombie health bonus modifier from zombies entirely.
+	disableLeaderZombies = false
+	#Exclude the vanilla leader zombie health bonus from BuffMobs health scaling so leader zombies do not become overpowered. Ignored if disableLeaderZombies is true.
+	excludeLeaderBonusFromMultiplier = true
+
+[healthSync]
+	#Synchronize a mob's current health with its new max health after BuffMobs modifies it, fixing structure mob health desync.
+	enabled = true
+	#OVERRIDE: fully heal the mob to its new max health.
+	#STACK: preserve the mob's existing damage taken and add the health delta on top.
+	#Allowed Values: OVERRIDE, STACK
+	mode = "OVERRIDE"
+
+[dimensionMaxHealth]
+	#Enable fixed max health overrides per dimension
+	enabled = false
+	#If true, only mobs in 'allowlist' receive dimension max health overrides
+	useAllowlist = false
+	#Mob IDs eligible for dimension max health overrides (used when useAllowlist = true)
+	allowlist = []
+	#Mob IDs that never receive dimension max health overrides
+	denylist = []
+
+	[dimensionMaxHealth.slot1]
+		#Dimension ID, e.g. minecraft:the_nether
+		dimensionName = ""
+		#Fixed max health applied to mobs in this dimension (0 = disabled)
+		# Default: 0.0
+		# Range: 0.0 ~ 999999.0
+		maxHealth = 0.0
+
+	[dimensionMaxHealth.slot2]
+		#Dimension ID, e.g. minecraft:the_nether
+		dimensionName = ""
+		#Fixed max health applied to mobs in this dimension (0 = disabled)
+		# Default: 0.0
+		# Range: 0.0 ~ 999999.0
+		maxHealth = 0.0
+
+	[dimensionMaxHealth.slot3]
+		#Dimension ID, e.g. minecraft:the_nether
+		dimensionName = ""
+		#Fixed max health applied to mobs in this dimension (0 = disabled)
+		# Default: 0.0
+		# Range: 0.0 ~ 999999.0
+		maxHealth = 0.0
+
+	[dimensionMaxHealth.slot4]
+		#Dimension ID, e.g. minecraft:the_nether
+		dimensionName = ""
+		#Fixed max health applied to mobs in this dimension (0 = disabled)
+		# Default: 0.0
+		# Range: 0.0 ~ 999999.0
+		maxHealth = 0.0
+
+	[dimensionMaxHealth.slot5]
+		#Dimension ID, e.g. minecraft:the_nether
+		dimensionName = ""
+		#Fixed max health applied to mobs in this dimension (0 = disabled)
+		# Default: 0.0
+		# Range: 0.0 ~ 999999.0
+		maxHealth = 0.0

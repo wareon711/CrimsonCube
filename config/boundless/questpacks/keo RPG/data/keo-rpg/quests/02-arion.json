@@ -1,0 +1,26 @@
+{
+  "id": "arion",
+  "name": "Arion!",
+  "icon": "armageddon_mod:emerald_totem",
+  "description": "Craftea el /bEmerald totem/x para poder combatir contra /oArion, tyrant of the emerald wrath/x\n\nNecesitaras /b4 esmeraldas/x y /b1 de oro crudo!/x",
+  "category": "armageddon",
+  "sub-category": "progresion",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "the-goblin-lord",
+  "completion": {
+    "complete": [
+      {
+        "collect": "armageddon_mod:emerald_totem",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "exp": "points",
+    "count": 550
+  }
+}

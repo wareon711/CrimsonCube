@@ -1,0 +1,30 @@
+{
+  "id": "ojo-de-lince",
+  "name": "Ojo de Lince",
+  "icon": "minecraft:spyglass",
+  "description": "Fabrica un /bCatalejo/x y úsalo para observar a cualquier criatura o enemigo desde la distancia; mantén el enfoque hasta que el análisis se complete. Una vez escaneados, los detalles sobre sus /bobjetos/x (drops) y /bhábitats/x  se registrarán permanentemente en tu Diccionario Bestiario. \n\nEl bestiario siempre estara en tu inventario",
+  "category": "guia-keo-rpg",
+  "sub-category": "2-era-de-piedra",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "mochilas",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:spyglass",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "confluence:invisibility_potion",
+        "count": 1
+      }
+    ]
+  }
+}

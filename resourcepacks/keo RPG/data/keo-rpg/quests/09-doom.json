@@ -1,0 +1,26 @@
+{
+  "id": "doom",
+  "name": "Doom!",
+  "icon": "armageddon_mod:the_key_of_doom",
+  "description": "Fabrica la /bkey of doom/x e invoca a /oThe bringer of doom!/x\n\nConseguiras materiales para fabricar y /bel sigil of calamity/x para /oinvocar a the calamities!/x",
+  "category": "armageddon",
+  "sub-category": "progresion",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "vaedric",
+  "completion": {
+    "complete": [
+      {
+        "collect": "armageddon_mod:the_key_of_doom",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "exp": "points",
+    "count": 850
+  }
+}

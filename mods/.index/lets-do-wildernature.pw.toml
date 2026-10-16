@@ -1,0 +1,25 @@
+filename = 'letsdo-wildernature-neoforge-1.1.5.jar'
+name = "[Let's Do] WilderNature"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'WilderNature - 1.1.5 - NEOFORGE - 1.21.1'
+
+[download]
+hash = '5307a4edc885ab949eed4438d9d7f9cb6176421d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8543233
+project-id = 1071657
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'REQUIRED'

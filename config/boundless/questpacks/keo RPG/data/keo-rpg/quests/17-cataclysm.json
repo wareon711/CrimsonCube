@@ -1,0 +1,60 @@
+{
+  "id": "cataclysm",
+  "name": "cataclysm",
+  "icon": "cataclysm:flame_eye",
+  "description": "Si aspiras al verdadero /ofinal/x, deberás descender a los templos de fuego y a las ciudades mecánicas olvidadas. \nCon estos ojos podras encontrar /bdungeons/x y /bbosses/x que te podran a prueba",
+  "category": "jefes",
+  "sub-category": "otros-jefes",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "the-goblin-lord",
+  "completion": {
+    "complete": [
+      {
+        "collect": "cataclysm:mech_eye",
+        "count": 1
+      },
+      {
+        "collect": "cataclysm:flame_eye",
+        "count": 1
+      },
+      {
+        "collect": "cataclysm:void_eye",
+        "count": 1
+      },
+      {
+        "collect": "cataclysm:monstrous_eye",
+        "count": 1
+      },
+      {
+        "collect": "cataclysm:abyss_eye",
+        "count": 1
+      },
+      {
+        "collect": "cataclysm:desert_eye",
+        "count": 1
+      },
+      {
+        "collect": "cataclysm:cursed_eye",
+        "count": 1
+      },
+      {
+        "collect": "cataclysm:storm_eye",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:nether_star",
+        "count": 1
+      }
+    ],
+    "exp": "levels",
+    "count": 30
+  }
+}

@@ -1,0 +1,21 @@
+filename = 'gbf-1.21.1-1.0.2.jar'
+name = 'GeckolibBetterFPS'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'gbf-1.21.1-1.0.2.jar'
+
+[download]
+hash = 'ba81bef24bce6b0c89e26a35cf62ef6d06aa51b2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8582640
+project-id = 1455983
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'

@@ -1,0 +1,23 @@
+{
+  "id": "altares",
+  "name": "Altares!",
+  "icon": "confluence:demon_altar",
+  "description": "Encontraras /o2 biomas/x nuevos, el /rcarmesi/x y la /pcorrupcion! /x\n\nCada uno con curiosidades distintas pero la principal son los /oaltares/x en los cuales podras /bcraftear distintos items!/x",
+  "category": "confluence",
+  "sub-category": "introduccion",
+  "optional": false,
+  "repeatable": false,
+  "hiddenUnderDependency": false,
+  "completion": {
+    "complete": [
+      {
+        "xp": "levels",
+        "count": 10
+      }
+    ]
+  },
+  "reward": {
+    "exp": "levels",
+    "count": 10
+  }
+}

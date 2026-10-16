@@ -1,0 +1,29 @@
+{
+  "id": "rey-slime",
+  "name": "Rey slime!",
+  "icon": "terra_entity:slime_crown",
+  "description": "Tendras un /o1%/x de probabilidad de conseguir la /b/lcorona de limo matando slimes./x\n\n/rCon esta podras invocar al rey limo!\n\n/oTambien la puedes tradear con el guia y el comerciante!",
+  "category": "jefes",
+  "sub-category": "terraria",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "completion": {
+    "complete": [
+      {
+        "collect": "terra_entity:slime_crown",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "numismaticoverhaul:silver_coin",
+        "count": 20
+      }
+    ]
+  }
+}

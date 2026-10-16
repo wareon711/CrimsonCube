@@ -1,0 +1,37 @@
+{
+  "enabled": true,
+  "mod_name": "Artifacts",
+  "mod_id": "artifacts",
+  "achievements": {
+    "adventurous_eater": {
+      "display_name": "Comedor Aventurero",
+      "original_name": "Comedor Aventurero",
+      "enabled": true,
+      "icon": "artifacts:onion_ring",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "chest_slayer": {
+      "display_name": "Asesino de Cofres",
+      "original_name": "Asesino de Cofres",
+      "enabled": true,
+      "icon": "artifacts:mimic_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "amateur_archaeologist": {
+      "display_name": "Arqueólogo Aficionado",
+      "original_name": "Arqueólogo Aficionado",
+      "enabled": true,
+      "icon": "artifacts:flame_pendant",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

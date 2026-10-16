@@ -1,0 +1,28 @@
+#Decay/Smoothing time in milliseconds. Higher = slower zoom.
+# Default: 200
+# Range: 0 ~ 5000
+smoothMs = 200
+#Height of the black bars in percentage of the screen height.
+# Default: 10.0
+# Range: 0.0 ~ 50.0
+barsPercent = 10.0
+#Initial zoom multiplier when pressing the key (1.0 = no zoom, 0.1 = 10x zoom).
+# Default: 0.3
+# Range: 0.01 ~ 1.0
+baseZoomMultiplier = 0.3
+#Minimum zoom multiplier (maximum zoom in).
+# Default: 0.01
+# Range: 0.001 ~ 1.0
+minZoomMultiplier = 0.01
+#Maximum zoom multiplier (minimum zoom in).
+# Default: 1.0
+# Range: 0.01 ~ 1.0
+maxZoomMultiplier = 1.0
+#How much the zoom multiplier changes per scroll step.
+# Default: 0.05
+# Range: 0.001 ~ 0.5
+scrollSensitivity = 0.05
+#Whether to hide the HUD (crosshair, health, etc.) while zooming.
+hideHudDuringZoom = true
+#Whether to enable Minecraft's cinematic camera (smooth mouse) while zooming.
+enableCinematicCamera = true

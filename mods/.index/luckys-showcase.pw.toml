@@ -1,0 +1,18 @@
+filename = 'luckysshowcase-neoforge-1.21.1-21.1.0.jar'
+name = "Lucky's Showcase"
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'luckysshowcase-neoforge-1.21.1-21.1.0.jar'
+
+[download]
+hash = '5a743625ad0474d267667d13a60f021b5f7a4bbd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6524629
+project-id = 1159421

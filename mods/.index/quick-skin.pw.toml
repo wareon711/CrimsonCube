@@ -1,0 +1,21 @@
+filename = 'Quick Skin - NeoForge - 1.21.1-2.6.2.4.jar'
+name = 'Quick Skin'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Quick Skin - NeoForge - 1.21.1-2.6.2.4.jar'
+
+[download]
+hash = 'a5ba6d1ccaf5e15f2d33235ea0a180c5d899cb83'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7718937
+project-id = 1323980
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'

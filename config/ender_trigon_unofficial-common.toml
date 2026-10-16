@@ -1,0 +1,21 @@
+#Whether the landing phase should be skipped more often to shorten long flying periods
+skipLandingPhase = true
+#Whether the crash phase should fling destroyed blocks
+crashPhaseDestroysBlocks = true
+#Maximum baby Ender Dragons spawned during the hatching phase
+# Default: 4
+# Range: 1 ~ 16
+maxBabyEnderDragons = 4
+#Special attacks plus remaining end crystals required before the dragon may perch
+# Default: 4
+# Range: 1 ~ 16
+attacksUntilPerch = 4
+
+#Enabled custom Ender Dragon phases
+[enabled_custom_phases]
+	#Specifies if this custom dragon phase should be enabled
+	enableSnatchPlayer = true
+	#Specifies if this custom dragon phase should be enabled
+	enableCrashPlayer = true
+	#Specifies if this custom dragon phase should be enabled
+	enableDiveBombPlayer = true

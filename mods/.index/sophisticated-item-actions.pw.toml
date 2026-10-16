@@ -1,0 +1,21 @@
+filename = 'sophisticateditemactions-1.21.1-0.5.16.423.jar'
+name = 'Sophisticated Item Actions'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'sophisticateditemactions-1.21.1-0.5.16.423.jar'
+
+[download]
+hash = 'a58dc04e0cb9cb9081e49fdf3b3a03b405a9cabf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8820579
+project-id = 1419142
+
+[[x-prismlauncher-dependencies]]
+addonId = '618298'
+type = 'REQUIRED'

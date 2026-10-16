@@ -1,0 +1,19 @@
+{
+  "id": "rey-slime",
+  "name": "Rey slime",
+  "icon": "confluence:slime_crown",
+  "description": "Consigue /b20 de gel/x y craftea una /bcorona de oro o platino./x\n\nUsa un /oaltar demoniaco/x para craftear una /bcorona de slime/x e invocar al /rRey slime!/x",
+  "category": "confluence",
+  "sub-category": "jefes",
+  "optional": false,
+  "repeatable": false,
+  "hiddenUnderDependency": false,
+  "completion": {
+    "complete": [
+      {
+        "kill": "terra_entity:king_slime",
+        "count": 1
+      }
+    ]
+  }
+}

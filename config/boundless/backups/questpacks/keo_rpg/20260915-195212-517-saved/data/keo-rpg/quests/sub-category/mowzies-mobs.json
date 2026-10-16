@@ -1,0 +1,8 @@
+{
+  "id": "mowzies-mobs",
+  "category": "jefes",
+  "name": "MOWZIE´S MOBS",
+  "icon": "mowziesmobs:wrought_helmet",
+  "order": 6,
+  "default_open": true
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pastel",
+  "name": "¿pastel?",
+  "icon": "pastel:guidebook",
+  "description": "Explorando el mundo desbloquearás este libro al encontrar /oamatista/x, /otopacio/x o algún otro elemento raro…\n\n/lSé curioso, /xeste libro llegará a ti. Es la guía oficial del mod /b\"Pastel\"/x, un mod que nunca has jugado… /pprepárate para dejarte sorprender.",
+  "category": "guia-keo-rpg",
+  "sub-category": "2-era-de-piedra",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "mapa-de-bolsillo",
+  "completion": {
+    "complete": [
+      {
+        "collect": "pastel:guidebook",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "exp": "points",
+    "count": 150
+  }
+}

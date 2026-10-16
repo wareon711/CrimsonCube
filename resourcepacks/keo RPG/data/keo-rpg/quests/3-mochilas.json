@@ -1,0 +1,36 @@
+{
+  "id": "mochilas",
+  "name": "¡Mochilas!",
+  "icon": "sophisticatedbackpacks:backpack",
+  "description": "Crea tu primera /lmochila/x para comenzar a acumular tesoros y recursos del mundo.",
+  "category": "guia-keo-rpg",
+  "sub-category": "1-el-despertar",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "el-primer-tajo",
+  "completion": {
+    "complete": [
+      {
+        "collect": "#curios:back",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:iron_ingot",
+        "count": 4
+      },
+      {
+        "item": "chalk:white_chalk",
+        "count": 1
+      }
+    ],
+    "exp": "points",
+    "count": 20
+  }
+}

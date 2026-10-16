@@ -1,0 +1,28 @@
+{
+  "id": "all-the-bosses",
+  "name": "y los jefes?!",
+  "icon": "skeleton_skull",
+  "description": "/b¿estas perdido?/x\n\nEn el menu de pausa veras un libro donde podras ver una /bcheck list/x de todos los jefes de modpack.\nAl darle click a uno podras ver todos los /pjefes en orden de dificultad/x y su informacion de /odrops/x e informacion de como /oencontrarlo/xo /oinvocarlo/x",
+  "category": "keo-rpg",
+  "sub-category": "era-de-hierro",
+  "optional": false,
+  "repeatable": false,
+  "hiddenUnderDependency": false,
+  "dependencies": "la-primera-vez",
+  "completion": {
+    "complete": [
+      {
+        "xp": "points",
+        "count": 5
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "paraglider:spirit_orb",
+        "count": 2
+      }
+    ]
+  }
+}

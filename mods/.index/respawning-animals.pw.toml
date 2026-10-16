@@ -1,0 +1,25 @@
+filename = 'RespawningAnimals-v21.1.2-1.21.1-NeoForge.jar'
+name = 'Respawning Animals'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NEOFORGE] [1.21.1] RespawningAnimals-v21.1.2'
+
+[download]
+hash = '71b853a382ff2a17e91dc1db5728dd205e29cf74'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6879482
+project-id = 322765
+
+[[x-prismlauncher-dependencies]]
+addonId = '544048'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '495476'
+type = 'REQUIRED'

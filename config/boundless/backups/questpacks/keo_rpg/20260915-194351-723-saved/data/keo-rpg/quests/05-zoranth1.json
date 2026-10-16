@@ -1,0 +1,26 @@
+{
+  "id": "zoranth1",
+  "name": "Zoranth!",
+  "icon": "armageddon_mod:fiery_wither_skull",
+  "description": "Fabrica el /bFiery wither skull/x e invoca a /ozoranth/x en el nether!\n\nEsto te permitira usar /oNetherita/x",
+  "category": "armageddon",
+  "sub-category": "progresion",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "eldorath",
+  "completion": {
+    "complete": [
+      {
+        "collect": "armageddon_mod:fiery_wither_skull",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "exp": "points",
+    "count": 650
+  }
+}

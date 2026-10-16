@@ -1,0 +1,2197 @@
+{
+  "enabled": true,
+  "mod_name": "Pastel",
+  "mod_id": "pastel",
+  "achievements": {
+    "consume_enchanted_star_candy": {
+      "display_name": "El Mejor Menú 1 Estrella",
+      "original_name": "El Mejor Menú 1 Estrella",
+      "enabled": true,
+      "icon": "pastel:enchanted_star_candy",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "tap_mermaids_jam": {
+      "display_name": "Sólo Jammin\u0027",
+      "original_name": "Sólo Jammin\u0027",
+      "enabled": true,
+      "icon": "pastel:mermaids_jam",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "catch_shooting_star": {
+      "display_name": "Alcanzando el cielo",
+      "original_name": "Alcanzando el cielo",
+      "enabled": true,
+      "icon": "pastel:glistering_shooting_star",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/fill_knowledge_gem": {
+      "display_name": "En su lugar, dejé a CHA",
+      "original_name": "En su lugar, dejé a CHA",
+      "enabled": true,
+      "icon": "pastel:knowledge_gem",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/create_pastel_network_using_every_node_type": {
+      "display_name": "Ingeniero de Redes Pastel",
+      "original_name": "Ingeniero de Redes Pastel",
+      "enabled": true,
+      "icon": "pastel:gather_node",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/open_deeper_down_portal": {
+      "display_name": "Abisal",
+      "original_name": "Abisal",
+      "enabled": true,
+      "icon": "minecraft:bedrock",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/collect_stratine": {
+      "display_name": "Carga pesada",
+      "original_name": "Carga pesada",
+      "enabled": true,
+      "icon": "pastel:stratine_fragments",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/high_jump_with_take_off_belt": {
+      "display_name": "Momento perfecto",
+      "original_name": "Momento perfecto",
+      "enabled": true,
+      "icon": "pastel:take_off_belt",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/trigger_unenchanted_workstaff": {
+      "display_name": "Pero por qué",
+      "original_name": "Pero por qué",
+      "enabled": true,
+      "icon": "pastel:malachite_workstaff",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/take_off_belt_overcharged": {
+      "display_name": "Momento no tan perfecto",
+      "original_name": "Momento no tan perfecto",
+      "enabled": true,
+      "icon": "pastel:take_off_belt",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "place_moonstone_in_preservation_ruins": {
+      "display_name": "Un símbolo de curación",
+      "original_name": "Un símbolo de curación",
+      "enabled": true,
+      "icon": "pastel:moonstone_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/carry_too_many_heavy_gravity_blocks": {
+      "display_name": "¿Gravamen? ignoramos eso",
+      "original_name": "¿Gravamen? ignoramos eso",
+      "enabled": true,
+      "icon": "pastel:stratine_floatblock",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/craft_blacklisted_memory_fail": {
+      "display_name": "flojo de nuevo",
+      "original_name": "flojo de nuevo",
+      "enabled": true,
+      "icon": "pastel:memory",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/collect_pure_resource": {
+      "display_name": "Igual, pero diferente",
+      "original_name": "Igual, pero diferente",
+      "enabled": true,
+      "icon": "pastel:pure_iron",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/drink_jade_wine": {
+      "display_name": "Bebida antigua",
+      "original_name": "Bebida antigua",
+      "enabled": true,
+      "icon": "pastel:jade_wine",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/build_enchanting_structure": {
+      "display_name": "Encantamiento del siguiente nivel",
+      "original_name": "Encantamiento del siguiente nivel",
+      "enabled": true,
+      "icon": "pastel:enchanter",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/build_cinderhearth_structure_without_lava": {
+      "display_name": "¿Era eso realmente necesario?",
+      "original_name": "¿Era eso realmente necesario?",
+      "enabled": true,
+      "icon": "minecraft:bucket",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/crumble_midnight_aberration": {
+      "display_name": "Un fracaso inmenso",
+      "original_name": "Un fracaso inmenso",
+      "enabled": true,
+      "icon": "pastel:midnight_aberration",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/collect_hummingstone": {
+      "display_name": "Pájaro cantor",
+      "original_name": "Pájaro cantor",
+      "enabled": true,
+      "icon": "pastel:hummingstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/collect_blood_orchid_petal": {
+      "display_name": "Hoja dentada",
+      "original_name": "Hoja dentada",
+      "enabled": true,
+      "icon": "pastel:blood_orchid_petal",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/create_pastel_network": {
+      "display_name": "Pastel vinculado",
+      "original_name": "Pastel vinculado",
+      "enabled": true,
+      "icon": "pastel:connection_node",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/collect_moonstone": {
+      "display_name": "El más brillante de los blancos",
+      "original_name": "El más brillante de los blancos",
+      "enabled": true,
+      "icon": "pastel:moonstone_shard",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/harvest_moonstruck_nectar": {
+      "display_name": "El mejor alcohol ilegal del mundo",
+      "original_name": "El mejor alcohol ilegal del mundo",
+      "enabled": true,
+      "icon": "pastel:moonstruck_nectar",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/collect_myceylon": {
+      "display_name": "Aromáticos de hongos",
+      "original_name": "Aromáticos de hongos",
+      "enabled": true,
+      "icon": "pastel:myceylon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/upgrade_pastel_node_lamp": {
+      "display_name": "Estudio de luces pastel",
+      "original_name": "Estudio de luces pastel",
+      "enabled": true,
+      "icon": "pastel:sender_node",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/break_spawner_with_resonance_tool": {
+      "display_name": "El mal interior",
+      "original_name": "El mal interior",
+      "enabled": true,
+      "icon": "minecraft:spawner",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "drink_tea_with_scone": {
+      "display_name": "El fino estilo británico",
+      "original_name": "El fino estilo británico",
+      "enabled": true,
+      "icon": "pastel:scone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/craft_and_get_25_xp": {
+      "display_name": "Artista experimentado",
+      "original_name": "Artista experimentado",
+      "enabled": true,
+      "icon": "pastel:upgrade_experience",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/collect_enough_hints": {
+      "display_name": "Las pistas de Blue",
+      "original_name": "Las pistas de Blue",
+      "enabled": true,
+      "icon": "pastel:pedestal_moonstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "fill_bottomless_bundle_for_real_this_time": {
+      "display_name": "De verdad esta vez",
+      "original_name": "De verdad esta vez",
+      "enabled": true,
+      "icon": "pastel:bottomless_bundle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "craft_using_pedestal": {
+      "display_name": "Extrañamente familiar",
+      "original_name": "Extrañamente familiar",
+      "enabled": true,
+      "icon": "pastel:paintbrush",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/have_half_a_heart_with_divinity": {
+      "display_name": "Peligrosamente cerca de los dioses",
+      "original_name": "Peligrosamente cerca de los dioses",
+      "enabled": true,
+      "icon": "pastel:divination_heart",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/tap_sweetened_jade_wine": {
+      "display_name": "Bebida antigua ++",
+      "original_name": "Bebida antigua ++",
+      "enabled": true,
+      "icon": "pastel:jade_wine",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/find_forgotten_city": {
+      "display_name": "Restos del pasado",
+      "original_name": "Restos del pasado",
+      "enabled": true,
+      "icon": "pastel:preservation_stone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/collect_neolith": {
+      "display_name": "No no amorfo",
+      "original_name": "No no amorfo",
+      "enabled": true,
+      "icon": "pastel:neolith",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/build_advanced_pedestal_structure": {
+      "display_name": "Construye el templo pastel",
+      "original_name": "Construye el templo pastel",
+      "enabled": true,
+      "icon": "pastel:chiseled_polished_basalt",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/enchant_item_worth_2500_xp": {
+      "display_name": "Gastador",
+      "original_name": "Gastador",
+      "enabled": true,
+      "icon": "minecraft:experience_bottle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "craft_cmy_pedestal": {
+      "display_name": "CMY activado",
+      "original_name": "CMY activado",
+      "enabled": true,
+      "icon": "pastel:pedestal_all_basic",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "tap_poisonous_vodka": {
+      "display_name": "Sabe a insuficiencia orgánica",
+      "original_name": "Sabe a insuficiencia orgánica",
+      "enabled": true,
+      "icon": "pastel:infused_beverage",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/dip_something_into_liquid_crystal": {
+      "display_name": "Infusión de brillo",
+      "original_name": "Infusión de brillo",
+      "enabled": true,
+      "icon": "pastel:liquid_crystal_bucket",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/use_all_pedestal_upgrades": {
+      "display_name": "Mejorar",
+      "original_name": "Mejorar",
+      "enabled": true,
+      "icon": "pastel:upgrade_speed",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/collect_aether_graced_nectar_gloves": {
+      "display_name": "Debajo de la marea",
+      "original_name": "Debajo de la marea",
+      "enabled": true,
+      "icon": "pastel:aether_graced_nectar_gloves",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/brew_potion_with_four_effects_in_potion_workshop": {
+      "display_name": "Mezcla malvada",
+      "original_name": "Mezcla malvada",
+      "enabled": true,
+      "icon": "minecraft:potion",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/create_evernectar": {
+      "display_name": "Sueño definitivo",
+      "original_name": "Sueño definitivo",
+      "enabled": true,
+      "icon": "pastel:evernectar",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/build_wither_using_wither_heads": {
+      "display_name": "No, solo no",
+      "original_name": "No, solo no",
+      "enabled": true,
+      "icon": "minecraft:nether_star",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "collect_shimmerstone": {
+      "display_name": "Más de lo que parece",
+      "original_name": "Más de lo que parece",
+      "enabled": true,
+      "icon": "pastel:shimmerstone_gem",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "use_oblivion_pickaxe_with_efficiency": {
+      "display_name": "soy velocidad",
+      "original_name": "soy velocidad",
+      "enabled": true,
+      "icon": "pastel:oblivion_pickaxe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/collect_wither_head_using_treasure_hunter": {
+      "display_name": "Un ciclo siniestro",
+      "original_name": "Un ciclo siniestro",
+      "enabled": true,
+      "icon": "pastel:wither_head",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/place_color_picker": {
+      "display_name": "ser quisquilloso",
+      "original_name": "ser quisquilloso",
+      "enabled": true,
+      "icon": "pastel:color_picker",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "fish_an_entity": {
+      "display_name": "Alcanzando el cielo",
+      "original_name": "Alcanzando el cielo",
+      "enabled": true,
+      "icon": "pastel:lagoon_rod",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "collect_all_basic_shards": {
+      "display_name": "¿Cuantos hay?",
+      "original_name": "¿Cuantos hay?",
+      "enabled": true,
+      "icon": "minecraft:amethyst_shard",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/get_azure_dike_charge": {
+      "display_name": "Escudo arriba",
+      "original_name": "Escudo arriba",
+      "enabled": true,
+      "icon": "pastel:azure_dike_ring",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/enchant_exchanging_staff": {
+      "display_name": "Más que una herramienta de construcción",
+      "original_name": "Más que una herramienta de construcción",
+      "enabled": true,
+      "icon": "pastel:exchanging_staff",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/carry_too_many_low_gravity_blocks": {
+      "display_name": "Nadie podía verlo venir",
+      "original_name": "Nadie podía verlo venir",
+      "enabled": true,
+      "icon": "pastel:paltaeria_floatblock",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/create_glass_crest_tool": {
+      "display_name": "Alimentado por tinta.",
+      "original_name": "Alimentado por tinta.",
+      "enabled": true,
+      "icon": "pastel:glass_crest_workstaff",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/pastel_midgame": {
+      "display_name": "Pastel - Caída en desgracia",
+      "original_name": "Pastel - Caída en desgracia",
+      "enabled": true,
+      "icon": "pastel:pedestal_onyx",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "solve_color_mixing_preservation_ruin": {
+      "display_name": "Colores surtidos",
+      "original_name": "Colores surtidos",
+      "enabled": true,
+      "icon": "pastel:preservation_chest",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "collect_pigment": {
+      "display_name": "Recoge pigmento puro",
+      "original_name": "Recoge pigmento puro",
+      "enabled": true,
+      "icon": "pastel:orange_pigment",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/collect_poisoners_handbook": {
+      "display_name": "vamos juntos",
+      "original_name": "vamos juntos",
+      "enabled": true,
+      "icon": "pastel:poisoners_handbook",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/collect_paltaeria": {
+      "display_name": "Míralo pasar volando",
+      "original_name": "Míralo pasar volando",
+      "enabled": true,
+      "icon": "pastel:paltaeria_fragments",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/collect_storm_stone": {
+      "display_name": "Atónito",
+      "original_name": "Atónito",
+      "enabled": true,
+      "icon": "pastel:storm_stone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/collect_gemstone_shard_using_crystal_apothecary": {
+      "display_name": "Tener un descanso",
+      "original_name": "Tener un descanso",
+      "enabled": true,
+      "icon": "pastel:crystal_apothecary",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/collect_azurite": {
+      "display_name": "tengo el blues",
+      "original_name": "tengo el blues",
+      "enabled": true,
+      "icon": "pastel:raw_azurite",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/craft_something_brown": {
+      "display_name": "El otro lado del arcoiris",
+      "original_name": "El otro lado del arcoiris",
+      "enabled": true,
+      "icon": "pastel:brown_sapling",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "collect_vegetal": {
+      "display_name": "Materia Orgánica",
+      "original_name": "Materia Orgánica",
+      "enabled": true,
+      "icon": "pastel:vegetal",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/craft_pigment_palette": {
+      "display_name": "el artista",
+      "original_name": "el artista",
+      "enabled": true,
+      "icon": "pastel:pigment_palette",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/break_infested_block_with_resonance_tool": {
+      "display_name": "Hoy no, viejo amigo.",
+      "original_name": "Hoy no, viejo amigo.",
+      "enabled": true,
+      "icon": "minecraft:infested_cracked_stone_bricks",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "collect_nightdew": {
+      "display_name": "Un poco más fuerte que la manzanilla.",
+      "original_name": "Un poco más fuerte que la manzanilla.",
+      "enabled": true,
+      "icon": "pastel:nightdew_sprout",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "collect_amaranth": {
+      "display_name": "Un cultivo olvidado hace mucho tiempo",
+      "original_name": "Un cultivo olvidado hace mucho tiempo",
+      "enabled": true,
+      "icon": "pastel:amaranth_grains",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "enter_wireless_redstone_preservation_ruin": {
+      "display_name": "Cableado corto",
+      "original_name": "Cableado corto",
+      "enabled": true,
+      "icon": "minecraft:bedrock",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "endgame/pastel_endgame": {
+      "display_name": "Pastel - Un bis final",
+      "original_name": "Pastel - Un bis final",
+      "enabled": true,
+      "icon": "pastel:mysterious_locket",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "tap_titration_barrel": {
+      "display_name": "Abrir un frío",
+      "original_name": "Abrir un frío",
+      "enabled": true,
+      "icon": "pastel:titration_barrel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "pastel": {
+      "display_name": "Pastel - Inicio de un viaje",
+      "original_name": "Pastel - Inicio de un viaje",
+      "enabled": true,
+      "icon": "pastel:pedestal_basic_amethyst",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/wear_complete_set_of_bedrock_armor": {
+      "display_name": "Caballero Negro",
+      "original_name": "Caballero Negro",
+      "enabled": true,
+      "icon": "pastel:bedrock_chestplate",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/collect_bismuth": {
+      "display_name": "50 sombras de todo",
+      "original_name": "50 sombras de todo",
+      "enabled": true,
+      "icon": "pastel:small_bismuth_bud",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "solve_wireless_redstone_preservation_ruin": {
+      "display_name": "Conectado remotamente",
+      "original_name": "Conectado remotamente",
+      "enabled": true,
+      "icon": "pastel:preservation_chest",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/collect_resonant_lily": {
+      "display_name": "Una flor esquiva",
+      "original_name": "Una flor esquiva",
+      "enabled": true,
+      "icon": "pastel:resonant_lily",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "collect_mermaids_gem": {
+      "display_name": "¿Qué crece en las profundidades del mar?",
+      "original_name": "¿Qué crece en las profundidades del mar?",
+      "enabled": true,
+      "icon": "pastel:mermaids_gem",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/smelt_pure_resource_in_cinderhearth": {
+      "display_name": "Horas de avalancha",
+      "original_name": "Horas de avalancha",
+      "enabled": true,
+      "icon": "pastel:pure_iron",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/survive_fatal_slumber": {
+      "display_name": "Luz profunda",
+      "original_name": "Luz profunda",
+      "enabled": true,
+      "icon": "pastel:evernectar",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/craft_moonstone_pedestal": {
+      "display_name": "Brillantez",
+      "original_name": "Brillantez",
+      "enabled": true,
+      "icon": "pastel:pedestal_moonstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/create_big_pastel_network": {
+      "display_name": "Distribuidor global de pasteles",
+      "original_name": "Distribuidor global de pasteles",
+      "enabled": true,
+      "icon": "pastel:provider_node",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/collect_aether_vestiges": {
+      "display_name": "Desconocido",
+      "original_name": "Desconocido",
+      "enabled": true,
+      "icon": "pastel:aether_vestiges",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/collect_downstone_fragments": {
+      "display_name": "Mecanismos masivos",
+      "original_name": "Mecanismos masivos",
+      "enabled": true,
+      "icon": "pastel:downstone_fragments",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/revive_black_sludge_plant": {
+      "display_name": "Druida de la profundidad",
+      "original_name": "Druida de la profundidad",
+      "enabled": true,
+      "icon": "pastel:resonant_lily",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "gift_wet_lava_sponge": {
+      "display_name": "¡Daño para ti!",
+      "original_name": "¡Daño para ti!",
+      "enabled": true,
+      "icon": "pastel:wet_lava_sponge",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/tap_chrysocolla": {
+      "display_name": "Probablemente mejor con ensalada",
+      "original_name": "Probablemente mejor con ensalada",
+      "enabled": true,
+      "icon": "pastel:chrysocolla",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/kill_entity_with_ink_projectile": {
+      "display_name": "Pincel para el dolor",
+      "original_name": "Pincel para el dolor",
+      "enabled": true,
+      "icon": "pastel:paintbrush",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/use_decay_away_on_sculk": {
+      "display_name": "Oscurece tu profundidad",
+      "original_name": "Oscurece tu profundidad",
+      "enabled": true,
+      "icon": "minecraft:sculk_sensor",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "collect_gemstone_powder": {
+      "display_name": "Con destellos, por favor.",
+      "original_name": "Con destellos, por favor.",
+      "enabled": true,
+      "icon": "pastel:amethyst_powder",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/collect_dd_resources": {
+      "display_name": "acaparador",
+      "original_name": "acaparador",
+      "enabled": true,
+      "icon": "pastel:ivory_noxcap_stem",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/break_budding_block_with_resonance_tool": {
+      "display_name": "Amistad en ciernes",
+      "original_name": "Amistad en ciernes",
+      "enabled": true,
+      "icon": "minecraft:budding_amethyst",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/collect_all_legendary_weapons": {
+      "display_name": "Las vanitas de un artista",
+      "original_name": "Las vanitas de un artista",
+      "enabled": true,
+      "icon": "pastel:dragon_talon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/create_huge_slime": {
+      "display_name": "Chungus enorme",
+      "original_name": "Chungus enorme",
+      "enabled": true,
+      "icon": "minecraft:slime_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/build_complex_pedestal_structure_without_moonstone": {
+      "display_name": "Una pieza perdida del rompecabezas",
+      "original_name": "Una pieza perdida del rompecabezas",
+      "enabled": true,
+      "icon": "pastel:moonstone_chiseled_calcite",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "collect_all_shooting_star_variants": {
+      "display_name": "Niño estrella",
+      "original_name": "Niño estrella",
+      "enabled": true,
+      "icon": "pastel:gemstone_shooting_star",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/kill_entity_with_jeopardant_and_half_a_heart": {
+      "display_name": "Vivir al límite",
+      "original_name": "Vivir al límite",
+      "enabled": true,
+      "icon": "pastel:jeopardant",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/fill_potion_pendant": {
+      "display_name": "Colgante potente",
+      "original_name": "Colgante potente",
+      "enabled": true,
+      "icon": "pastel:lesser_potion_pendant",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/collect_nectardew": {
+      "display_name": "Néctar",
+      "original_name": "Néctar",
+      "enabled": true,
+      "icon": "pastel:nectardew_burgeon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/kill_a_mob_with_frenzy3": {
+      "display_name": "Juego de pasión oscura",
+      "original_name": "Juego de pasión oscura",
+      "enabled": true,
+      "icon": "pastel:bloodboil_syrup",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/collect_jade_jelly": {
+      "display_name": "Dorado delicioso",
+      "original_name": "Dorado delicioso",
+      "enabled": true,
+      "icon": "pastel:jade_jelly",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/solve_strange_preservation_ruin": {
+      "display_name": "Renovación de la superficie",
+      "original_name": "Renovación de la superficie",
+      "enabled": true,
+      "icon": "pastel:deep_light_chiseled_preservation_stone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "build_fusion_shrine": {
+      "display_name": "Pantalla potente",
+      "original_name": "Pantalla potente",
+      "enabled": true,
+      "icon": "pastel:fusion_shrine_basalt",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "fill_bottomless_bundle": {
+      "display_name": "Lleno hasta el borde",
+      "original_name": "Lleno hasta el borde",
+      "enabled": true,
+      "icon": "pastel:bottomless_bundle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/equip_neat_ring": {
+      "display_name": "Limpio",
+      "original_name": "Limpio",
+      "enabled": true,
+      "icon": "pastel:neat_ring",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/fill_pigment_palette": {
+      "display_name": "Mucho espacio para actividades",
+      "original_name": "Mucho espacio para actividades",
+      "enabled": true,
+      "icon": "pastel:pigment_palette",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/strike_up_hummingstone_hymn": {
+      "display_name": "Sinfonía",
+      "original_name": "Sinfonía",
+      "enabled": true,
+      "icon": "pastel:hummingstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "gift_or_open_present": {
+      "display_name": "Espectáculo colorido",
+      "original_name": "Espectáculo colorido",
+      "enabled": true,
+      "icon": "pastel:present",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/collect_mysterious_locket": {
+      "display_name": "Una tercera puerta",
+      "original_name": "Una tercera puerta",
+      "enabled": true,
+      "icon": "pastel:gray_spore_blossom",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/create_midnight_aberration": {
+      "display_name": "¿El compuesto perfecto?",
+      "original_name": "¿El compuesto perfecto?",
+      "enabled": true,
+      "icon": "pastel:midnight_aberration",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/apply_divinity": {
+      "display_name": "Espíritu muy mortal",
+      "original_name": "Espíritu muy mortal",
+      "enabled": true,
+      "icon": "pastel:freigeist",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/build_complex_pedestal_structure": {
+      "display_name": "Construye el complejo pastel",
+      "original_name": "Construye el complejo pastel",
+      "enabled": true,
+      "icon": "pastel:chiseled_polished_basalt",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/collect_mob_head_using_treasure_hunter": {
+      "display_name": "perdiendo la cabeza",
+      "original_name": "perdiendo la cabeza",
+      "enabled": true,
+      "icon": "pastel:cow_head",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/collect_noxwood": {
+      "display_name": "¿Árboles de hongos?",
+      "original_name": "¿Árboles de hongos?",
+      "enabled": true,
+      "icon": "pastel:slate_noxcap_stem",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/find_undergrowth_manor": {
+      "display_name": "Escondite",
+      "original_name": "Escondite",
+      "enabled": true,
+      "icon": "pastel:longing_chimera",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/fish_in_many_liquids": {
+      "display_name": "solo me gusta pescar",
+      "original_name": "solo me gusta pescar",
+      "enabled": true,
+      "icon": "pastel:bedrock_fishing_rod",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/become_enlightened": {
+      "display_name": "El cartel profesional del gato",
+      "original_name": "El cartel profesional del gato",
+      "enabled": true,
+      "icon": "pastel:cat_head",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "get_hit_while_wearing_full_suit_of_gemstone_armor": {
+      "display_name": "sobrecargado",
+      "original_name": "sobrecargado",
+      "enabled": true,
+      "icon": "pastel:ferocious_chestplate",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/collect_midnight_chip": {
+      "display_name": "El mal menor",
+      "original_name": "El mal menor",
+      "enabled": true,
+      "icon": "pastel:midnight_chip",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/shoot_fully_overcharged_crossbow": {
+      "display_name": "Sobrealimentado",
+      "original_name": "Sobrealimentado",
+      "enabled": true,
+      "icon": "pastel:glass_crest_crossbow",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/upgrade_pastel_node_throughput": {
+      "display_name": "Pasteles resistentes",
+      "original_name": "Pasteles resistentes",
+      "enabled": true,
+      "icon": "pastel:buffer_node",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/enchant_book": {
+      "display_name": "Compresión sin pérdidas",
+      "original_name": "Compresión sin pérdidas",
+      "enabled": true,
+      "icon": "minecraft:enchanted_book",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/craft_blacklisted_memory_success": {
+      "display_name": "Golpear de nuevo",
+      "original_name": "Golpear de nuevo",
+      "enabled": true,
+      "icon": "pastel:memory",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/collect_all_cookbooks": {
+      "display_name": "El réquiem de otro más",
+      "original_name": "El réquiem de otro más",
+      "enabled": true,
+      "icon": "pastel:imbrifer_cookbook",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/collect_bismuth_crystal": {
+      "display_name": "Sueño primordial",
+      "original_name": "Sueño primordial",
+      "enabled": true,
+      "icon": "pastel:bismuth_crystal",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/wear_both_gravity_trinkets": {
+      "display_name": "Muy encantado",
+      "original_name": "Muy encantado",
+      "enabled": true,
+      "icon": "pastel:ring_of_aerial_grace",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "collect_star_fragment": {
+      "display_name": "Cielos estrellados",
+      "original_name": "Cielos estrellados",
+      "enabled": true,
+      "icon": "pastel:star_fragment",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "craft_bottle_of_fading": {
+      "display_name": "Lo que no debería ser",
+      "original_name": "Lo que no debería ser",
+      "enabled": true,
+      "icon": "pastel:bottle_of_fading",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/put_too_many_low_gravity_blocks_into_animal": {
+      "display_name": "Debo irme, mi planeta me necesita.",
+      "original_name": "Debo irme, mi planeta me necesita.",
+      "enabled": true,
+      "icon": "pastel:paltaeria_gem",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/potion_mastery": {
+      "display_name": "Dominio de pociones",
+      "original_name": "Dominio de pociones",
+      "enabled": true,
+      "icon": "pastel:potion_workshop",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "hook_entity_with_molten_rod": {
+      "display_name": "Conducido al fuego",
+      "original_name": "Conducido al fuego",
+      "enabled": true,
+      "icon": "pastel:molten_rod",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "collect_any_basic_shard": {
+      "display_name": "Un sentimiento emocionante",
+      "original_name": "Un sentimiento emocionante",
+      "enabled": true,
+      "icon": "minecraft:amethyst_shard",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/collect_ender_dragon_head_using_treasure_hunter": {
+      "display_name": "El último aliento del dragón.",
+      "original_name": "El último aliento del dragón.",
+      "enabled": true,
+      "icon": "minecraft:dragon_head",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/use_perturbed_eye": {
+      "display_name": "Me gusta moverlo, moverlo",
+      "original_name": "Me gusta moverlo, moverlo",
+      "enabled": true,
+      "icon": "pastel:perturbed_eye",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "survive_drinking_incandescent_amalgam": {
+      "display_name": "Yo era el sol, una vez",
+      "original_name": "Yo era el sol, una vez",
+      "enabled": true,
+      "icon": "pastel:incandescent_amalgam",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/remember_egg_laying_wooly_pig": {
+      "display_name": "Una vez solo un cuento",
+      "original_name": "Una vez solo un cuento",
+      "enabled": true,
+      "icon": "pastel:egg_laying_wooly_pig_head",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "tap_aged_air": {
+      "display_name": "Un montón de nada",
+      "original_name": "Un montón de nada",
+      "enabled": true,
+      "icon": "pastel:titration_barrel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "tap_suspicious_brew": {
+      "display_name": "No es jugo de ubre de vaca",
+      "original_name": "No es jugo de ubre de vaca",
+      "enabled": true,
+      "icon": "pastel:suspicious_brew",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "endgame/finish_progression": {
+      "display_name": "Fuerza imparable contra uno mismo",
+      "original_name": "Fuerza imparable contra uno mismo",
+      "enabled": true,
+      "icon": "pastel:spectral_shard",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "break_gemstone_ore": {
+      "display_name": "Buscador de piedras preciosas",
+      "original_name": "Buscador de piedras preciosas",
+      "enabled": true,
+      "icon": "pastel:amethyst_ore",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "place_incandescent_amalgam": {
+      "display_name": "Bien, ahora... ¿qué?",
+      "original_name": "Bien, ahora... ¿qué?",
+      "enabled": true,
+      "icon": "pastel:incandescent_amalgam",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/eat_each_cookbook_heavy_meal": {
+      "display_name": "El goloso",
+      "original_name": "El goloso",
+      "enabled": true,
+      "icon": "pastel:berliner",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/get_killed_while_out_of_deeper_down_bounds": {
+      "display_name": "Escape de cinta adhesiva",
+      "original_name": "Escape de cinta adhesiva",
+      "enabled": true,
+      "icon": "minecraft:bedrock",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "place_pedestal": {
+      "display_name": "Una nueva forma de crear",
+      "original_name": "Una nueva forma de crear",
+      "enabled": true,
+      "icon": "pastel:pedestal_basic_topaz",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "fail_to_take_item_out_of_pedestal": {
+      "display_name": "Actívalo con un pincel o Redstone para comenzar a crear.",
+      "original_name": "Actívalo con un pincel o Redstone para comenzar a crear.",
+      "enabled": true,
+      "icon": "pastel:paintbrush",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/enchant_seven_league_boots": {
+      "display_name": "Infierno para el cuero",
+      "original_name": "Infierno para el cuero",
+      "enabled": true,
+      "icon": "pastel:seven_league_boots",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/create_malachite_tool": {
+      "display_name": "sueño verde",
+      "original_name": "sueño verde",
+      "enabled": true,
+      "icon": "pastel:malachite_ultra_greatsword",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "enter_color_mixing_preservation_ruin": {
+      "display_name": "mezclado",
+      "original_name": "mezclado",
+      "enabled": true,
+      "icon": "pastel:powder_chiseled_preservation_stone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/smelt_in_cinderhearth_with_yield_upgrades": {
+      "display_name": "Tinta a la materia",
+      "original_name": "Tinta a la materia",
+      "enabled": true,
+      "icon": "minecraft:diamond",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "remember_kindling": {
+      "display_name": "Falsos ídolos",
+      "original_name": "Falsos ídolos",
+      "enabled": true,
+      "icon": "pastel:kindling_head",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/fill_ink_container": {
+      "display_name": "Una nueva forma de energía",
+      "original_name": "Una nueva forma de energía",
+      "enabled": true,
+      "icon": "pastel:ink_flask",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "fish_in_lava": {
+      "display_name": "Deseos ardientes",
+      "original_name": "Deseos ardientes",
+      "enabled": true,
+      "icon": "pastel:molten_rod",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/break_decayed_bedrock": {
+      "display_name": "Innovador",
+      "original_name": "Innovador",
+      "enabled": true,
+      "icon": "pastel:bedrock_dust",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "collect_amaranth_bushel": {
+      "display_name": "Vibrancia",
+      "original_name": "Vibrancia",
+      "enabled": true,
+      "icon": "pastel:amaranth_bushel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/enter_strange_preservation_ruin": {
+      "display_name": "Buceo irregular",
+      "original_name": "Buceo irregular",
+      "enabled": true,
+      "icon": "minecraft:purple_banner",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/visit_all_deeper_down_biomes": {
+      "display_name": "Biomas debajo del lecho rocoso",
+      "original_name": "Biomas debajo del lecho rocoso",
+      "enabled": true,
+      "icon": "pastel:polished_blackslag",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/collect_prickly_bayleaf": {
+      "display_name": "Dolor con sabor",
+      "original_name": "Dolor con sabor",
+      "enabled": true,
+      "icon": "pastel:prickly_bayleaf",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "break_cracked_dragonbone": {
+      "display_name": "El dragón yace sangrando",
+      "original_name": "El dragón yace sangrando",
+      "enabled": true,
+      "icon": "pastel:dragonbone_chunk",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "endgame/open_mysterious_compass": {
+      "display_name": "Un camino hacia el cierre",
+      "original_name": "Un camino hacia el cierre",
+      "enabled": true,
+      "icon": "pastel:mysterious_compass",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "collect_quitoxic_reeds": {
+      "display_name": "Inundado",
+      "original_name": "Inundado",
+      "enabled": true,
+      "icon": "pastel:quitoxic_reeds",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "collect_all_basic_pigments": {
+      "display_name": "Tengo que recogerlos todos",
+      "original_name": "Tengo que recogerlos todos",
+      "enabled": true,
+      "icon": "pastel:magenta_pigment",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/craft_resonant_tool": {
+      "display_name": "Buenas vibraciones",
+      "original_name": "Buenas vibraciones",
+      "enabled": true,
+      "icon": "pastel:resonant_pickaxe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/brew_lasting_potion_in_potion_workshop": {
+      "display_name": "Un día que vale la pena",
+      "original_name": "Un día que vale la pena",
+      "enabled": true,
+      "icon": "minecraft:potion",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/collect_jade_vine_petals": {
+      "display_name": "Suave como el terciopelo",
+      "original_name": "Suave como el terciopelo",
+      "enabled": true,
+      "icon": "pastel:jade_vine_petals",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "collect_all_basic_pigments_besides_brown": {
+      "display_name": "marrón es raro",
+      "original_name": "marrón es raro",
+      "enabled": true,
+      "icon": "pastel:brown_pigment",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/collect_grayscale_pigments": {
+      "display_name": "Cuatro tonos de gris",
+      "original_name": "Cuatro tonos de gris",
+      "enabled": true,
+      "icon": "pastel:light_gray_pigment",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/collect_one_cookbook": {
+      "display_name": "La nostalgia de otro",
+      "original_name": "La nostalgia de otro",
+      "enabled": true,
+      "icon": "pastel:brewers_handbook",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/brew_powerful_potion_in_potion_workshop": {
+      "display_name": "Agradable al final",
+      "original_name": "Agradable al final",
+      "enabled": true,
+      "icon": "minecraft:potion",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "collect_radiating_ender": {
+      "display_name": "Arrancado de manos frías y muertas",
+      "original_name": "Arrancado de manos frías y muertas",
+      "enabled": true,
+      "icon": "pastel:radiating_ender",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "start_crafting_time_consuming_pedestal_recipe": {
+      "display_name": "Ser pintor",
+      "original_name": "Ser pintor",
+      "enabled": true,
+      "icon": "pastel:upgrade_speed",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "grow_bloodstone_in_crystallarieum": {
+      "display_name": "Fuerza de voluntad",
+      "original_name": "Fuerza de voluntad",
+      "enabled": true,
+      "icon": "pastel:pure_bloodstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/pluck_blood_orchid_petal": {
+      "display_name": "Me temen, no me temen",
+      "original_name": "Me temen, no me temen",
+      "enabled": true,
+      "icon": "pastel:blood_orchid",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "collect_four_leaf_clover": {
+      "display_name": "Tener suerte",
+      "original_name": "Tener suerte",
+      "enabled": true,
+      "icon": "pastel:four_leaf_clover",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/find_excavation_site": {
+      "display_name": "muy aburrido",
+      "original_name": "muy aburrido",
+      "enabled": true,
+      "icon": "pastel:preservation_stone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/grow_malachite_in_crystallarieum": {
+      "display_name": "Eones comprimidos en minutos",
+      "original_name": "Eones comprimidos en minutos",
+      "enabled": true,
+      "icon": "pastel:pure_malachite",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/collect_moonstone_core": {
+      "display_name": "Potencia brillante",
+      "original_name": "Potencia brillante",
+      "enabled": true,
+      "icon": "pastel:moonstone_core",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/drink_tea_with_milk": {
+      "display_name": "Los paganos",
+      "original_name": "Los paganos",
+      "enabled": true,
+      "icon": "pastel:restoration_tea",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "build_basic_pedestal_structure": {
+      "display_name": "Magia de embudo",
+      "original_name": "Magia de embudo",
+      "enabled": true,
+      "icon": "pastel:chiseled_polished_basalt",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/tame_lizard": {
+      "display_name": "¿Amigo o enemigo? ¿Por qué no ambos?",
+      "original_name": "¿Amigo o enemigo? ¿Por qué no ambos?",
+      "enabled": true,
+      "icon": "minecraft:lead",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/build_cinderhearth_structure": {
+      "display_name": "A todo trapo",
+      "original_name": "A todo trapo",
+      "enabled": true,
+      "icon": "pastel:cinderhearth",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/create_budding_onyx": {
+      "display_name": "mi mejor amigo",
+      "original_name": "mi mejor amigo",
+      "enabled": true,
+      "icon": "pastel:budding_onyx",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/craft_bottle_of_decay_away": {
+      "display_name": "Más vale prevenir que curar",
+      "original_name": "Más vale prevenir que curar",
+      "enabled": true,
+      "icon": "pastel:bottle_of_decay_away",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "pluck_resplendent_feather": {
+      "display_name": "CORRER",
+      "original_name": "CORRER",
+      "enabled": true,
+      "icon": "pastel:resplendent_feather",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/plant_jade_vines": {
+      "display_name": "Legado de tiempos pasados",
+      "original_name": "Legado de tiempos pasados",
+      "enabled": true,
+      "icon": "pastel:germinated_jade_vine_bulb",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/create_jade_vine": {
+      "display_name": "Una vez entrelazados",
+      "original_name": "Una vez entrelazados",
+      "enabled": true,
+      "icon": "pastel:germinated_jade_vine_bulb",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/craft_bottle_of_failing": {
+      "display_name": "Lo que no debe ser",
+      "original_name": "Lo que no debe ser",
+      "enabled": true,
+      "icon": "pastel:bottle_of_failing",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/collect_warden_head_using_treasure_hunter": {
+      "display_name": "alcaide",
+      "original_name": "alcaide",
+      "enabled": true,
+      "icon": "pastel:warden_head",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "create_onyx_shard": {
+      "display_name": "De vuelta en negro",
+      "original_name": "De vuelta en negro",
+      "enabled": true,
+      "icon": "pastel:onyx_shard",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/build_spirit_instiller_structure": {
+      "display_name": "La voluntad de los fuegos fatuos",
+      "original_name": "La voluntad de los fuegos fatuos",
+      "enabled": true,
+      "icon": "pastel:spirit_instiller",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "enter_dike_gate_preservation_ruin": {
+      "display_name": "Un dique resistente",
+      "original_name": "Un dique resistente",
+      "enabled": true,
+      "icon": "pastel:dike_chiseled_preservation_stone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/collect_hover_block": {
+      "display_name": "Fuerza imparable contra uno mismo",
+      "original_name": "Fuerza imparable contra uno mismo",
+      "enabled": true,
+      "icon": "pastel:hover_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/enter_liquid_crystal": {
+      "display_name": "Magia líquida",
+      "original_name": "Magia líquida",
+      "enabled": true,
+      "icon": "pastel:liquid_crystal_bucket",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "eat_each_pastry": {
+      "display_name": "Artista hambriento",
+      "original_name": "Artista hambriento",
+      "enabled": true,
+      "icon": "pastel:triple_meat_pot_pie",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "craft_salted_jaramel_trifle_or_tart": {
+      "display_name": "extra salado",
+      "original_name": "extra salado",
+      "enabled": true,
+      "icon": "pastel:salted_jaramel_trifle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/craft_bottle_of_ruin": {
+      "display_name": "Lo que nunca debería haber sido",
+      "original_name": "Lo que nunca debería haber sido",
+      "enabled": true,
+      "icon": "pastel:bottle_of_ruin",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "revive_dead_bush": {
+      "display_name": "Revivificar",
+      "original_name": "Revivificar",
+      "enabled": true,
+      "icon": "pastel:natures_staff",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "craft_colored_sapling": {
+      "display_name": "A mi alrededor hay ases familiares",
+      "original_name": "A mi alrededor hay ases familiares",
+      "enabled": true,
+      "icon": "pastel:orange_sapling",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "use_glistering_melon_seeds": {
+      "display_name": "Un signo de prosperidad",
+      "original_name": "Un signo de prosperidad",
+      "enabled": true,
+      "icon": "minecraft:glistering_melon_slice",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "ascend_kindling": {
+      "display_name": "Él explotó",
+      "original_name": "Él explotó",
+      "enabled": true,
+      "icon": "pastel:raw_bloodstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/collect_doombloom_seed": {
+      "display_name": "Vela de la muerte",
+      "original_name": "Vela de la muerte",
+      "enabled": true,
+      "icon": "pastel:doombloom_seed",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/brew_potion_in_potion_workshop": {
+      "display_name": "Alquimia con un toque de magia",
+      "original_name": "Alquimia con un toque de magia",
+      "enabled": true,
+      "icon": "pastel:potion_workshop",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/collect_malachite": {
+      "display_name": "Un fascinante tono de verde",
+      "original_name": "Un fascinante tono de verde",
+      "enabled": true,
+      "icon": "pastel:deepslate_malachite_ore",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/upgrade_pastel_node": {
+      "display_name": "Pasteles parisinos",
+      "original_name": "Pasteles parisinos",
+      "enabled": true,
+      "icon": "pastel:storage_node",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "fail_to_glitch_into_preservation_ruin": {
+      "display_name": "todavía",
+      "original_name": "todavía",
+      "enabled": true,
+      "icon": "minecraft:dead_bush",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/brew_no_potion_in_potion_workshop": {
+      "display_name": "Volverse demasiado codicioso",
+      "original_name": "Volverse demasiado codicioso",
+      "enabled": true,
+      "icon": "minecraft:glass_bottle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "enter_ender_glass": {
+      "display_name": "fascinante",
+      "original_name": "fascinante",
+      "enabled": true,
+      "icon": "pastel:ender_glass",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/grow_azurite_in_crystallarieum": {
+      "display_name": "Un sueño hecho azul",
+      "original_name": "Un sueño hecho azul",
+      "enabled": true,
+      "icon": "pastel:pure_azurite",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_preservation_ruins": {
+      "display_name": "Un fuerte impenetrable",
+      "original_name": "Un fuerte impenetrable",
+      "enabled": true,
+      "icon": "pastel:preservation_stone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "tap_pure_alcohol": {
+      "display_name": "Porcentaje algo alto",
+      "original_name": "Porcentaje algo alto",
+      "enabled": true,
+      "icon": "pastel:pure_alcohol",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/grow_bismuth_in_crystallarieum": {
+      "display_name": "Una mejora sólida",
+      "original_name": "Una mejora sólida",
+      "enabled": true,
+      "icon": "pastel:crystallarieum",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/fill_knowledge_gem_for_real_this_time": {
+      "display_name": "Mi INT-Mod es +6",
+      "original_name": "Mi INT-Mod es +6",
+      "enabled": true,
+      "icon": "pastel:knowledge_gem",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/no_rgb": {
+      "display_name": "No muy esclarecedor",
+      "original_name": "No muy esclarecedor",
+      "enabled": true,
+      "icon": "minecraft:raw_copper",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/craft_semi_permeable_glass": {
+      "display_name": "Paz y satisfacción",
+      "original_name": "Paz y satisfacción",
+      "enabled": true,
+      "icon": "pastel:topaz_semi_permeable_glass",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/reached_dd_floor": {
+      "display_name": "Bedrock 2: Boogaloo eléctrico",
+      "original_name": "Bedrock 2: Boogaloo eléctrico",
+      "enabled": true,
+      "icon": "pastel:downstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/collect_all_mob_heads": {
+      "display_name": "Innumerables trofeos",
+      "original_name": "Innumerables trofeos",
+      "enabled": true,
+      "icon": "pastel:squid_head",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "midgame/manifest_memory": {
+      "display_name": "De vuelta otra vez",
+      "original_name": "De vuelta otra vez",
+      "enabled": true,
+      "icon": "pastel:memory",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "solve_dike_gate_preservation_ruin": {
+      "display_name": "impregnado",
+      "original_name": "impregnado",
+      "enabled": true,
+      "icon": "pastel:preservation_chest",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "dark_radiance_staff": {
+      "display_name": "¡Vaya! esto no tiene valor",
+      "original_name": "¡Vaya! esto no tiene valor",
+      "enabled": true,
+      "icon": "pastel:radiance_staff",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lategame/pastel_lategame": {
+      "display_name": "Pastel - Vuelta a la pureza",
+      "original_name": "Pastel - Vuelta a la pureza",
+      "enabled": true,
+      "icon": "pastel:pedestal_moonstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+filename = 'realmrpg_skeletons-1.1.0-neoforge-1.21.1.jar'
+name = 'Realm RPG: Fallen Adventurers'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'realmrpg_skeletons-1.1.0-neoforge-1.21.1.jar'
+
+[download]
+hash = '769deb829b0299356d02b3c44c2bb91b3b524de7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6058914
+project-id = 916895

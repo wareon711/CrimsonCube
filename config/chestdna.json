@@ -1,0 +1,20 @@
+{
+  "enabled": true,
+  "trackChests": true,
+  "trackMobs": true,
+  "trackFishing": true,
+  "trackTrades": true,
+  "trackCrafting": true,
+  "trackBlockDrops": true,
+  "trackCreative": true,
+  "recordPosition": true,
+  "recordBiome": true,
+  "recordStructure": true,
+  "recordPlayerName": true,
+  "ignoreOriginForStacking": true,
+  "tooltipStyle": "panel",
+  "detailsRequireShift": true,
+  "showCoordinates": true,
+  "animateFrame": true,
+  "blockedSources": []
+}

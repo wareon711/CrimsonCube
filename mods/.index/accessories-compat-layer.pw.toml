@@ -1,0 +1,29 @@
+filename = 'accessories_compat_layer-neoforge-0.1.12+1.21.1.jar'
+name = 'Accessories Compatibility Layer'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '[1.21.1] Accessories Compatibility Layer [Neoforge] - 0.1.12'
+
+[download]
+hash = '59dd35650925d72f5158816caf895f3d9fa0edf4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7585673
+project-id = 1315611
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '532610'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '938917'
+type = 'REQUIRED'

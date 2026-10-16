@@ -1,0 +1,18 @@
+filename = 'azurelibarmor-neo-1.21.1-3.1.3.jar'
+name = 'AzureLib Armor'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'azurelibarmor neoforge 1.21.1'
+
+[download]
+hash = '953b10bcad39f5932ed5f1a2621a070946bc4c13'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7797728
+project-id = 912767

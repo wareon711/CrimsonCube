@@ -1,0 +1,21 @@
+filename = 'letsdo-furniture-neoforge-1.1.4.jar'
+name = "[Let's Do] Furniture"
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Furniture - 1.1.4 - NEOFORGE - 1.21.1'
+
+[download]
+hash = 'fabc5aa1b2b354dae2338254a2fd0ff747944253'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7751818
+project-id = 1062363
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'

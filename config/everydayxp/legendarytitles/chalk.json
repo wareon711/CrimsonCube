@@ -1,0 +1,57 @@
+{
+  "enabled": true,
+  "mod_name": "Chalk",
+  "mod_id": "chalk",
+  "achievements": {
+    "adventure/alone_in_the_darkness": {
+      "display_name": "Alone In The Darkness",
+      "original_name": "Alone In The Darkness",
+      "enabled": true,
+      "icon": "chalk:black_chalk",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/home_is_where_the_bed_is": {
+      "display_name": "Home Is Where the Bed Is",
+      "original_name": "Home Is Where the Bed Is",
+      "enabled": true,
+      "icon": "minecraft:yellow_bed",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/bound_by_bone": {
+      "display_name": "Bound By Bone",
+      "original_name": "Bound By Bone",
+      "enabled": true,
+      "icon": "minecraft:skeleton_skull",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/this_way": {
+      "display_name": "This Way!",
+      "original_name": "This Way!",
+      "enabled": true,
+      "icon": "chalk:yellow_chalk",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/vandalism": {
+      "display_name": "Vandalism",
+      "original_name": "Vandalism",
+      "enabled": true,
+      "icon": "chalk:light_gray_chalk",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

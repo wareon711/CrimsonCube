@@ -1,0 +1,26 @@
+{
+  "id": "cofres-gigantes",
+  "name": "Cofres Gigantes!",
+  "icon": "sophisticatedstorage:netherite_chest",
+  "description": "puedes fabricar /b/lcofres gigantes/x a los cuales les puedes aumentar el tamaño!\n\nse fabrican con /o/l8 de madera con una palanca en el centro/x, despues cada mejora sera con el /ocofre rodeada de el mineral a mejorar!",
+  "category": "guia-keo-rpg",
+  "sub-category": "1-el-despertar",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "el-primer-tajo",
+  "completion": {
+    "complete": [
+      {
+        "collect": "sophisticatedstorage:chest",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "exp": "levels",
+    "count": 5
+  }
+}

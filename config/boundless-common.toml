@@ -1,0 +1,68 @@
+#A list of quest category IDs to completely disable.
+disabledQuestCategories = []
+#Instance questpack IDs explicitly enabled by the server.
+appliedQuestPacks = []
+#Instance questpack IDs explicitly disabled by the server.
+disabledQuestPacks = []
+
+[UI]
+	#Pin the Quest hud to the: bottom_left, bottom_right, top_left, top_right
+	pinnedQuestHudPosition = "bottom_left"
+	#If true, hides the quest book button in the inventory screen.
+	hideQuestBookInInventory = false
+	#If true, hides the category header bar.
+	hideCategoryHeader = false
+	#How quest filters are displayed: tabs, buttons, hidden.
+	filterDisplayMode = "tabs"
+	#If true, disables category tabs and category-based filtering.
+	disableCategories = false
+	#If false, disables the built-in Boundless quest pack.
+	enableBuiltinQuestPack = false
+	#If true, hides icons in quest list widgets.
+	hideQuestWidgetIcons = false
+	#If true, shows the quest search box above the quest list.
+	enableQuestSearchBox = false
+	#If true, allows colored quest descriptions to render with Boundless color tokens.
+	enableDescriptionColors = true
+	#If true, shows quest unlocked toasts.
+	enableQuestToasts = true
+	#Quest book button position in inventory: beside_recipe_book, above_offhand_slot
+	questBookInventoryButtonPosition = "beside_recipe_book"
+	#If true, centers inventory and quest panel together when the quest panel is open.
+	centerInventoryWithQuestPanel = true
+	#Scales quest list widget titles and quest detail description, task, and reward text. Range: 0.5 to 1.0.
+	# Default: 1.0
+	# Range: 0.5 ~ 1.0
+	questTextScale = 1.0
+	#Scales quest widget icons and quest detail panel icons. Range: 0.5 to 1.0.
+	# Default: 1.0
+	# Range: 0.5 ~ 1.0
+	questIconScale = 1.0
+	#Hex color used for quest widget titles. Example: FFFFFF
+	questWidgetTextColor = "FFFFFF"
+	#Hex color used for quest description text when no inline color token overrides it. Example: CFCFCF
+	descriptionTextColor = "CFCFCF"
+	#If true, long quest descriptions collapse behind a read-more toggle.
+	enableDescriptionReadMore = true
+	#If true, quest descriptions wrap to fit the detail panel width.
+	enableDescriptionTextWrapping = true
+	#Quest description text alignment: left, center, right, adjust.
+	descriptionTextAlignment = "left"
+
+[Functionality]
+	#If true, quest pinning and pinned HUD are disabled.
+	disableQuestPinning = true
+	#If true, quest rewards are automatically claimed when a quest becomes complete.
+	autoClaimQuestRewards = false
+	#If true, quest completion scrolls can be created and used.
+	enableQuestScrolls = true
+
+[Gameplay]
+	#If true, quest book opening is disabled.
+	disableQuestBook = false
+	#If true, players spawn with the quest book.
+	spawnWithQuestBook = true
+
+[Development]
+	#Enables Boundless development performance diagnostics. Keep false during normal play.
+	devMode = false

@@ -1,0 +1,23 @@
+{
+  "id": "esqueletron",
+  "name": "Esqueletrón!",
+  "icon": "confluence:clothier_voodoo_doll",
+  "description": "Consigue el /bmuñeco vudú del buhonero/x y equipalo en el apartado de /oaccesorios/x y mata al buhonero.\n\nDe esta manera invocaras al /rEsqueletrón!/x",
+  "category": "confluence",
+  "sub-category": "jefes",
+  "optional": false,
+  "repeatable": false,
+  "hiddenUnderDependency": false,
+  "completion": {
+    "complete": [
+      {
+        "kill": "terra_entity:skeletron",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "exp": "points",
+    "count": 600
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "elder-guardian",
+  "name": "Elder Guardian",
+  "icon": "pastel:elder_guardian_head",
+  "description": "Matar a este jefe es /bopcional/x pero al matarlo soltara cosas realmente realmente utiles!",
+  "category": "armageddon",
+  "sub-category": "progresion",
+  "optional": false,
+  "repeatable": false,
+  "hiddenUnderDependency": false,
+  "dependencies": "arion",
+  "completion": {
+    "complete": [
+      {
+        "kill": "minecraft:elder_guardian",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "exp": "points",
+    "count": 500
+  }
+}

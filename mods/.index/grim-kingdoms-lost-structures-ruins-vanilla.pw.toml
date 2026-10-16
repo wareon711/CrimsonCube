@@ -1,0 +1,36 @@
+filename = 'Grim kingdoms Vanilla (1.21+26+).jar'
+name = 'Grim kingdoms: Lost structures & ruins Vanilla Edition'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '26.1',
+    '26.1.1',
+    '26.1.2',
+    '26.2',
+    '26.3'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Grim kingdoms Vanilla 2.0 (1.21+26+).jar'
+
+[download]
+hash = '28e1ab04d330ac1e6146c31516a39c034dc4babe'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8520589
+project-id = 1508633

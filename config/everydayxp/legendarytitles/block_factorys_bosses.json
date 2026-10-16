@@ -1,0 +1,127 @@
+{
+  "enabled": true,
+  "mod_name": "Bosses\u0027Rise",
+  "mod_id": "block_factorys_bosses",
+  "achievements": {
+    "kill_dragon": {
+      "display_name": "Matadragones",
+      "original_name": "Matadragones",
+      "enabled": true,
+      "icon": "block_factorys_bosses:achievement_icons",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "no_hit_kraken": {
+      "display_name": "Wraith of the Tide",
+      "original_name": "Wraith of the Tide",
+      "enabled": true,
+      "icon": "block_factorys_bosses:achievement_icons",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_boss_under_minute": {
+      "display_name": "Sobrecargado",
+      "original_name": "Sobrecargado",
+      "enabled": true,
+      "icon": "block_factorys_bosses:achievement_icons",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_yeti": {
+      "display_name": "Perdido en la Nieve",
+      "original_name": "Perdido en la Nieve",
+      "enabled": true,
+      "icon": "block_factorys_bosses:achievement_icons",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "no_hit_yeti": {
+      "display_name": "Rey de la Colina",
+      "original_name": "Rey de la Colina",
+      "enabled": true,
+      "icon": "block_factorys_bosses:achievement_icons",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "no_hit_dragon": {
+      "display_name": "Cazador de Dragones",
+      "original_name": "Cazador de Dragones",
+      "enabled": true,
+      "icon": "block_factorys_bosses:achievement_icons",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_underworld_knight": {
+      "display_name": "¡De vuelta al Infierno!",
+      "original_name": "¡De vuelta al Infierno!",
+      "enabled": true,
+      "icon": "block_factorys_bosses:achievement_icons",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "no_hit_sandworm": {
+      "display_name": "Poder del Desierto",
+      "original_name": "Poder del Desierto",
+      "enabled": true,
+      "icon": "block_factorys_bosses:achievement_icons",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_sandworm": {
+      "display_name": "La Bestia del Subsuelo",
+      "original_name": "La Bestia del Subsuelo",
+      "enabled": true,
+      "icon": "block_factorys_bosses:achievement_icons",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_kraken": {
+      "display_name": "Terror of the Depths",
+      "original_name": "Terror of the Depths",
+      "enabled": true,
+      "icon": "block_factorys_bosses:achievement_icons",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "no_hit_underworld_knight": {
+      "display_name": "Más Allá de la Muerte",
+      "original_name": "Más Allá de la Muerte",
+      "enabled": true,
+      "icon": "block_factorys_bosses:achievement_icons",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_all_bosses": {
+      "display_name": "Desatado",
+      "original_name": "Desatado",
+      "enabled": true,
+      "icon": "block_factorys_bosses:achievement_icons",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

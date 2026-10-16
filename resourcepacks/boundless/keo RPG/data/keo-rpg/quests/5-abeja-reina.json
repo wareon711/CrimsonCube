@@ -1,0 +1,23 @@
+{
+  "id": "abeja-reina",
+  "name": "Abeja Reina!",
+  "icon": "confluence:abeemination",
+  "description": "Usa un /oBanco de trabajo/x pesado para craftear el /bAbeemination!/x\n\nCon el podras invocar a la /rAbeja Reina/x",
+  "category": "confluence",
+  "sub-category": "jefes",
+  "optional": false,
+  "repeatable": false,
+  "hiddenUnderDependency": false,
+  "completion": {
+    "complete": [
+      {
+        "kill": "terra_entity:queen_bee",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "exp": "points",
+    "count": 500
+  }
+}

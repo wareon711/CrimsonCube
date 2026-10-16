@@ -1,0 +1,26 @@
+{
+  "id": "sanghor",
+  "name": "sanghor!",
+  "icon": "armageddon_mod:cocoon_of_blood",
+  "description": "Fabrica el /bCocoon of blood/x e invoca /oSanghor, lord of blood! /x\n\nAl matarlo conseguiras uno de los minerales mas poderosos, el /bbloody!/x",
+  "category": "armageddon",
+  "sub-category": "progresion",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "calamity",
+  "completion": {
+    "complete": [
+      {
+        "collect": "armageddon_mod:cocoon_of_blood",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "exp": "points",
+    "count": 950
+  }
+}

@@ -1,0 +1,18 @@
+filename = 'witherreincarnated-1.21.1-1.0.5.jar'
+name = 'Wither: Reincarnated'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'witherreincarnated-1.21.1-1.0.5.jar'
+
+[download]
+hash = '7d5b44a8ec9e6c4f4624382e3a804b32160450de'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8439812
+project-id = 1309246

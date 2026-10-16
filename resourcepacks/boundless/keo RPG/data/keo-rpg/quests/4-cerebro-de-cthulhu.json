@@ -1,0 +1,23 @@
+{
+  "id": "cerebro-de-cthulhu",
+  "name": "Cerebro de Cthulhu!",
+  "icon": "confluence:bloody_spine",
+  "description": "Consigue /b30 de polvo vicioso/x y /b15 vertebra./x\n\nUsalas en un /oAltar demoniaco/x para conseguir una /bcolumna sangrienta/x e invocar al /rCerebro de Cthulhu!/x",
+  "category": "confluence",
+  "sub-category": "jefes",
+  "optional": false,
+  "repeatable": false,
+  "hiddenUnderDependency": false,
+  "completion": {
+    "complete": [
+      {
+        "kill": "terra_entity:brain_of_cthulhu",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "exp": "points",
+    "count": 400
+  }
+}

@@ -1,0 +1,18 @@
+filename = 'TreeChop-1.21.1-neoforge-0.19.3.jar'
+name = "HT's TreeChop"
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'TreeChop-1.21.1-neoforge-0.19.3.jar'
+
+[download]
+hash = '7bf7c1bde0f574e3fb9077115a2d4f59e534486c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6254465
+project-id = 421377

@@ -1,0 +1,25 @@
+filename = 'letsdo-bloomingnature-neoforge-1.1.10.jar'
+name = "[Let's Do] BloomingNature"
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'bloomingnature - 1.1.10 - NEOFORGE - 1.21.1'
+
+[download]
+hash = '4c161f19d06d5eba52f8ad212fe7fd7c1fcc2c8b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7829623
+project-id = 962885
+
+[[x-prismlauncher-dependencies]]
+addonId = '852512'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'

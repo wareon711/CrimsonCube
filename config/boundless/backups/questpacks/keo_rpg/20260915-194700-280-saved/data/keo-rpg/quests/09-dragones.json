@@ -1,0 +1,30 @@
+{
+  "id": "dragones",
+  "name": "¡DRAGONES!",
+  "icon": "saintsdragons:raevyx_binder",
+  "description": "Encontraras /bDragones/x por todo el mundo, Podras domesticarlos con /osalmon/x aunque no en todos los casos sera tan facil, cuidado!\n\nSi logras domesticarlo podras llevarlo a todas partes con un /ovinculador/x\n\nSi los logras derrotar te daran recompenzas valiosas",
+  "category": "guia-keo-rpg",
+  "sub-category": "2-era-de-piedra",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "the-goblin-lord",
+  "completion": {
+    "complete": [
+      {
+        "collect": "saintsdragons:draconic_codex",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "saintsdragons:cindervane_egg",
+        "count": 1
+      }
+    ]
+  }
+}

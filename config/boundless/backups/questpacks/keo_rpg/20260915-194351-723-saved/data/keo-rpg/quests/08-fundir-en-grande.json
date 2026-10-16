@@ -1,0 +1,34 @@
+{
+  "id": "fundir-en-grande",
+  "name": "Fundir en Grande!",
+  "icon": "alloy_smelter:forge_controller_tier1",
+  "description": "Con el /bBrick forge/x controller podras cocinar 2 items a la vez a /omucha velocidad!/x\n\n/rSOLO FUNCIONAN LOS PRIMEROS 2 ESPACIOS DE SU INVENTARIO!/x\n\nPara que funcione tendras que crear una /bpequeña estructura/x, te recomiendo ver la pagina del mod /oAlloy Smelter/x",
+  "category": "guia-keo-rpg",
+  "sub-category": "2-era-de-piedra",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "mochilas",
+  "completion": {
+    "complete": [
+      {
+        "collect": "alloy_smelter:forge_controller_tier1",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:coal",
+        "count": 32
+      },
+      {
+        "item": "minecraft:bricks",
+        "count": 16
+      }
+    ]
+  }
+}

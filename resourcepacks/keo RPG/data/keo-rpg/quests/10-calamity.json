@@ -1,0 +1,26 @@
+{
+  "id": "calamity",
+  "name": "Calamities!",
+  "icon": "armageddon_mod:sigil_of_calamity",
+  "description": "Al matar a /oThe bringer of doom/x obtendras el /bsigil of calamity/x para invocar a /oThe calamities!/x\n\nCon esto conseguiras /oespiritus/x para muchos crafteos, entre ellos el /ocalamitous core/x",
+  "category": "armageddon",
+  "sub-category": "progresion",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "doom",
+  "completion": {
+    "complete": [
+      {
+        "collect": "armageddon_mod:sigil_of_calamity",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "exp": "points",
+    "count": 900
+  }
+}

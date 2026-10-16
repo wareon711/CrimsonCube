@@ -1,0 +1,28 @@
+{
+  "id": "dificultad",
+  "name": "Dificultad!",
+  "icon": "majruszsdifficulty:undead_battle_standard",
+  "description": "La /ldificultad /xaumentara progresivamente!\n\n/g/lNormal → /ial empezar\n/o/lExpert → /ial entrar al Nether\n/r/lMaster →/i al matar al Ender Dragon\n\n/xTambien apareceran /lraids, grupos de /lenemigos, botín extra y un nuevo mineral en el /lend, /oel enderium!",
+  "category": "tutoriales!",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:diamond",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:diamond",
+        "count": 1
+      }
+    ]
+  }
+}

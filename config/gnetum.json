@@ -1,0 +1,538 @@
+{
+  "enabled": {
+    "value": "ON"
+  },
+  "showHudFps": {
+    "value": "ON"
+  },
+  "numberOfPasses": 4,
+  "maxFps": 30,
+  "mapVanillaElements": {
+    "enderscape:debug": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "minecraft:spectator_tooltip": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "eternal_starlight:offhand_attack_indicator": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "immersiveoverlays:wind": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "kaleidoscope_cookery:pot_overlay": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "create:toolbox": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "eternal_starlight:portal": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "spell_engine:spell_hud": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "minecraft:subtitle_overlay": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "confluence:repeater_hud": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "eternal_starlight:orb_of_prophecy_use": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "minecraft:jump_meter": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "immersiveoverlays:temperature": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "naturescompass:natures_compass": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "databank:debug": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "minecraft:scoreboard_sidebar": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "minecraft:hotbar": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "eternal_starlight:ether_erosion": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "artifacts:artifact_cooldowns": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "terra_curio:diving_helmet": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "confluence:house_select": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "minecraft:debug_overlay": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "undergarden:utheric_infection_bar": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "gnetum:minecraft_hand": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "irons_spellbooks:screen_tooltip": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "immersiveoverlays:compass": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "travelerstitles:overlay": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "xaerohud:hud": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "minecraft:experience_bar": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "minecraft:saving_indicator": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "minecraft:title": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "sophisticatedstorage:storage_tool_info": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "the_trackers:pointer": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "enderscape:stare_screen": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "create:value_settings": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "minecraft:selected_item_name": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "paraglider:stamina_wheel": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "xaeroworldmap:crosshair_message": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "eternal_starlight:carved_lunaris_cactus_fruit_blur": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "modonomicon:multiblock_hud": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "starcatcher:fish_tracker": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "confluence:goblin_army": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "minecraft:overlay_message": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "paraglider:movement_debug": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "immersiveoverlays:speed": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "irons_spellbooks:screen_effects": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "create:schematic": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "sophisticatedstorage:paintbrush_info": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "eternal_starlight:current_crest": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "create:blueprint": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "eternal_starlight:dream_catcher": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "shouldersurfing:pre_crosshair": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "create:track_placement": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "minecraft:sleep_overlay": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "minecraft:experience_level": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "enderscape:nebulite_tool": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "irons_spellbooks:cast_bar": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "undergarden:utheric_infection_vignette": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "irons_spellbooks:spell_wheel": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "minecraft:boss_overlay": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "shouldersurfing:post_crosshair": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "create:linked_controller": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "terra_curio:info_hud": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "starcatcher:tournament": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "gnetum:status_bar": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "minecraft:effects": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "explorerscompass:explorers_compass": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "immersiveoverlays:biome": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "enderscape:mirror_screen": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "eternal_starlight:spell_crosshair": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "undergarden:undergarden_portal_overlay": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "immersiveoverlays:clock": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "minecraft:tab_list": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "create:goggle_info": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "minecraft:chat": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    }
+  },
+  "mapModdedElementsPre": {
+    "block_factorys_bosses": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "armageddon_mod": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "chloride": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "soul_incursion": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "sweety_archaeology": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "unusualend": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    }
+  },
+  "mapModdedElementsPost": {
+    "gnetum_unknown": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "boundless": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "fabric_rendering_v1": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "jade": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "travelerscompass": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "codex": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    }
+  }
+}

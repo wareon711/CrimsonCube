@@ -1,0 +1,27 @@
+{
+  "enabled": true,
+  "mod_name": "Bountiful",
+  "mod_id": "bountiful",
+  "achievements": {
+    "bountiful/bounty_complete": {
+      "display_name": "Pago honesto por trabajo honesto",
+      "original_name": "Pago honesto por trabajo honesto",
+      "enabled": true,
+      "icon": "bountiful:bounty",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "bountiful/bounty_taken": {
+      "display_name": "Bountiful",
+      "original_name": "Bountiful",
+      "enabled": true,
+      "icon": "bountiful:bountyboard",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

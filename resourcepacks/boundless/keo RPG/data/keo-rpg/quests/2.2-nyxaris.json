@@ -1,0 +1,28 @@
+{
+  "id": "nyxaris",
+  "name": "Nyxaris!",
+  "icon": "armageddon_mod:the_corrupted_tear",
+  "description": "Fabrica /bthe corrupted tear/x y combate con el jefe final! /oNyxaris, the veil of oblivion!/x\n\nPodras conseguir materiales para hacer los objetos de otro /onivel!/x",
+  "category": "armageddon",
+  "sub-category": "progresion",
+  "optional": false,
+  "repeatable": false,
+  "hiddenUnderDependency": false,
+  "dependencies": "zoranth2",
+  "completion": {
+    "complete": [
+      {
+        "collect": "armageddon_mod:the_corrupted_tear",
+        "count": 1
+      },
+      {
+        "kill": "armageddon_mod:nyxaris_the_veil_of_oblivion",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "exp": "points",
+    "count": 1000
+  }
+}

@@ -1,0 +1,21 @@
+filename = 'caverns_and_chasms-1.21.1-3.0.0.jar'
+name = 'Caverns & Chasms'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Caverns & Chasms 1.21.1 - 3.0.0'
+
+[download]
+hash = 'a20e72a96c1db7d948c9a972fdcdd900c469e8f5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8155745
+project-id = 438005
+
+[[x-prismlauncher-dependencies]]
+addonId = '382216'
+type = 'REQUIRED'

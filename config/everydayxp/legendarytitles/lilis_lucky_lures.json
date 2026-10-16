@@ -1,0 +1,77 @@
+{
+  "enabled": true,
+  "mod_name": "[Let\u0027s Do] Lilis Lucky Lures",
+  "mod_id": "lilis_lucky_lures",
+  "achievements": {
+    "main/cross_collector": {
+      "display_name": "Coleccionista de Tesoros",
+      "original_name": "Coleccionista de Tesoros",
+      "enabled": true,
+      "icon": "lilis_lucky_lures:anglers_hat",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/place_fish_trap": {
+      "display_name": "Trampa Preparada, Peces Capturados",
+      "original_name": "Trampa Preparada, Peces Capturados",
+      "enabled": true,
+      "icon": "lilis_lucky_lures:fish_trap",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/spyglass_at_floating_debris": {
+      "display_name": "¡Escombros a la Vista!",
+      "original_name": "¡Escombros a la Vista!",
+      "enabled": true,
+      "icon": "minecraft:spyglass",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/place_fish_bag": {
+      "display_name": "Captura y Almacena",
+      "original_name": "Captura y Almacena",
+      "enabled": true,
+      "icon": "lilis_lucky_lures:fish_bag",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/throw_spear": {
+      "display_name": "Chica Arponera",
+      "original_name": "Chica Arponera",
+      "enabled": true,
+      "icon": "lilis_lucky_lures:spear",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/use_melon_seeds_on_fish_trap": {
+      "display_name": "Cebo Colocado y a la Espera",
+      "original_name": "Cebo Colocado y a la Espera",
+      "enabled": true,
+      "icon": "lilis_lucky_lures:ocean_fish_pool",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/use_pufferfish_on_fish_trophy_frame": {
+      "display_name": "Orgullo Inflado",
+      "original_name": "Orgullo Inflado",
+      "enabled": true,
+      "icon": "lilis_lucky_lures:fish_trophy_frame",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "enabled": true,
+  "mod_name": "Unusual End",
+  "mod_id": "unusualend",
+  "achievements": {
+    "give_bolok_crystal": {
+      "display_name": "¿Estás seguro de eso?",
+      "original_name": "¿Estás seguro de eso?",
+      "enabled": true,
+      "icon": "unusualend:bolok_fin",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "has_every_warped_entity_bucket": {
+      "display_name": "Cubetas Exóticas",
+      "original_name": "Cubetas Exóticas",
+      "enabled": true,
+      "icon": "unusualend:bluk_bucket",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "bolok_in_nether": {
+      "display_name": "Los mismos errores, otra vez",
+      "original_name": "Los mismos errores, otra vez",
+      "enabled": true,
+      "icon": "minecraft:warped_nylium",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "using_chorus_flute": {
+      "display_name": "Melodía del espacio exterior",
+      "original_name": "Melodía del espacio exterior",
+      "enabled": true,
+      "icon": "unusualend:chorus_flute",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "its_a_trap": {
+      "display_name": "¡Es una trampa!",
+      "original_name": "¡Es una trampa!",
+      "enabled": true,
+      "icon": "unusualend:infested_end_stone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "worse_than_death": {
+      "display_name": "Segunda oportunidad",
+      "original_name": "Segunda oportunidad",
+      "enabled": true,
+      "icon": "unusualend:void_totem",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "trade_with_bolok": {
+      "display_name": "Alquimia Sospechosa",
+      "original_name": "Alquimia Sospechosa",
+      "enabled": true,
+      "icon": "unusualend:bolok_bucket",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "break_gloopy_urn": {
+      "display_name": "Vamos a apostar",
+      "original_name": "Vamos a apostar",
+      "enabled": true,
+      "icon": "unusualend:gloopy_urn",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "use_knockback_dagger": {
+      "display_name": "¡A la Luna!",
+      "original_name": "¡A la Luna!",
+      "enabled": true,
+      "icon": "unusualend:bouncy_dagger",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "use_warped_set": {
+      "display_name": "El camino del Bolok",
+      "original_name": "El camino del Bolok",
+      "enabled": true,
+      "icon": "unusualend:warped_chestplate",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "use_chorus_helmet": {
+      "display_name": "El arte del Ultra Instinto",
+      "original_name": "El arte del Ultra Instinto",
+      "enabled": true,
+      "icon": "unusualend:chorus_helmet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "firefly_in_swamp": {
+      "display_name": "El camino largo",
+      "original_name": "El camino largo",
+      "enabled": true,
+      "icon": "unusualend:ender_firefly_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_warped_reef": {
+      "display_name": "Aguas de Marte",
+      "original_name": "Aguas de Marte",
+      "enabled": true,
+      "icon": "unusualend:warped_end_stone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "ancient_wisdom": {
+      "display_name": "Sabiduría Ancestral",
+      "original_name": "Sabiduría Ancestral",
+      "enabled": true,
+      "icon": "unusualend:ancient_shard",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "get_citrine": {
+      "display_name": "Brillando en las profundidades",
+      "original_name": "Brillando en las profundidades",
+      "enabled": true,
+      "icon": "unusualend:citrine_chunk",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "use_golem_altar": {
+      "display_name": "Restos del Pasado",
+      "original_name": "Restos del Pasado",
+      "enabled": true,
+      "icon": "unusualend:golem_altar",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "fish_in_warped_reef": {
+      "display_name": "Como es arriba, es abajo",
+      "original_name": "Como es arriba, es abajo",
+      "enabled": true,
+      "icon": "unusualend:raw_bluk",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "use_warped_bubble": {
+      "display_name": "Viviendo en una burbuja",
+      "original_name": "Viviendo en una burbuja",
+      "enabled": true,
+      "icon": "unusualend:warped_bubble",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "gotta_catch_em_all": {
+      "display_name": "¡Atrápalos ya!",
+      "original_name": "¡Atrápalos ya!",
+      "enabled": true,
+      "icon": "minecraft:end_stone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_catalyst": {
+      "display_name": "Tecnología Portátil",
+      "original_name": "Tecnología Portátil",
+      "enabled": true,
+      "icon": "unusualend:crystal_catalyst",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_gloopstone_plains": {
+      "display_name": "¡Mites, Sr. Steve! ¡Millones de ellos!",
+      "original_name": "¡Mites, Sr. Steve! ¡Millones de ellos!",
+      "enabled": true,
+      "icon": "unusualend:gloopstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "forced_social_distancing": {
+      "display_name": "Distanciamiento Social Forzado",
+      "original_name": "Distanciamiento Social Forzado",
+      "enabled": true,
+      "icon": "unusualend:end_blob",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "beam_me_up_stewy": {
+      "display_name": "¡Transpórtame, Estofado!",
+      "original_name": "¡Transpórtame, Estofado!",
+      "enabled": true,
+      "icon": "unusualend:wandering_stew",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "bigger_on_the_inside": {
+      "display_name": "¡Es más grande por dentro!",
+      "original_name": "¡Es más grande por dentro!",
+      "enabled": true,
+      "icon": "unusualend:purpur_tank",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "eat_chocolate_bluk": {
+      "display_name": "Le Bluk Au Chocolat",
+      "original_name": "Le Bluk Au Chocolat",
+      "enabled": true,
+      "icon": "unusualend:bluk_au_chocolat",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "use_enchanted_leeching_wand": {
+      "display_name": "Un deber de cuidado",
+      "original_name": "Un deber de cuidado",
+      "enabled": true,
+      "icon": "unusualend:leeching_wand",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_all_orbs": {
+      "display_name": "Golpéame si puedes",
+      "original_name": "Golpéame si puedes",
+      "enabled": true,
+      "icon": "unusualend:golem_orb",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "hyperspace_jump": {
+      "display_name": "Salto Hiperespacial",
+      "original_name": "Salto Hiperespacial",
+      "enabled": true,
+      "icon": "unusualend:prismatic_mirror",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "use_pearlescent_buff": {
+      "display_name": "El poder de tres",
+      "original_name": "El poder de tres",
+      "enabled": true,
+      "icon": "unusualend:pearlescent_infuser",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "drink_max_warped_infusion": {
+      "display_name": "¡RECHAZO MI HUMANIDAD, BOLOKO!",
+      "original_name": "¡RECHAZO MI HUMANIDAD, BOLOKO!",
+      "enabled": true,
+      "icon": "unusualend:warped_infusion",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_all_gems": {
+      "display_name": "Gemas Ocultas",
+      "original_name": "Gemas Ocultas",
+      "enabled": true,
+      "icon": "unusualend:prismalite_gem",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_enderling_mask": {
+      "display_name": "Dulce o Truco",
+      "original_name": "Dulce o Truco",
+      "enabled": true,
+      "icon": "unusualend:spirit_grim_helmet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "open_warped_chest": {
+      "display_name": "Antes del Diluvio",
+      "original_name": "Antes del Diluvio",
+      "enabled": true,
+      "icon": "unusualend:warped_chest",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "shoot_enderbulb": {
+      "display_name": "Ojo por Ojo",
+      "original_name": "Ojo por Ojo",
+      "enabled": true,
+      "icon": "unusualend:enderbulb_lens",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "wear_glub": {
+      "display_name": "Jalea encima",
+      "original_name": "Jalea encima",
+      "enabled": true,
+      "icon": "unusualend:glub_bucket",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "use_warped_bubble_transportation": {
+      "display_name": "Flotando por ahí",
+      "original_name": "Flotando por ahí",
+      "enabled": true,
+      "icon": "unusualend:warped_balloon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "you_but_stronger": {
+      "display_name": "Soy tú, pero más fuerte",
+      "original_name": "Soy tú, pero más fuerte",
+      "enabled": true,
+      "icon": "unusualend:wandering_pearl",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

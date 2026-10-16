@@ -1,0 +1,207 @@
+{
+  "enabled": true,
+  "mod_name": "L_Ender\u0027s Cataclysm 1.21.1",
+  "mod_id": "cataclysm",
+  "achievements": {
+    "kill_harbinger": {
+      "display_name": "Cosas fuera de sitio",
+      "original_name": "Cosas fuera de sitio",
+      "enabled": true,
+      "icon": "cataclysm:witherite_ingot",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_scylla": {
+      "display_name": "La calma después de la tormenta",
+      "original_name": "La calma después de la tormenta",
+      "enabled": true,
+      "icon": "cataclysm:essence_of_the_storm",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_burning_arena": {
+      "display_name": "Una arena en llamas",
+      "original_name": "Una arena en llamas",
+      "enabled": true,
+      "icon": "cataclysm:altar_of_fire",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_sunken_city": {
+      "display_name": "Ciudad hundida",
+      "original_name": "Ciudad hundida",
+      "enabled": true,
+      "icon": "cataclysm:stone_tiles",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_leviathan": {
+      "display_name": "Un depredador multidimensional",
+      "original_name": "Un depredador multidimensional",
+      "enabled": true,
+      "icon": "cataclysm:tidal_claws",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_ender_guardian": {
+      "display_name": "¿Era eso un shulker?",
+      "original_name": "¿Era eso un shulker?",
+      "enabled": true,
+      "icon": "cataclysm:gauntlet_of_guard",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_frosted_prison": {
+      "display_name": "Prisión helada",
+      "original_name": "Prisión helada",
+      "enabled": true,
+      "icon": "cataclysm:door_of_seal",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_clawdian": {
+      "display_name": "No es tan shrimple ahora, ¿verdad?",
+      "original_name": "No es tan shrimple ahora, ¿verdad?",
+      "enabled": true,
+      "icon": "cataclysm:chitin_claw",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_soul_black_smith": {
+      "display_name": "La herrería de almas",
+      "original_name": "La herrería de almas",
+      "enabled": true,
+      "icon": "minecraft:blackstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_remnant": {
+      "display_name": "La muerte encuentra el camino",
+      "original_name": "La muerte encuentra el camino",
+      "enabled": true,
+      "icon": "cataclysm:remnant_skull",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_maledictus": {
+      "display_name": "Cruzada contra la maldición",
+      "original_name": "Cruzada contra la maldición",
+      "enabled": true,
+      "icon": "cataclysm:cursed_tombstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_cursed_pyramid": {
+      "display_name": "Pirámide maldita",
+      "original_name": "Pirámide maldita",
+      "enabled": true,
+      "icon": "cataclysm:sandstone_poison_dart_trap",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_ruined_citadel": {
+      "display_name": "¡Una ciudadela en ruinas!",
+      "original_name": "¡Una ciudadela en ruinas!",
+      "enabled": true,
+      "icon": "cataclysm:chiseled_end_stone_bricks",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_ender_golem": {
+      "display_name": "Cambio de paleta",
+      "original_name": "Cambio de paleta",
+      "enabled": true,
+      "icon": "cataclysm:void_core",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_acropolis": {
+      "display_name": "Acrópolis",
+      "original_name": "Acrópolis",
+      "enabled": true,
+      "icon": "cataclysm:lacrima",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_ignis": {
+      "display_name": "El fuego extinguido",
+      "original_name": "El fuego extinguido",
+      "enabled": true,
+      "icon": "cataclysm:bulwark_of_the_flame",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_monstrosity": {
+      "display_name": "La máquina de guerra destruida del nether",
+      "original_name": "La máquina de guerra destruida del nether",
+      "enabled": true,
+      "icon": "cataclysm:infernal_forge",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_ancient_factory": {
+      "display_name": "Civilización antigua",
+      "original_name": "Civilización antigua",
+      "enabled": true,
+      "icon": "cataclysm:emp",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_all_bosses": {
+      "display_name": "Un viaje cataclísmico",
+      "original_name": "Un viaje cataclísmico",
+      "enabled": true,
+      "icon": "cataclysm:music_disc_the_cataclysmfarer",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_revenant": {
+      "display_name": "La cosa imperfecta",
+      "original_name": "La cosa imperfecta",
+      "enabled": true,
+      "icon": "cataclysm:burning_ashes",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

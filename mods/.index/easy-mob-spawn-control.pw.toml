@@ -1,0 +1,18 @@
+filename = 'easy_mob_spawn_control-1.5.6.jar'
+name = 'Easy Mob Spawn Control'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'easy_mob_spawn_control-1.5.6.jar'
+
+[download]
+hash = '040fb6fcd4399383b6ac67a44a10656c6f177aac'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8653295
+project-id = 1489509

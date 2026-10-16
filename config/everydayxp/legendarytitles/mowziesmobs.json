@@ -1,0 +1,167 @@
+{
+  "enabled": true,
+  "mod_name": "Mowzie\u0027s Mobs",
+  "mod_id": "mowziesmobs",
+  "achievements": {
+    "kill_umvuthana_raptor": {
+      "display_name": "Mascarada",
+      "original_name": "Mascarada",
+      "enabled": true,
+      "icon": "mowziesmobs:umvuthana_mask_fury",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_grottol": {
+      "display_name": "Eres un monstruo...",
+      "original_name": "Eres un monstruo...",
+      "enabled": true,
+      "icon": "minecraft:diamond",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_grottol_fortune": {
+      "display_name": "¡Doble o nada!",
+      "original_name": "¡Doble o nada!",
+      "enabled": true,
+      "icon": "minecraft:diamond_pickaxe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "sneak_grove": {
+      "display_name": "Lobos de la misma camada",
+      "original_name": "Lobos de la misma camada",
+      "enabled": true,
+      "icon": "mowziesmobs:umvuthana_mask_fear",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_grottol_silk_touch": {
+      "display_name": "Vienes conmigo",
+      "original_name": "Vienes conmigo",
+      "enabled": true,
+      "icon": "mowziesmobs:captured_grottol",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "sculptor_failure": {
+      "display_name": "Nadie salta por la carne",
+      "original_name": "Nadie salta por la carne",
+      "enabled": true,
+      "icon": "minecraft:beef",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "sculptor_challenge": {
+      "display_name": "Debes creer",
+      "original_name": "Debes creer",
+      "enabled": true,
+      "icon": "mowziesmobs:earthrend_gauntlet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_umvuthi": {
+      "display_name": "Usurpador",
+      "original_name": "Usurpador",
+      "enabled": true,
+      "icon": "mowziesmobs:sol_visage",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_foliaath": {
+      "display_name": "Jennifer me dejó",
+      "original_name": "Jennifer me dejó",
+      "enabled": true,
+      "icon": "mowziesmobs:foliaath_seed",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_ferrous_wroughtnaut": {
+      "display_name": "Los más grandes son...",
+      "original_name": "Los más grandes son...",
+      "enabled": true,
+      "icon": "mowziesmobs:wrought_helmet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_naga": {
+      "display_name": "Aletéalo",
+      "original_name": "Aletéalo",
+      "enabled": true,
+      "icon": "mowziesmobs:naga_fang",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "suns_blessing": {
+      "display_name": "Heliomancia",
+      "original_name": "Heliomancia",
+      "enabled": true,
+      "icon": "mowziesmobs:grant_suns_blessing",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_bluff": {
+      "display_name": "Te llamaron bluff",
+      "original_name": "Te llamaron bluff",
+      "enabled": true,
+      "icon": "mowziesmobs:bluff_rod",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "steal_ice_crystal": {
+      "display_name": "Gran momento para pensar",
+      "original_name": "Gran momento para pensar",
+      "enabled": true,
+      "icon": "minecraft:potion",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_frostmaw": {
+      "display_name": "Despertar violento",
+      "original_name": "Despertar violento",
+      "enabled": true,
+      "icon": "mowziesmobs:ice_crystal",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_elokosa_howler": {
+      "display_name": "Gibbous Gibbons",
+      "original_name": "Gibbous Gibbons",
+      "enabled": true,
+      "icon": "mowziesmobs:elokosa_paw_full",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "jefes",
+  "name": "Jefes!",
+  "icon": "minecraft:skeleton_skull",
+  "order": 3,
+  "auto_complete": false
+}

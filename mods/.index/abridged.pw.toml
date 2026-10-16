@@ -1,0 +1,18 @@
+filename = 'abridged-2.0.2-neoforge-21.1.jar'
+name = 'Abridged'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v2.0.2 ~ Neoforge 21.1'
+
+[download]
+hash = '980c3bb14c537ed5e00ec106bfbd01fcc7e9bfdd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8327782
+project-id = 948999

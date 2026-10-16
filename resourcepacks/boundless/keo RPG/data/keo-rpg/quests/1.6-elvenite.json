@@ -1,0 +1,32 @@
+{
+  "id": "elvenite",
+  "name": "Elvenite!",
+  "icon": "armageddon_mod:titan_insigna",
+  "description": "Explora las ciudades del end para encontrar el /bAncient blueprint!/x Con el podras craftear el /bTitan\u0027s insigna/x e /oinvocar al Elvenite paladin!/x\n\nConseguiras /oElvenite/x para fabricar armas y armaduras mas fuertes que la netherita",
+  "category": "armageddon",
+  "sub-category": "progresion",
+  "optional": false,
+  "repeatable": false,
+  "hiddenUnderDependency": false,
+  "dependencies": "ender-dragon",
+  "completion": {
+    "complete": [
+      {
+        "collect": "armageddon_mod:titan_insigna",
+        "count": 1
+      },
+      {
+        "kill": "armageddon_mod:elvenite_paladin",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:750",
+        "count": 1
+      }
+    ]
+  }
+}

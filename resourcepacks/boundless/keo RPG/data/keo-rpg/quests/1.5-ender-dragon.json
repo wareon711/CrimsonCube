@@ -1,0 +1,28 @@
+{
+  "id": "ender-dragon",
+  "name": "Ender Dragon!",
+  "icon": "minecraft:dragon_head",
+  "description": "Al matar a la /odragona/x conseguiras tesoros increibles como el /bkhyros/x te servira para muchos crafteos!\n\nPara entrar al end sigue la mision \u0027\u0027/b¿the end?/x\u0027\u0027",
+  "category": "armageddon",
+  "sub-category": "progresion",
+  "optional": false,
+  "repeatable": false,
+  "hiddenUnderDependency": false,
+  "dependencies": "zoranth1",
+  "completion": {
+    "complete": [
+      {
+        "kill": "minecraft:elder_guardian",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "armageddon_mod:khyros_tear",
+        "count": 4
+      }
+    ]
+  }
+}

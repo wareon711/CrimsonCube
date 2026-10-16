@@ -1,0 +1,30 @@
+{
+  "id": "all-the-bosses",
+  "name": "y los jefes?!",
+  "icon": "skeleton_skull",
+  "description": "/b/l¿estas perdido?/x\n\nPuedes combatir contra estos jefes en cualquier momento, /orecomendado si te sientes atascado!/x\n\nEn el menu de pausa veras un libro donde podras ver una /bcheck list/x de todos los jefes de modpack.\nAl darle click podras ver todos los /p/ljefes en /lorden de dificultad/x y su informacion de /odrops/x e informacion de como /oencontrarlo/xo /oinvocarlo/x",
+  "category": "jefes",
+  "sub-category": "otros-jefes",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "la-primera-vez",
+  "completion": {
+    "complete": [
+      {
+        "xp": "points",
+        "count": 5
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "paraglider:spirit_orb",
+        "count": 2
+      }
+    ]
+  }
+}

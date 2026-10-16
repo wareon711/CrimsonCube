@@ -1,0 +1,8 @@
+{
+  "id": "cataclyms",
+  "category": "jefes",
+  "name": "CATACLYSM!",
+  "icon": "cataclysm:ancient_metal_nugget",
+  "order": 5,
+  "default_open": true
+}

@@ -1,0 +1,5 @@
+[partner]
+	#Partner affiliate ID used in Olimpo Hosting links.
+	#Leave empty to open the default Minecraft servers page.
+	#Allowed characters: letters, numbers, underscore and hyphen.
+	partner_id = "81"

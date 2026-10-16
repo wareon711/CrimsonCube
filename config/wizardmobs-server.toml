@@ -1,0 +1,128 @@
+spawnWizards = true
+allowBabyZombies = false
+
+	#percent chance of zombie spawning with wizard equipment
+	[spawnChances.zombie]
+		#Wizards (RPG Series) spawning
+		novice = 5
+		staff = 5
+		arcane = 5
+		fire = 5
+		frost = 5
+		#Paladins & Priests (RPG Series) spawning
+		acolyte = 5
+		holy = 5
+		#Elemental Wizards (RPG Series Plus) spawning
+		elemental_novice = 5
+		elemental_staff = 5
+		water = 5
+		earth = 5
+		air = 5
+
+	#percent chance of husk spawning with wizard equipment
+	[spawnChances.husk]
+		#Wizards (RPG Series) spawning
+		novice = 5
+		staff = 5
+		arcane = 5
+		fire = 10
+		frost = 0
+		#Paladins & Priests (RPG Series) spawning
+		acolyte = 5
+		holy = 5
+		#Elemental Wizards (RPG Series Plus) spawning
+		elemental_novice = 5
+		elemental_staff = 5
+		water = 5
+		earth = 5
+		air = 5
+
+	#percent chance of drowned spawning with wizard equipment
+	[spawnChances.drowned]
+		#Wizards (RPG Series) spawning
+		novice = 5
+		staff = 5
+		arcane = 5
+		fire = 5
+		frost = 5
+		#Paladins & Priests (RPG Series) spawning
+		acolyte = 5
+		holy = 5
+		#Elemental Wizards (RPG Series Plus) spawning
+		elemental_novice = 5
+		elemental_staff = 5
+		water = 5
+		earth = 5
+		air = 5
+
+	#percent chance of zombie villager spawning with wizard equipment
+	[spawnChances.zombie_villager]
+		#Wizards (RPG Series) spawning
+		novice = 5
+		staff = 5
+		arcane = 5
+		fire = 5
+		frost = 5
+		#Paladins & Priests (RPG Series) spawning
+		acolyte = 5
+		holy = 5
+		#Elemental Wizards (RPG Series Plus) spawning
+		elemental_novice = 5
+		elemental_staff = 5
+		water = 5
+		earth = 5
+		air = 5
+
+	#percent chance of skeleton spawning with wizard equipment
+	[spawnChances.skeleton]
+		#Wizards (RPG Series) spawning
+		novice = 5
+		staff = 5
+		arcane = 5
+		fire = 5
+		frost = 5
+		#Paladins & Priests (RPG Series) spawning
+		acolyte = 5
+		holy = 5
+		#Elemental Wizards (RPG Series Plus) spawning
+		elemental_novice = 5
+		elemental_staff = 5
+		water = 5
+		earth = 5
+		air = 5
+
+	#percent chance of stray spawning with wizard equipment
+	[spawnChances.stray]
+		#Wizards (RPG Series) spawning
+		novice = 5
+		staff = 5
+		arcane = 5
+		fire = 0
+		frost = 10
+		#Paladins & Priests (RPG Series) spawning
+		acolyte = 5
+		holy = 5
+		#Elemental Wizards (RPG Series Plus) spawning
+		elemental_novice = 5
+		elemental_staff = 5
+		water = 5
+		earth = 5
+		air = 5
+
+	#percent chance of bogged spawning with wizard equipment
+	[spawnChances.bogged]
+		#Wizards (RPG Series) spawning
+		novice = 5
+		staff = 5
+		arcane = 5
+		fire = 5
+		frost = 5
+		#Paladins & Priests (RPG Series) spawning
+		acolyte = 5
+		holy = 5
+		#Elemental Wizards (RPG Series Plus) spawning
+		elemental_novice = 5
+		elemental_staff = 5
+		water = 5
+		earth = 5
+		air = 5

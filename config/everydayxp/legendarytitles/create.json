@@ -1,0 +1,507 @@
+{
+  "enabled": true,
+  "mod_name": "Create",
+  "mod_id": "create",
+  "achievements": {
+    "clockwork_bearing": {
+      "display_name": "Hora de los artilugios",
+      "original_name": "Hora de los artilugios",
+      "enabled": true,
+      "icon": "create:clockwork_bearing",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "train_crash_backwards": {
+      "display_name": "Ángulo Muerto",
+      "original_name": "Ángulo Muerto",
+      "enabled": true,
+      "icon": "create:incomplete_track",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "potato_cannon": {
+      "display_name": "¡Fwoomp!",
+      "original_name": "¡Fwoomp!",
+      "enabled": true,
+      "icon": "create:potato_cannon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "chained_drain": {
+      "display_name": "En cadena",
+      "original_name": "En cadena",
+      "enabled": true,
+      "icon": "create:item_drain",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "hand_crank_000": {
+      "display_name": "Sesión de entrenamiento",
+      "original_name": "Sesión de entrenamiento",
+      "enabled": true,
+      "icon": "create:hand_crank",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "potato_cannon_collide": {
+      "display_name": "Fuegos artificiales veganos",
+      "original_name": "Fuegos artificiales veganos",
+      "enabled": true,
+      "icon": "minecraft:carrot",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "train_portal": {
+      "display_name": "Pasajero dimensional",
+      "original_name": "Pasajero dimensional",
+      "enabled": true,
+      "icon": "minecraft:amethyst_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "windmill_maxed": {
+      "display_name": "Un vendaval",
+      "original_name": "Un vendaval",
+      "enabled": true,
+      "icon": "create:white_sail",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "fist_bump": {
+      "display_name": "¡Dale, hermano!",
+      "original_name": "¡Dale, hermano!",
+      "enabled": true,
+      "icon": "create:deployer",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "frogport": {
+      "display_name": "Tolvas hambrientas",
+      "original_name": "Tolvas hambrientas",
+      "enabled": true,
+      "icon": "create:package_frogport",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "track_crafting_factory": {
+      "display_name": "Fábrica de Vías",
+      "original_name": "Fábrica de Vías",
+      "enabled": true,
+      "icon": "create:mechanical_press",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "ejector_maxed": {
+      "display_name": "Campeón de trampolín",
+      "original_name": "Campeón de trampolín",
+      "enabled": true,
+      "icon": "create:weighted_ejector",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "self_deploying": {
+      "display_name": "Vagoneta Autónoma",
+      "original_name": "Vagoneta Autónoma",
+      "enabled": true,
+      "icon": "minecraft:rail",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "steam_engine_maxed": {
+      "display_name": "A Toda Máquina",
+      "original_name": "A Toda Máquina",
+      "enabled": true,
+      "icon": "create:steam_engine",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "train_roadkill": {
+      "display_name": "Esto es un atropello",
+      "original_name": "Esto es un atropello",
+      "enabled": true,
+      "icon": "minecraft:diamond_sword",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "package_chute_throw": {
+      "display_name": "Triplazo",
+      "original_name": "Triplazo",
+      "enabled": true,
+      "icon": "create:cardboard_package_12x12",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "stressometer_maxed": {
+      "display_name": "Perfectamente Estresado",
+      "original_name": "Perfectamente Estresado",
+      "enabled": true,
+      "icon": "create:stressometer",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "crafter_lazy_000": {
+      "display_name": "Medidas desesperadas",
+      "original_name": "Medidas desesperadas",
+      "enabled": true,
+      "icon": "create:mechanical_crafter",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "arm_many_targets": {
+      "display_name": "Organizatrón",
+      "original_name": "Organizatrón",
+      "enabled": true,
+      "icon": "create:mechanical_arm",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "red_signal": {
+      "display_name": "tranquilo, yo dirijo",
+      "original_name": "tranquilo, yo dirijo",
+      "enabled": true,
+      "icon": "create:track_signal",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "long_travel": {
+      "display_name": "Vamos de excursión",
+      "original_name": "Vamos de excursión",
+      "enabled": true,
+      "icon": "create:green_seat",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "pipe_organ": {
+      "display_name": "Órgano Musical",
+      "original_name": "Órgano Musical",
+      "enabled": true,
+      "icon": "create:steam_whistle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "factory_gauge": {
+      "display_name": "Logística Avanzada",
+      "original_name": "Logística Avanzada",
+      "enabled": true,
+      "icon": "create:factory_gauge",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "table_cloth_shop": {
+      "display_name": "Gran inauguración",
+      "original_name": "Gran inauguración",
+      "enabled": true,
+      "icon": "create:red_table_cloth",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "crushing_wheel": {
+      "display_name": "Ruedas de la destrucción",
+      "original_name": "Ruedas de la destrucción",
+      "enabled": true,
+      "icon": "create:crushing_wheel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "extendo_grip_dual": {
+      "display_name": "Todo un Manazas",
+      "original_name": "Todo un Manazas",
+      "enabled": true,
+      "icon": "create:extendo_grip",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "cart_pickup": {
+      "display_name": "Brazos fuertes",
+      "original_name": "Brazos fuertes",
+      "enabled": true,
+      "icon": "create:chest_minecart_contraption",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "long_train": {
+      "display_name": "Esfuerzos Ambiciosos",
+      "original_name": "Esfuerzos Ambiciosos",
+      "enabled": true,
+      "icon": "minecraft:minecart",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "haunted_bell": {
+      "display_name": "Sentido sombrío",
+      "original_name": "Sentido sombrío",
+      "enabled": true,
+      "icon": "create:haunted_bell",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "mechanical_press": {
+      "display_name": "¡Bonk!",
+      "original_name": "¡Bonk!",
+      "enabled": true,
+      "icon": "create:mechanical_press",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "stock_ticker": {
+      "display_name": "¡Pedido listo!",
+      "original_name": "¡Pedido listo!",
+      "enabled": true,
+      "icon": "create:stock_ticker",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lava_wheel_00000": {
+      "display_name": "Rueda de magma",
+      "original_name": "Rueda de magma",
+      "enabled": true,
+      "icon": "create:water_wheel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "hose_pulley_lava": {
+      "display_name": "Tocando el manto",
+      "original_name": "Tocando el manto",
+      "enabled": true,
+      "icon": "create:hose_pulley",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "pulley_maxed": {
+      "display_name": "Cuerda Huida",
+      "original_name": "Cuerda Huida",
+      "enabled": true,
+      "icon": "create:rope_pulley",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "andesite_casing": {
+      "display_name": "La Edad de Andesita",
+      "original_name": "La Edad de Andesita",
+      "enabled": true,
+      "icon": "create:andesite_casing",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "anvil_plough": {
+      "display_name": "Lanzamiento de peso",
+      "original_name": "Lanzamiento de peso",
+      "enabled": true,
+      "icon": "minecraft:chipped_anvil",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "train": {
+      "display_name": "¡Todos a bordo!",
+      "original_name": "¡Todos a bordo!",
+      "enabled": true,
+      "icon": "create:track_station",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "brass_casing": {
+      "display_name": "La Edad de Latón",
+      "original_name": "La Edad de Latón",
+      "enabled": true,
+      "icon": "create:brass_casing",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "cross_streams": {
+      "display_name": "Como agua y aceite",
+      "original_name": "Como agua y aceite",
+      "enabled": true,
+      "icon": "minecraft:cobblestone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "display_board_0": {
+      "display_name": "Horarios dinámicos",
+      "original_name": "Horarios dinámicos",
+      "enabled": true,
+      "icon": "create:display_board",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "crusher_maxed_0000": {
+      "display_name": "Estás que lo partes",
+      "original_name": "Estás que lo partes",
+      "enabled": true,
+      "icon": "create:crushing_wheel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "belt_funnel_kiss": {
+      "display_name": "Embudos tortolitos",
+      "original_name": "Embudos tortolitos",
+      "enabled": true,
+      "icon": "create:brass_funnel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "train_crash": {
+      "display_name": "Un Pésimo Servicio",
+      "original_name": "Un Pésimo Servicio",
+      "enabled": true,
+      "icon": "create:incomplete_track",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "mechanical_arm": {
+      "display_name": "¡Manos ocupadas!",
+      "original_name": "¡Manos ocupadas!",
+      "enabled": true,
+      "icon": "create:mechanical_arm",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "musical_arm": {
+      "display_name": "Mechanic DJ",
+      "original_name": "Mechanic DJ",
+      "enabled": true,
+      "icon": "minecraft:jukebox",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "diving_suit_lava": {
+      "display_name": "Nadando con los lavagantes",
+      "original_name": "Nadando con los lavagantes",
+      "enabled": true,
+      "icon": "create:netherite_diving_helmet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "cuckoo_clock": {
+      "display_name": "¿Llegó la hora?",
+      "original_name": "¿Llegó la hora?",
+      "enabled": true,
+      "icon": "create:cuckoo_clock",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "foods": {
+      "display_name": "Dieta equilibrada",
+      "original_name": "Dieta equilibrada",
+      "enabled": true,
+      "icon": "create:chocolate_glazed_berries",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "precision_mechanism": {
+      "display_name": "Curiosidades complejas",
+      "original_name": "Curiosidades complejas",
+      "enabled": true,
+      "icon": "create:precision_mechanism",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "cardboard_armor_trim": {
+      "display_name": "Artes y manualidades",
+      "original_name": "Artes y manualidades",
+      "enabled": true,
+      "icon": "create:cardboard_chestplate",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

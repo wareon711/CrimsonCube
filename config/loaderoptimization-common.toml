@@ -1,0 +1,32 @@
+#Skips redundant duplicate-entry scans during registry freeze.
+#Safe with all mods. Reduces freeze time for large modpacks.
+optimizeRegistryFreeze = true
+#Caches frequently repeated ResourceLocation → entry lookups.
+#Improves startup and reload speed. Safe with all mods.
+cacheRegistryLookups = true
+#Removes accidental duplicate event listener registrations.
+#Harmless for mods that register correctly. Fixes buggy mods.
+deduplicateListeners = true
+#Pre-sorts event listeners by priority at load time instead of
+#at first dispatch. Reduces first-event latency.
+sortListenerPriorities = true
+#Fires resource-pack reloads on a background thread pool.
+#Cuts /reload and world-load stutter. Safe with all mods.
+parallelResourceReload = true
+#Caches parsed pack.mcmeta files between reloads.
+#Speeds up repeated /reload and world-switching.
+cachePackMetadata = true
+#Skips re-scanning already-loaded classes during FML discovery.
+#Most beneficial for large modpacks (100+ mods).
+skipRedundantClassloading = true
+#Logs any event listener that takes longer than the threshold.
+#Purely diagnostic; never blocks or changes game behaviour.
+logSlowListeners = true
+#Millisecond threshold for 'logSlowListeners'.
+#Listeners slower than this will be reported in the log.
+# Default: 50
+# Range: 1 ~ 5000
+slowListenerThresholdMs = 50
+#Prints a phase-by-phase startup timing breakdown to the log.
+#Useful for diagnosing slow modpack startup.
+printStartupTimings = true

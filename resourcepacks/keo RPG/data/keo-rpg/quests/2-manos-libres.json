@@ -1,0 +1,26 @@
+{
+  "id": "manos-libres",
+  "name": "¡Manos Libres!",
+  "icon": "travelertoolbelt:belt",
+  "description": "Es hora de organizar tus herramientas.\n\nFabrica un /bTool Belt/x para llevar tus picos, hachas y palas siempre a mano. Una vez equipado (en el slot de cinturón), mantén presionada la tecla /b/l[ctrl+R]/x para abrir la rueda de selección.",
+  "category": "guia-keo-rpg",
+  "sub-category": "1-el-despertar",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "el-primer-tajo",
+  "completion": {
+    "complete": [
+      {
+        "collect": "travelertoolbelt:belt",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "exp": "points",
+    "count": 150
+  }
+}

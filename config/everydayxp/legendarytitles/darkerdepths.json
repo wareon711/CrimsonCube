@@ -1,0 +1,87 @@
+{
+  "enabled": true,
+  "mod_name": "Darker Depths",
+  "mod_id": "darkerdepths",
+  "achievements": {
+    "activities/use_crystal_melon": {
+      "display_name": "¡Siente el PODER!",
+      "original_name": "¡Siente el PODER!",
+      "enabled": true,
+      "icon": "darkerdepths:crystal_melon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "activities/bottle_void_soul": {
+      "display_name": "Frasco de almas del vacío",
+      "original_name": "Frasco de almas del vacío",
+      "enabled": true,
+      "icon": "darkerdepths:void_soul_jar",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "activities/elytra_boosted_by_geyser": {
+      "display_name": "Cohetería inversa",
+      "original_name": "Cohetería inversa",
+      "enabled": true,
+      "icon": "darkerdepths:geyser",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "activities/insert_diamond_into_crystal_husk": {
+      "display_name": "¡De entre los muertos!",
+      "original_name": "¡De entre los muertos!",
+      "enabled": true,
+      "icon": "darkerdepths:living_crystal",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "activities/set_death_anchor": {
+      "display_name": "Pacto de almas",
+      "original_name": "Pacto de almas",
+      "enabled": true,
+      "icon": "darkerdepths:death_anchor",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "activities/obtain_glowshroom_cap": {
+      "display_name": "Brillo en la oscuridad",
+      "original_name": "Brillo en la oscuridad",
+      "enabled": true,
+      "icon": "darkerdepths:glowshroom_cap",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "visited/structure/visited_catacombs": {
+      "display_name": "Las almas perdidas",
+      "original_name": "Las almas perdidas",
+      "enabled": true,
+      "icon": "darkerdepths:void_soul_requiem",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "activities/obtain_forsaken_bronze_scrap": {
+      "display_name": "Escoria de titán",
+      "original_name": "Escoria de titán",
+      "enabled": true,
+      "icon": "darkerdepths:forsaken_bronze_scrap",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

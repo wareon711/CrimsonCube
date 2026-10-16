@@ -1,0 +1,87 @@
+{
+  "enabled": true,
+  "mod_name": "Eternal Nether",
+  "mod_id": "eternalnether",
+  "achievements": {
+    "citadel": {
+      "display_name": "La Ciudadela distorsionada",
+      "original_name": "La Ciudadela distorsionada",
+      "enabled": true,
+      "icon": "eternalnether:chiseled_warped_nether_bricks",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "rescue_piglin_prisoner": {
+      "display_name": "Salvar al soldado porcino",
+      "original_name": "Salvar al soldado porcino",
+      "enabled": true,
+      "icon": "eternalnether:netherite_bell",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "piglin_manor": {
+      "display_name": "Modales de mansión",
+      "original_name": "Modales de mansión",
+      "enabled": true,
+      "icon": "minecraft:crimson_planks",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "catacomb": {
+      "display_name": "Ser o no ser Wither",
+      "original_name": "Ser o no ser Wither",
+      "enabled": true,
+      "icon": "eternalnether:withered_debris",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "explore_structures": {
+      "display_name": "Destinos turísticos ardientes",
+      "original_name": "Destinos turísticos ardientes",
+      "enabled": true,
+      "icon": "minecraft:netherite_boots",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "summon_enderman": {
+      "display_name": "Un poco por arriba",
+      "original_name": "Un poco por arriba",
+      "enabled": true,
+      "icon": "minecraft:ender_pearl",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "ride_wither_skeleton_horse": {
+      "display_name": "Caballo negro",
+      "original_name": "Caballo negro",
+      "enabled": true,
+      "icon": "minecraft:saddle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "root": {
+      "display_name": "Eternal Nether",
+      "original_name": "Eternal Nether",
+      "enabled": true,
+      "icon": "eternalnether:chiseled_withered_blackstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

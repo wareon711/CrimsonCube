@@ -1,0 +1,18 @@
+filename = 'ShoulderSurfing-NeoForge-1.21.1-5.0.11.jar'
+name = 'Shoulder Surfing Reloaded'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ShoulderSurfing-NeoForge-1.21.1-5.0.11'
+
+[download]
+hash = 'f2ce168efa27d425ae1e6fdff168fb9d87a7cf0f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8725628
+project-id = 243190

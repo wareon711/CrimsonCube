@@ -1,0 +1,11 @@
+{
+    Style: {
+        FontDesign: "SignatureEdition",
+        Glare: true,
+        GlareAmount: "Subtle",
+        Shading: true
+    },
+    Compatibility: {
+        ComingSoon: "..."
+    }
+}

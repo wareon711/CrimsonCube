@@ -1,0 +1,30 @@
+{
+  "id": "born-in-chaos",
+  "name": "Born in chaos!",
+  "icon": "born_in_chaos_v1:spiritual_sword",
+  "description": "/r/lBorn in chaos/x es un mod que agrega dificultad, dungeons y jefes con un toque de miedo.\n\n/oSe curioso y adentrate en /ldungeons, /xcada mob soltara items distintos que te ayudaran a hacerte mas fuerte!/x\n\n/b/lCuidado por las noches/x",
+  "category": "guia-keo-rpg",
+  "sub-category": "3-era-de-hierro",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "la-primera-vez",
+  "completion": {
+    "complete": [
+      {
+        "collect": "born_in_chaos_v1:darkwarblade",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "numismaticoverhaul:gold_coin",
+        "count": 10
+      }
+    ]
+  }
+}

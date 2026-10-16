@@ -1,0 +1,17 @@
+{
+  "enabled": true,
+  "mod_name": "Realm RPG: Treasure Balloons",
+  "mod_id": "realmrpg_balloons",
+  "achievements": {
+    "lost_in_transit": {
+      "display_name": "Lost In Transit",
+      "original_name": "Lost In Transit",
+      "enabled": true,
+      "icon": "realmrpg_balloons:common_treasure_balloon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+filename = 'forcemaster_rpg-neoforge-3.1.0+1.21.1.jar'
+name = 'Forcemaster (RPG Series Plus)'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.1.0+1.21.1-neoforge'
+
+[download]
+hash = 'b51510d2dfe8b60a338ffa8f1aa083020259b6b4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8718473
+project-id = 992388
+
+[[x-prismlauncher-dependencies]]
+addonId = '923030'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '807653'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '912767'
+type = 'REQUIRED'

@@ -1,0 +1,8 @@
+{
+  "id": "bosses-rise",
+  "category": "jefes",
+  "name": "BOSSES RISE",
+  "icon": "block_factorys_bosses:dragon_bone",
+  "order": 7,
+  "default_open": true
+}

@@ -1,0 +1,587 @@
+{
+  "enabled": true,
+  "mod_name": "Eternal Starlight",
+  "mod_id": "eternal_starlight",
+  "achievements": {
+    "under_permafrost_forest": {
+      "display_name": "Bajo el Permafrost",
+      "original_name": "Bajo el Permafrost",
+      "enabled": true,
+      "icon": "eternal_starlight:icicle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_thioquartz_shard": {
+      "display_name": "Poco Soluble en Éter",
+      "original_name": "Poco Soluble en Éter",
+      "enabled": true,
+      "icon": "eternal_starlight:thioquartz_shard",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_frozen_bomb": {
+      "display_name": "Bajo un Cielo de Polvo",
+      "original_name": "Bajo un Cielo de Polvo",
+      "enabled": true,
+      "icon": "eternal_starlight:frozen_bomb",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "all_starlight_biomes": {
+      "display_name": "Explorador de Luz Estelar",
+      "original_name": "Explorador de Luz Estelar",
+      "enabled": true,
+      "icon": "eternal_starlight:nightfall_grass_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "enter_crystallized_desert": {
+      "display_name": "Castillo de Cristal",
+      "original_name": "Castillo de Cristal",
+      "enabled": true,
+      "icon": "eternal_starlight:blue_starlight_crystal_shard",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_raw_amaramber": {
+      "display_name": "¡Exigente!",
+      "original_name": "¡Exigente!",
+      "enabled": true,
+      "icon": "eternal_starlight:raw_amaramber",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_aetherstrike_rocket": {
+      "display_name": "Creador de Lluvia Cósmica",
+      "original_name": "Creador de Lluvia Cósmica",
+      "enabled": true,
+      "icon": "eternal_starlight:aetherstrike_rocket",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_red_velvetumoss_flower": {
+      "display_name": "Romance Abisal",
+      "original_name": "Romance Abisal",
+      "enabled": true,
+      "icon": "eternal_starlight:red_velvetumoss_flower",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "throw_gleech_egg": {
+      "display_name": "Terapia de Sangría",
+      "original_name": "Terapia de Sangría",
+      "enabled": true,
+      "icon": "eternal_starlight:gleech_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "in_ether_fluid": {
+      "display_name": "Huele a Iones de Hidrógeno",
+      "original_name": "Huele a Iones de Hidrógeno",
+      "enabled": true,
+      "icon": "eternal_starlight:ether_bucket",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "tame_crystallized_moth": {
+      "display_name": "Perdido en el Eco",
+      "original_name": "Perdido en el Eco",
+      "enabled": true,
+      "icon": "eternal_starlight:shivering_gel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "enter_abyss": {
+      "display_name": "La Fosa de las Marianas",
+      "original_name": "La Fosa de las Marianas",
+      "enabled": true,
+      "icon": "eternal_starlight:abysslate",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_tooth_of_hunger": {
+      "display_name": "Cirugía Dental",
+      "original_name": "Cirugía Dental",
+      "enabled": true,
+      "icon": "eternal_starlight:tooth_of_hunger",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "witness_stranghoul_hunt": {
+      "display_name": "Hasta la Muerte Puede Morir",
+      "original_name": "Hasta la Muerte Puede Morir",
+      "enabled": true,
+      "icon": "eternal_starlight:malarite_sword",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "summon_aethersent_golem": {
+      "display_name": "Política de Protección Planetaria",
+      "original_name": "Política de Protección Planetaria",
+      "enabled": true,
+      "icon": "eternal_starlight:starfall_longbow",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_crinoa_seeds": {
+      "display_name": "A Grain of Crystal",
+      "original_name": "A Grain of Crystal",
+      "enabled": true,
+      "icon": "eternal_starlight:crinoa_seeds",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_crystalborn_catalyst": {
+      "display_name": "Cristal-Desertificación",
+      "original_name": "Cristal-Desertificación",
+      "enabled": true,
+      "icon": "eternal_starlight:crystalborn_catalyst",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_orb_of_prophecy": {
+      "display_name": "La Magia Profunda",
+      "original_name": "La Magia Profunda",
+      "enabled": true,
+      "icon": "eternal_starlight:orb_of_prophecy",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_lunar_monstrosity": {
+      "display_name": "A Través de las Espinas",
+      "original_name": "A Través de las Espinas",
+      "enabled": true,
+      "icon": "eternal_starlight:parasol_grass",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_golem_steel_ingot": {
+      "display_name": "Reacciones Redox",
+      "original_name": "Reacciones Redox",
+      "enabled": true,
+      "icon": "eternal_starlight:golem_steel_ingot",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "witness_meteor_shower": {
+      "display_name": "Pide un Deseo a una Estrella",
+      "original_name": "Pide un Deseo a una Estrella",
+      "enabled": true,
+      "icon": "eternal_starlight:raw_aethersent",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_numbness_effect": {
+      "display_name": "Me he vuelto tan entumecido",
+      "original_name": "Me he vuelto tan entumecido",
+      "enabled": true,
+      "icon": "eternal_starlight:silver_pungency_fruit",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_creteor": {
+      "display_name": "¡Vamos, TARS!",
+      "original_name": "¡Vamos, TARS!",
+      "enabled": true,
+      "icon": "eternal_starlight:creteor_hide",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "hire_stranghoul": {
+      "display_name": "Cualquiera Puede Cocinar",
+      "original_name": "Cualquiera Puede Cocinar",
+      "enabled": true,
+      "icon": "eternal_starlight:pungency_stew",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "saturate_dagger_of_hunger": {
+      "display_name": "Gracias por el Banquete",
+      "original_name": "Gracias por el Banquete",
+      "enabled": true,
+      "icon": "eternal_starlight:dagger_of_hunger",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "summon_grimstone_golem": {
+      "display_name": "Pizarra de Objetos",
+      "original_name": "Pizarra de Objetos",
+      "enabled": true,
+      "icon": "eternal_starlight:grimstone_bricks",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_flowglaze": {
+      "display_name": "Radiancia Líquida",
+      "original_name": "Radiancia Líquida",
+      "enabled": true,
+      "icon": "eternal_starlight:flowglaze",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "challenge_gatekeeper": {
+      "display_name": "¡Enfréntate a él!",
+      "original_name": "¡Enfréntate a él!",
+      "enabled": true,
+      "icon": "minecraft:diamond_sword",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "enter_golem_forge": {
+      "display_name": "Cradle of Legion",
+      "original_name": "Cradle of Legion",
+      "enabled": true,
+      "icon": "eternal_starlight:golem_steel_pillar",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_deepsilver_ingot": {
+      "display_name": "Impoluto en el Barro",
+      "original_name": "Impoluto en el Barro",
+      "enabled": true,
+      "icon": "eternal_starlight:deepsilver_ingot",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_scythe": {
+      "display_name": "CAOS, CAOS",
+      "original_name": "CAOS, CAOS",
+      "enabled": true,
+      "icon": "eternal_starlight:petal_scythe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_dagger_of_hunger": {
+      "display_name": "Insaciable",
+      "original_name": "Insaciable",
+      "enabled": true,
+      "icon": "eternal_starlight:dagger_of_hunger",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_seeking_eye": {
+      "display_name": "Guiado por la Luz Estelar",
+      "original_name": "Guiado por la Luz Estelar",
+      "enabled": true,
+      "icon": "eternal_starlight:seeking_eye",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "enter_starlight": {
+      "display_name": "Cielo de un Millón de Estrellas",
+      "original_name": "Cielo de un Millón de Estrellas",
+      "enabled": true,
+      "icon": "eternal_starlight:lunar_log",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "deactivate_energy_block": {
+      "display_name": "El Traidor",
+      "original_name": "El Traidor",
+      "enabled": true,
+      "icon": "eternal_starlight:energy_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_starfire": {
+      "display_name": "Llamas Cristalinas",
+      "original_name": "Llamas Cristalinas",
+      "enabled": true,
+      "icon": "eternal_starlight:starfire",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_golem": {
+      "display_name": "Sabiduría Antigua",
+      "original_name": "Sabiduría Antigua",
+      "enabled": true,
+      "icon": "eternal_starlight:chiseled_golem_steel_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_glacite_shard": {
+      "display_name": "Mi Diciembre",
+      "original_name": "Mi Diciembre",
+      "enabled": true,
+      "icon": "eternal_starlight:glacite_shard",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_starlit_diamond": {
+      "display_name": "¡Ooo! ¡Brillante!",
+      "original_name": "¡Ooo! ¡Brillante!",
+      "enabled": true,
+      "icon": "eternal_starlight:starlit_diamond",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "hammer_critical_hit": {
+      "display_name": "El Martillo de la Justicia",
+      "original_name": "El Martillo de la Justicia",
+      "enabled": true,
+      "icon": "eternal_starlight:starfire_hammer",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "chain_tangled_skull_explosion": {
+      "display_name": "Solo es Fuego Amigo",
+      "original_name": "Solo es Fuego Amigo",
+      "enabled": true,
+      "icon": "eternal_starlight:tangled_skull",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "freeze_starlight_golem": {
+      "display_name": "Chill Out, Buddy!",
+      "original_name": "Chill Out, Buddy!",
+      "enabled": true,
+      "icon": "eternal_starlight:frozen_tube",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_permafrost": {
+      "display_name": "Winter is Leaving",
+      "original_name": "Winter is Leaving",
+      "enabled": true,
+      "icon": "eternal_starlight:coldsnap",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_thermal_springstone": {
+      "display_name": "¡Cuidado con las Quemaduras en las Manos!",
+      "original_name": "¡Cuidado con las Quemaduras en las Manos!",
+      "enabled": true,
+      "icon": "eternal_starlight:thermal_springstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_aurora_deer_antler": {
+      "display_name": "Buscando Problemas",
+      "original_name": "Buscando Problemas",
+      "enabled": true,
+      "icon": "eternal_starlight:aurora_deer_antler",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "ignite_tear_bomb": {
+      "display_name": "Quienquiera que pueda llorar",
+      "original_name": "Quienquiera que pueda llorar",
+      "enabled": true,
+      "icon": "eternal_starlight:tear_bomb",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_crescent_spear": {
+      "display_name": "Complete Darkness",
+      "original_name": "Complete Darkness",
+      "enabled": true,
+      "icon": "eternal_starlight:crescent_spear",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_bouldershroom_stew": {
+      "display_name": "Ágil como una Ardilla",
+      "original_name": "Ágil como una Ardilla",
+      "enabled": true,
+      "icon": "eternal_starlight:bouldershroom_stew",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_aethersent_ingot": {
+      "display_name": "Regalo del Cielo",
+      "original_name": "Regalo del Cielo",
+      "enabled": true,
+      "icon": "eternal_starlight:aethersent_ingot",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_stellagmite": {
+      "display_name": "Calor Persistente",
+      "original_name": "Calor Persistente",
+      "enabled": true,
+      "icon": "eternal_starlight:stellagmite",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "put_seeds_into_starfire_bird_nest": {
+      "display_name": "Cuidando las Raíces",
+      "original_name": "Cuidando las Raíces",
+      "enabled": true,
+      "icon": "eternal_starlight:starfire_bird_nest",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "full_unrealium_armor": {
+      "display_name": "Stepping into the Unseen",
+      "original_name": "Stepping into the Unseen",
+      "enabled": true,
+      "icon": "eternal_starlight:unrealium_helmet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_glacite_arrow": {
+      "display_name": "Guisante de Nieve",
+      "original_name": "Guisante de Nieve",
+      "enabled": true,
+      "icon": "eternal_starlight:glacite_arrow",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "use_blossom_of_stars": {
+      "display_name": "Bailando en la Vía Láctea Ilimitada",
+      "original_name": "Bailando en la Vía Láctea Ilimitada",
+      "enabled": true,
+      "icon": "eternal_starlight:blossom_of_stars",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_tooth_of_hunger_blocks": {
+      "display_name": "Devoradores de Estrellas",
+      "original_name": "Devoradores de Estrellas",
+      "enabled": true,
+      "icon": "eternal_starlight:chiseled_tooth_of_hunger_tiles",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "ignite_lunar_monstrosity": {
+      "display_name": "Quémalo hasta los Cimientos",
+      "original_name": "Quémalo hasta los Cimientos",
+      "enabled": true,
+      "icon": "eternal_starlight:saltpeter_matchbox",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_alchemist_mask": {
+      "display_name": "Último Disfraz",
+      "original_name": "Último Disfraz",
+      "enabled": true,
+      "icon": "eternal_starlight:alchemist_mask",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_dusted_shard": {
+      "display_name": "Lágrimas Antiguas",
+      "original_name": "Lágrimas Antiguas",
+      "enabled": true,
+      "icon": "eternal_starlight:dusted_shard",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

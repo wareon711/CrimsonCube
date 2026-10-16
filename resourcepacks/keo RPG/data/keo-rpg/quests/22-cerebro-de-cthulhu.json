@@ -1,0 +1,29 @@
+{
+  "id": "cerebro-de-cthulhu",
+  "name": "Cerebro de cthulhu!",
+  "icon": "terra_entity:bloody_spine",
+  "description": "Tendras probabilidad de conseguir la /bcolumna sangrienta matando diferentes mobs!\n\n/rCon esta podras invocar al Cerebro de cthulhu!\n\n/oTambien la puedes tradear con el guia!",
+  "category": "jefes",
+  "sub-category": "terraria",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "completion": {
+    "complete": [
+      {
+        "collect": "terra_entity:bloody_spine",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "numismaticoverhaul:silver_coin",
+        "count": 50
+      }
+    ]
+  }
+}

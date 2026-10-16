@@ -1,0 +1,8 @@
+{
+  "id": "terraria",
+  "category": "jefes",
+  "name": "Terraria!?",
+  "icon": "terra_entity:terraprisma",
+  "order": 5,
+  "default_open": true
+}

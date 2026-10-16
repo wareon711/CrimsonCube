@@ -1,0 +1,23 @@
+{
+  "id": "deerclops",
+  "name": "Cierviclope!",
+  "icon": "confluence:deer_thing",
+  "description": "Consigue /bpelaje de flinx/x y /bmaterial malvado./x\n\nUsalo en un /oaltar/x y para conseguir la /bcosa de ciervo/x e invocar al /rCierviclope!/x",
+  "category": "confluence",
+  "sub-category": "jefes",
+  "optional": false,
+  "repeatable": false,
+  "hiddenUnderDependency": false,
+  "completion": {
+    "complete": [
+      {
+        "kill": "terra_entity:deerclops",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "exp": "points",
+    "count": 700
+  }
+}

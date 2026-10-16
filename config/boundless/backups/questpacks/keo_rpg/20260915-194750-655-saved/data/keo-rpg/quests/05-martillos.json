@@ -1,0 +1,30 @@
+{
+  "id": "martillos",
+  "name": "Martillos!",
+  "icon": "justhammers:diamond_destructor_hammer",
+  "description": "/oPodras fabricar martilos! /x\nLa version mas basica picara un /b3x3x1/x pero podras fabricar los /bcore/x para /omejorar sus propiedades/x\n\nPuedes buscalos en /bemi/x como /pImpact core, Reinforced core, Reinforced impact core y destruction core!",
+  "category": "guia-keo-rpg",
+  "sub-category": "2-era-de-piedra",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "mochilas",
+  "completion": {
+    "complete": [
+      {
+        "collect": "justhammers:stone_hammer",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:cooked_beef",
+        "count": 5
+      }
+    ]
+  }
+}

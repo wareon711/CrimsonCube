@@ -1,0 +1,97 @@
+{
+  "enabled": true,
+  "mod_name": "Field Guide",
+  "mod_id": "fieldguide",
+  "achievements": {
+    "mushroom_collector": {
+      "display_name": "Mushroom for Improvement",
+      "original_name": "Mushroom for Improvement",
+      "enabled": true,
+      "icon": "minecraft:red_mushroom",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "let_him_cook": {
+      "display_name": "Let Him Cook",
+      "original_name": "Let Him Cook",
+      "enabled": true,
+      "icon": "minecraft:flint_and_steel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "animal_expert": {
+      "display_name": "Fantastic Beasts",
+      "original_name": "Fantastic Beasts",
+      "enabled": true,
+      "icon": "minecraft:pig_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "quick_review": {
+      "display_name": "I Don\u0027t Want to Play with You",
+      "original_name": "I Don\u0027t Want to Play with You",
+      "enabled": true,
+      "icon": "minecraft:diamond_sword",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "monster_hunter": {
+      "display_name": "The Witcher",
+      "original_name": "The Witcher",
+      "enabled": true,
+      "icon": "minecraft:zombie_head",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "invisible_scan": {
+      "display_name": "You Can\u0027t See Me",
+      "original_name": "You Can\u0027t See Me",
+      "enabled": true,
+      "icon": "minecraft:potion",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "gem_alert": {
+      "display_name": "Gem Alert",
+      "original_name": "Gem Alert",
+      "enabled": true,
+      "icon": "minecraft:diamond",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "enderman_scan": {
+      "display_name": "Staring Contest",
+      "original_name": "Staring Contest",
+      "enabled": true,
+      "icon": "minecraft:ender_pearl",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "first_discovery": {
+      "display_name": "Aha!",
+      "original_name": "Aha!",
+      "enabled": true,
+      "icon": "minecraft:spyglass",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

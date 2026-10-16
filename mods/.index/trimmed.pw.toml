@@ -1,0 +1,18 @@
+filename = 'trimmed-neo-1.21-3.0.0.jar'
+name = 'Trimmed'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21-Snapshot', '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'NeoForge-1.21-3.0.0'
+
+[download]
+hash = 'c1ee534f00f4ee476e868f4db4dea99c7d41570d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5424737
+project-id = 857036

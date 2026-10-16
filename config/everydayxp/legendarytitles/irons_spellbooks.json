@@ -1,0 +1,217 @@
+{
+  "enabled": true,
+  "mod_name": "Iron\u0027s Spells \u0027n Spellbooks",
+  "mod_id": "irons_spellbooks",
+  "achievements": {
+    "irons_spellbooks/make_scroll_forge": {
+      "display_name": "Bibliotecario New Age",
+      "original_name": "Bibliotecario New Age",
+      "enabled": true,
+      "icon": "irons_spellbooks:scroll_forge",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "irons_spellbooks/staff_pyrium": {
+      "display_name": "Ancient Beckonings",
+      "original_name": "Ancient Beckonings",
+      "enabled": true,
+      "icon": "irons_spellbooks:pyrium_staff",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "make_inscription_table": {
+      "display_name": "Escribano pintoresco",
+      "original_name": "Escribano pintoresco",
+      "enabled": true,
+      "icon": "irons_spellbooks:inscription_table",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "irons_spellbooks/spell_book_blaze": {
+      "display_name": "Maquinaria desaparecida",
+      "original_name": "Maquinaria desaparecida",
+      "enabled": true,
+      "icon": "irons_spellbooks:blaze_spell_book",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "irons_spellbooks/staff_ice": {
+      "display_name": "Mournful Magic",
+      "original_name": "Mournful Magic",
+      "enabled": true,
+      "icon": "irons_spellbooks:ice_staff",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "irons_spellbooks/enter_catacombs": {
+      "display_name": "Exploración de mazmorras",
+      "original_name": "Exploración de mazmorras",
+      "enabled": true,
+      "icon": "minecraft:skeleton_skull",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "irons_spellbooks/steal_from_wizard": {
+      "display_name": "A Fool\u0027s Folly",
+      "original_name": "A Fool\u0027s Folly",
+      "enabled": true,
+      "icon": "minecraft:chest",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "irons_spellbooks/make_arcane_anvil": {
+      "display_name": "Sip, sabe a púrpura!",
+      "original_name": "Sip, sabe a púrpura!",
+      "enabled": true,
+      "icon": "irons_spellbooks:arcane_anvil",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "irons_spellbooks/spell_book_rotten": {
+      "display_name": "¿Cuánto tiempo lleva esto aquí?",
+      "original_name": "¿Cuánto tiempo lleva esto aquí?",
+      "enabled": true,
+      "icon": "irons_spellbooks:rotten_spell_book",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "irons_spellbooks/spell_book_dead_king": {
+      "display_name": "Cetro de Sangre",
+      "original_name": "Cetro de Sangre",
+      "enabled": true,
+      "icon": "irons_spellbooks:necronomicon_spell_book",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "irons_spellbooks/make_wayward_compass": {
+      "display_name": "¡Y así comienza una búsqueda!",
+      "original_name": "¡Y así comienza una búsqueda!",
+      "enabled": true,
+      "icon": "irons_spellbooks:wayward_compass",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "irons_spellbooks/staff_artificer": {
+      "display_name": "Quite the Walking Stick",
+      "original_name": "Quite the Walking Stick",
+      "enabled": true,
+      "icon": "irons_spellbooks:artificer_cane",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "irons_spellbooks/ink_root": {
+      "display_name": "Gajes del Oficio",
+      "original_name": "Gajes del Oficio",
+      "enabled": true,
+      "icon": "irons_spellbooks:common_ink",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "irons_spellbooks/spell_book_evoker": {
+      "display_name": "Grimorio de Invocación",
+      "original_name": "Grimorio de Invocación",
+      "enabled": true,
+      "icon": "irons_spellbooks:evoker_spell_book",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "irons_spellbooks/ink_legendary": {
+      "display_name": "Premium!",
+      "original_name": "Premium!",
+      "enabled": true,
+      "icon": "irons_spellbooks:legendary_ink",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "irons_spellbooks/spell_book_villager": {
+      "display_name": "Iluminación",
+      "original_name": "Iluminación",
+      "enabled": true,
+      "icon": "irons_spellbooks:villager_spell_book",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "irons_spellbooks/spell_book_druidic": {
+      "display_name": "¿Druida? ¿Veterinario?",
+      "original_name": "¿Druida? ¿Veterinario?",
+      "enabled": true,
+      "icon": "irons_spellbooks:druidic_spell_book",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "irons_spellbooks/staff_root": {
+      "display_name": "No Longer Short-Staffed",
+      "original_name": "No Longer Short-Staffed",
+      "enabled": true,
+      "icon": "irons_spellbooks:graybeard_staff",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "irons_spellbooks/staff_lightning_rod": {
+      "display_name": "Shocking Discovery",
+      "original_name": "Shocking Discovery",
+      "enabled": true,
+      "icon": "irons_spellbooks:lightning_rod",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "irons_spellbooks/spell_book_equip": {
+      "display_name": "Un Hechizero lo hizo!",
+      "original_name": "Un Hechizero lo hizo!",
+      "enabled": true,
+      "icon": "irons_spellbooks:copper_spell_book",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "irons_spellbooks/staff_blood_staff": {
+      "display_name": "Staff of Blood",
+      "original_name": "Staff of Blood",
+      "enabled": true,
+      "icon": "irons_spellbooks:blood_staff",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

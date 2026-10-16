@@ -1,0 +1,367 @@
+{
+  "enabled": true,
+  "mod_name": "The Undergarden",
+  "mod_id": "undergarden",
+  "achievements": {
+    "undergarden/kill_rotling": {
+      "display_name": "Control de Natalidad",
+      "original_name": "Control de Natalidad",
+      "enabled": true,
+      "icon": "undergarden:utheric_shard",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/enter_denizen_camp": {
+      "display_name": "Meeting the Locals",
+      "original_name": "Meeting the Locals",
+      "enabled": true,
+      "icon": "undergarden:spear",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/plant_gloomgourd": {
+      "display_name": "Calabazas Moradas",
+      "original_name": "Calabazas Moradas",
+      "enabled": true,
+      "icon": "undergarden:gloomgourd_seeds",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/cloggrum_armor": {
+      "display_name": "Cúbreme con Coprolitos",
+      "original_name": "Cúbreme con Coprolitos",
+      "enabled": true,
+      "icon": "undergarden:cloggrum_chestplate",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/kill_scintling": {
+      "display_name": "Persona Terrible",
+      "original_name": "Persona Terrible",
+      "enabled": true,
+      "icon": "undergarden:goo_ball",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/mine_ore": {
+      "display_name": "Extracción Profunda",
+      "original_name": "Extracción Profunda",
+      "enabled": true,
+      "icon": "undergarden:raw_cloggrum",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/craft_infuser": {
+      "display_name": "I \u003c3 Infusing",
+      "original_name": "I \u003c3 Infusing",
+      "enabled": true,
+      "icon": "undergarden:infuser",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/catalyst": {
+      "display_name": "Un Boleto, Por Favor",
+      "original_name": "Un Boleto, Por Favor",
+      "enabled": true,
+      "icon": "undergarden:catalyst",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/break_denizen_campfire": {
+      "display_name": "Party Pooper",
+      "original_name": "Party Pooper",
+      "enabled": true,
+      "icon": "minecraft:campfire",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/stoneborn_trade": {
+      "display_name": "Negocios Interdimensionales",
+      "original_name": "Negocios Interdimensionales",
+      "enabled": true,
+      "icon": "undergarden:regalium_crystal",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/slingshot_20_damage": {
+      "display_name": "Disparar es un Buen Trabajo",
+      "original_name": "Disparar es un Buen Trabajo",
+      "enabled": true,
+      "icon": "undergarden:depthrock_pebble",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/all_undergarden_biomes": {
+      "display_name": "Cartógrafo Subterráneo",
+      "original_name": "Cartógrafo Subterráneo",
+      "enabled": true,
+      "icon": "undergarden:cloggrum_boots",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/cloggrum_battleaxe": {
+      "display_name": "Cold Dead Hands",
+      "original_name": "Cold Dead Hands",
+      "enabled": true,
+      "icon": "undergarden:cloggrum_battleaxe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/kill_all_rotspawn": {
+      "display_name": "Mata-Rot",
+      "original_name": "Mata-Rot",
+      "enabled": true,
+      "icon": "undergarden:utherium_sword",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/enter_undergarden": {
+      "display_name": "Entrar al Undergarden",
+      "original_name": "Entrar al Undergarden",
+      "enabled": true,
+      "icon": "undergarden:deepturf_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/shoot_slingshot_gronglet": {
+      "display_name": "Ética Cuestionable",
+      "original_name": "Ética Cuestionable",
+      "enabled": true,
+      "icon": "undergarden:gronglet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/shoot_slingshot": {
+      "display_name": "Lanzando Piedras",
+      "original_name": "Lanzando Piedras",
+      "enabled": true,
+      "icon": "undergarden:depthrock_pebble",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/stack_of_gloomgourds": {
+      "display_name": "Señor de las Calabazas",
+      "original_name": "Señor de las Calabazas",
+      "enabled": true,
+      "icon": "undergarden:gloomgourd",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/gloomper_secret_disc": {
+      "display_name": "Gloomps de la Muerte",
+      "original_name": "Gloomps de la Muerte",
+      "enabled": true,
+      "icon": "undergarden:music_disc_gloomper_secret",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/contract_utheric_infection": {
+      "display_name": "The Plague Upon the Land",
+      "original_name": "The Plague Upon the Land",
+      "enabled": true,
+      "icon": "undergarden:utherium_crystal",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/cure_utheric_infection": {
+      "display_name": "A Much Needed Antidote",
+      "original_name": "A Much Needed Antidote",
+      "enabled": true,
+      "icon": "undergarden:rogdorium",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/kill_forgotten_guardian": {
+      "display_name": "Desactivado",
+      "original_name": "Desactivado",
+      "enabled": true,
+      "icon": "undergarden:forgotten_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/summon_minion": {
+      "display_name": "Construyendo un Centinela",
+      "original_name": "Construyendo un Centinela",
+      "enabled": true,
+      "icon": "undergarden:carved_gloomgourd",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/enter_depths": {
+      "display_name": "Into the Depths",
+      "original_name": "Into the Depths",
+      "enabled": true,
+      "icon": "undergarden:dreadrock",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/forgotten_tools": {
+      "display_name": "Arsenal Olvidado",
+      "original_name": "Arsenal Olvidado",
+      "enabled": true,
+      "icon": "undergarden:forgotten_pickaxe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/shard_torch": {
+      "display_name": "Dispositivo de Protección",
+      "original_name": "Dispositivo de Protección",
+      "enabled": true,
+      "icon": "undergarden:shard_torch",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/slingshot": {
+      "display_name": "Tu Nuevo Mejor Amigo",
+      "original_name": "Tu Nuevo Mejor Amigo",
+      "enabled": true,
+      "icon": "undergarden:slingshot",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/forgotten_ingot": {
+      "display_name": "Lo que Ahora Es",
+      "original_name": "Lo que Ahora Es",
+      "enabled": true,
+      "icon": "undergarden:forgotten_ingot",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/forgotten_battleaxe": {
+      "display_name": "Hacha de Leyendas",
+      "original_name": "Hacha de Leyendas",
+      "enabled": true,
+      "icon": "undergarden:forgotten_battleaxe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/all_ore_blocks": {
+      "display_name": "Edición del Coleccionista",
+      "original_name": "Edición del Coleccionista",
+      "enabled": true,
+      "icon": "undergarden:regalium_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/shoot_slingshot_rotten_blisterberry": {
+      "display_name": "Esto No Es Seguro",
+      "original_name": "Esto No Es Seguro",
+      "enabled": true,
+      "icon": "undergarden:rotten_blisterberry",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/catacombs": {
+      "display_name": "Salones Olvidados",
+      "original_name": "Salones Olvidados",
+      "enabled": true,
+      "icon": "undergarden:depthrock_brick_stairs",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/obtain_denizen_mask": {
+      "display_name": "One of Us",
+      "original_name": "One of Us",
+      "enabled": true,
+      "icon": "undergarden:denizen_mask",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/underbeans": {
+      "display_name": "¡Frijoles Gloriosos!",
+      "original_name": "¡Frijoles Gloriosos!",
+      "enabled": true,
+      "icon": "undergarden:underbeans",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/shoot_slingshot_goo": {
+      "display_name": "Incomodidad Voladora",
+      "original_name": "Incomodidad Voladora",
+      "enabled": true,
+      "icon": "undergarden:goo_ball",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "undergarden/catch_gwibling": {
+      "display_name": "Pescado Extraño",
+      "original_name": "Pescado Extraño",
+      "enabled": true,
+      "icon": "undergarden:gwibling_bucket",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

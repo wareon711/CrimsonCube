@@ -1,0 +1,30 @@
+{
+  "id": "magia",
+  "name": "MAGIA!",
+  "icon": "spell_engine:spell_binding",
+  "description": "Para empezar en el mundo de la magia necesitas una /bmesa de vinculacion de hechizos/x, al poner un libro en el, podras escojer entre diferentes tipos de /omagia/x y con los /bpergaminos/x, encontrados en el mundo podras añadir hechizos.\n\nEstos /ohechizos/x dependeran de la clase que quieras jugar.",
+  "category": "guia-keo-rpg",
+  "sub-category": "3-era-de-hierro",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "la-primera-vez",
+  "completion": {
+    "complete": [
+      {
+        "collect": "spell_engine:spell_binding",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "wizards:wand_fire",
+        "count": 1
+      }
+    ]
+  }
+}

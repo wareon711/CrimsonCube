@@ -1,0 +1,117 @@
+{
+  "enabled": true,
+  "mod_name": "Enderscape",
+  "mod_id": "enderscape",
+  "achievements": {
+    "rustle_bucket": {
+      "display_name": "El bullicio del susurro",
+      "original_name": "El bullicio del susurro",
+      "enabled": true,
+      "icon": "enderscape:rustle_bucket",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "long_distance": {
+      "display_name": "No tan lejos",
+      "original_name": "No tan lejos",
+      "enabled": true,
+      "icon": "enderscape:mirror",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "bottle_drift_jelly": {
+      "display_name": "¿Lo derivas?",
+      "original_name": "¿Lo derivas?",
+      "enabled": true,
+      "icon": "enderscape:drift_jelly_bottle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "drift_leggings": {
+      "display_name": "Moda de otro mundo",
+      "original_name": "Moda de otro mundo",
+      "enabled": true,
+      "icon": "enderscape:drift_leggings",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "pull_item_with_attractor": {
+      "display_name": "¡Alcance magnífico!",
+      "original_name": "¡Alcance magnífico!",
+      "enabled": true,
+      "icon": "enderscape:magnia_attractor",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "unlock_end_vault": {
+      "display_name": "Sacado del confinamiento",
+      "original_name": "Sacado del confinamiento",
+      "enabled": true,
+      "icon": "enderscape:end_city_key",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "mirror_teleport": {
+      "display_name": "A través del espejo",
+      "original_name": "A través del espejo",
+      "enabled": true,
+      "icon": "enderscape:mirror",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "glide_onto_drifter": {
+      "display_name": "Gelacidad terminal",
+      "original_name": "Gelacidad terminal",
+      "enabled": true,
+      "icon": "minecraft:firework_rocket",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "craft_nebulite": {
+      "display_name": "Actividad nebulosa",
+      "original_name": "Actividad nebulosa",
+      "enabled": true,
+      "icon": "enderscape:nebulite",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "transdimensional": {
+      "display_name": "Un nexo entre mundos",
+      "original_name": "Un nexo entre mundos",
+      "enabled": true,
+      "icon": "enderscape:mirror",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "explore_end": {
+      "display_name": "Más allá del End",
+      "original_name": "Más allá del End",
+      "enabled": true,
+      "icon": "enderscape:celestial_overgrowth",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

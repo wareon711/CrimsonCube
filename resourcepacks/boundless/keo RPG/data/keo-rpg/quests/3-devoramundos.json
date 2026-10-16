@@ -1,0 +1,23 @@
+{
+  "id": "devoramundos",
+  "name": "Devoramundos!",
+  "icon": "confluence:worm_food",
+  "description": "Consigue /b30 de polvo vil/x y /b15 de trozo podrido./x\n\nUsa el /yAltar demoniaco/x para conseguir la /bcomida para gusanos/x y combatir contra el /rdevoramundos!/x",
+  "category": "confluence",
+  "sub-category": "jefes",
+  "optional": false,
+  "repeatable": false,
+  "hiddenUnderDependency": false,
+  "completion": {
+    "complete": [
+      {
+        "kill": "terra_entity:eater_of_worlds",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "exp": "points",
+    "count": 300
+  }
+}

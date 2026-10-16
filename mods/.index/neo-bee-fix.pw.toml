@@ -1,0 +1,18 @@
+filename = 'neobeefix-1.21.1-2.0.1.jar'
+name = 'Neo Bee Fix'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Neo] Neo Bee Fix - 2.0.1'
+
+[download]
+hash = '76e263df40ebdd039e7754eda73e2fedcea1947c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8246444
+project-id = 1237559

@@ -1,0 +1,28 @@
+{
+  "id": "pick-up",
+  "name": "Recoger items",
+  "icon": "armageddon_mod:fire_spark_item",
+  "description": "Ahora para recoger un item tienes que presionar la tecla/o/l F/x o mantenerla para agarrar un grupo de items, esto puede desactivarse con /o/lctrl + V",
+  "category": "tutoriales!",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:diamond",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:diamond",
+        "count": 1
+      }
+    ]
+  }
+}

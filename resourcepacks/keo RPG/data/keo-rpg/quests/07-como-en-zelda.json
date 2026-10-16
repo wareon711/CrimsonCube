@@ -1,0 +1,30 @@
+{
+  "id": "como-en-zelda",
+  "name": "Comó en zelda?!",
+  "icon": "paraglider:paraglider",
+  "description": "Podras fabricar una /oparavela!/x\nFuncionara teniendola en la /wmano mientras estas en el aire!/x\n\nPodras encontrar /osímbolos de valía/x en /bcofres/x o /brompiendo spawers/x \n\nPodras usar estos en una /ogoddess statue/x para aumentar tu /bvida/x o /bestamina!/x",
+  "category": "guia-keo-rpg",
+  "sub-category": "2-era-de-piedra",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "mochilas",
+  "completion": {
+    "complete": [
+      {
+        "collect": "#paraglider:paragliders",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "paraglider:goddess_statue",
+        "count": 1
+      }
+    ]
+  }
+}

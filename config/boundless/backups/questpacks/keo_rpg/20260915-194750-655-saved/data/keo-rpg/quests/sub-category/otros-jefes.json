@@ -1,0 +1,8 @@
+{
+  "id": "otros-jefes",
+  "category": "jefes",
+  "name": "Otros Jefes!",
+  "icon": "cataclysm:ancient_metal_nugget",
+  "order": 4,
+  "default_open": true
+}

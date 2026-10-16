@@ -1,0 +1,18 @@
+filename = 'Kerria-1.3.2+1.21.1-neoforge.jar'
+name = 'Kerria'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Kerria 1.3.2+1.21.1-neoforge'
+
+[download]
+hash = 'abd5f8a438482e1791bef6a43a9182baef68f822'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8361811
+project-id = 1503432
