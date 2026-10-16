@@ -3883,7 +3883,7 @@
     },
     {
       "Path": "config/iris.properties",
-      "Hash": "0c071d9c528c5b181106e4b408841c426361e4e754325797af7a0fcaaff4cf68"
+      "Hash": "f57679b04dae41345122e4dc48a98d266f9262070b9877ebd12a884fb2562edc"
     },
     {
       "Path": "config/irons_spellbooks-client.toml",
@@ -4603,7 +4603,7 @@
     },
     {
       "Path": "config/sodium-options.json",
-      "Hash": "642565e98875de9f2d43b01d3d5728e94c480088279f22163988bc3ff096e8c2"
+      "Hash": "3aaaab3b155ee5fc89607cc0a6ccaefc07a7003f45bdeaf3dc9cab1b0e71cc76"
     },
     {
       "Path": "config/sodium-shadowy-path-blocks-options.json",
