@@ -3411,7 +3411,7 @@
     },
     {
       "Path": "config/defaultoptions-common.toml",
-      "Hash": "e5cf7301b06441e226aad574303ad2f526aae13120f9d6b4ff6ea4121d9d37ef"
+      "Hash": "2e79c56074de4e0ac31e169eecb2e097f8c1813fc542dfcd4b5f5631ce50b5bc"
     },
     {
       "Path": "config/defaultoptions/keybindings.txt",
@@ -3419,7 +3419,7 @@
     },
     {
       "Path": "config/defaultoptions/options.txt",
-      "Hash": "fa5f6ec07f791dffdb0a5a4a4785daa83f6dbc8145897f4802b207599d2fa86c"
+      "Hash": "481f986fc053dd8b3e250713fa769e948812d298daeb53ba8425cf3e8853e7bb"
     },
     {
       "Path": "config/despawntweaker-server.toml",
@@ -7423,7 +7423,7 @@
     },
     {
       "Path": "options.txt",
-      "Hash": "c3d8a97c032c92a3403be799cfcc4c5b6fbaa5e7d602423093533d7740952387"
+      "Hash": "481f986fc053dd8b3e250713fa769e948812d298daeb53ba8425cf3e8853e7bb"
     },
     {
       "Path": "patchouli_data.json",
@@ -7664,258 +7664,6 @@
     {
       "Path": "resourcepacks/Prettier Health Bars v1.0.zip",
       "Hash": "8ab14dd621002d7d1f8bc58d166422576ab0da4e011122838e3c4853c52d5235"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/01-el-primer-tajo.json",
-      "Hash": "ab519eae86ea9dbcf0089d7f8f16dc394c407497b4b6d6e74bfe8a9c58474e3b"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/01-the-goblin-lord.json",
-      "Hash": "fbca33b31936ec94a7488df697c3c6151a4ea9d4ac40fe58a88c83ee842cc46d"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/02-mapa-de-bolsillo.json",
-      "Hash": "8e5e5b0297624af9055ddf332f918161e93567fc2a39206af91c3287205faba7"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/02-skill-tree.json",
-      "Hash": "53caf73061a8953abf9fd01ae5dd723a0066160e593eeff72410721ac38501ee"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/03-maestro-de-las-mareas.json",
-      "Hash": "c6050e88ba2ecd8cf81e80ee0b53649c864ab7f5e6c2565aeefab5dbbb69ec3d"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/03-y-las-escaleras.json",
-      "Hash": "e8b20109dc15e67d16b3a280659fbb826740b4fa5e00ad71ea77e1fa5b0011bd"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/04-como-en-zelda.json",
-      "Hash": "9ca51c710c9a174deda8aca879c7088eca0485660b81e80277605213ccb86558"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/05-martillos.json",
-      "Hash": "84133ff8ca42e0838398c259b66816a8f34d33b10978536e23a9ae50ac60681a"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/06-fundir-en-grande.json",
-      "Hash": "c0ce124d6891eaa19ace23dc31eaa287755e9134316957f4c793515f5474e6f1"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/07-pastel.json",
-      "Hash": "ba79c7fdec95b88831b0ca81f2440738580dcbc6c69343dd61d7e73156d877be"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/08-ojo-de-lince.json",
-      "Hash": "6776a7dd2f02ba9a4841aff6606a9f12fbc2aa979c2f2c0bb3e26fe45519f9e9"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/09-create.json",
-      "Hash": "db462ae6da28824abab7379d3ace76d21d60d3021637ed892344ae04795ea24c"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/09-stardew-valley.json",
-      "Hash": "88eb9318b565c3601273f2aecd08e9d3f3fa619cd9e73391c26a63060ad3b897"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/1-introduccion.json",
-      "Hash": "2b65077a85256a80f890023e7f1491441db2092fead86c1844c9772395f4f781"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/1-rey-slime.json",
-      "Hash": "014a8e2aedf95c680e34d801f2c630a22666d0eff1a302010c0b4e96d39e9edb"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/1-terraria.json",
-      "Hash": "258da15fe65f171d78fe14fda1ac2ed5e882147992ad49f6283631a9cf49ece4"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/1.1-elder-guardian.json",
-      "Hash": "4f688f8c5087fcda517f6ca922349f02a1850c3d09e2391374be4456b9d00524"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/1.2-arion.json",
-      "Hash": "6c81bd867dd0541088362b438155c26043802c8dac19636b4241c722930027e2"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/1.3-eldorath.json",
-      "Hash": "85538cc08c0bd1ff531d5cdcfa26c5175c299718501aba77cba2adcd15be7f16"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/1.4-zoranth1.json",
-      "Hash": "fc079c6d7b2e0bf61348359a7a8ca40a3d14fcaa0b2291533886ecae89330e69"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/1.5-ender-dragon.json",
-      "Hash": "366c90704fb47600860bb2ee910dd530b135a61970703f1405e236d8b2eff309"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/1.6-elvenite.json",
-      "Hash": "b75947e7c9811a28285265c1b2deb9499e9dca7fb682d27f17c2066273e4b651"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/1.7-vaedric.json",
-      "Hash": "00094c6e7220f0ae88dae8b4b4d4e494f75a1cc36a824f15eab19aa1a678d0a7"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/1.8-doom.json",
-      "Hash": "f244731f51da6c12ed34b19249836ddb82fa7321e8d365091bc474cae524599f"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/1.9-calamity.json",
-      "Hash": "da2dcccc171fccc926b42cd546fe94ed6d922b4ba675b3440e939e151db45190"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/10-magia.json",
-      "Hash": "e148975da63737f0c9a515875561c648182ef1f1528c6cfb29931365ca70fc81"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/11-guia-del-mundo.json",
-      "Hash": "43b9d759e0b3053c9698eb28d1d26f9fcb06105e13effdf23739d9776ce43160"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/12-undergarden.json",
-      "Hash": "86d01f8d6d5f33d572ab9c90c6058474f4da5599150bfb065abcca010a210814"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/13-eternal-starlight.json",
-      "Hash": "b652129540899263c39bb58473f2fa306774819731cb9f596ddcdbf27a83a263"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/14-dragones.json",
-      "Hash": "141b9f2228d87ef7ce21bc7e344c85d7e5c00e5b5cda079fdd4be80dccfdbf62"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/15-item-perdido.json",
-      "Hash": "61a33f6e8b7c07bad0a98dea32444d6e9a1f15520e7f8c8d9539495570d092d2"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/2-economia.json",
-      "Hash": "e3e3cc94c71e53afa5b2533b51423506e1312eb383fd76c7da815da83a5fc571"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/2-manos-libres.json",
-      "Hash": "fa7910f4e04f03d79f9828b01543d3c83b21eb23dd5444cea710d71655440469"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/2-nuevas-mesas.json",
-      "Hash": "329f1225acee1bb5b7f218383ac5eb31dd12385ec3becc89948b628fe11672da"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/2-ojo-de-cthulhu.json",
-      "Hash": "0626cb486cbacd4360615992f104e53014bd8f714f1901b5506528c614ddb4c3"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/2-sanghor.json",
-      "Hash": "953d1547c6f6508c49dea2a6e43b0652468eb18ac99ab036045860d3d1505fa4"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/2.1-zoranth2.json",
-      "Hash": "858d282ace55aac7ca88ad0814b6f4916c006fe6093442d010c196150b12844b"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/2.2-nyxaris.json",
-      "Hash": "cf4d69b884deef9045041dde8b8528fd28bc5b7becf85f32ba9c313d187b1911"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/3-devoramundos.json",
-      "Hash": "bb2354e624989fd98e303784f98cf9fc0ecdd4ac6ad4476891928a7326978d90"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/3-mochilas.json",
-      "Hash": "f713d2fda997ad1007bb74090ff12eb71d4b0c8bba65a984362922d225f50dd4"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/4-altares.json",
-      "Hash": "a1a8cf260c0d736603ae396270cb4fa0a0672a66dfc5af495b082ea7e9f95522"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/4-cerebro-de-cthulhu.json",
-      "Hash": "f6e9dad56586c35fdf00cd9085abd963e77a151d891a50a225e2c2f6eb4c988e"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/5-abeja-reina.json",
-      "Hash": "893fca15dc87761b54f81985aaa910a19ce0fd29ca8d7c82d50c3d661d9c60e7"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/5-ritual.json",
-      "Hash": "20aef48df5a858e2f386aaba94267fde8c46859a0a5992d55166921851afab6b"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/6-esqueletron.json",
-      "Hash": "53946fba897c8186a0d407b3fcb5b92e9209d0726ead992f4c197904e4b604c2"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/6-proteccion-antigua.json",
-      "Hash": "272dcd729b20f5fdcea13395597c9daaaba684c79aff936c505d0c9ca6f8cc8c"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/7-deerclops.json",
-      "Hash": "60b9576c219752b5f2ec0297d4ebb951c147a266d53849ebe5a99f299589ce05"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/7-la-primera-vez.json",
-      "Hash": "7cb493b90af7b30cf7011d27da93317ed96b57c09db0241b153dd64fcbd19e3c"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/7.5-all-the-bosses.json",
-      "Hash": "0916e4d7a8c5842f3f0ff087975869040bfb98a248ee9439b10734f4bec01e76"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/8-muro-de-carne.json",
-      "Hash": "0a1c17719729780ef5dbdb7b7d7a6fc98a60c56bb3aff40eddb2362b6ddd6729"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/8-the-end.json",
-      "Hash": "162d9d3a887bd89f68f56b20845f4130ccd36e21fb168e0f39cda7a7b3b793bf"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/8.2-bosses-rise.json",
-      "Hash": "43db4b0143e405669aea0cdf4af4a08a3cc96312a94d9ad69f97d8162530cebb"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/9.3-cataclysm.json",
-      "Hash": "896d978c92335590753d7db4c21b543eb8bd28f6221049a592289426425e8ec8"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/categories/armageddon.json",
-      "Hash": "22c73df1f582a7cf2641dca1edf328ef3c652d108ad2c743a549ce5c5bbe5a04"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/categories/guia-keo-rpg.json",
-      "Hash": "288b95247a1dabdf7ad41fa16f1945888f80a88ae105df23bc62ffe62612cd2b"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/categories/jefes.json",
-      "Hash": "13e12f9b46ff252289a7e6c4aa1c8e252178d2e2405f00af24f7ae0c8d81683c"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/nuevos-minerales.json",
-      "Hash": "ce7879ce21ad19f25aa5d6f6b730a1825def906e55553f349a20bc3a529d9e85"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/sub-category/el-despertar.json",
-      "Hash": "e8a48c6367bf6bc419698ba5f7156be5b56444f08306a76841f96a452c056363"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/sub-category/era-de-hierro.json",
-      "Hash": "a1e5c016936ed0147b021681a6f3c111f61eef0b4ddaacfc6b9b96196a6bc7a1"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/sub-category/era-de-piedra.json",
-      "Hash": "e00c361deef8804b0804bef24ca4c9391994839240e557f5e8447db21e22479a"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/data/keo-rpg/quests/sub-category/progresion.json",
-      "Hash": "f084cf1ea4914cd172b36ab7b184cde576905fe43618bba92258d8df08c05c71"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/pack.mcmeta",
-      "Hash": "51a7b7cdc360891234b50053bef4af91858db35a5fd3c271ca6764919adbeb89"
-    },
-    {
-      "Path": "resourcepacks/boundless/keo RPG/pack.png",
-      "Hash": "4ba87831965b63ac04f40e2f947179632204d6f9ffd8ca9c31cd17dd4987743f"
     },
     {
       "Path": "resourcepacks/clutternomore/assets/clutternomore/blockstates/acacia_step.json",

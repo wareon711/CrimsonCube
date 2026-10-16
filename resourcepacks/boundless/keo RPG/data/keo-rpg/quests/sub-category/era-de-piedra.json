@@ -1,8 +1,0 @@
-{
-  "id": "era-de-piedra",
-  "category": "guia-keo-rpg",
-  "name": "Era de piedra",
-  "icon": "minecraft:stone",
-  "order": 2,
-  "default_open": true
-}
