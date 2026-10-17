@@ -1,4 +1,4 @@
-﻿# OS generated files
+# OS generated files
 .DS_Store
 Thumbs.db
 desktop.ini
@@ -16,3 +16,5 @@ __pycache__/
 
 # Local updater state
 manifest_local.json
+
+/data/

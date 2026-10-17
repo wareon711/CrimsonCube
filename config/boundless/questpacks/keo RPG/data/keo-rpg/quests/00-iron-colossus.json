@@ -1,0 +1,26 @@
+{
+  "id": "iron-colossus",
+  "name": "The Iron Colossus!",
+  "icon": "armageddon_mod:iron_remote",
+  "description": "Craftea el /bIron Remote/x usando 4 lingotes de hierro y una flor para invocar a /oThe Iron Colossus!/x\n\n¡Derrótalo para obtener su bolsa de tesoro y poderosos artefactos!",
+  "category": "armageddon",
+  "sub-category": "progresion",
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "dependencies": "la-primera-vez",
+  "completion": {
+    "complete": [
+      {
+        "collect": "armageddon_mod:iron_remote",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "exp": "points",
+    "count": 500
+  }
+}

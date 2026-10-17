@@ -59,7 +59,7 @@
     },
     {
       "Path": "config/EasyMSC/spawn_caps.json",
-      "Hash": "9d4145538174bea45b94ed727fed23cd5ec79b25d1510ac2a223ced79ef68e5d"
+      "Hash": "1b3cd012042c9758c81adf541ceecaee7c38ec099b16d7ece6d4b0b96bd650ba"
     },
     {
       "Path": "config/EasyMSC/spawn_data.json",
@@ -2954,6 +2954,10 @@
       "Hash": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
     },
     {
+      "Path": "config/boundless/questpacks/keo RPG/data/keo-rpg/quests/00-iron-colossus.json",
+      "Hash": "46f34193b7b559f13aaffb5aded1ef82769ee4aff136e07326a0c7db88e99eab"
+    },
+    {
       "Path": "config/boundless/questpacks/keo RPG/data/keo-rpg/quests/01-el-primer-tajo.json",
       "Hash": "c81408cea0a54d1be5fb434932c38341e8c377e73a1cf53e96a7a73d971c80b3"
     },
@@ -3051,7 +3055,7 @@
     },
     {
       "Path": "config/boundless/questpacks/keo RPG/data/keo-rpg/quests/06-la-primera-vez.json",
-      "Hash": "99833835a78cc0d86c9323f1c1a50bde27d9f1942c10d0ce12fba4b389f006a6"
+      "Hash": "2c7b3019a24f858e40bc289c887f85cafcbd61171676a396bd4e1d800fae3b7c"
     },
     {
       "Path": "config/boundless/questpacks/keo RPG/data/keo-rpg/quests/06-ojo-de-lince.json",
@@ -3435,7 +3439,7 @@
     },
     {
       "Path": "config/easy_mob_spawn_control-common.toml",
-      "Hash": "ae49d78945958dc6cb155e9960ff850a9b8994f5e92e8f107af39fa446fb5293"
+      "Hash": "0b62bf91e1cd3e7256c88dc4188945dbce2bf429a050092f8ee8ad93fb093f2e"
     },
     {
       "Path": "config/elysium_api-common.toml",

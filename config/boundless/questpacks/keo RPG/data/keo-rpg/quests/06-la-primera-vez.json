@@ -1,8 +1,8 @@
 {
   "id": "la-primera-vez",
-  "name": "¿y el hierro?",
-  "icon": "armageddon_mod:iron_remote",
-  "description": "Para conseguir /ohierro/x fabrica el /b/lIron /lremote/x e invoca a /othe iron colossus!/x para poder usar y picar /lherramientas de /lhierro",
+  "name": "¿Y el hierro?",
+  "icon": "minecraft:iron_ingot",
+  "description": "Explora las cuevas con un pico de piedra para encontrar mineral de hierro y fúndelo en un horno para conseguir tu primer /lingote de hierro/x. ¡Con esto avanzas a la Era de Hierro y desbloqueas nuevo equipamiento!",
   "category": "guia-keo-rpg",
   "sub-category": "1-el-despertar",
   "optional": false,
@@ -14,7 +14,7 @@
   "completion": {
     "complete": [
       {
-        "collect": "armageddon_mod:iron_remote",
+        "collect": "minecraft:iron_ingot",
         "count": 1
       }
     ]
@@ -28,6 +28,10 @@
       {
         "item": "minecraft:gold_ingot",
         "count": 4
+      },
+      {
+        "item": "minecraft:cooked_beef",
+        "count": 8
       }
     ]
   }

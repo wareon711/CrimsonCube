@@ -16,7 +16,7 @@
 	#-1 = default value (400 ticks).
 	# Default: -1
 	# Range: -1 ~ 4000
-	creatureNaturalSpawnCheckTicks = -1
+	creatureNaturalSpawnCheckTicks = 40
 	#Minimum spacing between mobs when spawning.
 	#-1 = disabled.
 	# Default: -1
