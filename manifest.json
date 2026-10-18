@@ -23,7 +23,7 @@
     },
     {
       "Path": "config/EasyMSC/biome_spawns.json",
-      "Hash": "b8dff7a6c9bbe78d5f3c256943fc3b4b10020eb8fd0afe892f0d957d1990fce2"
+      "Hash": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
     },
     {
       "Path": "config/EasyMSC/dimension_bans.json",
@@ -6504,10 +6504,6 @@
     {
       "Path": "mods/Quick Skin - NeoForge - 1.21.1-2.6.2.4.jar",
       "Hash": "0c085e19253abf099ae2a16706cda621cfa5808848dde54d4e4f2c58d6e0f0c0"
-    },
-    {
-      "Path": "mods/RespawningAnimals-v21.1.2-1.21.1-NeoForge.jar",
-      "Hash": "c20691f699a7f425885b1a275525b0efaa3eff30ae34a5c142b1c8744a2caef2"
     },
     {
       "Path": "mods/ScalableLux-neoforge-0.3.0-alpha.0.8-all.jar",
