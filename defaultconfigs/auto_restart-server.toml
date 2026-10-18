@@ -1,0 +1,74 @@
+# ================================================================
+# AutoRestart Configuration - CrimsonCube KEO RPG
+# Soporta reinicio automático programado, por inactividad y por TPS.
+# Además incluye el comando /restart [tiempo] y cancelación /restart cancel.
+# ================================================================
+
+# Opciones generales de reinicio
+[restart]
+	# ¿El servidor se inicia mediante un script o panel externo (Pterodactyl / GravelHost)?
+	use_external_restart_script = true
+	# Ruta del script si use_external_restart_script fuera false.
+	restart_command = ""
+
+# Opciones de reinicio automático programado por horario
+[auto_restart]
+	# ¿Activar reinicios automáticos periódicos?
+	enabled = true
+	# Horas en formato 24h en las que el servidor se reiniciará automáticamente cada día
+	times = ["04:00", "12:00", "20:00"]
+	# Tiempos de aviso antes del reinicio (puedes agregar o quitar según desees)
+	# Ejemplos: 15m, 10m, 5m, 1m, 30s, 10s, 5s, 4s, 3s, 2s, 1s
+	warning_times = ["15m", "10m", "5m", "1m", "30s", "10s", "5s", "4s", "3s", "2s", "1s"]
+	# ¿Reiniciar automáticamente si ocurre un crash inesperado?
+	on_crash = true
+
+# Opciones de reinicio cuando el servidor está vacío
+[on_empty_restart]
+	# ¿Reiniciar el servidor si no hay jugadores conectados?
+	enabled = true
+	# Tiempo que debe estar vacío para reiniciarse (ej: 30m, 1h, 2h)
+	delay = "2h"
+
+# Opciones de reinicio por bajo rendimiento (TPS bajos)
+[low_tps_restart]
+	# ¿Reiniciar el servidor si los TPS bajan demasiado?
+	enabled = true
+	# Nivel de TPS mínimo (si cae por debajo de este valor durante el tiempo especificado)
+	# Rango: 0.0 ~ 20.0
+	minium_tps_level = 10.0
+	# Tiempo continuo que deben durar los bajos TPS para activar el reinicio
+	delay = "5m"
+
+# ================================================================
+# Personalización de mensajes, efectos visuales y sonidos
+# (Soporta códigos de color con & y §, ej: &6, &c, &l, &a, &e)
+# ================================================================
+[customization]
+	# Mensaje que se envía al chat en cada aviso de cuenta regresiva
+	# Usa %time% donde quieras que aparezca el tiempo restante
+	chat_warning_message = "&6[Servidor] &eEl servidor se reiniciará en &c&l%time%&e. &7(Guarda tus cosas)"
+
+	# Mensaje cuando un administrador programa un reinicio con /restart <tiempo>
+	manual_restart_message = "&6[Servidor] &eUn administrador ha programado un reinicio en &c&l%time%&e."
+
+	# Mensaje cuando se cancela el reinicio manual con /restart cancel
+	restart_cancelled_message = "&6[Servidor] &a&l¡El reinicio del servidor ha sido cancelado por un administrador!"
+
+	# Mensaje mostrado a los jugadores en la pantalla de desconexión al reiniciar
+	kick_message = "&6&lCrimsonCube - KEO RPG\n\n&eEl servidor se está reiniciando para mantener el máximo rendimiento.\n&a¡Tu inventario y progreso han sido guardados exitosamente!\n\n&bVuelve a conectarte en 1 minuto."
+
+	# Mostrar título grande en la pantalla en los últimos 10 segundos
+	enable_screen_title = true
+
+	# Título en pantalla (%s se reemplaza por los segundos restantes)
+	screen_title_text = "&c&l¡REINICIO EN %ss!"
+
+	# Subtítulo que aparece debajo del título
+	screen_subtitle_text = "&eGuardando tu progreso de forma segura..."
+
+	# Reproducir sonidos de campana/aviso a todos los jugadores durante las alertas
+	enable_sounds = true
+
+	# Forzar guardado completo de chunks y jugadores (save-all flush) antes de apagar
+	force_save_before_restart = true
