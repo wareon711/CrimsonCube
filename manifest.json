@@ -5226,6 +5226,10 @@
       "Hash": "8c54fde7caff17f7daf515760adc147c854ea85841cdd0a10dce628a9e65c19d"
     },
     {
+      "Path": "defaultconfigs/auto_restart-server.toml",
+      "Hash": "15e8ee63bf10a28cf6c83485a2c2874bce91f1690103bf82b09ec8f0f413b28f"
+    },
+    {
       "Path": "defaultconfigs/biolith/general.json",
       "Hash": "7f1e58be2cf7db18181869804bb09823ee93a4ea863d560036e8a05954bcf806"
     },
@@ -6768,6 +6772,10 @@
     {
       "Path": "mods/createbetterfps-1.21.1-1.1.4.jar",
       "Hash": "f0080f5cb186bf9f785dc5510babab94d97adc7918952cff780d2c5fadf2ac9a"
+    },
+    {
+      "Path": "mods/crimsoncube-client-helper-1.21.1.jar",
+      "Hash": "8a4de6c03c9b0935bc6cd9ab720ed372bbfb71536c7cb8c4f1a90b0feb420d16"
     },
     {
       "Path": "mods/cultofazazelneoforge-1.1.4.12.jar",
