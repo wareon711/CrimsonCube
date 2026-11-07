@@ -6774,6 +6774,10 @@
       "Hash": "f0080f5cb186bf9f785dc5510babab94d97adc7918952cff780d2c5fadf2ac9a"
     },
     {
+      "Path": "mods/createenchantablemachinery-3.6.0+mc1.21.1-neoforge.jar",
+      "Hash": "933ad37b064d8c6005f1f6eb09b3274fe9f5961a6841fb9e7bb65a7bff66f653"
+    },
+    {
       "Path": "mods/crimsoncube-client-helper-1.21.1.jar",
       "Hash": "8a4de6c03c9b0935bc6cd9ab720ed372bbfb71536c7cb8c4f1a90b0feb420d16"
     },
