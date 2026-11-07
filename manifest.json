@@ -6398,6 +6398,10 @@
       "Hash": "42f582333ffe61366e68a9320d3c205153f2fdc5b53ad715b01543f85828e6b0"
     },
     {
+      "Path": "mods/CreativeCore_NEOFORGE_v2.13.53_mc1.21.1.jar",
+      "Hash": "18d647e26ff23299b2bde805ad69ec8717d77ae8b06e1f36ca9cf17d13247b79"
+    },
+    {
       "Path": "mods/DnT-nether-fortress-overhaul-v2.4 [NeoForge].jar",
       "Hash": "cfa79be379c70f993786bb068e3f7a7864a5037e1a5e48dfbb2aed62feec73d7"
     },
@@ -7392,6 +7396,14 @@
     {
       "Path": "mods/voicechat-neoforge-1.21.1-2.6.24.jar",
       "Hash": "7af3bbc34948cc0f833946fd4b0d2db7ed608f67a12702be4df6f731a4b66290"
+    },
+    {
+      "Path": "mods/waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar",
+      "Hash": "bd118e6b3a7740dc14b21ddb9ba771acf152b4fd9e098b99aab72185fc3b1108"
+    },
+    {
+      "Path": "mods/watermedia-2.1.37.jar",
+      "Hash": "cdd8e1b50e4dee0892c5ed02724cea6b1a74d2b718c7e974c9cfc0efa8c10389"
     },
     {
       "Path": "mods/waystones-neoforge-1.21.1-21.1.41.jar",
