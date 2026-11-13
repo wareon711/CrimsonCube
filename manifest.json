@@ -6410,6 +6410,10 @@
       "Hash": "74b3c3871ae2baf35115236b516cac29cd2ae6de547863bb0609857c7a5e1e6f"
     },
     {
+      "Path": "mods/EdivadLib-1.21-3.0.0.jar",
+      "Hash": "daf3201364c5e9dbc7c0d99a9617cd82c40f203e489a4701b228daa765038d92"
+    },
+    {
       "Path": "mods/ElysiumAPI-1.21.1-2.0.1.jar",
       "Hash": "5deb92540de983319693e8022ad9389052f31f60c81440bfca29bcc8000a6759"
     },
@@ -6524,6 +6528,10 @@
     {
       "Path": "mods/SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
       "Hash": "68036561cc5511766d54cc0deabc3fc3a5e68f9e3db2478f2574ec82b494374b"
+    },
+    {
+      "Path": "mods/SolarGeneration-1.21.1-7.0.3.jar",
+      "Hash": "db4c4be032063e124969edcfac3eff03896bc6eaca773304c817da2e25968524"
     },
     {
       "Path": "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
@@ -7168,6 +7176,10 @@
     {
       "Path": "mods/perf_tweaks-neoforge-1.21.1-1.3.0.jar",
       "Hash": "6b501800b3d796ddd5748b1f6dc3ac3e4422b8bc1e317d0c4f4cafd988e5ca95"
+    },
+    {
+      "Path": "mods/pipez-neoforge-1.21.1-1.2.31.jar",
+      "Hash": "9b37e922443ea3452daeacbfba4bcf69de07692183c4ee09f1d1e82c9fc5cc5f"
     },
     {
       "Path": "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
