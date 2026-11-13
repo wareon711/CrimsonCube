@@ -6438,10 +6438,6 @@
       "Hash": "4394292a58ef3878722b117bdcac2516d1d0557d61b5ea38f9fb4bc0971694de"
     },
     {
-      "Path": "mods/HammerLib-1.21-21.0.17.jar",
-      "Hash": "0a91f1f98e15aa6e41a44fe59a1d422b733ccd6d74f9fa491901167015bbacda"
-    },
-    {
       "Path": "mods/HellishTrials-neoforge-1.0.5.jar",
       "Hash": "7f28724652eedd275970455e37629758f7279bd3918a4f1d852676dcf392db63"
     },
@@ -6528,10 +6524,6 @@
     {
       "Path": "mods/SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
       "Hash": "68036561cc5511766d54cc0deabc3fc3a5e68f9e3db2478f2574ec82b494374b"
-    },
-    {
-      "Path": "mods/SolarFluxReborn-1.21.1-21.1.8.jar",
-      "Hash": "f84ac97d52f188ea220633fbea8af6e275bb48968202aedd683974b0449f0fba"
     },
     {
       "Path": "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
