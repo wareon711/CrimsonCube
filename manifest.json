@@ -7218,6 +7218,26 @@
       "Hash": "d2ab36a95424654bede6fd7aedceefd05912fc12f6de3f8bb0db8b8b245b6f85"
     },
     {
+      "Path": "mods/refinedstorage-curios-integration-1.0.0.jar",
+      "Hash": "4d7a5f555595641315c49d0baac2eb7f74319cf3eb3aad0813b855161547c60d"
+    },
+    {
+      "Path": "mods/refinedstorage-emi-integration-neoforge-1.0.0.jar",
+      "Hash": "703f3814f93e63a19e4a0437e2c831a867c62666a45e090d2ec0237b6a57b44e"
+    },
+    {
+      "Path": "mods/refinedstorage-jei-integration-neoforge-1.0.0.jar",
+      "Hash": "18d858a9309f2cacfa1b32c43142d543b5cfc4e2cb542b66203dd5c81f974c27"
+    },
+    {
+      "Path": "mods/refinedstorage-neoforge-2.0.9.jar",
+      "Hash": "e9c758dddcdfa9c02a7370ca3f4f972a285a1e38ca434bd1fc15cb223ffa06ab"
+    },
+    {
+      "Path": "mods/refinedstorage-quartz-arsenal-neoforge-1.0.8.jar",
+      "Hash": "c6f00a8dc5707726a6252aa57690d2b8d90fb350dd7f92817276efc16e8af186"
+    },
+    {
       "Path": "mods/regions-unexplored-0.6.2-neoforge-21.1.jar",
       "Hash": "ccf32ed714f2724f54406b9e02a8d6f94d87dc5c72397bc39b3d6ed8f32412ea"
     },
